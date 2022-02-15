@@ -1,5 +1,5 @@
-let meanLineMax = null
-let meanLineMin = null
+let meanLineMax, confidenceIntervalLineMax = null
+let meanLineMin, confidenceIntervalLineMin = null
 let yScale, xScale = null
 let yScaleDomain = null
 let yMaxMean, yMinMean, xMean = null
@@ -44,12 +44,6 @@ async function drawLineChart () {
         `translate(${dimensions.margin.left}px, ${dimensions.margin.top}px)`
     )
 
-    drawLines(data, bounds)
-
-    drawConfidenceInterval(data, bounds)
-}
-
-function drawLines (data, bounds) {
     yMaxMean = d3.mean(data, yMaxTempAccessor)
     yMinMean = d3.mean(data, yMinTempAccessor)
     xMean = d3.mean(data, xAccessor)
@@ -65,6 +59,13 @@ function drawLines (data, bounds) {
     xScale = d3.scaleTime()
         .domain(d3.extent(data, xAccessor))
         .range([0, dimensions.boundedWidth])
+
+    drawConfidenceInterval(data, bounds)
+
+    drawLines(data, bounds)
+}
+
+function drawLines (data, bounds) {
 
     const limitTemperatureVal = yScale(d3.extent(data, yMaxTempAccessor)[1])
     // const limitTemperature = bounds.append('rect')
@@ -95,6 +96,7 @@ function drawLines (data, bounds) {
         .attr('fill', 'none')
 
     meanLineMin = bounds.append('line')
+        .attr('visibility', 'hidden')
         .attr('x1', xScale(d3.min(data, xAccessor)))
         .attr('y1', yScale(yMinMean))
         .attr('x2', xScale(d3.max(data, xAccessor)))
@@ -105,6 +107,7 @@ function drawLines (data, bounds) {
 
 
     meanLineMax = bounds.append('line')
+        .attr('visibility', 'hidden')
         .attr('x1', xScale(d3.min(data, xAccessor)))
         .attr('y1', yScale(yMaxMean))
         .attr('x2', xScale(d3.max(data, xAccessor)))
@@ -130,15 +133,29 @@ function drawLines (data, bounds) {
 
 function drawConfidenceInterval (data, bounds) {
     // get confidence interval
-    const confidenceInterval = d3.extent(data, (d) => d.confidenceInterval)
-    const confidenceIntervalLine = bounds.append("path")
+    const deviationMax = d3.deviation(data, yMaxTempAccessor)
+    const deviationMin = d3.deviation(data, yMinTempAccessor)
+
+    confidenceIntervalLineMax = bounds.append("path")
         .datum(data)
+        .attr('visibility', 'hidden')
         .attr("fill", "#cce5df")
         .attr("stroke", "none")
         .attr("d", d3.area()
             .x((d) => xScale(xAccessor(d)))
-            .y0((d) => yScale(150))
-            .y1((d) => yScale(130))
+            .y0((d) => yScale(yMaxTempAccessor(d) - deviationMax))
+            .y1((d) => yScale(yMaxTempAccessor(d) + deviationMax))
+    )
+
+    confidenceIntervalLineMin = bounds.append("path")
+        .datum(data)
+        .attr('visibility', 'hidden')
+        .attr("fill", "#cce5df")
+        .attr("stroke", "none")
+        .attr("d", d3.area()
+            .x((d) => xScale(xAccessor(d)))
+            .y0((d) => yScale(yMinTempAccessor(d) - deviationMin))
+            .y1((d) => yScale(yMinTempAccessor(d) + deviationMin))
     )
 }
 
@@ -152,6 +169,30 @@ function showMeans() {
         meanLineMin.attr('visibility', 'visible')
     }
     
-} 
+}
+
+function showStd(type) {
+    switch (type) {
+        case 'max':
+            if (confidenceIntervalLineMax.style('visibility') === 'visible') {
+                confidenceIntervalLineMax.attr('visibility', 'hidden')
+            }
+            else {
+                confidenceIntervalLineMax.attr('visibility', 'visible')
+            }
+            break;
+        case 'min':
+            if (confidenceIntervalLineMin.style('visibility') === 'visible') {
+                confidenceIntervalLineMin.attr('visibility', 'hidden')
+            }
+            else {
+                confidenceIntervalLineMin.attr('visibility', 'visible')
+            }
+            break;
+        default:
+            break;
+
+    }
+}
 
 drawLineChart()
