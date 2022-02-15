@@ -1,0 +1,812 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1611.02659",
+    "title": "Title:GSM based CommSense system to measure and estimate environmental changes",
+    "date_publ": "8 Nov 2016 (v1), last revised 8 May 2017 (this version, v2)",
+    "authors": [
+      "Abhishek Bhatta",
+      "Amit Kumar Mishr"
+    ],
+    "abstract": "Abstract:  Facilitating the coexistence of radar systems with communication systems has\nbeen a major area of research in radar engineering. The current work presents a\nnew way to sense the environment using the channel equalization block of\nexisting communication systems. We have named this system CommSense. In the\ncurrent paper we demonstrate the feasibility of the system using Global System\nfor Mobile Communications (GSM) signals. The implementation has been done using\nopen-source Software Defined Radio (SDR) environment. In the preliminary\nresults obtained in our work we show that it is possible to distinguish\nenvironmental changes using the proposed system. The major advantage of the\nsystem is that it is inexpensive as channel estimation is an inherent block in\nany communication system and hence the added cost to make it work as an\nenvironment sensor is minimal. The major challenge, on which we are continuing\nour work, is how to characterize the features in the environmental changes.\nThis is an acute challenge given the fact that the bandwidth available is\nnarrow and the system is inherently a forward looking radar. However the\ninitial results, as shown in this paper, are encouraging and we intend to use\nan application specific instrumentation (ASIN) scheme to distinguish the\nenvironmental changes.",
+    "categories": [
+      "Other Computer Science (cs.OH)"
+    ],
+    "url_pdf": "/pdf/1611.02659"
+  },
+  {
+    "url": "https://arxiv.org/abs/1611.00134",
+    "title": "Title:An innovative concept for the AsteroidFinder/SSB focal plane assembly",
+    "date_publ": "1 Nov 2016",
+    "authors": [
+      "Karsten Schindler",
+      "Matthias Tschentscher",
+      "Alexander Koncz",
+      "Michael Solbrig",
+      "Harald Michaeli"
+    ],
+    "abstract": "Abstract:  This paper gives a summary on the system concept and design of the focal\nplane assembly of AsteroidFinder/SSB, a small satellite mission which is\ncurrently under development at the German Aerospace Center (DLR). An athermal\ndesign concept has been developed in accordance to the requirements of the\ninstrument and spacecraft. Key aspects leading to this approach have been a\ntrade-off study of the mechanical telescope interface, the definition of\nelectrical and thermal interfaces and a material selection which minimizes\nthermally induced stresses. As a novelty, the structure will be manufactured\nfrom a machinable AlN-BN composite ceramic. To enable rapid design iterations\nand development, an integrated modeling approach has been used to conduct a\nthermo-mechanical analysis of the proposed concept in order to prove its\nfeasibility. The steady-state temperature distribution for various load cases\nand the resulting stress and strain within the assembly have both been computed\nusing a finite element simulation.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1611.00134"
+  },
+  {
+    "url": "https://arxiv.org/abs/1610.07109",
+    "title": "Title:Symplectic Geometric Algorithm for Quaternion Kinematical Differential Equation",
+    "date_publ": "23 Oct 2016 (v1), last revised 25 Oct 2016 (this version, v2)",
+    "authors": [
+      "Hong-Yan Zhang",
+      "Lu-Sha Zhou",
+      "Zi-Hao Wang",
+      "Long Ma",
+      "Yi-Fan Ni"
+    ],
+    "abstract": "Abstract:  Solving quaternion kinematical differential equations is one of the most\nsignificant problems in the automation, navigation, aerospace and aeronautics\nliteratures. Most existing approaches for this problem neither preserve the\nnorm of quaternions nor avoid errors accumulated in the sense of long term\ntime. We present symplectic geometric algorithms to deal with the quaternion\nkinematical differential equation by modeling its time-invariant and\ntime-varying versions with Hamiltonian systems by adopting a three-step\nstrategy. Firstly, a generalized Euler's formula for the autonomous quaternion\nkinematical differential equation are proved and used to construct symplectic\nsingle-step transition operators via the centered implicit Euler scheme for\nautonomous Hamiltonian system. Secondly, the symplecitiy, orthogonality and\ninvertibility of the symplectic transition operators are proved rigorously.\nFinally, the main results obtained are generalized to design symplectic\ngeometric algorithm for the time-varying quaternion kinematical differential\nequation which is a non-autonomous and nonlinear Hamiltonian system\nessentially. Our novel algorithms have simple algorithmic structures and low\ntime complexity of computation, which are easy to be implemented with real-time\ntechniques. The correctness and efficiencies of the proposed algorithms are\nverified and validated via numerical simulations.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1610.07109"
+  },
+  {
+    "url": "https://arxiv.org/abs/1610.05521",
+    "title": "Title:Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+    "date_publ": "18 Oct 2016",
+    "authors": [
+      "Gianni D'Angelo",
+      "Salvatore Rampon"
+    ],
+    "abstract": "Abstract:  This study concerns with the diagnosis of aerospace structure defects by\napplying a HPC parallel implementation of a novel learning algorithm, named\nU-BRAIN. The Soft Computing approach allows advanced multi-parameter data\nprocessing in composite materials testing. The HPC parallel implementation\novercomes the limits due to the great amount of data and the complexity of data\nprocessing. Our experimental results illustrate the effectiveness of the\nU-BRAIN parallel implementation as defect classifier in aerospace structures.\nThe resulting system is implemented on a Linux-based cluster with multi-core\narchitecture.",
+    "categories": [
+      "Artificial Intelligence (cs.AI)",
+      " Data Analysis, Statistics and Probability (physics.data-an)"
+    ],
+    "url_pdf": "/pdf/1610.05521"
+  },
+  {
+    "url": "https://arxiv.org/abs/1610.05518",
+    "title": "Title:Shape-based defect classification for Non Destructive Testing",
+    "date_publ": "18 Oct 2016",
+    "authors": [
+      "Gianni D'Angelo",
+      "Salvatore Rampon"
+    ],
+    "abstract": "Abstract:  The aim of this work is to classify the aerospace structure defects detected\nby eddy current non-destructive testing. The proposed method is based on the\nassumption that the defect is bound to the reaction of the probe coil impedance\nduring the test. Impedance plane analysis is used to extract a feature vector\nfrom the shape of the coil impedance in the complex plane, through the use of\nsome geometric parameters. Shape recognition is tested with three different\nmachine-learning based classifiers: decision trees, neural networks and Naive\nBayes. The performance of the proposed detection system are measured in terms\nof accuracy, sensitivity, specificity, precision and Matthews correlation\ncoefficient. Several experiments are performed on dataset of eddy current\nsignal samples for aircraft structures. The obtained results demonstrate the\nusefulness of our approach and the competiveness against existing descriptors.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Computational Engineering, Finance, and Science (cs.CE)"
+    ],
+    "url_pdf": "/pdf/1610.05518"
+  },
+  {
+    "url": "https://arxiv.org/abs/1610.04091",
+    "title": "Title:Optimizing Communication and Computation for Multi-UAV Information Gathering Applications",
+    "date_publ": "13 Oct 2016",
+    "authors": [
+      "Mason Thammawichai",
+      "Sujit P. Baliyarasimhuni",
+      "Eric C. Kerrigan",
+      "Jo\u00e3o B. Sous"
+    ],
+    "abstract": "Abstract:  Mobile agent networks, such as multi-UAV systems, are constrained by limited\nresources. In particular, limited energy affects system performance directly,\nsuch as system lifetime. It has been demonstrated in the wireless sensor\nnetwork literature that the communication energy consumption dominates the\ncomputational and the sensing energy consumption. Hence, the lifetime of the\nmulti-UAV systems can be extended significantly by optimizing the amount of\ncommunication data, at the expense of increasing computational cost. In this\nwork, we aim at attaining an optimal trade-off between the communication and\nthe computational energy. Specifically, we propose a mixed-integer optimization\nformulation for a multi-hop hierarchical clustering-based self-organizing UAV\nnetwork incorporating data aggregation, to obtain an energy-efficient\ninformation routing scheme. The proposed framework is tested on two\napplications, namely target tracking and area mapping. Based on simulation\nresults, our method can significantly save energy compared to a baseline\nstrategy, where there is no data aggregation and clustering scheme.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Distributed, Parallel, and Cluster Computing (cs.DC)",
+      " Robotics (cs.RO)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1610.04091"
+  },
+  {
+    "url": "https://arxiv.org/abs/1609.05225",
+    "title": "Title:Autonomous Orbit Determination via Kalman Filtering of Gravity Gradients",
+    "date_publ": "10 Aug 2016",
+    "authors": [
+      "Xiucong Sun",
+      "Pei Chen",
+      "Christophe Macabiau",
+      "Chao Ha"
+    ],
+    "abstract": "Abstract:  Spaceborne gravity gradients are proposed in this paper to provide autonomous\norbit determination capabilities for near Earth satellites. The gravity\ngradients contain useful position information which can be extracted by\nmatching the observations with a precise gravity model. The extended Kalman\nfilter is investigated as the principal estimator. The stochastic model of\norbital motion, the measurement equation and the model configuration are\ndiscussed for the filter design. An augmented state filter is also developed to\ndeal with unknown significant measurement biases. Simulations are conducted to\nanalyze the effects of initial errors, data-sampling periods, orbital heights,\nattitude and gradiometer noise levels, and measurement biases. Results show\nthat the filter performs well with additive white noise observation errors.\nDegraded observability for the along-track position is found for the augmented\nstate filter. Real flight data from the GOCE satellite are used to test the\nalgorithm. Radial and cross-track position errors of less than 100 m have been\nachieved.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1609.05225"
+  },
+  {
+    "url": "https://arxiv.org/abs/1609.04054",
+    "title": "Title:First Breakthrough for Future Air-Breathing Magneto-Plasma Propulsion Systems",
+    "date_publ": "13 Sep 2016 (v1), last revised 20 Jan 2017 (this version, v2)",
+    "authors": [
+      "Berkant Goksel",
+      "Igor Mashe"
+    ],
+    "abstract": "Abstract:  A new breakthrough in jet propulsion technology since the invention of the\njet engine is achieved. The first critical tests for future air-breathing\nmagneto-plasma propulsion systems have been successfully completed. In this\nregard, it is also the first time that a pinching dense plasma focus discharge\ncould be ignited at one atmosphere and driven in pulse mode using very fast,\nnanosecond electrostatic excitations to induce self-organized plasma channels\nfor ignition of the propulsive main discharge. Depending on the capacitor\nvoltage (200-600 V) the energy input at one atmosphere varies from 52-320\nJ/pulse corresponding to impulse bits from 1.2-8.0 mNs. Such a new pulsed\nplasma propulsion system driven with one thousand pulses per second would\nalready have thrust-to-area ratios (50-150 kN/m2) of modern jet engines. An\narray of thrusters could enable future aircrafts and airships to start from\nground and reach altitudes up to 50km and beyond. The needed high power could\nbe provided by future compact plasma fusion reactors already in development by\naerospace companies. The magneto-plasma compressor itself was originally\ndeveloped by Russian scientists as plasma fusion device and was later\nminiaturized for supersonic flow control applications. So the first\nbreakthrough is based on a spin-off plasma fusion technology.",
+    "categories": [
+      "Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1609.04054"
+  },
+  {
+    "url": "https://arxiv.org/abs/1609.03094",
+    "title": "Title:Temperature restrictions for materials used in aerospace industry for the near-sun orbits",
+    "date_publ": "10 Sep 2016",
+    "authors": [
+      "Elena Ancona",
+      "Roman Ya. Kezerashvil"
+    ],
+    "abstract": "Abstract:  For near-Sun missions, the spacecraft approaches very close to the Sun and\nspace environmental effects become relevant. Strong restrictions on how much\nclose it can get derive from the maximum temperature that the used materials\ncan stand, in order not to compromise the spacecraft's activity and\nfunctionalities. In other words, the minimum perihelion distance of a given\nmission can be determined based on the materials' temperature restrictions. The\ntemperature of an object in space depends on its optical properties:\nreflectivity, absorptivity, transmissivity, and emissivity. Usually, it is\nconsidered as an approximation that the optical properties of materials are\nconstant. However, emissivity depends on temperature. The consideration of the\ntemperature dependence of emissivity and conductivity of materials used in the\naerospace industry leads to the conclusion that the temperature dependence on\nthe heliocentric distance is different from the case of constant optical\nproperties [1]. Particularly, taking into account that emissivity is directly\nproportional to the temperature, the temperature of an object increases as\n$r{}^{-2/5}$ when the heliocentric distance $r$ decreases. This means that the\nsame temperature will actually be reached at a different distance and,\neventually, the spacecraft will be allowed to approach closer to the Sun\nwithout compromising its activities. We focused on metals used for aerospace\nstructures (Al, Ti), however our analysis can be extended to all kinds of\ncomposite materials, once their optical properties - in particular emissivity -\nare defined.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1609.03094"
+  },
+  {
+    "url": "https://arxiv.org/abs/1608.04116",
+    "title": "Title:An Efficient, Secure and Trusted Channel Protocol for Avionics Wireless Networks",
+    "date_publ": "14 Aug 2016 (v1), last revised 16 Aug 2016 (this version, v2)",
+    "authors": [
+      "Raja Naeem Akram",
+      "Konstantinos Markantonakis",
+      "Keith Mayes",
+      "Pierre-Francois Bonnefoi",
+      "Damien Sauveron",
+      "Serge Chaumett"
+    ],
+    "abstract": "Abstract:  Avionics networks rely on a set of stringent reliability and safety\nrequirements. In existing deployments, these networks are based on a wired\ntechnology, which supports these requirements. Furthermore, this technology\nsimplifies the security management of the network since certain assumptions can\nbe safely made, including the inability of an attacker to access the network,\nand the fact that it is almost impossible for an attacker to introduce a node\ninto the network. The proposal for Avionics Wireless Networks (AWNs), currently\nunder development by multiple aerospace working groups, promises a reduction in\nthe complexity of electrical wiring harness design and fabrication, a reduction\nin the total weight of wires, increased customization possibilities, and the\ncapacity to monitor otherwise inaccessible moving or rotating aircraft parts\nsuch as landing gear and some sections of the aircraft engines. While providing\nthese benefits, the AWN must ensure that it provides levels of safety that are\nat minimum equivalent to those offered by the wired equivalent. In this paper,\nwe propose a secure and trusted channel protocol that satisfies the stated\nsecurity and operational requirements for an AWN protocol. There are three main\nobjectives for this protocol. First, the protocol has to provide the assurance\nthat all communicating entities can trust each other, and can trust their\ninternal (secure) software and hardware states. Second, the protocol has to\nestablish a fair key exchange between all communicating entities so as to\nprovide a secure channel. Finally, the third objective is to be efficient for\nboth the initial start-up of the network and when resuming a session after a\ncold and/or warm restart of a node. The proposed protocol is implemented and\nperformance measurements are presented based on this implementation. In\naddition, we formally verify our proposed protocol using CasperFDR.",
+    "categories": [
+      "Cryptography and Security (cs.CR)",
+      " Performance (cs.PF)"
+    ],
+    "url_pdf": "/pdf/1608.04116"
+  },
+  {
+    "url": "https://arxiv.org/abs/1608.01897",
+    "title": "Title:Second Law Considerations in Fourier Heat Conduction of a Lattice Chain in Relation to Intermolecular Potentials",
+    "date_publ": "15 Jul 2016",
+    "authors": [
+      "Christopher Gunaseelan Jesudaso"
+    ],
+    "abstract": "Abstract:  Two aspects of conductive heat are focused here (i) the nature of conductive\nheat, defined as that form of energy that is transferred as a result of a\ntemperature difference and (ii) the nature of the intermolecular potentials\nthat induces both thermal energy flow and the temperature profile at the steady\nstate for a 1-D lattice chain. It is found that the standard presuppositions of\npeople like Benofy and Quay (BQ) following Joseph Fourier do not obtain for at\nleast a certain specified regime of intermolecular potential parameters related\nto harmonic (quadratic) potentials for nearest neighbor interactions. For these\nharmonic potentials, it appears from the simulation results that steady state\nsolutions exist utilizing non-synthetic thermostats that couple not just the\ntwo particles at the extreme ends of the lattice chain, but to a control volume\nof $N$ particles located at either ends of the chain that does not accord with\nthe unique analytical solutions that obtains for single particle thermostatting\nat the ends of the lattice with a different thermostatting algorithm that\nutilizes coupling coefficients. If the method used here is considered a more\n\"realistic\" or feasible model of the physical reality, then a re-evaluation of\nsome aspects of the standard theoretical methodology is warranted since the\nstandard model solution profile does not accord with the simulation temperature\nprofile determined here for this related model. We also note that the\nsinusoidal temperature profile generated suggests that thermal integrated\ncircuits with several thermal P-N junctions may be constructed, opening a way\nto create more complex thermal transistor circuits. A stationary principle is\nproposed for regions that violate the Fourier principle $\\mathbf{J_q.}\\nabla T\n\\le 0 $, where $\\mathbf{J_q}$ is the heat current vector and $T$ the\ntemperature.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/1608.01897"
+  },
+  {
+    "url": "https://arxiv.org/abs/1608.01345",
+    "title": "Title:Heavy Ion Induced SEU Sensitivity Evaluation of 3D Integrated SRAMs",
+    "date_publ": "2 Aug 2016",
+    "authors": [
+      "Xuebing Cao",
+      "Liyi Xiao",
+      "Mingxue Huo",
+      "Tianqi Wang",
+      "Anlong Li",
+      "Chunhua Qi",
+      "Jinxiang Wan"
+    ],
+    "abstract": "Abstract:  Heavy ions induced single event upset (SEU) sensitivity of three-dimensional\nintegrated SRAMs are evaluated by using Monte Carlo sumulation methods based on\nGeant4. The cross sections of SEUs and Multi Cell Upsets (MCUs) for 3D SRAM are\nsimulated by using heavy ions with different energies and LETs. The results\nshow that the sensitivity of different die of 3D SRAM has obvious discrepancies\nat low LET. Average percentage of MCUs of 3D SRAMs rises from 17.2% to 32.95%\nwhen LET increases from 42.19 MeV cm2/mg to 58.57MeV cm2/mg. As for a certain\nLET, the percentage of MCUs shows a notable distinction between face-to-face\nstructure and back-to-face structure. For back-to-face structure, the\npercentage of MCUs increases with the deeper die. However, the face-to-face die\npresents the relatively low percentage of MCUs. The comparison of SEU cross\nsections for planar SRAMs and experiment data are conducted to indicate the\neffectiveness of our simulation method. Finally, we compare the upset cross\nsections of planar process and 3D integrated SRAMs. Results demonstrate that\nthe sensitivity of 3D SRAMs is not more than that of planar SRAMs and the 3D\nstructure can be become a great potential application for aerospace and\nmilitary domain.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1608.01345"
+  },
+  {
+    "url": "https://arxiv.org/abs/1607.08787",
+    "title": "Title:LARES Satellite Thermal Forces and a Test of General Relativity",
+    "date_publ": "29 Jul 2016 (v1), last revised 23 Sep 2016 (this version, v2)",
+    "authors": [
+      "Richard Matzner",
+      "Phuc Nguyen",
+      "Jason Brooks",
+      "Ignazio Ciufolini",
+      "Antonio Paolozzi",
+      "Erricos C. Pavlis",
+      "Rolf Koenig",
+      "John Ries",
+      "Vahe Gurzadyan",
+      "Roger Penrose",
+      "Giampiero Sindoni",
+      "Claudio Paris",
+      "Harutyun Khachatryan",
+      "Sergey Mirzoya"
+    ],
+    "abstract": "Abstract:  We summarize a laser-ranged satellite test of frame-dragging, a prediction of\nGeneral Relativity, and then concentrate on the estimate of thermal thrust, an\nimportant perturbation affecting the accuracy of the test. The frame dragging\nstudy analysed 3.5 years of data from the LARES satellite and a longer period\nof time for the two LAGEOS satellites. Using the gravity field GGM05S obtained\nvia the Grace mission, which measures the Earth's gravitational field, the\nprediction of General Relativity is confirmed with a 1-$\\sigma$ formal error of\n0.002, and a systematic error of 0.05. The result for the value of the frame\ndragging around the Earth is $\\mu$ = 0.994, compared to $\\mu$ = 1 predicted by\nGeneral Relativity. The thermal force model assumes heat flow from the sun\n(visual) and from Earth (IR) to the satellite core and to the fused silica\nreflectors on the satellite, and reradiation into space. For a roughly current\nepoch (days 1460 - 1580 after launch) we calculate an average along-track drag\nof -0.50 $pm/s^{2}$.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/1607.08787"
+  },
+  {
+    "url": "https://arxiv.org/abs/1607.08578",
+    "title": "Title:Towards Predictable Real-Time Performance on Multi-Core Platforms",
+    "date_publ": "28 Jul 2016",
+    "authors": [
+      "Hyoseung Ki"
+    ],
+    "abstract": "Abstract:  Cyber-physical systems (CPS) integrate sensing, computing, communication and\nactuation capabilities to monitor and control operations in the physical\nenvironment. A key requirement of such systems is the need to provide\npredictable real-time performance: the timing correctness of the system should\nbe analyzable at design time with a quantitative metric and guaranteed at\nruntime with high assurance. This requirement of predictability is particularly\nimportant for safety-critical domains such as automobiles, aerospace, defense,\nmanufacturing and medical devices.\nThe work in this dissertation focuses on the challenges arising from the use\nof modern multi-core platforms in CPS. Even as of today, multi-core platforms\nare rarely used in safety-critical applications primarily due to the temporal\ninterference caused by contention on various resources shared among processor\ncores, such as caches, memory buses, and I/O devices. Such interference is hard\nto predict and can significantly increase task execution time, e.g., up to 12x\non commodity quad-core platforms. To address the problem of ensuring timing\npredictability on multi-core platforms, we develop novel analytical and systems\ntechniques in this dissertation. Our proposed techniques theoretically bound\ntemporal interference that tasks may suffer from when accessing shared\nresources. Our techniques also involve software primitives and algorithms for\nreal-time operating systems and hypervisors, which significantly reduce the\ndegree of the temporal interference. Specifically, we tackle the issues of\ncache and memory contention, locking and synchronization, interrupt handling,\nand access control for computational accelerators such as GPGPUs, all of which\nare crucial to achieving predictable real-time performance on a modern\nmulti-core platform.",
+    "categories": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ],
+    "url_pdf": "/pdf/1607.08578"
+  },
+  {
+    "url": "https://arxiv.org/abs/1607.05993",
+    "title": "Title:Closed-Loop Estimation of Oscillator g-Sensitivity in a GNSS/IMU System",
+    "date_publ": "20 Jul 2016",
+    "authors": [
+      "Vasiliy M. Tereshko"
+    ],
+    "abstract": "Abstract:  We propose a simple method for estimating crystal oscillator g-sensitivity in\ninertially aided Global Navigation Satellite System (GNSS) receivers. It does\nnot require any specific equipment, like GNSS signal simulators or rate tables.\nThe method is based on analyzing closed-loop phase tracking errors. This\nenables us to utilize the actual GNSS signal as the frequency reference,\ndespite the presence of an unknown Doppler shift in it. The method has been\nsuccessfully applied to the calibration of an oven-controlled crystal\noscillator.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Dynamical Systems (math.DS)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1607.05993"
+  },
+  {
+    "url": "https://arxiv.org/abs/1607.01221",
+    "title": "Title:Wave Front Shaping in Quasi-One-Dimensional Waveguides",
+    "date_publ": "5 Jul 2016",
+    "authors": [
+      "Julian B\u00f6hm",
+      "Ulrich Kuh"
+    ],
+    "abstract": "Abstract:  Using 10 monopole antennas reaching into a rectangular multi mode waveguide\nwe shape the incident wave to create specific transport even after scattering\nevents. Each antenna is attached to an IQ-Modulator, which allows the\nadjustment of the amplitude and phase in a broad band range of 6-18 GHz. All of\nthem are placed in the near field of the other, thus the excitation of an\nindividual antenna is influenced by the presence of the other antennas. Still\nthese 10 antennas are sufficient to generate any combination of the 10\npropagating modes in the far field. At the output the propagating modes are\nextracted using a movable monopole antenna that is scanning the field. If the\nmodes are scattered in a scattering region, the incident wave can be adjusted\nin such a way, that the outgoing wave can still be adjusted as long as\nlocalization is not present.",
+    "categories": [
+      "Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1607.01221"
+  },
+  {
+    "url": "https://arxiv.org/abs/1606.09278",
+    "title": "Title:Motion Planning With Gamma-Harmonic Potential Fields",
+    "date_publ": "29 Jun 2016",
+    "authors": [
+      "Ahmad A. Masou"
+    ],
+    "abstract": "Abstract:  This paper extends the capabilities of the harmonic potential field (HPF)\napproach to planning. The extension covers the situation where the workspace of\na robot cannot be segmented into geometrical subregions where each region has\nan attribute of its own. The suggested approach uses a task-centered,\nprobabilistic descriptor of the workspace as an input to the planner. This\ndescriptor is processed, along with a goal point, to yield the navigation\npolicy needed to steer the agent from any point in its workspace to the target.\nThe approach is easily adaptable to planning in a cluttered environment\ncontaining a vector drift field. The extension of the HPF approach is based on\nthe physical analogy with an electric current flowing in a nonhomogeneous\nconducting medium. The resulting potential field is known as the gamma-harmonic\npotential (GHPF). Proofs of the ability of the modified approach to avoid\nzero-probability (definite threat) regions and to converge to the goal are\nprovided. The capabilities of the planer are demonstrated using simulation.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1606.09278"
+  },
+  {
+    "url": "https://arxiv.org/abs/1606.06877",
+    "title": "Title:Formal Dependability Modeling and Analysis: A Survey",
+    "date_publ": "22 Jun 2016",
+    "authors": [
+      "Waqar Ahmed",
+      "Osman Hasan",
+      "Sofiene Taha"
+    ],
+    "abstract": "Abstract:  Dependability is an umbrella concept that subsumes many key properties about\na system, including reliability, maintainability, safety, availability,\nconfidentiality, and integrity. Various dependability modeling techniques have\nbeen developed to effectively capture the failure characteristics of systems\nover time. Traditionally, dependability models are analyzed using\npaper-and-pencil proof methods and computer based simulation tools but their\nresults cannot be trusted due to their inherent inaccuracy limitations. The\nrecent developments in probabilistic analysis support using formal methods have\nenabled the possibility of accurate and rigorous dependability analysis. Thus,\nthe usage of formal methods for dependability analysis is widely advocated for\nsafety-critical domains, such as transportation, aerospace and health. Given\nthe complementary strengths of mainstream formal methods, like theorem proving\nand model checking, and the variety of dependability models judging the most\nsuitable formal technique for a given dependability model is not a\nstraightforward task. In this paper, we present a comprehensive review of\nexisting formal dependability analysis techniques along with their pros and\ncons for handling a particular dependability model.",
+    "categories": [
+      "Software Engineering (cs.SE)",
+      " Logic in Computer Science (cs.LO)",
+      " Logic (math.LO)"
+    ],
+    "url_pdf": "/pdf/1606.06877"
+  },
+  {
+    "url": "https://arxiv.org/abs/1606.05043",
+    "title": "Title:Performance Analysis of Target Parameters Estimation Using Multiple Widely Separated Antenna Arrays",
+    "date_publ": "16 Jun 2016",
+    "authors": [
+      "Peter Khomchuk",
+      "Igal Bilik",
+      "Rick S. Blu"
+    ],
+    "abstract": "Abstract:  Target parameter estimation performance is investigated for a radar employing\na set of widely separated transmitting and receiving antenna arrays. Cases with\nmultiple extended targets are considered under two signal model assumptions:\nstochastic and deterministic. The general expressions for the corresponding\nCramer-Rao lower bound (CRLB) and the asymptotic properties of the\nmaximum-likelihood (ML) estimator are derived for a radar with $M_t$ arrays of\n$L_t$ transmitting elements and $M_r$ arrays of $L_r$ receiving elements for\nboth types of signal models.\nIt is shown that for an infinitely large product $M_tM_r$, and a finite\n$L_r$, the ML estimator is consistent and efficient under the stochastic model,\nwhile the deterministic model requires $M_tM_r$ to be finite and $L_r$ to be\ninfinitely large in order to guarantee consistency and efficiency.\nMonte Carlo simulations further investigate the estimation performance of the\nproposed radar configuration in practical scenarios with finite $M_tM_r$ and\n$L_r$, and a fixed total number of available receiving antenna elements, $M_r\nL_r$. The numerical results demonstrate that grouping receiving elements into\nproperly sized arrays reduces the mean squared error (MSE) and decreases the\nthreshold SNR. In the numerical examples considered, the preferred\nconfigurations employ $M_t M_r > 1$. In fact, when $M_t M_r$ becomes too small,\ndue to the loss of the geometric gain, the estimation performance becomes\nstrongly dependent on the particular scenario and can degrade significantly,\nwhile the CRLB may become a poor prediction of the MSE even for high SNR. This\nsuggests it may be advantageous to employ approaches where neither $M_tM_r$ nor\n$L_r$ are too small.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1606.05043"
+  },
+  {
+    "url": "https://arxiv.org/abs/1605.08306",
+    "title": "Title:Enhanced flexural wave sensing by adaptive gradient-index metamaterials",
+    "date_publ": "26 May 2016",
+    "authors": [
+      "Y.Y. Chen",
+      "R. Zhu",
+      "M.V. Barnhart",
+      "G.L. Huan"
+    ],
+    "abstract": "Abstract:  Increasing sensitivity and signal to noise ratios of conventional wave\nsensors is an interesting topic in structural health monitoring, medical\nimaging, aerospace and nuclear instrumentation. Here, we report the concept of\na gradient piezoelectric self-sensing system by integrating shunting circuitry\ninto conventional sensors. By tuning circuit elements properly, both the\nquality and quantity of the flexural wave measurement data can be significantly\nincreased for new adaptive sensing applications. Through analytical, numerical\nand experimental studies, we demonstrate that the metamaterial-based sensing\nsystem (MBSS) with gradient bending stiffness can be designed by connecting\ngradient negative capacitance circuits to an array of piezoelectric patches\n(sensors). We further demonstrate that the proposed system can achieve more\nthan two orders of magnitude amplification of flexural wave signals to overcome\nthe detection limit. This research encompasses fundamental advancements in the\nMBSS with improved performance and functionalities, and will yield significant\nadvances for a range of applications.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1605.08306"
+  },
+  {
+    "url": "https://arxiv.org/abs/1605.08163",
+    "title": "Title:Multiple target tracking based on sets of trajectories",
+    "date_publ": "26 May 2016 (v1), last revised 11 Jun 2020 (this version, v6)",
+    "authors": [
+      "\u00c1ngel F. Garc\u00eda-Fern\u00e1ndez",
+      "Lennart Svensson",
+      "Mark R. Moreland"
+    ],
+    "abstract": "Abstract:  We propose a solution of the multiple target tracking (MTT) problem based on\nsets of trajectories and the random finite set framework. A full Bayesian\napproach to MTT should characterise the distribution of the trajectories given\nthe measurements, as it contains all information about the trajectories. We\nattain this by considering multi-object density functions in which objects are\ntrajectories. For the standard tracking models, we also describe a conjugate\nfamily of multitrajectory density functions.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1605.08163"
+  },
+  {
+    "url": "https://arxiv.org/abs/1605.08076",
+    "title": "Title:The optimization for the conceptual design of a 300 MeV proton synchrotron",
+    "date_publ": "24 May 2016",
+    "authors": [
+      "Yuwen An",
+      "Hongfei Ji",
+      "Sheng Wang",
+      "Liangsheng Huan"
+    ],
+    "abstract": "Abstract:  A research complex for aerospace radiation effects research has been proposed\nin Harbin Institute of Technology. Its core part is a proton accelerator\ncomplex, which consists of a 10 MeV injector, a 300 MeV synchrotron and beam\ntransport lines. The proton beam extracted from the synchrotron is utilized for\nthe radiation effects research. Based on the conceptual design [1], the design\nstudy for optimizing the synchrotron has been done. A new lattice design was\nworked out, and the multi-turn injection and slow extraction system were\noptimized with the new lattice design. In order to improve the time structure\nof the extracted beam, a RF knock-out method is employed. To meet the\nrequirement of accurate control of dose, the frequency of the RF kicker is well\ninvestigated.",
+    "categories": [
+      "Accelerator Physics (physics.acc-ph)"
+    ],
+    "url_pdf": "/pdf/1605.08076"
+  },
+  {
+    "url": "https://arxiv.org/abs/1605.07429",
+    "title": "Title:First successful satellite laser ranging with a fibre-based transmitter",
+    "date_publ": "24 May 2016",
+    "authors": [
+      "Daniel Hampf",
+      "Fabian Sproll",
+      "Paul Wagner",
+      "Leif Humbert",
+      "Thomas Hasenohr",
+      "Wolfgang Ried"
+    ],
+    "abstract": "Abstract:  Satellite Laser Ranging (SLR) is an established technology used for geodesy,\nfundamental science and precise orbit determination. This paper reports on the\nfirst successful SLR measurement from the German Aerospace Center research\nobservatory in Stuttgart. While many SLR stations are in operation, the\nexperiment described here is unique in several ways: The modular system has\nbeen assembled completely from commercial off-the-shelf components, which\nincreases flexibility and significantly reduces hardware costs. To our\nknowledge it has been the first time that an SLR measurement has been conducted\nusing an optical fibre rather than a coud\u00e9 path to direct the light from the\nlaser source onto the telescope. The transmitter operates at an output power of\nabout 75 mW and a repetition rate of 3 kHz, and at a wavelength of 1064 nm. Due\nto its rather small diameter of only 80 {\\mu}{\\mu}m, the receiver detector\nfeatures a low noise rate of less than 2 kHz and can be operated without gating\nin many cases. With this set-up, clear return signals have been received from\nseveral orbital objects equipped with retroreflectors. In its current\nconfiguration, the system does not yet achieve the same performance as other\nSLR systems in terms of precision, maximum distance and the capability of\ndaylight ranging; however, plans to overcome these limitations are outlined.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1605.07429"
+  },
+  {
+    "url": "https://arxiv.org/abs/1605.01020",
+    "title": "Title:Implicit large-eddy simulation of compressible flows using the Interior Embedded Discontinuous Galerkin method",
+    "date_publ": "3 May 2016",
+    "authors": [
+      "Pablo Fernandez",
+      "Ngoc-Cuong Nguyen",
+      "Xevi Roca",
+      "Jaime Perair"
+    ],
+    "abstract": "Abstract:  We present a high-order implicit large-eddy simulation (ILES) approach for\nsimulating transitional turbulent flows. The approach consists of an Interior\nEmbedded Discontinuous Galerkin (IEDG) method for the discretization of the\ncompressible Navier-Stokes equations and a parallel preconditioned Newton-GMRES\nsolver for the resulting nonlinear system of equations. The IEDG method arises\nfrom the marriage of the Embedded Discontinuous Galerkin (EDG) method and the\nHybridizable Discontinuous Galerkin (HDG) method. As such, the IEDG method\ninherits the advantages of both the EDG method and the HDG method to make\nitself well-suited for turbulence simulations. We propose a minimal residual\nNewton algorithm for solving the nonlinear system arising from the IEDG\ndiscretization of the Navier-Stokes equations. The preconditioned GMRES\nalgorithm is based on a restricted additive Schwarz (RAS) preconditioner in\nconjunction with a block incomplete LU factorization at the subdomain level.\nThe proposed approach is applied to the ILES of transitional turbulent flows\nover a NACA 65-(18)10 compressor cascade at Reynolds number 250,000 in both\ndesign and off-design conditions. The high-order ILES results show good\nagreement with a subgrid-scale LES model discretized with a second-order finite\nvolume code while using significantly less degrees of freedom. This work shows\nthat high-order accuracy is key for predicting transitional turbulent flows\nwithout a SGS model.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Computational Engineering, Finance, and Science (cs.CE)",
+      " Numerical Analysis (math.NA)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1605.01020"
+  },
+  {
+    "url": "https://arxiv.org/abs/1604.07363",
+    "title": "Title:Efficient estimation of probability of conflict between air traffic using Subset Simulation",
+    "date_publ": "25 Apr 2016",
+    "authors": [
+      "Chinmaya Mishra",
+      "Simon Maskell",
+      "Siu-Kui Au",
+      "Jason F. Ralp"
+    ],
+    "abstract": "Abstract:  This paper presents an efficient method for estimating the probability of\nconflict between air traffic within a block of airspace. Autonomous\nSense-and-Avoid is an essential safety feature to enable Unmanned Air Systems\nto operate alongside other (manned or unmanned) air traffic. The ability to\nestimate probability of conflict between traffic is an essential part of\nSense-and-Avoid. Such probabilities are typically very low. Evaluating low\nprobabilities using naive Direct Monte Carlo generates a significant\ncomputational load. This paper applies a technique called Subset Simulation.\nThe small failure probabilities are computed as a product of larger conditional\nfailure probabilities, reducing the computational load whilst improving the\naccuracy of the probability estimates. The reduction in the number of samples\nrequired can be one or more orders of magnitude. The utility of the approach is\ndemonstrated by modeling a series of conflicting and potentially conflicting\nscenarios based on the standard Rules of the Air.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1604.07363"
+  },
+  {
+    "url": "https://arxiv.org/abs/1604.07297",
+    "title": "Title:Structural characterization of APPJ treated Bismaleimide coatings and heat treated Titania-BMI",
+    "date_publ": "6 Apr 2016",
+    "authors": [
+      "S.Shrinidhi",
+      "S. Suman",
+      "A.Shah",
+      "P.Prabhakar",
+      "A. Chaurasia A. Kumar",
+      "K. G. Chauhan",
+      "A.S.Bhattacharyy"
+    ],
+    "abstract": "Abstract:  Bismaleimide (BMI) are thermosetting polymers mainly used in aerospace\napplications having properties of dimensional stability, low shrinkage,\nchemical resistance, fire resistance, good mechanical properties and high\nresistance against various solvents, acids, and water. BMI is commercially\navailable as Homide 250. BMI coating has also been used for the corrosion\nprotection. Metallization (AL) of BMI using vacuum evaporation was done which\nserves the purpose of prevention of space charge accumulation in aircraft\nbodies. Addition of inorganic materials like metal oxides can influence the\nproperties of the polymer as an inorganic-organic composite. The\norganic-ionorganic composites have wide applications in electronics, optics,\nchemistry and medicine. Titanium dioxide (TiO2, Titania) has a wide range of\napplications starting from photocatalysis, dye-sensitized solar cells to\noptical coatings and electronics. A BMI-TiO2 composite was prepared by chemical\nroute. Atmospheric Plasma Jet (APPJ) using Helium gas was also treated on BMI.\nXRD and FTIR studies of the composite system prepared at different temperatures\nshowed its crystalline and structural configuration.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1604.07297"
+  },
+  {
+    "url": "https://arxiv.org/abs/1604.01882",
+    "title": "Title:Robust MRAC augmentation of flight control laws for center of gravity adaptation",
+    "date_publ": "7 Apr 2016",
+    "authors": [
+      "Daniel Simo"
+    ],
+    "abstract": "Abstract:  When an aircraft is flying and burning fuel the center of gravity (c.g.) of\nthe aircraft shifts slowly. The c.g. can also be shifted abruptly when e.g. a\nfighter aircraft releases a weapon. The shift in c.g. is difficult to measure\nor estimate so the flight control systems need to be robustly designed to cope\nwith this variation. However for fighter aircrafts with high manoeuvrability\nthere is room for improvements. In this project we investigate if the use of\nadaptive control law augmentation can be used to better cope with the change in\nc.g. We augment a baseline controller with a robust Model Reference Adaptive\nControl (MRAC) design and analyse its benefits and possible issues.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1604.01882"
+  },
+  {
+    "url": "https://arxiv.org/abs/1604.00625",
+    "title": "Title:Assessment and Enhancement of {SAR} non-coherent Change Detection Techniques Following Oil Spills",
+    "date_publ": "3 Apr 2016",
+    "authors": [
+      "Cihan Bayindir",
+      "J. David Frost",
+      "Christopher F. Barne"
+    ],
+    "abstract": "Abstract:  In this study the detection of the oil spill using synthetic aperture radar\n(SAR) imagery is considered. Detection of the oil spill is performed using\nchange detection algorithms between imagery acquired at different times. The\nspecific algorithms used are the correlation coefficient change statistic and\nthe intensity ratio change statistic algorithms. Therefore these algorithms and\nthe probabilistic selection of the threshold criteria is reviewed and\ndiscussed. A recently offered change detection method which depends on the idea\nof generating two different final change maps of two images in a sequence, is\nused. First final change map is obtained by cumulatively adding the sequences\nof change maps in such a manner that common change areas are excluded and\nuncommon change areas are included. The second final change map is obtained by\ncomparing the first and the last images in the temporal sequence. This method\nrequires at least three images to be employed and can be generalized to longer\ntemporal image sequences. The purpose of this approach is to provide a double\ncheck mechanism to the conventional approach and thus to reduce the probability\nof false alarm and enhance the change detection. The algorithms mentioned are\napplied to a 2010 Gulf of Mexico oil spill imagery together with the method\ndescribed. It is shown that intensity ratio change statistic is a better tool\nfor identification of the changes due to the oil spill compared to the\ncorrelation coefficient change statistic. It is also shown that two final\nchange map method can reduce the probability of false alarm. The data used in\nthis study is acquired by the Japanese Aerospace Agency's Advanced Land\nObserving Satellite (ALOS) through Alaska SAR Facility (ASF) at the University\nof Alaska, Fairbanks, AK.",
+    "categories": [
+      "Atmospheric and Oceanic Physics (physics.ao-ph)"
+    ],
+    "url_pdf": "/pdf/1604.00625"
+  },
+  {
+    "url": "https://arxiv.org/abs/1604.00082",
+    "title": "Title:A track-before-detect labelled multi-Bernoulli particle filter with label switching",
+    "date_publ": "31 Mar 2016",
+    "authors": [
+      "\u00c1ngel F. Garc\u00eda-Fern\u00e1nde"
+    ],
+    "abstract": "Abstract:  This paper presents a multitarget tracking particle filter (PF) for general\ntrack-before-detect measurement models. The PF is presented in the random\nfinite set framework and uses a labelled multi-Bernoulli approximation. We also\npresent a label switching improvement algorithm based on Markov chain Monte\nCarlo that is expected to increase filter performance if targets get in close\nproximity for a sufficiently long time. The PF is tested in two challenging\nnumerical examples.",
+    "categories": [
+      "Applications (stat.AP)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1604.00082"
+  },
+  {
+    "url": "https://arxiv.org/abs/1603.09629",
+    "title": "Title:Spacecraft Attitude and Reaction Wheel Desaturation Combined Control Method",
+    "date_publ": "31 Mar 2016 (v1), last revised 10 Nov 2016 (this version, v2)",
+    "authors": [
+      "Yaguang Yan"
+    ],
+    "abstract": "Abstract:  Two popular types of spacecraft actuators are reaction wheels and magnetic\ntorque coils. Magnetic torque coils are particularly interesting because they\ncan be used for both attitude control and reaction wheel momentum management\n(desaturation control). Although these two tasks are performed at the same time\nusing the same set of actuators, most design methods deal with only one of the\nthese tasks or consider these two tasks separately. In this paper, a design\nwith these two tasks in mind is formulated as a single problem. A periodic\ntime-varying linear quadratic regulator design method is then proposed to solve\nthis problem. A simulation example is provided to describe the benefit of the\nnew strategy.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1603.09629"
+  },
+  {
+    "url": "https://arxiv.org/abs/1603.07964",
+    "title": "Title:Power, Delay and Area Comparisons of Majority Voters relevant to TMR Architectures",
+    "date_publ": "25 Mar 2016",
+    "authors": [
+      "P Balasubramanian",
+      "N E Mastoraki"
+    ],
+    "abstract": "Abstract:  N-modular redundancy (NMR) is commonly used to enhance the fault tolerance of\na circuit/system, when subject to a fault-inducing environment such as in space\nor military systems, where upsets due to radiation phenomena, temperature\nand/or other environmental conditions are anticipated. Triple Modular\nRedundancy (TMR), which is a 3-tuple version of NMR, is widely preferred for\nmission-control space, military, and aerospace, and safety-critical nuclear,\npower, medical, and industrial control and automation systems. The TMR scheme\ninvolves the two-times duplication of a simplex system hardware, with a\nmajority voter ensuring correctness provided at least two out of three copies\nof the hardware remain operational. Thus the majority voter plays a pivotal\nrole in ensuring the correct operation of the TMR scheme. In this paper, a\nnumber of standard-cell based majority voter designs relevant to TMR\narchitectures are presented, and their power, delay and area parameters are\nestimated based on physical realization using a 32/28nm CMOS process.",
+    "categories": [
+      "Hardware Architecture (cs.AR)"
+    ],
+    "url_pdf": "/pdf/1603.07964"
+  },
+  {
+    "url": "https://arxiv.org/abs/1603.03450",
+    "title": "Title:Multisensor--Multitarget Bearing--Only Sensor Registration",
+    "date_publ": "9 Mar 2016",
+    "authors": [
+      "Ehsan Taghavi",
+      "R. Tharmarasa",
+      "T. Kirubarajan",
+      "Mike McDonal"
+    ],
+    "abstract": "Abstract:  Bearing--only estimation is one of the fundamental and challenging problems\nin target tracking. As in the case of radar tracking, the presence of offset or\nposition biases can exacerbate the challenges in bearing--only estimation.\nModeling various sensor biases is not a trivial task and not much has been done\nin the literature specifically for bearing--only tracking. This paper addresses\nthe modeling of offset biases in bearing--only sensors and the ensuing\nmultitarget tracking with bias compensation. Bias estimation is handled at the\nfusion node to which individual sensors report their local tracks in the form\nof associated measurement reports (AMR) or angle-only tracks. The modeling is\nbased on a multisensor approach that can effectively handle a time--varying\nnumber of targets in the surveillance region. The proposed algorithm leads to a\nmaximum likelihood bias estimator. The corresponding Cram\u00e9r--Rao Lower Bound\nto quantify the theoretical accuracy that can be achieved by the proposed\nmethod or any other algorithm is also derived. Finally, simulation results on\ndifferent distributed tracking scenarios are presented to demonstrate the\ncapabilities of the proposed approach. In order to show that the proposed\nmethod can work even with false alarms and missed detections, simulation\nresults on a centralized tracking scenario where the local sensors send all\ntheir measurements (not AMRs or local tracks) are also presented.",
+    "categories": [
+      "Methodology (stat.ME)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1603.03450"
+  },
+  {
+    "url": "https://arxiv.org/abs/1603.03449",
+    "title": "Title:A Practical Bias Estimation Algorithm for Multisensor--Multitarget Tracking",
+    "date_publ": "9 Mar 2016",
+    "authors": [
+      "Ehsan Taghavi",
+      "R. Tharmarasa",
+      "T. Kirubarajan",
+      "Yaakov Bar-Shalom",
+      "Mike McDonal"
+    ],
+    "abstract": "Abstract:  Bias estimation or sensor registration is an essential step in ensuring the\naccuracy of global tracks in multisensor-multitarget tracking. Most previously\nproposed algorithms for bias estimation rely on local measurements in\ncentralized systems or tracks in distributed systems, along with additional\ninformation like covariances, filter gains or targets of opportunity. In\naddition, it is generally assumed that such data are made available to the\nfusion center at every sampling time. In practical distributed multisensor\ntracking systems, where each platform sends local tracks to the fusion center,\nonly state estimates and, perhaps, their covariances are sent to the fusion\ncenter at non-consecutive sampling instants or scans. That is, not all the\ninformation required for exact bias estimation at the fusion center is\navailable in practical distributed tracking systems. In this paper, a new\nalgorithm that is capable of accurately estimating the biases even in the\nabsence of filter gain information from local platforms is proposed for\ndistributed tracking systems with intermittent track transmission. Through the\ncalculation of the Posterior Cram\u00e9r--Rao lower bound and various simulation\nresults, it is shown that the performance of the new algorithm, which uses the\ntracklet idea and does not require track transmission at every sampling time or\nexchange of filter gains, can approach the performance of the exact bias\nestimation algorithm that requires local filter gains.",
+    "categories": [
+      "Methodology (stat.ME)"
+    ],
+    "url_pdf": "/pdf/1603.03449"
+  },
+  {
+    "url": "https://arxiv.org/abs/1603.03372",
+    "title": "Title:Output Regulation for Systems on Matrix Lie-group",
+    "date_publ": "10 Mar 2016",
+    "authors": [
+      "Simone de Marco",
+      "Lorenzo Marconi",
+      "Tarek Hamel",
+      "Rober Mahon"
+    ],
+    "abstract": "Abstract:  This paper deals with the problem of output regulation for systems defined on\nmatrix Lie-Groups. Reference trajectories to be tracked are supposed to be\ngenerated by an exosystem, defined on the same Lie-Group of the controlled\nsystem, and only partial relative error measurements are supposed to be\navailable. These measurements are assumed to be invariant and associated to a\ngroup action on a homogeneous space of the state space. In the spirit of the\ninternal model principle the proposed control structure embeds a copy of the\nexosystem kinematic. This control problem is motivated by many real\napplications fields in aerospace, robotics, projective geometry, to name a few,\nin which systems are defined on matrix Lie-groups and references in the\nassociated homogenous spaces.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1603.03372"
+  },
+  {
+    "url": "https://arxiv.org/abs/1602.04556",
+    "title": "Title:Finite Element-Based Structural Optimization of Large System Models Under Buckling Constraints",
+    "date_publ": "15 Feb 2016",
+    "authors": [
+      "Alexander Lavin",
+      "Giovanni Greco",
+      "Kenjji Shimad"
+    ],
+    "abstract": "Abstract:  Optimization of large structures of multiple components is essential to many\nindustries for minimizing mass, especially the design of aerospace vehicles.\nOptimizing a single primary load member independently of all other primary\nstructures is an incomplete process, due to the redistribution of internal\nloads, as the stiffness distribution changes. That is, optimizing a component\nchanges joint loads, which then calls for a new optimization - changing\ninternal loads changes the optimum. This is particularly evident under buckling\n(stability) constraints. The goal is to develop a finite element-based\noptimization approach which can be used to optimize each component of a large,\nprimary structure assembly. The optimization objective function will be to\nminimize mass for the system, and the constraints will be both stress\nconstraints as well as buckling constraints. The research aims to improve both\nthe solution and practical usability of these models. The system of interest is\na spacecraft fuselage, of which the member components are panels throughout the\nstructure. We present analyses of several main optimization methods, and define\na new algorithm to solve this problem, eigenOpt.",
+    "categories": [
+      "Numerical Analysis (math.NA)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1602.04556"
+  },
+  {
+    "url": "https://arxiv.org/abs/1602.03249",
+    "title": "Title:A high-resolution pointing system for fast scanning platforms: The EBEX example",
+    "date_publ": "10 Feb 2016",
+    "authors": [
+      "Joy Didier",
+      "Daniel Chapman",
+      "Asad Aboobaker",
+      "Derek Araujo",
+      "Will Grainger",
+      "Shaul Hanany",
+      "Kyle Helson",
+      "Seth Hillbrand",
+      "Andrei Korotkov",
+      "Michele Limon",
+      "Amber Miller",
+      "Britt Reichborn-Kjennerud",
+      "Ilan Sagiv",
+      "Greg Tucker",
+      "Yuri Vinokuro"
+    ],
+    "abstract": "Abstract:  The E and B experiment (EBEX) is a balloon-borne telescope designed to\nmeasure the polarization of the cosmic microwave background with 8' resolution\nemploying a gondola scanning with speeds of order degree per second. In January\n2013, EBEX completed 11 days of observations in a flight over Antarctica\ncovering $\\sim$ 6000 square degrees of the sky. The payload is equipped with\ntwo redundant star cameras and two sets of three orthogonal gyroscopes to\nreconstruct the telescope attitude. The EBEX science goals require the pointing\nto be reconstructed to approximately 10\" in the map domain, and in-flight\nattitude control requires the real time pointing to be accurate to $\\sim$\n0.5$^{\\circ}$ . The high velocity scan strategy of EBEX coupled to its float\naltitude only permits the star cameras to take images at scan turnarounds,\nevery $\\sim$ 40 seconds, and thus requires the development of a pointing system\nwith low noise gyroscopes and carefully controlled systematic errors. Here we\nreport on the design of the pointing system and on a simulation pipeline\ndeveloped to understand and minimize the effects of systematic errors. The\nperformance of the system is evaluated using the 2012/2013 flight data, and we\nshow that we achieve a pointing error with RMS=25\" on 40 seconds azimuth\nthrows, corresponding to an error of $\\sim$ 4.6\" in the map domain.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1602.03249"
+  },
+  {
+    "url": "https://arxiv.org/abs/1602.00802",
+    "title": "Title:Spectrum Sharing Between A Surveillance Radar and Secondary Wi-Fi Networks",
+    "date_publ": "2 Feb 2016",
+    "authors": [
+      "Farzad Hessar",
+      "Sumit Ro"
+    ],
+    "abstract": "Abstract:  Co-existence between unlicensed networks that share spectrum\nspatio-temporally with terrestrial (e.g. Air Traffic Control) and shipborne\nradars in 3-GHz band is attracting significant interest. Similar to every\nprimary-secondary coexistence scenario, interference from unlicensed devices to\na primary receiver must be within acceptable bounds. In this work, we formulate\nthe spectrum sharing problem between a pulsed, search radar (primary) and\n802.11 WLAN as the secondary. We compute the protection region for such a\nsearch radar for a) a single secondary user (initially) as well as b) a random\nspatial distribution of multiple secondary users. Furthermore, we also analyze\nthe interference to the WiFi devices from the radar's transmissions to estimate\nthe impact on achievable WLAN throughput as a function of distance to the\nprimary radar.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1602.00802"
+  },
+  {
+    "url": "https://arxiv.org/abs/1601.07482",
+    "title": "Title:Unsupervised Learning in Neuromemristive Systems",
+    "date_publ": "27 Jan 2016",
+    "authors": [
+      "Cory Merkel",
+      "Dhireesha Kudithipud"
+    ],
+    "abstract": "Abstract:  Neuromemristive systems (NMSs) currently represent the most promising\nplatform to achieve energy efficient neuro-inspired computation. However, since\nthe research field is less than a decade old, there are still countless\nalgorithms and design paradigms to be explored within these systems. One\nparticular domain that remains to be fully investigated within NMSs is\nunsupervised learning. In this work, we explore the design of an NMS for\nunsupervised clustering, which is a critical element of several machine\nlearning algorithms. Using a simple memristor crossbar architecture and\nlearning rule, we are able to achieve performance which is on par with MATLAB's\nk-means clustering.",
+    "categories": [
+      "Emerging Technologies (cs.ET)",
+      " Machine Learning (cs.LG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1601.07482"
+  },
+  {
+    "url": "https://arxiv.org/abs/1601.04097",
+    "title": "Title:Nonlinear Consensus Strategies for Multi-Agent Networks in Presence of Communication Delays and Switching Topologies: Real-Time Receding Horizon Approach",
+    "date_publ": "15 Jan 2016",
+    "authors": [
+      "Fei Sun",
+      "Kamran Turkogl"
+    ],
+    "abstract": "Abstract:  This paper presents a novel framework which combines a non-iterative solution\nof Real-Time Nonlinear Receding Horizon Control (NRHC) methodology to achieve\nconsensus within complex network topologies with existing time-delays and in\npresence of switching topologies. In this formulation, we solve the distributed\nnonlinear optimization problem for multi-agent network systems directly,\n\\emph{in real-time}, without any dependency on iterative processes, where the\nstability and convergence guarantees are provided for the solution. Three\nbenchmark examples on non-linear chaotic systems provide validated results\nwhich demonstrate the significant outcomes of such methodology.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1601.04097"
+  },
+  {
+    "url": "https://arxiv.org/abs/1601.02241",
+    "title": "Title:Extended Capability Models for Carbon Fiber Composite (CFC) Panels in the Unstructured Transmission Line Modelling (UTLM) Method",
+    "date_publ": "10 Jan 2016",
+    "authors": [
+      "Xuesong Meng",
+      "Ana Vukovic",
+      "Trevor M. Benson",
+      "Phillip Sewel"
+    ],
+    "abstract": "Abstract:  An effective model of single and multilayered thin panels, including those\nformed using carbon fiber composite (CFC) materials, is incorporated into the\nTransmission Line Modeling (TLM) method. The thin panel model is a\none-dimensional (1D) one based on analytical expansions of cotangent and\ncosecant functions that are used to describe the admittance matrix in the\nfrequency domain; these are then converted into the time domain by using\ndigital filter theory and an inverse Z transform. The model, which is extended\nto allow for material anisotropy, is executed within 1D TLM codes. And, for the\nfirst time, the two-dimensional (2D) thin surface model is embedded in\nunstructured three-dimensional (3D) TLM codes. The approach is validated by\nusing it to study some canonical structures with analytic solutions, and\nagainst results taken from the literature. It is then used to investigate\nshielding effectiveness of carbon fiber composite materials in a practical\ncurved aerospace-related structure.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ],
+    "url_pdf": "/pdf/1601.02241"
+  },
+  {
+    "url": "https://arxiv.org/abs/1601.00042",
+    "title": "Title:Fast, Safe, and Propellant-Efficient Spacecraft Planning under Clohessy-Wiltshire-Hill Dynamics",
+    "date_publ": "1 Jan 2016",
+    "authors": [
+      "Joseph A. Starek",
+      "Edward Schmerling",
+      "Gabriel D. Maher",
+      "Brent W. Barbee",
+      "Marco Pavon"
+    ],
+    "abstract": "Abstract:  This paper presents a sampling-based motion planning algorithm for real-time\nand propellant-optimized autonomous spacecraft trajectory generation in\nnear-circular orbits. Specifically, this paper leverages recent algorithmic\nadvances in the field of robot motion planning to the problem of\nimpulsively-actuated, propellant-optimized rendezvous and proximity operations\nunder the Clohessy-Wiltshire-Hill (CWH) dynamics model. The approach calls upon\na modified version of the Fast Marching Tree (FMT*) algorithm to grow a set of\nfeasible trajectories over a deterministic, low-dispersion set of sample points\ncovering the free state space. To enforce safety, the tree is only grown over\nthe subset of actively-safe samples, from which there exists a feasible\none-burn collision avoidance maneuver that can safely circularize the\nspacecraft orbit along its coasting arc under a given set of potential thruster\nfailures. Key features of the proposed algorithm include: (i) theoretical\nguarantees in terms of trajectory safety and performance, (ii) amenability to\nreal-time implementation, and (iii) generality, in the sense that a large class\nof constraints can be handled directly. As a result, the proposed algorithm\noffers the potential for widespread application, ranging from on-orbit\nsatellite servicing to orbital debris removal and autonomous inspection\nmissions.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1601.00042"
+  },
+  {
+    "url": "https://arxiv.org/abs/1512.09176",
+    "title": "Title:Personalized Course Sequence Recommendations",
+    "date_publ": "30 Dec 2015 (v1), last revised 12 Jan 2016 (this version, v2)",
+    "authors": [
+      "Jie Xu",
+      "Tianwei Xing",
+      "Mihaela van der Schaa"
+    ],
+    "abstract": "Abstract:  Given the variability in student learning it is becoming increasingly\nimportant to tailor courses as well as course sequences to student needs. This\npaper presents a systematic methodology for offering personalized course\nsequence recommendations to students. First, a forward-search\nbackward-induction algorithm is developed that can optimally select course\nsequences to decrease the time required for a student to graduate. The\nalgorithm accounts for prerequisite requirements (typically present in higher\nlevel education) and course availability. Second, using the tools of\nmulti-armed bandits, an algorithm is developed that can optimally recommend a\ncourse sequence that both reduces the time to graduate while also increasing\nthe overall GPA of the student. The algorithm dynamically learns how students\nwith different contextual backgrounds perform for given course sequences and\nthen recommends an optimal course sequence for new students. Using real-world\nstudent data from the UCLA Mechanical and Aerospace Engineering department, we\nillustrate how the proposed algorithms outperform other methods that do not\ninclude student contextual information when making course sequence\nrecommendations.",
+    "categories": [
+      "Computers and Society (cs.CY)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/1512.09176"
+  },
+  {
+    "url": "https://arxiv.org/abs/1512.08059",
+    "title": "Title:CALET: a high energy astroparticle physics experiment on the ISS",
+    "date_publ": "26 Dec 2015",
+    "authors": [
+      "Pier Simone Marrocches"
+    ],
+    "abstract": "Abstract:  CALET (CALorimetric Electron Telescope) is a high energy astroparticle\nphysics experiment planned for a long exposure mission aboard the International\nSpace Station (ISS) by the Japanese Aerospace Exploration Agency, in\ncollaboration with the Italian Space Agency (ASI) and NASA. The main science\ngoal is high precision measurements of the inclusive electron (+positron)\nspectrum below 1 TeV and the exploration of the energy region above 1 TeV,\nwhere the shape of the high end of the spectrum might unveil the presence of\nnearby sources of acceleration. CALET has been designed to achieve a large\nproton rejection capability (>10$^5$) with a fine grained imaging calorimeter\n(IMC) followed by a total absorption calorimeter (TASC), for a total thickness\nof 30 X$_{0}$ and 1.3 proton interaction length. With an excellent energy\nresolution and a lower background contamination with respect to previous\nexperiments, CALET will search for possible spectral signatures of dark matter\nwith both electrons and gamma rays. CALET will also measure the high energy\nspectra and relative abundance of cosmic nuclei from proton to iron and detect\ntrans-iron elements up to Z$\\sim$40. The charge identification of individual\nnuclear species is performed by a dedicated module (CHD) and by multiple dE/dx\nmeasurements in the IMC. With a large exposure and high energy resolution,\nCALET will be able to verify and complement the observations of CREAM, PAMELA\nand AMS-02 on a possible deviation from a pure power-law of proton and He\nspectra in the few hundred GeV region and to extend the study to the multi-TeV\nregion. CALET will also contribute to clarify the present experimental picture\non the energy dependence of the boron/carbon ratio, below and above 1 TeV/n,\nthereby providing valuable information on cosmic-ray propagation in the galaxy.\nGamma-ray transients will be studied with a dedicated Gamma-ray Burst Monitor\n(GBM).",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " High Energy Astrophysical Phenomena (astro-ph.HE)"
+    ],
+    "url_pdf": "/pdf/1512.08059"
+  },
+  {
+    "url": "https://arxiv.org/abs/1512.07563",
+    "title": "Title:Affordances and Safe Design of Assistance Wearable Virtual Environment of Gesture",
+    "date_publ": "23 Dec 2015",
+    "authors": [
+      "Didier Fass (MOSEL"
+    ],
+    "abstract": "Abstract:  Safety and reliability are the main issues for designing assistance wearable\nvirtual environment of technical gesture in aerospace, or health application\ndomains. That needs the integration in the same isomorphic engineering\nframework of human requirements, systems requirements and the rationale of\ntheir relation to the natural and artifactual this http URL explore coupling\nintegration and design functional organization of support technical gesture\nsystems, firstly ecological psychologyprovides usa heuristicconcept: the\naffordance. On the other hand mathematical theory of integrative physiology\nprovides us scientific concepts: the stabilizing auto-association principle and\nfunctional interaction.After demonstrating the epistemological consistence of\nthese concepts, we define an isomorphic framework to describe and model human\nsystems integration dedicated to human in-the-loop system engineering.We\npresent an experimental approach of safe design of assistance wearable virtual\nenvironment of gesture based in laboratory and parabolic flights. On the\nresults, we discuss the relevance of our conceptual approach and the\napplications to future assistance of gesture wearable systems engineering.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)",
+      " Neurons and Cognition (q-bio.NC)"
+    ],
+    "url_pdf": "/pdf/1512.07563"
+  },
+  {
+    "url": "https://arxiv.org/abs/1512.03077",
+    "title": "Title:On Computational Complexity Reduction Methods for Kalman Filter Extensions",
+    "date_publ": "8 Dec 2015 (v1), last revised 10 Oct 2019 (this version, v5)",
+    "authors": [
+      "Matti Raitoharju",
+      "Robert Pich"
+    ],
+    "abstract": "Abstract:  The Kalman filter and its extensions are used in a vast number of aerospace\nand navigation applications for nonlinear state estimation of time series. In\nthe literature, different approaches have been proposed to exploit the\nstructure of the state and measurement models to reduce the computational\ndemand of the algorithms. In this tutorial, we survey existing code\noptimization methods and present them using unified notation that allows them\nto be used with various Kalman filter extensions. We develop the optimization\nmethods to cover a wider range of models, show how different structural\noptimizations can be combined, and present new applications for the existing\noptimizations. Furthermore, we present an example that shows that the\nexploitation of the structure of the problem can lead to improved estimation\naccuracy while reducing the computational load. This tutorial is intended for\npersons who are familiar with Kalman filtering and want to get insights for\nreducing the computational demand of different Kalman filter extensions.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Optimization and Control (math.OC)",
+      " Probability (math.PR)"
+    ],
+    "url_pdf": "/pdf/1512.03077"
+  },
+  {
+    "url": "https://arxiv.org/abs/1511.05538",
+    "title": "Title:Material degradation due to moisture and temperature. Part 1: Mathematical model, analysis, and analytical solutions",
+    "date_publ": "14 Nov 2015 (v1), last revised 21 Jan 2016 (this version, v2)",
+    "authors": [
+      "C. Xu",
+      "M. K. Mudunuru",
+      "K. B. Nakshatral"
+    ],
+    "abstract": "Abstract:  The mechanical response, serviceability, and load bearing capacity of\nmaterials and structural components can be adversely affected due to external\nstimuli, which include exposure to a corrosive chemical species, high\ntemperatures, temperature fluctuations (i.e., freezing-thawing), cyclic\nmechanical loading, just to name a few. It is, therefore, of paramount\nimportance in several branches of engineering -- ranging from aerospace\nengineering, civil engineering to biomedical engineering -- to have a\nfundamental understanding of degradation of materials, as the materials in\nthese applications are often subjected to adverse environments. As a result of\nrecent advancements in material science, new materials like fiber-reinforced\npolymers and multi-functional materials that exhibit high ductility have been\ndeveloped and widely used; for example, as infrastructural materials or in\nmedical devices (e.g., stents). The traditional small-strain approaches of\nmodeling these materials will not be adequate. In this paper, we study\ndegradation of materials due to an exposure to chemical species and temperature\nunder large-strain and large-deformations. In the first part of our research\nwork, we present a consistent mathematical model with firm thermodynamic\nunderpinning. We then obtain semi-analytical solutions of several canonical\nproblems to illustrate the nature of the quasi-static and unsteady behaviors of\ndegrading hyperelastic solids.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Soft Condensed Matter (cond-mat.soft)",
+      " Computational Engineering, Finance, and Science (cs.CE)"
+    ],
+    "url_pdf": "/pdf/1511.05538"
+  },
+  {
+    "url": "https://arxiv.org/abs/1510.07790",
+    "title": "Title:Distributed Real-Time Non-Linear Receding Horizon Control Methodology for Multi-Agent Consensus Problems",
+    "date_publ": "27 Oct 2015",
+    "authors": [
+      "Fei Sun",
+      "Kamran Turkogl"
+    ],
+    "abstract": "Abstract:  This work investigates the consensus problem for multi-agent nonlinear\nsystems through the distributed real-time nonlinear receding horizon control\nmethodology. With this work, we develop a scheme to reach the consensus for\nnonlinear multi agent systems under fixed directed/undirected graph(s) without\nthe need of any linearization techniques. For this purpose, the problem of\nconsensus is converted into an optimization problem and is directly solved by\nthe backwards sweep Riccati method to generate the control protocol which\nresults in a non-iterative algorithm. Stability analysis is conducted to\nprovide convergence guarantees of proposed scheme. In addition, an extension to\nthe leader-following consensus of nonlinear multi-agent systems is presented.\nSeveral examples are provided to validate and demonstrate the effectiveness of\nthe presented scheme and the corresponding theoretical results.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)",
+      " Chaotic Dynamics (nlin.CD)"
+    ],
+    "url_pdf": "/pdf/1510.07790"
+  },
+  {
+    "url": "https://arxiv.org/abs/1510.06732",
+    "title": "Title:Reduced Palm Intensity for Track Extraction",
+    "date_publ": "22 Oct 2015 (v1), last revised 5 Jun 2016 (this version, v2)",
+    "authors": [
+      "Ali Onder Bozdogan",
+      "Roy Streit",
+      "Murat Ef"
+    ],
+    "abstract": "Abstract:  The pair correlation function is introduced to target tracking filters that\nuse a finite point process target model as a means to investigate interactions\nin the Bayes posterior target process. It is shown that the Bayes posterior\ntarget point process of the probability hypothesis density (PHD) filter-before\nusing the Poisson point process approximation to close the recursion-is a\nspatially correlated process with weakly repulsive pair interactions. The\nreduced Palm target point process is introduced to define the conditional\ntarget point process given the state of one or more known targets. Using the\nintensity function of the reduced Palm process, an approximate two-stage pseudo\nmaximum a posteriori track extractor is developed. The proposed track extractor\nis formulated for the PHD filter and implemented in a numerical study that\ninvolves tracking two close-by targets. Numerical results demonstrate\nimprovement in the mean optimal subpattern assignment statistic for the\nproposed track extractor in comparison to the Gaussian mixture PHD filter's\nstate extractor.",
+    "categories": [
+      "Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/1510.06732"
+  },
+  {
+    "url": "https://arxiv.org/abs/1509.01016",
+    "title": "Title:Surface and Mechanical studies of Bismaleimide coatings",
+    "date_publ": "3 Sep 2015",
+    "authors": [
+      "A.S. Bhattacharyya",
+      "D. Paul",
+      "P.P. Dutta",
+      "G. Bhattacharje"
+    ],
+    "abstract": "Abstract:  Bismaleimide (BMI) resins are a new breed of thermosetting resins used mainly\nfor high temperature applications and have major usage in aerospace. BMI\npolymer coatings were deposited on aluminum and mild steel substrates. The\neffect of corrosion on mild steel and aluminum by Ringers Solution and there\nprotection using BMI coatings were observed. X-ray diffraction studies showed\ncrystalline nature of the BMI coatings. Surface contact angle measurements were\ncarried out using goniometer.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1509.01016"
+  },
+  {
+    "url": "https://arxiv.org/abs/1508.07025",
+    "title": "Title:Passive, free-space laser gyroscope",
+    "date_publ": "27 Aug 2015",
+    "authors": [
+      "W. Zach Korth",
+      "Alastair Heptonstall",
+      "Evan D. Hall",
+      "Koji Arai",
+      "Eric K. Gustafson",
+      "Rana X. Adhikar"
+    ],
+    "abstract": "Abstract:  Laser gyroscopes making use of the Sagnac effect have been used as highly\naccurate rotation sensors for many years. First used in aerospace and defense\napplications, these devices have more recently been used for precision\nseismology and in other research settings. In particular, mid-sized (~1\nm-scale) laser gyros have been under development as tilt sensors to augment the\nadaptive active seismic isolation systems in terrestrial interferometric\ngravitational wave detectors. The most prevalent design is the \"active\"\ngyroscope, in which the optical ring cavity used to measure the Sagnac\ndegeneracy breaking is itself a laser resonator. In this article, we describe\nanother topology: a \"passive\" gyroscope, in which the sensing cavity is not\nitself a laser but is instead tracked using external laser beams. While subject\nto its own limitations, this design is free from the deleterious lock-in\neffects observed in active systems, and has the advantage that it can be\nconstructed using commercially available components. We demonstrate that our\ndevice achieves comparable sensitivity to those of similarly sized active laser\ngyroscopes.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/1508.07025"
+  }
+]

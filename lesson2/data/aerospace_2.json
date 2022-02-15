@@ -1,0 +1,851 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2104.05198",
+    "title": "Title:Modification of Roberts' Theory for Rocket Exhaust Plumes Eroding Lunar Soil",
+    "date_publ": "12 Apr 2021",
+    "authors": [
+      "Philip T. Metzger",
+      "John E. Lane",
+      "Christopher D. Imme"
+    ],
+    "abstract": "Abstract:  Roberts' model of lunar soil erosion beneath a landing rocket has been\nupdated in several ways to predict the effects of future lunar landings. The\nmodel predicts, among other things, the number of divots that would result on\nsurrounding hardware due to the impact of high velocity particulates, the\namount and depth of surface material removed, the volume of ejected soil, its\nvelocity, and the distance the particles travel on the Moon. The results are\ncompared against measured results from the Apollo program and predictions are\nmade for mitigating the spray around a future lunar outpost.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2104.05198"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.02393",
+    "title": "Title:Detecting and Mitigating Network Packet Overloads on Real-Time Devices in IoT Systems",
+    "date_publ": "6 Apr 2021",
+    "authors": [
+      "Robert Danicki",
+      "Martin Haug",
+      "Ilja Behnke",
+      "Laurenz M\u00e4dje",
+      "Lauritz Thamse"
+    ],
+    "abstract": "Abstract:  Manufacturing, automotive, and aerospace environments use embedded systems\nfor control and automation and need to fulfill strict real-time guarantees. To\nfacilitate more efficient business processes and remote control, such devices\nare being connected to IP networks. Due to the difficulty in predicting network\npackets and the interrelated workloads of interrupt handlers and drivers,\ndevices controlling time critical processes stand under the risk of missing\nprocess deadlines when under high network loads. Additionally, devices at the\nedge of large networks and the internet are subject to a high risk of load\nspikes and network packet overloads.\nIn this paper, we investigate strategies to detect network packet overloads\nin real-time and present four approaches to adaptively mitigate local deadline\nmisses. In addition to two strategies mitigating network bursts with and\nwithout hysteresis, we present and discuss two novel mitigation algorithms,\ncalled Budget and Queue Mitigation. In an experimental evaluation, all\nalgorithms showed mitigating effects, with the Queue Mitigation strategy\nenabling most packet processing while preventing lateness of critical tasks.",
+    "categories": [
+      "Networking and Internet Architecture (cs.NI)",
+      " Operating Systems (cs.OS)"
+    ],
+    "url_pdf": "/pdf/2104.02393"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.16982",
+    "title": "Title:Physics-Based Modeling and Predictive Simulation of Powder Bed Fusion Additive Manufacturing Across Length Scales",
+    "date_publ": "31 Mar 2021 (v1), last revised 29 Jul 2021 (this version, v2)",
+    "authors": [
+      "Christoph Meier",
+      "Sebastian L. Fuchs",
+      "Nils Much",
+      "Jonas Nitzler",
+      "Ryan W. Penny",
+      "Patrick M. Praegla",
+      "Sebastian D. Pr\u00f6ll",
+      "Yushen Sun",
+      "Reimar Weissbach",
+      "Magdalena Schreter",
+      "Neil E. Hodge",
+      "A. John Hart",
+      "Wolfgang A. Wal"
+    ],
+    "abstract": "Abstract:  Powder bed fusion additive manufacturing (PBFAM) of metals has the potential\nto enable new paradigms of product design, manufacturing and supply chains\nwhile accelerating the realization of new technologies in the medical,\naerospace, and other industries. Currently, wider adoption of PBFAM is held\nback by difficulty in part qualification, high production costs and low\nproduction rates, as extensive process tuning, post-processing, and inspection\nare required before a final part can be produced and deployed. Physics-based\nmodeling and predictive simulation of PBFAM offers the potential to advance\nfundamental understanding of physical mechanisms that initiate process\ninstabilities and cause defects. In turn, these insights can help link process\nand feedstock parameters with resulting part and material properties, thereby\npredicting optimal processing conditions and inspiring the development of\nimproved processing hardware, strategies and materials. This work presents\nrecent developments of our research team in the modeling of metal PBFAM\nprocesses spanning length scales, namely mesoscale powder modeling, mesoscale\nmelt pool modeling, macroscale thermo-solid-mechanical modeling and\nmicrostructure modeling. Ongoing work in experimental validation of these\nmodels is also summarized. In conclusion, we discuss the interplay of these\nindividual submodels within an integrated overall modeling approach, along with\nfuture research directions.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ],
+    "url_pdf": "/pdf/2103.16982"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.16010",
+    "title": "Title:Theory-Guided Machine Learning for Process Simulation of Advanced Composites",
+    "date_publ": "30 Mar 2021",
+    "authors": [
+      "Navid Zobeiry",
+      "Anoush Poursarti"
+    ],
+    "abstract": "Abstract:  Science-based simulation tools such as Finite Element (FE) models are\nroutinely used in scientific and engineering applications. While their success\nis strongly dependent on our understanding of underlying governing physical\nlaws, they suffer inherent limitations including trade-off between\nfidelity/accuracy and speed. The recent rise of Machine Learning (ML) proposes\na theory-agnostic paradigm. In complex multi-physics problems, however,\ncreating large enough datasets for successful training of ML models has proven\nto be challenging. One promising strategy to bridge the divide between these\napproaches and take advantage of their respective strengths is Theory-Guided\nMachine Learning (TGML) which aims to integrate physical laws into ML\nalgorithms. In this paper, three case studies on thermal management during\nprocessing of advanced composites are presented and studied using FE, ML and\nTGML. A structured approach to incrementally adding increasingly complex\nphysics to training of TGML model is presented. The benefits of TGML over ML\nmodels are seen in more accurate predictions, particularly outside the training\nregion, and ability to train with small datasets. One benefit of TGML over FE\nis significant speed improvement to potentially develop real-time feedback\nsystems. A recent successful implementation of a TGML model to assess\nproducibility of aerospace composite parts is presented.",
+    "categories": [
+      "Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2103.16010"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.15636",
+    "title": "Title:Machine learning based digital twin for stochastic nonlinear multi-degree of freedom dynamical system",
+    "date_publ": "29 Mar 2021",
+    "authors": [
+      "Shailesh Garg",
+      "Ankush Gogoi",
+      "Souvik Chakraborty",
+      "Budhaditya Hazr"
+    ],
+    "abstract": "Abstract:  The potential of digital twin technology is immense, specifically in the\ninfrastructure, aerospace, and automotive sector. However, practical\nimplementation of this technology is not at an expected speed, specifically\nbecause of lack of application-specific details. In this paper, we propose a\nnovel digital twin framework for stochastic nonlinear multi-degree of freedom\n(MDOF) dynamical systems. The approach proposed in this paper strategically\ndecouples the problem into two time-scales -- (a) a fast time-scale governing\nthe system dynamics and (b) a slow time-scale governing the degradation in the\nsystem. The proposed digital twin has four components - (a) a physics-based\nnominal model (low-fidelity), (b) a Bayesian filtering algorithm a (c) a\nsupervised machine learning algorithm and (d) a high-fidelity model for\npredicting future responses. The physics-based nominal model combined with\nBayesian filtering is used combined parameter state estimation and the\nsupervised machine learning algorithm is used for learning the temporal\nevolution of the parameters. While the proposed framework can be used with any\nchoice of Bayesian filtering and machine learning algorithm, we propose to use\nunscented Kalman filter and Gaussian process. Performance of the proposed\napproach is illustrated using two examples. Results obtained indicate the\napplicability and excellent performance of the proposed digital twin framework.",
+    "categories": [
+      "Machine Learning (stat.ML)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2103.15636"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.13831",
+    "title": "Title:Characterization and computation of control invariant sets within target regions for linear impulsive control systems",
+    "date_publ": "25 Mar 2021",
+    "authors": [
+      "Ignacio Sanchez",
+      "Christophe Louembet",
+      "Marcelo Actis",
+      "Alejandro H. Gonzale"
+    ],
+    "abstract": "Abstract:  Linear impulsively controlled systems are suitable to describe a venue of\nreal-life problems, going from disease treatment to aerospace guidance. The\nmain characteristic of such systems is that they remain uncontrolled for\ncertain periods of time. As a consequence, punctual equilibria\ncharacterizations outside the origin are no longer useful, and the whole\nconcept of equilibrium and its natural extension, the controlled invariant\nsets, needs to be redefined. Also, an exact characterization of the admissible\nstates, i.e., states such that their uncontrolled evolution between impulse\ntimes remain within a predefined set, is required. An approach to such tasks --\nbased on the Markov-Lukasz theorem -- is presented, providing a tractable and\nnon-conservative characterization, emerging from polynomial positivity that has\napplication to systems with rational eigenvalues. This is in turn the basis for\nobtaining a tractable approximation to the maximal admissible invariant sets.\nIn this work, it is also demonstrated that, in order for the problem to have a\nsolution, an invariant set (and moreover, an equilibrium set) must be contained\nwithin the target zone. To assess the proposal, the so-obtained impulsive\ninvariant set is explicitly used in the formulation of a set-based model\npredictive controller, with application to zone tracking. In this context,\nspecific MPC theory needs to be considered, as the target is not necessarily\nstable in the sense of Lyapunov. A zone MPC formulation is proposed, which is\nable to i) track an invariant set such that the uncontrolled propagation\nfulfills the zone constraint at all times and ii) converge asymptotically to\nthe set of periodic orbits completely contained within the target zone.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.13831"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12815",
+    "title": "Title:Integrating Novelty Detection Capabilities with MSL Mastcam Operations to Enhance Data Analysis",
+    "date_publ": "23 Mar 2021",
+    "authors": [
+      "Paul Horton",
+      "Hannah R. Kerner",
+      "Samantha Jacob",
+      "Ernest Cisneros",
+      "Kiri L. Wagstaff",
+      "James Bel"
+    ],
+    "abstract": "Abstract:  While innovations in scientific instrumentation have pushed the boundaries of\nMars rover mission capabilities, the increase in data complexity has pressured\nMars Science Laboratory (MSL) and future Mars rover operations staff to quickly\nanalyze complex data sets to meet progressively shorter tactical and strategic\nplanning timelines. MSLWEB is an internal data tracking tool used by operations\nstaff to perform first pass analysis on MSL image sequences, a series of\nproducts taken by the Mast camera, Mastcam. Mastcam's multiband multispectral\nimage sequences require more complex analysis compared to standard 3-band RGB\nimages. Typically, these are analyzed using traditional methods to identify\nunique features within the sequence. Given the short time frame of tactical\nplanning in which downlinked images might need to be analyzed (within 5-10\nhours before the next uplink), there exists a need to triage analysis time to\nfocus on the most important sequences and parts of a sequence. We address this\nneed by creating products for MSLWEB that use novelty detection to help\noperations staff identify unusual data that might be diagnostic of new or\natypical compositions or mineralogies detected within an imaging scene. This\nwas achieved in two ways: 1) by creating products for each sequence to identify\nnovel regions in the image, and 2) by assigning multispectral sequences a\nsortable novelty score. These new products provide colorized heat maps of\ninferred novelty that operations staff can use to rapidly review downlinked\ndata and focus their efforts on analyzing potentially new kinds of diagnostic\nmultispectral signatures. This approach has the potential to guide scientists\nto new discoveries by quickly drawing their attention to often subtle\nvariations not detectable with simple color composites.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/2103.12815"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12536",
+    "title": "Title:Adaptive and Efficient Model Predictive Control for Booster Reentry",
+    "date_publ": "22 Mar 2021",
+    "authors": [
+      "Joseph Chai",
+      "Eran Medagoda",
+      "Erkan Kayaca"
+    ],
+    "abstract": "Abstract:  Model predictive control (MPC) is an optimal control strategy where control\ninput calculation is based on minimizing the predicted tracking error over a\nfinite horizon that moves with time. This strategy has an advantage over\nconventional state feedback and output feedback controllers because it predicts\nthe response of the system, rather than simply reacting to it. Therefore, MPC\ncan offer improved performance in the presence of input and output constraints.\nMany implementations of MPC on aerospace vehicles appear in literature [1].\nSome of these include spacecraft and satellite attitude control [2-4],\nspacecraft rendezvous and docking [5], helicopters [6], and atmospheric\nre-entry [7, 8].",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.12536"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12327",
+    "title": "Title:Adaptive Fractional-Order Sliding Mode Controller with Neural Network Compensator for an Ultrasonic Motor",
+    "date_publ": "23 Mar 2021",
+    "authors": [
+      "Xiaolong Chen",
+      "Wenyu Liang",
+      "Han Zhao",
+      "Abdullah Al Mamu"
+    ],
+    "abstract": "Abstract:  Ultrasonic motors (USMs) are commonly used in aerospace, robotics, and\nmedical devices, where fast and precise motion is needed. Remarkably, sliding\nmode controller (SMC) is an effective controller to achieve precision motion\ncontrol of the USMs. To improve the tracking accuracy and lower the chattering\nin the SMC, the fractional-order calculus is introduced in the design of an\nadaptive SMC in this paper, namely, adaptive fractional-order SMC (AFOSMC), in\nwhich the bound of the uncertainty existing in the USMs is estimated by a\ndesigned adaptive law. Additionally, a short memory principle is employed to\novercome the difficulty of implementing the fractional-order calculus on a\npractical system in real-time. Here, the short memory principle may increase\nthe tracking errors because some information is lost during its operation.\nThus, a compensator according to the framework of Bellman's optimal control\ntheory is proposed so that the residual errors caused by the short memory\nprinciple can be attenuated. Lastly, experiments on a USM are conducted, which\ncomparative results verify the performance of the designed controller.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.12327"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12192",
+    "title": "Title:Reward-Reinforced Reinforcement Learning for Multi-agent Systems",
+    "date_publ": "22 Mar 2021 (v1), last revised 14 May 2021 (this version, v2)",
+    "authors": [
+      "Changgang Zheng",
+      "Shufan Yang",
+      "Juan Parra-Ullauri",
+      "Antonio Garcia-Dominguez",
+      "Nelly Bencom"
+    ],
+    "abstract": "Abstract:  Reinforcement learning algorithms in multi-agent systems deliver highly\nresilient and adaptable solutions for common problems in\ntelecommunications,aerospace, and industrial robotics. However, achieving an\noptimal global goal remains a persistent obstacle for collaborative multi-agent\nsystems, where learning affects the behaviour of more than one agent. A number\nof nonlinear function approximation methods have been proposed for solving the\nBellman equation, which describe a recursive format of an optimal policy.\nHowever, how to leverage the value distribution based on reinforcement\nlearning, and how to improve the efficiency and efficacy of such systems remain\na challenge. In this work, we developed a reward-reinforced generative\nadversarial network to represent the distribution of the value function,\nreplacing the approximation of Bellman updates. We demonstrated our method is\nresilient and outperforms other conventional reinforcement learning methods.\nThis method is also applied to a practical case study: maximising the number of\nuser connections to autonomous airborne base stations in a mobile communication\nnetwork. Our method maximises the data likelihood using a cost function under\nwhich agents have optimal learned behaviours. This reward-reinforced generative\nadversarial network can be used as ageneric framework for multi-agent learning\nat the system level",
+    "categories": [
+      "Multiagent Systems (cs.MA)"
+    ],
+    "url_pdf": "/pdf/2103.12192"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12166",
+    "title": "Title:Special Session: Reliability Analysis for ML/AI Hardware",
+    "date_publ": "22 Mar 2021 (v1), last revised 30 Mar 2021 (this version, v2)",
+    "authors": [
+      "Shamik Kundu",
+      "Kanad Basu",
+      "Mehdi Sadi",
+      "Twisha Titirsha",
+      "Shihao Song",
+      "Anup Das",
+      "Ujjwal Gui"
+    ],
+    "abstract": "Abstract:  Artificial intelligence (AI) and Machine Learning (ML) are becoming pervasive\nin today's applications, such as autonomous vehicles, healthcare, aerospace,\ncybersecurity, and many critical applications. Ensuring the reliability and\nrobustness of the underlying AI/ML hardware becomes our paramount importance.\nIn this paper, we explore and evaluate the reliability of different AI/ML\nhardware. The first section outlines the reliability issues in a commercial\nsystolic array-based ML accelerator in the presence of faults engendering from\ndevice-level non-idealities in the DRAM. Next, we quantified the impact of\ncircuit-level faults in the MSB and LSB logic cones of the Multiply and\nAccumulate (MAC) block of the AI accelerator on the AI/ML accuracy. Finally, we\npresent two key reliability issues -- circuit aging and endurance in emerging\nneuromorphic hardware platforms and present our system-level approach to\nmitigate them.",
+    "categories": [
+      "Hardware Architecture (cs.AR)"
+    ],
+    "url_pdf": "/pdf/2103.12166"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.09942",
+    "title": "Title:Machine Vision based Sample-Tube Localization for Mars Sample Return",
+    "date_publ": "17 Mar 2021",
+    "authors": [
+      "Shreyansh Daftry",
+      "Barry Ridge",
+      "William Seto",
+      "Tu-Hoa Pham",
+      "Peter Ilhardt",
+      "Gerard Maggiolino",
+      "Mark Van der Merwe",
+      "Alex Brinkman",
+      "John Mayo",
+      "Eric Kulczyski",
+      "Renaud Detr"
+    ],
+    "abstract": "Abstract:  A potential Mars Sample Return (MSR) architecture is being jointly studied by\nNASA and ESA. As currently envisioned, the MSR campaign consists of a series of\n3 missions: sample cache, fetch and return to Earth. In this paper, we focus on\nthe fetch part of the MSR, and more specifically the problem of autonomously\ndetecting and localizing sample tubes deposited on the Martian surface. Towards\nthis end, we study two machine-vision based approaches: First, a\ngeometry-driven approach based on template matching that uses hard-coded\nfilters and a 3D shape model of the tube; and second, a data-driven approach\nbased on convolutional neural networks (CNNs) and learned features.\nFurthermore, we present a large benchmark dataset of sample-tube images,\ncollected in representative outdoor environments and annotated with ground\ntruth segmentation masks and locations. The dataset was acquired systematically\nacross different terrain, illumination conditions and dust-coverage; and\nbenchmarking was performed to study the feasibility of each approach, their\nrelative strengths and weaknesses, and robustness in the presence of adverse\nenvironmental conditions.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Artificial Intelligence (cs.AI)",
+      " Machine Learning (cs.LG)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2103.09942"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.07604",
+    "title": "Title:Radiation Data Portal: Integration of Radiation Measurements at the Aviation Altitudes and Solar-Terrestrial Environment Observations",
+    "date_publ": "13 Mar 2021",
+    "authors": [
+      "Viacheslav M Sadykov",
+      "Irina N Kitiashvili",
+      "W Kent Tobiska",
+      "Madhulika Guhathakurt"
+    ],
+    "abstract": "Abstract:  The impact of radiation dramatically increases at high altitudes in the\nEarth's atmosphere and in space. Therefore, monitoring and access to radiation\nenvironment measurements are critical for estimating the radiation exposure\nrisks of aircraft and spacecraft crews and the impact of space weather\ndisturbances on electronics. Addressing these needs requires convenient access\nto multi-source radiation environment data and enhancement of visualization and\nsearch capabilities. The Radiation Data Portal represents an interactive\nweb-based application for search and visualization of in-flight radiation\nmeasurements. The Portal enhances the exploration capabilities of various\nproperties of the radiation environment and provides measurements of dose rates\nalong with information on space weather-related conditions. The Radiation Data\nPortal back-end is a MySQL relational database that contains the radiation\nmeasurements obtained from the Automated Radiation Measurements for Aerospace\nSafety (ARMAS) device and the soft X-ray and proton flux measurements from the\nGeostationary Operational Environmental Satellite (GOES). The implemented\nApplication Programming Interface (API) and Python routines allow a user to\nretrieve the database records without interaction with the web interface. As a\nuse case of the Radiation Data Portal, we examine ARMAS measurements during an\nenhancement of the Solar Proton (SP) fluxes, known as Solar Proton Events\n(SPEs), and compare them to measurements during SP-quiet periods.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.07604"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.06400",
+    "title": "Title:A Survey on Limitation, Security and Privacy Issues on Additive Manufacturing",
+    "date_publ": "11 Mar 2021",
+    "authors": [
+      "Md Nazmul Islam",
+      "Yazhou Tu",
+      "Md Imran Hossen",
+      "Shengmin Guo",
+      "Xiali He"
+    ],
+    "abstract": "Abstract:  Additive manufacturing (AM) is growing as fast as anyone can imagine, and it\nis now a multi-billion-dollar industry. AM becomes popular in a variety of\nsectors, such as automotive, aerospace, biomedical, and pharmaceutical, for\nproducing parts/ components/ subsystems. However, current AM technologies can\nface vast risks of security issues and privacy loss. For the security of AM\nprocess, many researchers are working on the defense mechanism to\ncountermeasure such security concerns and finding efficient ways to eliminate\nthose risks. Researchers have also been conducting experiments to establish a\nsecure framework for the user's privacy and security components. This survey\nconsists of four sections. In the first section, we will explore the relevant\nlimitations of additive manufacturing in terms of printing capability,\nsecurity, and possible solutions. The second section will present different\nkinds of attacks on AM and their effects. The next part will analyze and\ndiscuss the mechanisms and frameworks for access control and authentication for\nAM devices. The final section examines the security issues in various\nindustrial sectors and provides the observations on the security of the\nadditive manufacturing process.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/2103.06400"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.05541",
+    "title": "Title:Constrained Contextual Bandit Learning for Adaptive Radar Waveform Selection",
+    "date_publ": "9 Mar 2021 (v1), last revised 14 Jun 2021 (this version, v2)",
+    "authors": [
+      "Charles E. Thornton",
+      "R. Michael Buehrer",
+      "Anthony F. Marton"
+    ],
+    "abstract": "Abstract:  A sequential decision process in which an adaptive radar system repeatedly\ninteracts with a finite-state target channel is studied. The radar is capable\nof passively sensing the spectrum at regular intervals, which provides side\ninformation for the waveform selection process. The radar transmitter uses the\nsequence of spectrum observations as well as feedback from a collocated\nreceiver to select waveforms which accurately estimate target parameters. It is\nshown that the waveform selection problem can be effectively addressed using a\nlinear contextual bandit formulation in a manner that is both computationally\nfeasible and sample efficient. Stochastic and adversarial linear contextual\nbandit models are introduced, allowing the radar to achieve effective\nperformance in broad classes of physical environments. Simulations in a\nradar-communication coexistence scenario, as well as in an adversarial\nradar-jammer scenario, demonstrate that the proposed formulation provides a\nsubstantial improvement in target detection performance when Thompson Sampling\nand EXP3 algorithms are used to drive the waveform selection process. Further,\nit is shown that the harmful impacts of pulse-agile behavior on coherently\nprocessed radar data can be mitigated by adopting a time-varying constraint on\nthe radar's waveform catalog.",
+    "categories": [
+      "Information Theory (cs.IT)",
+      " Machine Learning (cs.LG)",
+      " Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2103.05541"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.05275",
+    "title": "Title:Will it Crease or Cease? A study of Debulking of Air Pockets in Automated Prepreg Composite Layup",
+    "date_publ": "9 Mar 2021",
+    "authors": [
+      "Christian Krogh",
+      "Johnny Jakobsen",
+      "Jakob Wil"
+    ],
+    "abstract": "Abstract:  Automatic draping of carbon-fiber prepreg plies for the aerospace industry is\na promising technique for lowering the manufacturing costs and to this end, a\nthorough in-process quality control is crucial. In this paper, out-of-plane\ndefects in the layup are investigated. After draping, air pockets are\noccasionally encountered. The question is, if such apparent defects can be\nmitigated sufficiently during vacuum debulking. The 3D topology is measured by\nmeans of a structured-light 3D scanner and air pockets are segmented. An\napproximate mass-spring ply model is used to study the behavior of the air\npockets during application of vacuum pressure. The model is computationally\nfast and will indicate online whether the air pocket will be removed or manual\nintervention is required. Upon comparing the model predictions with\nexperimental data, it is shown that the system is capable of correctly\npredicting 13 out of 14 air pockets in a test layup.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ],
+    "url_pdf": "/pdf/2103.05275"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.04719",
+    "title": "Title:A review of turbulent skin-friction drag reduction by near-wall transverse forcing",
+    "date_publ": "8 Mar 2021 (v1), last revised 1 Dec 2021 (this version, v3)",
+    "authors": [
+      "Pierre Ricco",
+      "Martin Skote",
+      "Michael A. Leschzine"
+    ],
+    "abstract": "Abstract:  The quest for reductions in fuel consumption and CO2 emissions in transport\nhas been a powerful driving force for scientific research into methods that\nmight underpin drag-reducing technologies for a variety of vehicular transport\non roads, by rail, in the air, and on or in the water. In civil aviation,\nskin-friction drag accounts for around 50% of the total drag in cruise\nconditions, thus being a preferential target for research. With laminar\nconditions excluded, skin friction is intimately linked to the turbulence\nphysics in the fluid layer closest to the skin. Thus, research into drag\nreduction has focused on methods to depress the turbulence activity near the\nsurface. The most effective method of doing so is to subject the drag-producing\nflow in the near-wall layer to an unsteady and/or spatially varying cross-flow\ncomponent, either by the action of transverse wall oscillations, by embedding\nrotating discs into the surface or by plasma-producing electrodes that\naccelerate the near-wall fluid in the transverse direction. In ideal\nconditions, drag-reduction margins of order of 50% can be achieved. The present\narticle provides a review of research into the response of turbulent near-wall\nlayers to the imposition of unsteady and wavy transverse motion, encompassing\nexperiments, simulation, analysis and modelling. It covers issues such as the\ndrag-reduction margin in a variety of actuation scenarios, the underlying\nphysical phenomena that contribute to the interpretation of the origin of the\ndrag reduction, the dependence of the drag reduction on the Reynolds number,\npassive control methods that are inspired by active control, and a forward look\ntowards possible future research and practical realizations. The authors hope\nthat this review, by far the most extensive of its kind for this subject, will\nbe judged as a useful foundation for future research targeting friction-drag\nreduction",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2103.04719"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.11180",
+    "title": "Title:Hyperbolic metamaterials with extreme mechanical hardness",
+    "date_publ": "22 Feb 2021",
+    "authors": [
+      "Arrigo Calzolari",
+      "Alessandra Catellani",
+      "Marco Buongiorno Nardelli",
+      "Marco Fornar"
+    ],
+    "abstract": "Abstract:  Hyperbolic metamaterials (HMMs) are highly anisotropic optical materials that\nbehave as metals or as dielectrics depending on the direction of propagation of\nlight. They are becoming essential for a plethora of applications, ranging from\naerospace to automotive, from wireless to medical and IoT. These applications\noften work in harsh environments or may sustain remarkable external stresses.\nThis calls for materials that show enhanced optical properties as well as\ntailorable mechanical properties. Depending on their specific use, both hard\nand ultrasoft materials could be required, although the combination with\noptical hyperbolic response is rarely addressed. Here, we demonstrate the\npossibility to combine optical hyperbolicity and tunable mechanical properties\nin the same (meta)material, focusing on the case of extreme mechanical\nhardness. Using high-throughput calculations from first principles and\neffective medium theory, we explored a large class of layered materials with\nhyperbolic optical activity in the near-IR and visible range, and we identified\na reduced number of ultrasoft and hard HMMs among more than 1800 combinations\nof transition metal rocksalt crystals. Once validated by the experiments, this\nnew class of metamaterials may foster previously unexplored optical/mechanical\napplications.",
+    "categories": [
+      "Optics (physics.optics)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2102.11180"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.08938",
+    "title": "Title:Drag Reduction of a Circular Cylinder Through the Use of an Architectured Lattice Material",
+    "date_publ": "8 Feb 2021 (v1), last revised 24 Feb 2021 (this version, v2)",
+    "authors": [
+      "M. Pelacci",
+      "A. G. Robins",
+      "S. Szyniszewsk"
+    ],
+    "abstract": "Abstract:  Materials with periodic architectures exhibit many beneficial characteristics\nsuch as high specific stiffness thanks to the material placement along the\nstress paths and the nano-scale strength amplification achieved through the use\nof hierarchical architectures. Recently, the porosity of architectured\nmaterials was leveraged to increase the efficiency of compact heat exchangers,\nand their internal aerodynamics was studied. However, their performance on\nexternal aerodynamics applications is generally assumed to be detrimental.\nHere, we demonstrate that exposing 3D lattice material to the external flow\nreduced the drag of a circular cylinder when placed at carefully selected\nangular locations. We tested two configurations with the lattice material\ninstalled at the windward and leeward regions. On the one hand, the windward\nconfiguration showed a strong Re dependency, with a drag reduction of up to 45%\nat Re=11E4. On the other hand, the lattice material in the leeward region\nreduced the drag by 25% with weak Re dependency. Alterations of the lattice\nmaterial topology had a noticeable effect on the drag reduction in both cases.\nAdding aerodynamic features to the already proven beneficial structural\nproperties of 3D lattice materials might aid in the development of low-powered\nautomotive, naval, and aerospace vehicles.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/2102.08938"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.07109",
+    "title": "Title:Machine Learning Methods for the Design and Operation of Liquid Rocket Engines -- Research Activities at the DLR Institute of Space Propulsion",
+    "date_publ": "14 Feb 2021",
+    "authors": [
+      "G\u00fcnther Waxenegger-Wilfing",
+      "Kai Dresia",
+      "Jan Deeken",
+      "Michael Oschwal"
+    ],
+    "abstract": "Abstract:  The last years have witnessed an enormous interest in the use of artificial\nintelligence methods, especially machine learning algorithms. This also has a\nmajor impact on aerospace engineering in general, and the design and operation\nof liquid rocket engines in particular, and research in this area is growing\nrapidly. The paper describes current machine learning applications at the DLR\nInstitute of Space Propulsion. Not only applications in the field of modeling\nare presented, but also convincing results that prove the capabilities of\nmachine learning methods for control and condition monitoring are described in\ndetail. Furthermore, the advantages and disadvantages of the presented methods\nas well as current and future research directions are discussed.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2102.07109"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.06705",
+    "title": "Title:Numerical Investigation of Flow Structures Around a Cylindrical Afterbody Under Supersonic Condition",
+    "date_publ": "12 Feb 2021",
+    "authors": [
+      "Pratik Das",
+      "Ashoke D"
+    ],
+    "abstract": "Abstract:  Large Eddy Simulation (LES) with dynamic Smagorinsky model has been applied\nto numerically investigate the complicated flow structures that evolve in the\nnear wake of a cylindrical after body aligned with a uniform Mach 2.46 flow.\nMean flow field properties obtained from numerical simulations, such as axial\nvelocity, pressure on base surface, have been compared with the experimental\nmeasurements as well as with other published results. It has been found that\nstandard k-epsilon model fails to predict the flow properties in the\nrecirculation region where better agreement has been observed between the data\nobtained from LES and experimental measurements. Flow Statistics like turbulent\nkinetic energy and primary Reynolds stress have also been calculated and\ncompared with the results obtained from experiments in order to quantitatively\nassess the ability of LES technique to predict the turbulence properties of\nflow field in the highly compressible shear layer region. The data obtained\nfrom LES has been further analyzed to understand the evolution of coherent\nstructures in the flow field. Proper Orthogonal Decomposition (POD) of the data\nobtained from central plane in the wake region has been performed in order to\nreveal the most energetic structures present in the flow field.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2102.06705"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.06342",
+    "title": "Title:Investigation of Flow Characteristics inside a Dual Bell Nozzle with and without Film Cooling",
+    "date_publ": "12 Feb 2021",
+    "authors": [
+      "Mayank Verma",
+      "Nitish Arya",
+      "Ashoke D"
+    ],
+    "abstract": "Abstract:  In this study, we perform a two-dimensional axisymmetric simulation to assess\nthe flow characteristics and understand the film cooling process in a dual bell\nnozzle. The secondary stream with low temperature is injected at three\ndifferent axial locations on the nozzle wall, and the simulations are carried\nout to emphasize the impact of injection location (secondary flow) on film\ncooling of the dual bell nozzle. The cooling effect is demonstrated through the\ntemperature and pressure distributions on the nozzle wall or, in-turn, the\nseparation point movement. Downstream of the injection point, the Mach number\nand temperature profiles document the mixing of the main flow and secondary\nflow. The inflection region is observed to be the most promising location for\nthe injection of the secondary flow. We have further investigated the effect of\nMach number of the secondary stream. The current study demonstrates that one\ncan control the separation point in a dual bell nozzle with the help of\nsecondary injection (Mach number) so that an optimum amount of thrust can be\nachieved.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2102.06342"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.06341",
+    "title": "Title:Numerical study of flow physics in supersonic base-flow with mass bleed",
+    "date_publ": "12 Feb 2021",
+    "authors": [
+      "Pratik Das",
+      "Ashoke D"
+    ],
+    "abstract": "Abstract:  Large Eddy Simulation (LES) with dynamic sub-grid scale eddy viscosity model\nhas been applied to numerically investigate the evolution of complicated flow\nstructures in supersonic base flow with mass bleed. Mean flow properties\nobtained from numerical simulations, such as axial velocity, pressure on the\nbase surface, have been compared with the experimental measurements to show\nthat LES is able to predict the mean flow properties with acceptable accuracy.\nThe data obtained from LES has been further analyzed to understand the\nevolution of coherent structures in the flow field. Periodical shedding of\nvortical structures from the outer shear layer has been observed and it has\nalso been found that this vortex shedding is associated with the flapping of\nthe outer shear layer. The frequency of flapping of the outer shear layer has\nbeen found out and the phase-averaged streamlines have been analyzed to further\nstudy the evolution of vortical structures associated with this flapping. The\nphase-averaged streamline plots clearly elucidate the evolution of vortical\nstructures along the outer shear layer. Further, the study of these structures\nis investigated by performing Proper Orthogonal Decomposition (POD) analysis of\nthe data, obtained along the central plane in the wake region. The POD results\nalso seem to agree well with the observations made in the phase averaged\nstreamline plots, as the concentrated energy and enstropy are observed in the\nouter shear layer with fewer POD modes.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2102.06341"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.03763",
+    "title": "Title:The Balanced Mode Decomposition Algorithm for Data-Driven LPV Low-Order Models of Aeroservoelastic Systems",
+    "date_publ": "7 Feb 2021 (v1), last revised 30 May 2021 (this version, v2)",
+    "authors": [
+      "Andrea Iannelli",
+      "Urban Fasel",
+      "Roy S. Smit"
+    ],
+    "abstract": "Abstract:  A novel approach to reduced-order modeling of high-dimensional time varying\nsystems is proposed. It leverages the formalism of the Dynamic Mode\nDecomposition technique together with the concept of balanced realization. It\nis assumed that the only information available on the system comes from input,\nstate, and output trajectories generated by numerical simulations or recorded\nand estimated during experiments, thus the approach is fully data-driven. The\ngoal is to obtain an input-output low dimensional linear model which\napproximates the system across its operating range. Since the dynamics of\naeroservoelastic systems markedly changes in operation (e.g. due to change in\nflight speed or altitude), time-varying features are retained in the\nconstructed models. This is achieved by generating a Linear Parameter-Varying\nrepresentation made of a collection of state-consistent linear time-invariant\nreduced-order models. The algorithm formulation hinges on the idea of replacing\nthe orthogonal projection onto the Proper Orthogonal Decomposition modes, used\nin Dynamic Mode Decomposition-based approaches, with a balancing oblique\nprojection constructed entirely from data. As a consequence, the input-output\ninformation captured in the lower-dimensional representation is increased\ncompared to other projections onto subspaces of same or lower size. Moreover, a\nparameter-varying projection is possible while also achieving\nstate-consistency. The validity of the proposed approach is demonstrated on a\nmorphing wing for airborne wind energy applications by comparing the\nperformance against two algorithms recently proposed in the literature.\nComparisons cover both prediction accuracy and performance in model predictive\ncontrol applications.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2102.03763"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.12385",
+    "title": "Title:The method to increase the thrust of high Mach number Scramjets",
+    "date_publ": "29 Jan 2021",
+    "authors": [
+      "Yunfeng Liu",
+      "Xin Han",
+      "Wenshuo Zhang",
+      "Kaifu M"
+    ],
+    "abstract": "Abstract:  The problem of engine unstart of scramjets has not been resolved. In this\npaper, the mechanism of engine unstart is discussed from the point of view of\nshock/shock interaction and deflagration-to-detonation transition. The\nshock/shock interaction leads to the nonlinear, transient and discontinuous\nprocess of the supersonic combustion flow field. This process is similar to the\ndeflagration-to-detonation transition process. If the velocity of\npre-combustion shock wave is faster than the velocity in the isolator, it will\npropagate upstream and cause the engine unstart. The C-J detonation velocity is\ndefined as the stable operation boundary of scramjets, which is the maximum\nshock wave produced by combustion theoretically. The scramjets will work stable\nif the velocity in the isolator is faster than the corresponding C-J detonation\nvelocity. The combustion characteristics and propulsive performance of\nscramjets is theoretically analyzed by using C-J detonation theory. For high\nMach number scramjets, the velocity in the isolator is much faster than the C-J\ndetonation velocity. Therefore, extra fuel and oxygen can be injected into the\ncombustor to increase the thrust as long as the shock wave velocity driven by\nthe combustion products is slower than the air velocity in the isolator. The\ntheoretical results agree well with the existing experimental results, which\ncan be used as a baseline for the development of scramjets.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2101.12385"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.09372",
+    "title": "Title:Full Poincar\u00e9 mapping for ultra-sensitive polarimetry",
+    "date_publ": "22 Jan 2021 (v1), last revised 26 Jan 2021 (this version, v2)",
+    "authors": [
+      "Chao He",
+      "Jianyu Lin",
+      "Jintao Chang",
+      "Jacopo Antonello",
+      "Ben Dai",
+      "Jingyu Wang",
+      "Jiahe Cui",
+      "Ji Qi",
+      "Min Wu",
+      "Daniel S. Elson",
+      "Peng Xi",
+      "Andrew Forbes",
+      "Martin J. Boot"
+    ],
+    "abstract": "Abstract:  While polarisation sensing is vital in many areas of research, with\napplications spanning from microscopy to aerospace, traditional approaches are\nlimited by method-related error amplification or accumulation, placing\nfundamental limitations on precision and accuracy in single-shot polarimetry.\nHere, we put forward a new measurement paradigm to circumvent this, introducing\nthe notion of a universal full Poincar\u00e9 generator to map all polarisation\nanalyser states into a single vectorially structured light field, allowing all\nvector components to be analysed in a single-shot with theoretically\nuser-defined precision. To demonstrate the advantage of our approach, we use a\ncommon GRIN optic as our mapping device and show mean errors of <1% for each\nvector component, enhancing the sensitivity by around three times, allowing us\nto sense weak polarisation aberrations not measurable by traditional\nsingle-shot techniques. Our work paves the way for next-generation polarimetry,\nimpacting a wide variety of applications relying on weak vector measurement.",
+    "categories": [
+      "Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/2101.09372"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.08982",
+    "title": "Title:Efficient Near-Field Imaging Using Cylindrical MIMO Arrays",
+    "date_publ": "22 Jan 2021",
+    "authors": [
+      "Shiyong Li",
+      "Shuoguang Wang",
+      "Moeness G. Amin",
+      "Guoqiang Zha"
+    ],
+    "abstract": "Abstract:  Multiple-input multiple-output (MIMO) array based millimeter-wave (MMW)\nimaging has a tangible prospect in applications of concealed weapons detection.\nA near-field imaging algorithm based on wavenumber domain processing is\nproposed for a cylindrical MIMO array scheme with uniformly spaced transmit and\nreceive antennas over both the vertical and horizontal-arc directions. The\nspectrum aliasing associated with the proposed MIMO array is analyzed through a\nzero-filling discrete-time Fourier transform. The analysis shows that an\nundersampled array can be used in recovering the MMW image by a wavenumber\ndomain algorithm. The requirements for the antenna inter-element spacing of the\nMIMO array are delineated. Numerical simulations as well as comparisons with\nthe backprojection (BP) algorithm are provided to demonstrate the effectiveness\nof the proposed method.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2101.08982"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.07096",
+    "title": "Title:Atomistic simulations of surface reactions in ultra-high-temperature ceramics: O2, H2O and CO adsorption and dissociation on ZrB2 (0001) surfaces",
+    "date_publ": "18 Jan 2021",
+    "authors": [
+      "Yanhui Zhang",
+      "Stefano Sanvit"
+    ],
+    "abstract": "Abstract:  Understanding surface reactivity is crucial in many fields, going from\nheterogeneous catalysis to materials oxidation and corrosion. In order to\ndecipher the surface reactions of ZrB2 exposed to the harsh environment of\naerospace components, the chemical activity of both Zr- and B-surfaces is\npredicted and compared by using density functional theory and nudged elastic\nband methods. In particular the adsorption, dissociation and diffusion of O2,\nCO and H2O are extensively examined through the calculation of surface\nadsorption energies and reaction pathways. We find the dissociative adsorption\nof O2 dominating the reactivity of ZrB2 surfaces, while the dissociation of H2O\nand CO is weakly active on Zr-surfaces, and even less activated on B-terminated\nones. Importantly, we discover that the reaction of O2 and H2O can trigger\nstrong surface reconstruction at B-surfaces. Our work thus provides significant\ninsights into the diverse adsorption and reaction mechanisms of ZrB2 surfaces.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2101.07096"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.06814",
+    "title": "Title:A new approach to the thermodynamic analysis of gas power cycles",
+    "date_publ": "18 Jan 2021",
+    "authors": [
+      "Di He",
+      "Zhipeng Duan",
+      "Chaojun Wang",
+      "Boshu H"
+    ],
+    "abstract": "Abstract:  Engineering Thermodynamics has been the core course of many science and\nengineering majors around the world, including energy and power, mechanical\nengineering, civil engineering, aerospace, cryogenic refrigeration, food\nengineering, chemical engineering, and environmental engineering, among which\ngas power cycle is one of the important contents. However, many Engineering\nThermodynamics textbooks focus only on evaluating the thermal efficiency of gas\npower cycle, while the important concept of specific cycle work is ignored.\nBased on the generalized temperature-entropy diagram for the gas power cycles\nproposed by the authors, an ideal Otto cycle and an ideal Miller-Diesel cycle\nare taking as examples for the thermodynamic analyses of gas power cycles. The\noptimum compression ratio (or the pressure ratio) for the maximum specific\ncycle work or the maximum mean effective pressure is analyzed and determined.\nThe ideal Otto and the ideal Miller-Diesel cycles, and also other gas power\ncycles for movable applications, are concluded that the operation under the\nmaximum specific cycle work or the maximum mean effective pressure, instead of\nunder the higher efficiency, is more economic and more reasonable. We concluded\nthat the very important concept, i.e., the optimum compression (or pressure)\nratio for the gas power cycles, should be emphasized in the Engineering\nThermodynamics teaching process and in the latter revised or the newly edited\ntextbooks, in order to better guide the engineering applications.",
+    "categories": [
+      "Physics Education (physics.ed-ph)"
+    ],
+    "url_pdf": "/pdf/2101.06814"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.05697",
+    "title": "Title:Multi-Fidelity Digital Twins: a Means for Better Cyber-Physical Systems Testing?",
+    "date_publ": "14 Jan 2021",
+    "authors": [
+      "Aitor Arriet"
+    ],
+    "abstract": "Abstract:  Cyber-Physical Systems (CPSs) combine software and physical components. These\nsystems are widely applied in society within many domains, including the\nautomotive, aerospace, railway, etc. Testing these systems is extremely\nchallenging, therefore, it has attracted significant attention from the\nresearch community. A driving CPS testing technique in industry is\nsimulation-based testing. However, this poses significant challenges. In this\nnew-idea paper we present a novel approach to enhance the testing processes of\nCPSs. This novel approach is motivated with examples and open questions.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/2101.05697"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.05661",
+    "title": "Title:A Pipeline for Vision-Based On-Orbit Proximity Operations Using Deep Learning and Synthetic Imagery",
+    "date_publ": "14 Jan 2021",
+    "authors": [
+      "Carson Schubert",
+      "Kevin Black",
+      "Daniel Fonseka",
+      "Abhimanyu Dhir",
+      "Jacob Deutsch",
+      "Nihal Dhamani",
+      "Gavin Martin",
+      "Maruthi Akell"
+    ],
+    "abstract": "Abstract:  Deep learning has become the gold standard for image processing over the past\ndecade. Simultaneously, we have seen growing interest in orbital activities\nsuch as satellite servicing and debris removal that depend on proximity\noperations between spacecraft. However, two key challenges currently pose a\nmajor barrier to the use of deep learning for vision-based on-orbit proximity\noperations. Firstly, efficient implementation of these techniques relies on an\neffective system for model development that streamlines data curation,\ntraining, and evaluation. Secondly, a scarcity of labeled training data (images\nof a target spacecraft) hinders creation of robust deep learning models. This\npaper presents an open-source deep learning pipeline, developed specifically\nfor on-orbit visual navigation applications, that addresses these challenges.\nThe core of our work consists of two custom software tools built on top of a\ncloud architecture that interconnects all stages of the model development\nprocess. The first tool leverages Blender, an open-source 3D graphics toolset,\nto generate labeled synthetic training data with configurable model poses\n(positions and orientations), lighting conditions, backgrounds, and commonly\nobserved in-space image aberrations. The second tool is a plugin-based\nframework for effective dataset curation and model training; it provides common\nfunctionality like metadata generation and remote storage access to all\nprojects while giving complete independence to project-specific code.\nTime-consuming, graphics-intensive processes such as synthetic image generation\nand model training run on cloud-based computational resources which scale to\nany scope and budget and allow development of even the largest datasets and\nmodels from any machine. The presented system has been used in the Texas\nSpacecraft Laboratory with marked benefits in development speed and quality.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Computer Vision and Pattern Recognition (cs.CV)",
+      " Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/2101.05661"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.05451",
+    "title": "Title:Finding faults: A scoping study of fault diagnostics for Industrial Cyber-Physical Systems",
+    "date_publ": "14 Jan 2021",
+    "authors": [
+      "Barry Dowdeswell",
+      "Roopak Sinha",
+      "Stephen G. MacDonel"
+    ],
+    "abstract": "Abstract:  Context: As Industrial Cyber-Physical Systems (ICPS) become more connected\nand widely-distributed, often operating in safety-critical environments, we\nrequire innovative approaches to detect and diagnose the faults that occur in\nthem. Objective: We profile fault identification and diagnosis techniques\nemployed in the aerospace, automotive, and industrial control domains. By\nexamining both theoretical presentations as well as case studies from\nproduction environments, we present a profile of the current approaches being\nemployed and identify gaps. Methodology: A scoping study was used to identify\nand compare fault detection and diagnosis methodologies that are presented in\nthe current literature. Results: Fault identification and analysis studies from\n127 papers published from 2004 to 2019 reveal a wide diversity of promising\ntechniques, both emerging and in-use. These range from traditional\nPhysics-based Models to Data-Driven Artificial Intelligence (AI) and\nKnowledge-Based approaches. Predictive diagnostics or prognostics featured\nprominently across all sectors, along with discussions of techniques including\nFault trees, Petri nets and Markov approaches. We also profile some of the\ntechniques that have reached the highest Technology Readiness Levels, showing\nhow those methods are being applied in real-world environments beyond the\nlaboratory. Conclusions: Our results suggest that the continuing wide use of\nboth Model-Based and Data-Driven AI techniques across all domains, especially\nwhen they are used together in hybrid configuration, reflects the complexity of\nthe current ICPS application space. While creating sufficiently-complete models\nis labor intensive, Model-free AI techniques were evidenced as a viable way of\naddressing aspects of this challenge, demonstrating the increasing\nsophistication of current machine learning systems.(Abridged)",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/2101.05451"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.05385",
+    "title": "Title:A Work-Centered Approach for Cyber-Physical-Social System Design: Applications in Aerospace Industrial Inspection",
+    "date_publ": "13 Jan 2021",
+    "authors": [
+      "Garrick Cabour",
+      "\u00c9lise Ledoux",
+      "Samuel Bassett"
+    ],
+    "abstract": "Abstract:  Industrial inspection automation in aerospace presents numerous challenges\ndue to the dynamic, information-rich and regulated aspects of the domain. To\ndiagnose the condition of an aircraft component, expert inspectors rely on a\nsignificant amount of procedural and tacit knowledge (know-how). As systems\ncapabilities do not match high level human cognitive functions, the role of\nhumans in future automated work systems will remain important. A\nCyber-Physical-Social System (CPSS) is a suitable solution that envisions\nhumans and agents in a joint activity to enhance cognitive/computational\ncapabilities and produce better outcomes. This paper investigates how a\nwork-centred approach can support and guide the engineering process of a CPSS\nwith an industrial use case. We present a robust methodology that combines\nfieldwork inquiries and model-based engineering to elicit and formalize rich\nmental models into exploitable design patterns. Our results exhibit how\ninspectors process and apply knowledge to diagnose the component`s condition,\nhow they deal with the institution`s rules and operational constraints (norms,\nsafety policies, standard operating procedures). We suggest how these patterns\ncan be incorporated in software modules or can conceptualize Human-Agent\nTeaming requirements. We argue that this framework can corroborate the right\nfit between a system`s technical and ecological validity (system fit with\noperating context) that enhances data reliability, productivity-related factors\nand system acceptance by end-users.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)"
+    ],
+    "url_pdf": "/pdf/2101.05385"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.04823",
+    "title": "Title:A reusable pipeline for large-scale fiber segmentation on unidirectional fiber beds using fully convolutional neural networks",
+    "date_publ": "13 Jan 2021 (v1), last revised 15 Jan 2021 (this version, v2)",
+    "authors": [
+      "Alexandre Fioravante de Siqueira",
+      "Daniela Mayumi Ushizima",
+      "St\u00e9fan van der Wal"
+    ],
+    "abstract": "Abstract:  Fiber-reinforced ceramic-matrix composites are advanced materials resistant\nto high temperatures, with application to aerospace engineering. Their analysis\ndepends on the detection of embedded fibers, with semi-supervised techniques\nusually employed to separate fibers within the fiber beds. Here we present an\nopen computational pipeline to detect fibers in ex-situ X-ray computed\ntomography fiber beds. To separate the fibers in these samples, we tested four\ndifferent architectures of fully convolutional neural networks. When comparing\nour neural network approach to a semi-supervised one, we obtained Dice and\nMatthews coefficients greater than $92.28 \\pm 9.65\\%$, reaching up to $98.42\n\\pm 0.03 \\%$, showing that the network results are close to the\nhuman-supervised ones in these fiber beds, in some cases separating fibers that\nhuman-curated algorithms could not find. The software we generated in this\nproject is open source, released under a permissive license, and can be freely\nadapted and re-used in other domains. All data and instructions on how to\ndownload and use it are also available.",
+    "categories": [
+      "Image and Video Processing (eess.IV)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/2101.04823"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.04248",
+    "title": "Title:Automated 3D solid reconstruction from 2D CAD using OpenCV",
+    "date_publ": "12 Jan 2021",
+    "authors": [
+      "Ajay Bangalore Harish",
+      "Abhishek Rajendra Prasa"
+    ],
+    "abstract": "Abstract:  This work demonstrates the application of OpenCV towards feature extraction\nfrom 2D engineering drawings. The extracted features are used in the\nreconstruction of 3D CAD models in SCAD format and generation of 3D point cloud\ndata that is equivalent to LIDAR scan data. Several legacy designs in\nmechanical and aerospace engineering are available as engineering drawings\nrather than software generated CAD models. Even in civil engineering, many of\nthe earlier plans are available as drawings rather than BIM/CAD models. The\nmethods proposed in this work can help convert such drawings easily into 3D CAD\nand BIM models using camera capture or scanned drawing data. The method\ndemonstrates the applicability for simple shapes and does not yet account for\nthe presence of hidden lines in CAD drawings. The developed codes are made\navailable as python Jupyter notebooks through Github.",
+    "categories": [
+      "Computational Geometry (cs.CG)",
+      " General Topology (math.GN)"
+    ],
+    "url_pdf": "/pdf/2101.04248"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.03880",
+    "title": "Title:FPGA prototyping of synchronized chaotic map for UAV secure communication",
+    "date_publ": "24 Dec 2020",
+    "authors": [
+      "Christian Nwachioma",
+      "Martins Ezuma",
+      "Olusiji .O. Medaiyes"
+    ],
+    "abstract": "Abstract:  We propose a design that uses the principle of chaos for UAV secure\ncommunication. A UAV identified as an aerial base station communicates with a\nground base station over an RF channel. The communication units have dynamics\nbased on the logistic map. The map is chaotic in the appropriate parameter\nspace. Its states are non-periodic, broadband, and noise-like in the frequency\ndomain. They are useful for spreading information during transmission, making\nit difficult for an eavesdropper to recover the modulated message since state\nprediction is ultimately impossible. To retrieve it, we propose a variable\nfeedback controller. It asymptotically stabilizes the error dynamics when the\ninformation source is off. During transmission, the controller synchronizes the\nunits such that the error contains signatures of the information signal.\nTherefore, the information signal is retrievable by a suitable detection\nmechanism. Security depends on the confidentiality of the map, the variable\nfeedback controller, including its scale factor and bounded feedback gain, and\nthe designer`s choice of invertible function for use in the scrambling and\ndescrambling process. Also, the method is less prone to jamming attacks and\nmultipath effects as the broadband spectrum can be used to randomly select RF\nchannels. It uses only a few simple algorithms, including a correlation\nsummation and a detection mechanism. The algorithms collect subsamples of the\nreceived signal sequences and averages over each subsample length. The method\nrequires minimal programming efforts and low hardware resource utilization. It\nis energy-efficient, which is a vital consideration for any UAV security model.\nMoreover, we realize a prototype of the communication system on\nfield-programmable gate arrays. We presented a digital design of the secure\ncommunication system involving the transmission of bitstreams between the ABS\nand GBS.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2101.03880"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.02486",
+    "title": "Title:Deep Learning Methods for Vessel Trajectory Prediction based on Recurrent Neural Networks",
+    "date_publ": "7 Jan 2021 (v1), last revised 4 Jun 2021 (this version, v2)",
+    "authors": [
+      "Samuele Capobianco",
+      "Leonardo M. Millefiori",
+      "Nicola Forti",
+      "Paolo Braca",
+      "Peter Willet"
+    ],
+    "abstract": "Abstract:  Data-driven methods open up unprecedented possibilities for maritime\nsurveillance using Automatic Identification System (AIS) data. In this work, we\nexplore deep learning strategies using historical AIS observations to address\nthe problem of predicting future vessel trajectories with a prediction horizon\nof several hours. We propose novel sequence-to-sequence vessel trajectory\nprediction models based on encoder-decoder recurrent neural networks (RNNs)\nthat are trained on historical trajectory data to predict future trajectory\nsamples given previous observations. The proposed architecture combines Long\nShort-Term Memory (LSTM) RNNs for sequence modeling to encode the observed data\nand generate future predictions with different intermediate aggregation layers\nto capture space-time dependencies in sequential data. Experimental results on\nvessel trajectories from an AIS dataset made freely available by the Danish\nMaritime Authority show the effectiveness of deep-learning methods for\ntrajectory prediction based on sequence-to-sequence neural networks, which\nachieve better performance than baseline approaches based on linear regression\nor on the Multi-Layer Perceptron (MLP) architecture. The comparative evaluation\nof results shows: i) the superiority of attention pooling over static pooling\nfor the specific application, and ii) the remarkable performance improvement\nthat can be obtained with labeled trajectories, i.e., when predictions are\nconditioned on a low-level context representation encoded from the sequence of\npast observations, as well as on additional inputs (e.g., port of departure or\narrival) about the vessel's high-level intention, which may be available from\nAIS.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/2101.02486"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.01877",
+    "title": "Title:3D Convolutional Selective Autoencoder For Instability Detection in Combustion Systems",
+    "date_publ": "6 Jan 2021",
+    "authors": [
+      "Tryambak Gangopadhyay",
+      "Vikram Ramanan",
+      "Adedotun Akintayo",
+      "Paige K Boor",
+      "Soumalya Sarkar",
+      "Satyanarayanan R Chakravarthy",
+      "Soumik Sarka"
+    ],
+    "abstract": "Abstract:  While analytical solutions of critical (phase) transitions in physical\nsystems are abundant for simple nonlinear systems, such analysis remains\nintractable for real-life dynamical systems. A key example of such a physical\nsystem is thermoacoustic instability in combustion, where prediction or early\ndetection of an onset of instability is a hard technical challenge, which needs\nto be addressed to build safer and more energy-efficient gas turbine engines\npowering aerospace and energy industries. The instabilities arising in\ncombustion chambers of engines are mathematically too complex to model. To\naddress this issue in a data-driven manner instead, we propose a novel deep\nlearning architecture called 3D convolutional selective autoencoder (3D-CSAE)\nto detect the evolution of self-excited oscillations using spatiotemporal data,\ni.e., hi-speed videos taken from a swirl-stabilized combustor (laboratory\nsurrogate of gas turbine engine combustor). 3D-CSAE consists of filters to\nlearn, in a hierarchical fashion, the complex visual and dynamic features\nrelated to combustion instability. We train the 3D-CSAE on frames of videos\nobtained from a limited set of operating conditions. We select the 3D-CSAE\nhyper-parameters that are effective for characterizing hierarchical and\nmultiscale instability structure evolution by utilizing the dynamic information\navailable in the video. The proposed model clearly shows performance\nimprovement in detecting the precursors of instability. The machine\nlearning-driven results are verified with physics-based off-line measures.\nAdvanced active control mechanisms can directly leverage the proposed online\ndetection capability of 3D-CSAE to mitigate the adverse effects of combustion\ninstabilities on the engine operating under various stringent requirements and\nconditions.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2101.01877"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.01521",
+    "title": "Title:A probabilistic risk-based decision framework for structural health monitoring",
+    "date_publ": "5 Jan 2021",
+    "authors": [
+      "Aidan J. Hughes",
+      "Robert J. Barthorpe",
+      "N. Dervilis",
+      "Charles R. Farrar",
+      "Keith Worde"
+    ],
+    "abstract": "Abstract:  Obtaining the ability to make informed decisions regarding the operation and\nmaintenance of structures, provides a major incentive for the implementation of\nstructural health monitoring (SHM) systems. Probabilistic risk assessment (PRA)\nis an established methodology that allows engineers to make risk-informed\ndecisions regarding the design and operation of safety-critical and high-value\nassets in industries such as nuclear and aerospace. The current paper aims to\nformulate a risk-based decision framework for structural health monitoring that\ncombines elements of PRA with the existing SHM paradigm. As an apt tool for\nreasoning and decision-making under uncertainty, probabilistic graphical models\nserve as the foundation of the framework. The framework involves modelling\nfailure modes of structures as Bayesian network representations of fault trees\nand then assigning costs or utilities to the failure events. The fault trees\nallow for information to pass from probabilistic classifiers to influence\ndiagram representations of decision processes whilst also providing nodes\nwithin the graphical model that may be queried to obtain marginal probability\ndistributions over local damage states within a structure. Optimal courses of\naction for structures are selected by determining the strategies that maximise\nexpected utility. The risk-based framework is demonstrated on a realistic\ntruss-like structure and supported by experimental data. Finally, a discussion\nof the risk-based approach is made and further challenges pertaining to\ndecision-making processes in the context of SHM are identified.",
+    "categories": [
+      "Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/2101.01521"
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.00134",
+    "title": "Title:$\\mathcal{L}_1$ Adaptive Control for Switching Reference Systems: Application to Flight Control",
+    "date_publ": "1 Jan 2021",
+    "authors": [
+      "Steven Snyder",
+      "Pan Zhao",
+      "Naira Hovakimya"
+    ],
+    "abstract": "Abstract:  This paper presents a framework for the design and analysis of an\n$\\mathcal{L}_1$ adaptive controller with a switching reference system. The use\nof a switching reference system allows the desired behavior to be scheduled\nacross the operating envelope, which is often required in aerospace\napplications. The analysis uses a switched reference system that assumes\nperfect knowledge of uncertainties and uses a corresponding non-adaptive\ncontroller. Provided that this switched reference system is stable, it is shown\nthat the closed-loop system with unknown parameters and disturbances and the\n$\\mathcal{L}_1$ adaptive controller can behave arbitrarily close to this\nreference system. Simulations of the short period dynamics of a transport class\naircraft during the approach phase illustrate the theoretical results.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2101.00134"
+  },
+  {
+    "url": "https://arxiv.org/abs/2012.13862",
+    "title": "Title:A coupled finite volume and material point method for two-phase simulation of liquid-sediment and gas-sediment flows",
+    "date_publ": "27 Dec 2020 (v1), last revised 19 May 2021 (this version, v2)",
+    "authors": [
+      "Aaron S. Baumgarten",
+      "Benjamin L. S. Couchman",
+      "Ken Kamri"
+    ],
+    "abstract": "Abstract:  Mixtures of fluids and granular sediments play an important role in many\nindustrial, geotechnical, and aerospace engineering problems, from waste\nmanagement and transportation (liquid--sediment mixtures) to dust kick-up below\nhelicopter rotors (gas--sediment mixtures). These mixed flows often involve\nbulk motion of hundreds of billions of individual sediment particles and can\ncontain both highly turbulent regions and static, non-flowing regions. This\nbreadth of phenomena necessitates the use of continuum simulation methods, such\nas the material point method (MPM), which can accurately capture these large\ndeformations while also tracking the Lagrangian features of the flow (e.g.\\ the\ngranular surface, elastic stress, etc.).\nRecent works using two-phase MPM frameworks to simulate these mixtures have\nshown substantial promise; however, these approaches are hindered by the\nnumerical limitations of MPM when simulating pure fluids. In addition to the\nwell-known particle ringing instability and difficulty defining inflow/outflow\nboundary conditions, MPM has a tendency to accumulate quadrature errors as\nmaterials deform, increasing the rate of overall error growth as simulations\nprogress. In this work, we present an improved, two-phase continuum simulation\nframework that uses the finite volume method (FVM) to solve the fluid phase\nequations of motion and MPM to solve the solid phase equations of motion,\nsubstantially reducing the effect of these errors and providing better accuracy\nand stability for long-duration simulations of these mixtures.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/2012.13862"
+  },
+  {
+    "url": "https://arxiv.org/abs/2012.09940",
+    "title": "Title:Reduced Order Modeling using Shallow ReLU Networks with Grassmann Layers",
+    "date_publ": "17 Dec 2020",
+    "authors": [
+      "Kayla Bollinger",
+      "Hayden Schaeffe"
+    ],
+    "abstract": "Abstract:  This paper presents a nonlinear model reduction method for systems of\nequations using a structured neural network. The neural network takes the form\nof a \"three-layer\" network with the first layer constrained to lie on the\nGrassmann manifold and the first activation function set to identity, while the\nremaining network is a standard two-layer ReLU neural network. The Grassmann\nlayer determines the reduced basis for the input space, while the remaining\nlayers approximate the nonlinear input-output system. The training alternates\nbetween learning the reduced basis and the nonlinear approximation, and is\nshown to be more effective than fixing the reduced basis and training the\nnetwork only. An additional benefit of this approach is, for data that lie on\nlow-dimensional subspaces, that the number of parameters in the network does\nnot need to be large. We show that our method can be applied to scientific\nproblems in the data-scarce regime, which is typically not well-suited for\nneural network approximations. Examples include reduced order modeling for\nnonlinear dynamical systems and several aerospace engineering problems.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/2012.09940"
+  },
+  {
+    "url": "https://arxiv.org/abs/2012.08651",
+    "title": "Title:FemtoSats for Exploring Permanently Shadowed Regions on the Moon",
+    "date_publ": "15 Dec 2020",
+    "authors": [
+      "Alvaro Diaz-Flores",
+      "Jos\u00e9 Fern\u00e1ndez",
+      "Leonard Vance",
+      "Himangshu Kalita",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  The recent, rapid advancement in space exploration is thanks to the\naccelerated miniaturization of electronics components on a spacecraft that is\nreducing the mass, volume and cost of satellites. Yet, access to space remains\na distant dream as there is growing complexity in what is required of\nsatellites and increasing space traffic. Interplanetary exploration is even\nharder and has limited possibilities for low cost mission. All of these factors\nmake even CubeSats, the entry-level standard too expensive for most and\ntherefore a better way needs to be found. The proposed solution in this report\nis a low-mass, low-cost, disposable solution that exploits the latest advances\nin electronics and is relatively easy to integrate: FemtoSats. FemtoSats are\nsub-100-gram spacecraft. The FemtoSat concept is based on launching a swarm\nwhere the main tasks are divided between the members of the swarm. This means\nthat if one fails the swarm can take its place and therefore substitute it\nwithout risking the whole mission. In this paper we explore the utility of\nFemtoSats to perform first exploration and mapping of a Lunar PSR. This concept\nwas recognized as finalist for the NASA BIG Competition in 2020. This is an\nexample of a high-risk, high-reward mission where losing one FemtoSat does not\nmean the mission is in danger as it happens with regular satellite missions.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2012.08651"
+  },
+  {
+    "url": "https://arxiv.org/abs/2012.06878",
+    "title": "Title:Highly accurate closed-form approximation for the probability of detection of Weibull fluctuating targets in non-coherent detectors",
+    "date_publ": "12 Dec 2020",
+    "authors": [
+      "Fernando Dar\u00edo Almeida Garc\u00eda",
+      "Andrea Carolina Flores Rodriguez",
+      "Gustavo Fraidenraic"
+    ],
+    "abstract": "Abstract:  In this paper, we derive a highly accurate approximation for the probability\nof detection (PD) of a non-coherent detector operating with Weibull fluctuation\ntargets. To do so, we assume a pulse-to-pulse decorrelation during the coherent\nprocessing interval (CPI). Specifically, the proposed approximation is given in\nterms of: i) a closed-form expression derived in terms of the Fox's H-function,\nfor which we also provide a portable and efficient MATHEMATICA routine; and ii)\na fast converging series obtained through a comprehensive calculus of residues.\nBoth solutions are fast and provide very accurate results. In particular, our\nseries representation, besides being a more tractable solution, also exhibits\nimpressive savings in computational load and computation time compared to\nprevious studies. Numerical results and Monte-Carlo simulations corroborated\nthe validity of our expressions.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2012.06878"
+  },
+  {
+    "url": "https://arxiv.org/abs/2012.06036",
+    "title": "Title:Data-based Discovery of Governing Equations",
+    "date_publ": "5 Dec 2020 (v1), last revised 21 Dec 2020 (this version, v2)",
+    "authors": [
+      "Waad Subber",
+      "Piyush Pandita",
+      "Sayan Ghosh",
+      "Genghis Khan",
+      "Liping Wang",
+      "Roger Ghane"
+    ],
+    "abstract": "Abstract:  Most common mechanistic models are traditionally presented in mathematical\nforms to explain a given physical phenomenon. Machine learning algorithms, on\nthe other hand, provide a mechanism to map the input data to output without\nexplicitly describing the underlying physical process that generated the data.\nWe propose a Data-based Physics Discovery (DPD) framework for automatic\ndiscovery of governing equations from observed data. Without a prior definition\nof the model structure, first a free-form of the equation is discovered, and\nthen calibrated and validated against the available data. In addition to the\nobserved data, the DPD framework can utilize available prior physical models,\nand domain expert feedback. When prior models are available, the DPD framework\ncan discover an additive or multiplicative correction term represented\nsymbolically. The correction term can be a function of the existing input\nvariable to the prior model, or a newly introduced variable. In case a prior\nmodel is not available, the DPD framework discovers a new data-based standalone\nmodel governing the observations. We demonstrate the performance of the\nproposed framework on a real-world application in the aerospace industry.",
+    "categories": [
+      "Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2012.06036"
+  },
+  {
+    "url": "https://arxiv.org/abs/2012.00117",
+    "title": "Title:Determining Ionizing Doses in Medium Earth Orbits Using Long-Term GPS Particle Measurements",
+    "date_publ": "30 Nov 2020",
+    "authors": [
+      "Yue Chen",
+      "Matthew R. Carver",
+      "Steven K. Morley",
+      "Andrew S. Hoove"
+    ],
+    "abstract": "Abstract:  We use long-term electron and proton in-situ measurements made by the CXD\nparticle instruments, developed by Los Alamos National Laboratory and carried\non board GPS satellites, to determine total ionizing dose (TID) values and\ndaily/yearly dose rate (DR) values in medium Earth orbits (MEOs) caused by the\nnatural space radiation environment. Here measurement-based TID and DR values\non a simplified sample geometry--a small (with a radius of 0.1 mm) Silicon\ndetector within an Aluminum shielding sphere with a thickness of 100 mil--are\ncompared to those calculated from empirical radiation models. Results over the\nsolar cycle 24 show that electron TID from measurements in GPS orbit is well\nabove the values calculated from the median/mean fluences from AE8 and AE9\nmodels, but close to model fluences at high percentiles. Also, it is confirmed\nthat in MEOs proton contributions to TID are minor and mainly dominated by\nsolar energetic protons. Several factors affecting those dose calculations are\ndiscussed and evaluated. Results from this study provide us another\nout-of-sample test on the reliability of existing empirical space radiation\nmodels, and also help estimate the margin factors on calculated dose values in\nMEOs that pass through the heart of the Earth's outer radiation belt.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2012.00117"
+  },
+  {
+    "url": "https://arxiv.org/abs/2012.00071",
+    "title": "Title:Understanding interlaminar toughening of unidirectional CFRP laminates with carbon nanotube veils",
+    "date_publ": "30 Nov 2020",
+    "authors": [
+      "Yunfu Ou",
+      "Carlos Gonz\u00e1lez",
+      "Juan Jos\u00e9 Vilatel"
+    ],
+    "abstract": "Abstract:  The introduction of nanostructured interlayers is one of the most promising\nstrategies for interlaminar reinforcement in structural composites. In this\nwork, we study the failure mechanism and interlayer microstructure of\naerospace-grade structural composites reinforced with thin veils of carbon\nnanotube produced using an industrialised spinning process. Samples of\nunidirectional carbon fibre/epoxy matrix composites interleaved with different\ncomposition CNT veils were prepared using hot press method and tested for\ninterlaminar fracture toughness (IFT), measured in Mode-I (opening) and Mode-II\n(in-plane shear), and for interlaminar shear strength (ILSS), evaluated by the\nshort beam shear (SBS) test. The crack propagation mode could be directly\ndetermined through fractography analysis by electron microscopy and resin/CNT\nspatial discrimination by Raman spectroscopy, showing a clear correlation\nbetween interlaminar reinforcement and the balance between cohesive/adhesive\nfailure mode at the interlayer region. Composites with full resin infiltration\nof the CNT veils give a large increase of Mode II IFT (88%) to 1500 J/m2 and a\nslight enhancement of apparent interlaminar shear strength (6.5%), but a\ndecrease of Mode I IFT (-21%). The results help establish the role of\ninterlayer infiltration, interlaminar crossings and formation of a carbon fibre\nbridgings, for interlaminar reinforcement with interleaves.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2012.00071"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.13284",
+    "title": "Title:A question-answering system for aircraft pilots' documentation",
+    "date_publ": "26 Nov 2020",
+    "authors": [
+      "Alexandre Arnold",
+      "G\u00e9rard Dupont",
+      "F\u00e9lix Furger",
+      "Catherine Kobus",
+      "Fran\u00e7ois Lancelo"
+    ],
+    "abstract": "Abstract:  The aerospace industry relies on massive collections of complex and technical\ndocuments covering system descriptions, manuals or procedures. This paper\npresents a question answering (QA) system that would help aircraft pilots\naccess information in this documentation by naturally interacting with the\nsystem and asking questions in natural language. After describing each module\nof the dialog system, we present a multi-task based approach for the QA module\nwhich enables performance improvement on a Flight Crew Operating Manual (FCOM)\ndataset. A method to combine scores from the retriever and the QA modules is\nalso presented.",
+    "categories": [
+      "Computation and Language (cs.CL)",
+      " Information Retrieval (cs.IR)"
+    ],
+    "url_pdf": "/pdf/2011.13284"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.13224",
+    "title": "Title:Communication, Computing, Caching, and Sensing for Next Generation Aerial Delivery Networks",
+    "date_publ": "26 Nov 2020 (v1), last revised 4 Jun 2021 (this version, v3)",
+    "authors": [
+      "Gunes Karabulut Kurt",
+      "Halim Yanikomerogl"
+    ],
+    "abstract": "Abstract:  This paper describes the envisioned interactions between the information and\ncommunication technology and aerospace industries to serve autonomous devices\nfor next generation aerial parcel delivery networks. The autonomous features of\nfleet elements of the delivery network are enabled by the increased throughput,\nimproved coverage, and near-user computation capabilities of vertical\nheterogeneous networks (VHetNets). A high altitude platform station (HAPS),\nlocated around 20~km above the ground level in a quasi-stationary manner,\nserves as the main enabler of the vision we present. In addition to the sensing\npotential of the HAPS nodes, the use of communication, computing, and caching\ncapabilities demonstrate the attainability of the ambitious goal of serving a\nfully autonomous aerial fleet capable of addressing instantaneous user demands\nand enabling supply chain management interactions with delivery services in\nlow-latency settings.",
+    "categories": [
+      "Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/2011.13224"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.11338",
+    "title": "Title:Space-based Global Maritime Surveillance. Part II: Artificial Intelligence and Data Fusion Techniques",
+    "date_publ": "23 Nov 2020",
+    "authors": [
+      "Giovanni Soldi",
+      "Domenico Gaglione",
+      "Nicola Forti",
+      "Alessio Di Simone",
+      "Filippo Cristian Daffin\u00e0",
+      "Gianfausto Bottini",
+      "Dino Quattrociocchi",
+      "Leonardo M. Millefiori",
+      "Paolo Braca",
+      "Sandro Carniel",
+      "Peter Willett",
+      "Antonio Iodice",
+      "Daniele Riccio",
+      "Alfonso Farin"
+    ],
+    "abstract": "Abstract:  Maritime surveillance (MS) is of paramount importance for search and rescue\noperations, fishery monitoring, pollution control, law enforcement, migration\nmonitoring, and national security policies. Since ground-based radars and\nautomatic identification system (AIS) do not always provide a comprehensive and\nseamless coverage of the entire maritime domain, the use of space-based sensors\nis crucial to complement them. We reviewed space-based technologies for MS in\nthe first part of this work, titled \"Space-based Global Maritime Surveillance.\nPart I: Satellite Technologies\" [1]. However, future MS systems combining\nmultiple terrestrial and space-based sensors with additional information\nsources will require dedicated artificial intelligence and data fusion\ntechniques for the processing of raw satellite images and fuse heterogeneous\ninformation. The second part of our work focuses on the most promising\nartificial intelligence and data fusion techniques for MS using space-based\nsensors.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2011.11338"
+  }
+]

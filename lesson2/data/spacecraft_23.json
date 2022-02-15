@@ -1,0 +1,1142 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1811.02323",
+    "title": "Title:Machine Learning Approach for Solar Wind Categorization",
+    "date_publ": "6 Nov 2018 (v1), last revised 23 Aug 2019 (this version, v2)",
+    "authors": [
+      "Hui Li",
+      "Chi Wang",
+      "Cui Tu",
+      "Fei X"
+    ],
+    "abstract": "Abstract:  Solar wind classification is conducive to understand the physical processes\nongoing at the Sun and solar wind evolution in the interplanetary space, and\nfurthermore, it is helpful for early warning of space weather events. With\nrapid developments in the field of artificial intelligence, machine learning\napproaches are increasingly being used for pattern recognition. In this study,\nan approach from machine learning perspectives is developed to automatically\nclassify the solar wind at 1 AU into four types: coronal-hole-origin,\nstreamer-belt-origin, sector-reversal-region-origin, and ejecta. By exhaustive\nenumeration, an eight-dimensional scheme ($B_T$, $N_P$, $T_P$, $V_P$,\n$N_{\\alpha p}$, $T_{exp}/T_P$, $S_p$, and $M_f$) is found to perform the best\namong 8191 combinations of 13 solar wind parameters. 10 popular supervised\nmachine learning models, namely $k$ Nearest Neighbors (KNN), Support Vector\nMachines with linear and Radial Basic Function kernels, Decision Tree, Random\nForest, Adaptive Boosting, Neural Network, Gaussian Naive Bayes, Quadratic\nDiscriminant Analysis, and Extreme Gradient Boosting, are applied to the\nlabeled solar wind data sets. Among them, KNN classifier obtains the highest\noverall classification accuracy, 92.8%. It significantly improves the accuracy\nby 9.6% over existing manual schemes. No solar wind composition measurements\nare needed, permitting our classification scheme to be applied to most solar\nwind spacecraft data. Besides, two application examples indicate that solar\nwind classification is helpful for the risk evaluation of predicted magnetic\nstorms and surface charging of geosynchronous spacecrafts.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1811.02323"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.01528",
+    "title": "Title:Particle Velocity Distributions in Developing Magnetized Collisionless Shocks in Laser-Produced Plasmas",
+    "date_publ": "5 Nov 2018 (v1), last revised 15 Nov 2018 (this version, v2)",
+    "authors": [
+      "D.B. Schaeffer",
+      "W. Fox",
+      "R.K. Follett",
+      "G. Fiksel",
+      "C.K. Li",
+      "J. Matteucci",
+      "A. Bhattacharjee",
+      "K. Germaschewsk"
+    ],
+    "abstract": "Abstract:  We present the first laboratory observations of time-resolved electron and\nion velocity distributions in forming, magnetized collisionless shocks. Thomson\nscattering of a probe laser beam was used to observe the interaction of a\nlaser-driven, supersonic piston plasma expanding through a magnetized ambient\nplasma. From the Thomson-scattered spectra we measure time-resolved profiles of\nelectron density, temperature, and ion flow speed, as well as\nspatially-resolved magnetic fields from proton radiography. We observe direct\nevidence of the sweeping up and acceleration of ambient ions, magnetic field\ncompression, and the subsequent deformation of the piston ion flow, key steps\nin shock formation. Even before the shock has fully formed, we observe strong\ndensity compressions and electron heating associated with the pile up of piston\nions. The results demonstrate that laboratory experiments can probe particle\nvelocity distributions relevant to collisionless shocks, and thus complement\nsimilar measurements undertaken by spacecraft missions.",
+    "categories": [
+      "Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1811.01528"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.01030",
+    "title": "Title:Fourier-Hermite decomposition of the collisional Vlasov-Maxwell system: implications for the velocity space cascade",
+    "date_publ": "2 Nov 2018 (v1), last revised 21 Mar 2019 (this version, v2)",
+    "authors": [
+      "Oreste Pezzi",
+      "Francesco Valentini",
+      "Sergio Servidio",
+      "Enrico Camporeale",
+      "Pierluigi Veltr"
+    ],
+    "abstract": "Abstract:  Turbulence at kinetic scales is an unresolved and ubiquitous phenomenon that\ncharacterizes both space and laboratory plasmas. Recently, new theories, {\\it\nin-situ} spacecraft observations and numerical simulations suggest a novel\nscenario for turbulence, characterized by a so-called phase space cascade --\nthe formation of fine structures, both in physical and velocity space. This new\nconcept is here extended by directly taking into account the role of\ninter-particle collisions, modeled through the nonlinear Landau operator or the\nsimplified Dougherty operator. The characteristic times, associated with\ninter-particle correlations, are derived in the above cases. The implications\nof introducing collisions on the phase space cascade are finally discussed.",
+    "categories": [
+      "Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1811.01030"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.00005",
+    "title": "Title:Properties of turbulence in the reconnection exhaust: numerical simulations compared with observations",
+    "date_publ": "31 Oct 2018",
+    "authors": [
+      "F. Pucci",
+      "S. Servidio",
+      "L. Sorriso-Valvo",
+      "V. Olshevsky",
+      "W. H. Matthaeus",
+      "F. Malara",
+      "M. V. Goldman",
+      "D. L. Newman",
+      "G. Lapent"
+    ],
+    "abstract": "Abstract:  The properties of the turbulence which develops in the outflows of magnetic\nreconnection have been investigated using self-consistent plasma simulations,\nin three dimensions. As commonly observed in space plasmas, magnetic\nreconnection is characterized by the presence of turbulence. Here we provide a\ndirect comparison of our simulations with reported observations of reconnection\nevents in the magnetotail investigating the properties of the electromagnetic\nfield and the energy conversion mechanisms. In particular, simulations show the\ndevelopment of a turbulent cascade consistent with spacecraft observations,\nstatistics of the the dissipation mechanisms in the turbulent outflows similar\nto the one observed in reconnection jets in the magnetotail, and that the\nproperties of turbulence vary as a function of the distance from the\nreconnecting X-line.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1811.00005"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.12876",
+    "title": "Title:First results from the LUCID-Timepix spacecraft payload onboard the TechDemoSat-1 satellite in Low Earth Orbit",
+    "date_publ": "30 Oct 2018",
+    "authors": [
+      "Will Furnell",
+      "Abhishek Shenoy",
+      "Elliot Fox",
+      "Peter Hatfiel"
+    ],
+    "abstract": "Abstract:  The Langton Ultimate Cosmic ray Intensity Detector (LUCID) is a payload\nonboard the satellite TechDemoSat-1, used to study the radiation environment in\nLow Earth Orbit ($\\sim$635km). LUCID operated from 2014 to 2017, collecting\nover 2.1 million frames of radiation data from its five Timepix detectors on\nboard. LUCID is one of the first uses of the Timepix detector technology in\nopen space, with the data providing useful insight into the performance of this\ntechnology in new environments. It provides high-sensitivity imaging\nmeasurements of the mixed radiation field, with a wide dynamic range in terms\nof spectral response, particle type and direction. The data has been analysed\nusing computing resources provided by GridPP, with a new machine learning\nalgorithm that uses the Tensorflow framework. This algorithm provides a new\napproach to processing Medipix data, using a training set of human labelled\ntracks, providing greater particle classification accuracy than other\nalgorithms. For managing the LUCID data, we have developed an online platform\ncalled Timepix Analysis Platform at School (TAPAS). This provides a swift and\nsimple way for users to analyse data that they collect using Timepix detectors\nfrom both LUCID and other experiments. We also present some possible future\nuses of the LUCID data and Medipix detectors in space.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1810.12876"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.11173",
+    "title": "Title:Properties of DH Type II Radio Bursts and Their Space Weather Implications",
+    "date_publ": "26 Oct 2018",
+    "authors": [
+      "N. Gopalswamy",
+      "P. M\u00e4kel"
+    ],
+    "abstract": "Abstract:  We report on the properties of type II radio bursts observed by the Radio and\nPlasma Wave Experiment (WAVES) on board the Wind spacecraft over the past two\nsolar cycles. We confirm that the associated coronal mass ejections (CMEs) are\nfast and wide, more than half the CMEs being halos. About half of the type II\nbursts extend down to 0.5 MHz, corresponding to a heliocentric distance of tens\nof solar radii. The DH type II bursts are mostly confined to the active region\nbelt and their occurrence rate follows the solar activity cycle. Type II burst\noccurring on the western hemisphere of the Sun and extending to lower\nfrequencies are good indicators of a solar energetic particle event.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1810.11173"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.11157",
+    "title": "Title:Rotationally-Resolved Spectroscopic Characterization of near-Earth object (3200) Phaethon",
+    "date_publ": "26 Oct 2018",
+    "authors": [
+      "Theodore Kareta (1)",
+      "Vishnu Reddy (1)",
+      "Carl Hergenrother (1)",
+      "Dante S. Lauretta (1)",
+      "Tomoko Arai (2)",
+      "Driss Takir (3)",
+      "Juan Sanchez (4)",
+      "Josef Hanu\u0161 (5) ((1) Lunar and Planetary Laboratory",
+      "University of Arizona",
+      "(2) Chiba Institute of Technology",
+      "(3) NASA Johnson Space Center",
+      "(4) Planetary Science Institute",
+      "(5) Institute of Astronomy",
+      "Charles University"
+    ],
+    "abstract": "Abstract:  (3200) Phaethon is a compelling object as it has an asteroidal appearance and\nspectrum, produces a weak dust tail during perihelion at just 0.14 AU, and is\nthe parent body of the Geminid Meteor Shower. A better understanding of the\nphysical properties of Phaethon is needed to understand the nature of its\ncurrent and previous activity, relationship to potential source populations,\nand to plan for the upcoming flyby of the DESTINY+ spacecraft of Phaethon in\nthe 2020s. We performed rotationally-resolved spectroscopy of Phaethon at\nvisible and near-infrared wavelengths (0.4-2.5 microns) in 2007 and 2017,\nrespectively, to better understand its surface properties. The visible and\nnear-infrared observations both spanned nearly a full rotation or more and were\nunder similar observing geometries, covering the whole surface with the\nexception of the north pole. The visible wavelengths show blue slopes with only\nminor slope variations and no absorption features. The NIR data is minimally\nvarying and concave upwards, from very blue to blue-neutral with increasing\nwavelength. We fit the short-wavelength tail of Phaethon's thermal emission and\nretrieve an average visible albedo of pv = 0.08 +/- 0.01, which is lower than\nprevious measurements but plausible in light of the recent larger\nradar-measured diameter of Phaethon. We retrieve an average infrared beaming\nparameter of Phaethon of eta = 1.70 +/- 0.05, which is similar to previous\nresults. We discuss the implications of Phaethon's visible and near-infrared\nspectrum as well as the lower albedo on its origin, source population, and\nevolutionary history.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.11157"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.11065",
+    "title": "Title:Updated Inflight Calibration of Hayabusa2's Optical Navigation Camera (ONC) for Scientific Observations during the Cruise Phase",
+    "date_publ": "25 Oct 2018",
+    "authors": [
+      "Eri Tatsumi",
+      "Toru Kouyama",
+      "Hidehiko Suzuki",
+      "Manabu Yamada",
+      "Naoya Sakatani",
+      "Shingo Kameda",
+      "Yasuhiro Yokota",
+      "Rie Honda",
+      "Tomokatsu Morota",
+      "Keiichi Moroi",
+      "Naoya Tanabe",
+      "Hiroaki Kamiyoshihara",
+      "Marika Ishida",
+      "Kazuo Yoshioka",
+      "Hiroyuki Sato",
+      "Chikatoshi Honda",
+      "Masahiko Hayakawa",
+      "Kohei Kitazato",
+      "Hirotaka Sawada",
+      "Seiji Sugit"
+    ],
+    "abstract": "Abstract:  The Optical Navigation Camera (ONC-T, ONC-W1, ONC-W2) onboard Hayabusa2 are\nalso being used for scientific observations of the mission target, C-complex\nasteroid 162173 Ryugu. Science observations and analyses require rigorous\ninstrument calibration. In order to meet this requirement, we have conducted\nextensive inflight observations during the 3.5 years of cruise after the launch\nof Hayabusa2 on 3 December 2014. In addition to the first inflight calibrations\nby Suzuki et al. (2018), we conducted an additional series of calibrations,\nincluding read-out smear, electronic-interference noise, bias, dark current,\nhot pixels, sensitivity, linearity, flat-field, and stray light measurements\nfor the ONC. Moreover, the calibrations, especially flat-fields and\nsensitivities, of ONC-W1 and -W2 are updated for the analysis of the\nlow-altitude (i.e., high-resolution) observations, such as the gravity\nmeasurement, touchdowns, and the descents for MASCOT and MINERVA-II payload\nreleases. The radiometric calibration for ONC-T is also updated in this study\nbased on star and Moon observations. Our updated inflight sensitivity\nmeasurements suggest the accuracy of the absolute radiometric calibration\ncontains less than 1.8% error for the ul-, b-, v-, Na-, w-, and x-bands based\non star calibration observations and ~5% for the p-band based on lunar\ncalibration observations. The radiance spectra of the Moon, Jupiter, and Saturn\nfrom the ONC-T show good agreement with the spacecraft-based observations of\nthe Moon from SP/SELENE and WAC/LROC and with ground-based telescopic\nobservations for Jupiter and Saturn.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.11065"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.10486",
+    "title": "Title:A re-classification of Cepheids in the Gaia Data Release 2",
+    "date_publ": "24 Oct 2018 (v1), last revised 1 Mar 2019 (this version, v2)",
+    "authors": [
+      "V. Ripepi",
+      "R. Molinaro",
+      "I. Musella",
+      "M. Marconi",
+      "S. Leccia",
+      "L. Eye"
+    ],
+    "abstract": "Abstract:  Classical Cepheids are the most important primary indicators for the\nextragalactic distance scale. Establishing the precise zero points of their\nPeriod-Luminosity and Period-Wesenheit (PL/PW) relations has profound\nconsequences on the estimate of $\\rm H_0$. Type II Cepheids are also important\ndistance indicator and tracers of old stellar populations. The recent Data\nRelease 2 (DR2) of the {\\it Gaia} Spacecraft includes photometry and parallaxes\nfor thousands of classical and type II cepheids. We aim at reviewing the\nclassification of {\\it Gaia} DR2 Cepheids and to derive precise PL/PW for\nMagellanic Cloud (MCs) and Galactic Cepheids. Information from the literature\nand the {\\it Gaia} astrometry and photometry are adopted to assign DR2 Galactic\nCepheids to the classes: Classical, Anomalous and Type II Cepheids. We\nre-classify the DR2 Galactic Cepheids and derive new precise PL/PW relations in\nthe {\\it Gaia} passbands for the MCs and Milky Way Cepheids. We investigated\nfor the first time the dependence on metallicity of the $PW$ relation for\nClassical Cepheids in the {\\it Gaia} bands, finding non-conclusive results.\nAccording to our analysis, the zero point of the {\\it Gaia} DR2 parallaxes as\nestimated from Classical and Type II Cepheids seems to be likely underestimated\nby $\\sim$0.07 mas, in full agreement with recent literature. The next {\\it\nGaia} data releases are expected to fix this zero point offset to eventually\nallow a determination of $\\rm H_0$ to less than 1\\%.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1810.10486"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.10080",
+    "title": "Title:Overcoming the Challenges Associated with Image-based Mapping of Small Bodies in Preparation for the OSIRIS-REx Mission to (101955) Bennu",
+    "date_publ": "23 Oct 2018",
+    "authors": [
+      "D. N. DellaGiustina",
+      "C. A. Bennett",
+      "K. Becker",
+      "D. R Golish",
+      "L. Le Corre",
+      "D. A. Cook",
+      "K. L. Edmundson",
+      "M. Chojnacki",
+      "S. S. Sutton",
+      "M. P. Milazzo",
+      "B. Carcich",
+      "M. C. Nolan",
+      "N. Habib",
+      "K. N. Burke",
+      "T. Becker",
+      "P. H. Smith",
+      "K. J. Walsh",
+      "K. Getzandanner",
+      "D. R. Wibben",
+      "J. M. Leonard",
+      "M. M. Westermann",
+      "A. T. Polit",
+      "J. N. Kidd Jr.",
+      "C. W. Hergenrother",
+      "W. V. Boynton",
+      "J. Backer",
+      "S. Sides",
+      "J. Mapel",
+      "K. Berry",
+      "H. Roper",
+      "C. Drouet d'Aubigny",
+      "B. Rizk",
+      "M. K. Crombie",
+      "E. K. Kinney-Spano",
+      "J. de Leon",
+      "J. L. Rizos",
+      "J. Licandro",
+      "H. C. Campins",
+      "B. E. Clark",
+      "H. L. Enos",
+      "D. S. Laurett"
+    ],
+    "abstract": "Abstract:  The OSIRIS-REx Asteroid Sample Return Mission is the third mission in NASA's\nNew Frontiers Program and is the first U.S. mission to return samples from an\nasteroid to Earth. The most important decision ahead of the OSIRIS-REx team is\nthe selection of a prime sample-site on the surface of asteroid (101955) Bennu.\nMission success hinges on identifying a site that is safe and has regolith that\ncan readily be ingested by the spacecraft's sampling mechanism. To inform this\nmission-critical decision, the surface of Bennu is mapped using the OSIRIS-REx\nCamera Suite and the images are used to develop several foundational data\nproducts. Acquiring the necessary inputs to these data products requires\nobservational strategies that are defined specifically to overcome the\nchallenges associated with mapping a small irregular body. We present these\nstrategies in the context of assessing candidate sample-sites at Bennu\naccording to a framework of decisions regarding the relative safety,\nsampleability, and scientific value across the asteroid's surface. To create\ndata products that aid these assessments, we describe the best practices\ndeveloped by the OSIRIS-REx team for image-based mapping of irregular small\nbodies. We emphasize the importance of using 3D shape models and the ability to\nwork in body-fixed rectangular coordinates when dealing with planetary surfaces\nthat cannot be uniquely addressed by body-fixed latitude and longitude.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.10080"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.10012",
+    "title": "Title:Back to \"Normal\" for the Disintegrating Planet Candidate KIC 12557548 b",
+    "date_publ": "23 Oct 2018 (v1), last revised 11 Nov 2018 (this version, v2)",
+    "authors": [
+      "Everett Schlawin",
+      "Teruyuki Hirano",
+      "Hajime Kawahara",
+      "Johanna Teske",
+      "Elizabeth M. Green",
+      "Benjamin V. Rackham",
+      "Jonathan Fraine",
+      "Rafia Bushr"
+    ],
+    "abstract": "Abstract:  KIC 12557548 b is first of a growing class of intriguing disintegrating\nplanet candidates, which lose mass in the form of a metal rich vapor that\ncondenses into dust particles. Here, we follow up two perplexing observations\nof the system: 1) the transits appeared shallower than average in 2013 and 2014\nand 2) the parameters derived from a high resolution spectrum of the star\ndiffered from other results using photometry and low resolution spectroscopy.\nWe observe 5 transits of the system with the 61-inch Kuiper telescope in 2016\nand show that they are consistent with photometry from the Kepler spacecraft in\n2009-2013, suggesting that the dusty tail has returned to normal length and\nmass. We also evaluate high resolution archival spectra from the Subaru HDS\nspectrograph and find them to be consistent with a main-sequence Teff=4440 +/-\n70 K star in agreement with the photometry and low resolution spectroscopy.\nThis disfavors the hypothesis that planet disintegration affected the analysis\nof prior high resolution spectra of this star. We apply Principal Component\nAnalysis to the Kepler long cadence data to understand the modes of\ndisintegration. There is a tentative 491 day periodicity of the second\nprincipal component, which corresponds to possible long-term evolution of the\ndust grain sizes, though the mechanism on such long timescales remains unclear.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.10012"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.09771",
+    "title": "Title:Mass of the Kuiper Belt",
+    "date_publ": "23 Oct 2018",
+    "authors": [
+      "E. V. Pitjeva",
+      "N. P. Pitje"
+    ],
+    "abstract": "Abstract:  The Kuiper belt includes tens of thousands of large bodies and millions of\nsmaller objects. The main part of the belt objects is located in the annular\nzone between 39.4 au and 47.8 au from the Sun, the boundaries correspond to the\naverage distances for orbital resonances 3:2 and 2:1 with the motion of\nNeptune. One-dimensional, two-dimensional, and discrete rings to model the\ntotal gravitational attraction of numerous belt objects are considered. The\ndiscrete rotating model most correctly reflects the real interaction of bodies\nin the Solar system. The masses of the model rings were determined within\nEPM2017---the new version of ephemerides of planets and the Moon at IAA\nRAS---by fitting spacecraft ranging observations. The total mass of the Kuiper\nbelt was calculated as the sum of the masses of the 31 largest trans-neptunian\nobjects directly included in the simultaneous integration and the estimated\nmass of the model of the discrete ring of TNO. The total mass is $(1.97 \\pm\n0.30)\\cdot 10^{-2} \\ m_{\\oplus}$. The gravitational influence of the Kuiper\nbelt on Jupiter, Saturn, Uranus and Neptune exceeds at times the attraction of\nthe hypothetical 9th planet with a mass of $\\sim 10 \\ m_{\\oplus}$ at the\ndistances assumed for it. It is necessary to take into account the\ngravitational influence of the Kuiper belt when processing observations, and\nonly then to investigate residual discrepancies to discover a possible\ninfluence of a distant large planet.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.09771"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.09288",
+    "title": "Title:The post-Newtonian gravitomagnetic spin-octupole moment of an oblate rotating body and its effects on an orbiting test particle; are they measurable in the Solar System?",
+    "date_publ": "22 Oct 2018 (v1), last revised 2 Jul 2019 (this version, v6)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  We analytically work out the orbital effects induced by the gravitomagnetic\nspin-octupole moment of an extended spheroidal rotating body endowed with\nangular momentum $\\boldsymbol{S}$ and quadrupole mass moment $J_2$. Our\nresults, proportional to $S J_2 c^{-2}$, hold for an arbitrary orientation of\nthe body's symmetry axis $\\boldsymbol{\\hat{S}}$ and a generic orbital\nconfiguration of the test particle. Such effects may be measurable, in\nprinciple, with a dedicated spacecraft-based mission to Jupiter. For a\nmoderately eccentric and fast path, the gravitomagnetic precessions of the node\nand the pericenter of a dedicated orbiter could be as large as\n$400~\\textrm{milliarcseconds~per~year}$ or even\n$1,600-4,000~\\textrm{milliarcseconds~per~year}$ depending on the orientation of\nits orbital plane in space. Numerical simulations of the Earth-probe range-rate\nsignal confirm such expectations since its magnitude reaches the $\\simeq\n0.03-0.3~\\textrm{millimeter~per~second}$ level after just 1 day. The precision\nof the current two-way Ka-band Doppler measurements of the spacecraft Juno,\npresently orbiting Jupiter, amounts to $\\simeq\n0.003~\\textrm{millimeter~per~second}$ after $1,000$ seconds. Also other general\nrelativistic effects could be measurable, including also those proportional to\n$GMJ_2c^{-2}$, never put to the test so far. Most of the competing Newtonian\nsignals due to the classical multipoles of the planet's gravity field have\nquite different temporal signatures with respect to the post-Newtonian ones,\nmaking, thus, potentially easier disentangling them.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/1810.09288"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.09268",
+    "title": "Title:Spacecraft Telecommunications",
+    "date_publ": "19 Oct 2018",
+    "authors": [
+      "T. Joseph W. Lazio",
+      "Sami Asmar (Jet Propulsion Laboratory",
+      "California Institute of Technology"
+    ],
+    "abstract": "Abstract:  There is a long history of radio telescopes being used to augment the radio\nantennas regularly used to conduct telemetry, tracking, and command of deep\nspace spacecraft. Radio telescopes are particularly valuable during\nshort-duration mission critical events, such as planetary landings, or when a\nmission lifetime itself is short, such as a probe into a giant planet's\natmosphere. By virtue of its high sensitivity and frequency coverage, the\nnext-generation Very Large Array would be a powerful addition to regular\nspacecraft ground systems. Further, the science focus of many of these\ndeep-space missions provides a \"ground truth\" in the solar system that\ncomplements other aspects of the ngVLA's science case, such as the formation of\nplanets in proto-planetary disks.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.09268"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.09208",
+    "title": "Title:Visibility and Origin of Compact Interplanetary Radio Type IV Bursts",
+    "date_publ": "22 Oct 2018",
+    "authors": [
+      "Nasrin Talebpour Sheshvan",
+      "Silja Pohjolaine"
+    ],
+    "abstract": "Abstract:  We have analysed radio type IV bursts in the interplanetary (IP) space at\ndecameter-hectometer (DH) wavelengths, to find out their source origin and a\nreason for the observed directivity. We used radio dynamic spectra from the\ninstruments on three different spacecraft, STEREO-A, Wind, and STEREO-B, that\nwere located approximately 90 degrees apart from each other in 2011-2012, and\nthus gave a 360 degree view to the Sun. The radio data was compared to\nwhite-light and extreme ultraviolet (EUV) observations of flares, EUV waves,\nand coronal mass ejections (CMEs) in five solar events. We find that the reason\nfor observing compact and intense DH type IV burst emission from only one\nspacecraft at a time is due to the absorption of emission to one direction and\nthat the emission is blocked by the solar disk and dense corona to the other\ndirection. The geometry also makes it possible to observe metric type IV bursts\nin the low corona from a direction where the higher-located DH type IV emission\nis not detectable. In the absorbed direction we found streamers present, and\nthese were estimated to be the locations of type II bursts, caused by shocks at\nthe CME flanks. The high-density plasma was therefore most probably formed by\nshock--streamer interaction. In some cases the type II-emitting region was also\ncapable of stopping later-accelerated electron beams, visible as type III\nbursts that ended near the type II burst lanes.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1810.09208"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.08958",
+    "title": "Title:Fermi, Wind, and SOHO Observations of Sustained Gamma-Ray Emission from the Sun",
+    "date_publ": "21 Oct 2018",
+    "authors": [
+      "N. Gopalswamy",
+      "P. Makela",
+      "S. Yashiro",
+      "A. Lara",
+      "H. Xie",
+      "S. Akiyama",
+      "R. J. MacDowal"
+    ],
+    "abstract": "Abstract:  We report on the linear relationship between the durations of two types of\nelectromagnetic emissions associated with shocks driven by coronal mass\nejections: sustained gamma-ray emission (SGRE) and interplanetary type II radio\nbursts. The relationship implies that shocks accelerate about 10 keV electrons\n(for type II bursts) and greater than 300 MeV protons (for SGRE) roughly over\nthe same duration. The SGRE events are from the Large Area Telescope (LAT) on\nboard the Fermi satellite, while the type II bursts are from the Radio and\nPlasma Wave Experiment (WAVES) on board the Wind spacecraft. Here we consider\nfive SGRE events that were not included in a previous study of events with\nlonger duration (greater than 5 hours). The five events are selected by\nrelaxing the minimum duration to 3 hours. We found that some SGRE events had a\ntail that seems to last until the end of the associated type II burst. We pay\nspecial attention to the 2011 June 2 SGRE event that did not have a large solar\nenergetic particle event at Earth or at the STEREO spacecraft that was well\nconnected to the eruption. We suggest that the preceding CME acted as a\nmagnetic barrier that mirrored protons back to Sun.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1810.08958"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.08835",
+    "title": "Title:A catalog of stars observed simultaneously by Kepler and TESS",
+    "date_publ": "20 Oct 2018",
+    "authors": [
+      "Thomas Barclay",
+      "Geert Barentse"
+    ],
+    "abstract": "Abstract:  The Kepler spacecraft provided the first long-baseline, high-precision\nphotometry for large numbers of stars. This enabled the discovery of thousands\nof new exoplanets, and the characterization of myriad astrophysical phenomena.\nHowever, one of the challenges with interpreting Kepler data has been that no\ninstrument has provided a comparison dataset. Therefore, the replication of\nKepler time-series data has remained elusive. The Transiting Exoplanet Survey\nSatellite (TESS) launched in April 2018 and began science operations in July\n2018. During the TESS primary mission, it will survey 85% of the sky. NASA's\nfirst two observatories dedicated to discovering exoplanets, Kepler and TESS,\nwere simultaneously operating during 2018. While the Kepler's K2 mission\nsurveyed the ecliptic plane, TESS targets fields outside the ecliptic. However,\nduring September 2018, a small region of the sky was observed simultaneously by\nboth TESS and Kepler as part of TESS's Sector 2 (Aug 22 - Sep 20, 2018) and K2\nCampaign 19 (Sep 7 - Sep 26, 2018). The overlap region was 0.5 sq. deg. We\nidentified 171 K2 targets that fell inside TESS Sector 2 field of view, all of\nwhich are observed at 30-minute cadence by both missions. The targets range in\nbrightness in the TESS bandpass (Tmag) from 6.7-18.4, with 93 targets brighter\nthan Tmag=15, and 17 brighter than Tmag=12. This dataset provides the first\nsimultaneous, long-duration, high-precision observations of the same targets\nfrom different space-based observatories and presents an excellent opportunity\nto explore instrumental systematics present in the two telescopes.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.08835"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.08712",
+    "title": "Title:Planetary Bistatic Radar",
+    "date_publ": "19 Oct 2018",
+    "authors": [
+      "M. Brozovic (1)",
+      "B. J. Butler (2)",
+      "Jean-Luc Margot (3)",
+      "Shantanu P. Naidu (1)",
+      "T. Joseph W. Lazio (1) ((1) Jet Propulsion Laboratory",
+      "California Institute of Technology",
+      "(2) National Radio Astronomy Observatory",
+      "(3) University of California",
+      "Los Angeles"
+    ],
+    "abstract": "Abstract:  Planetary radar observations offer the potential for probing the properties\nof characteristics of solid bodies throughout the inner solar system and at\nleast as far as the orbit of Saturn. In addition to the direct scientific\nvalue, precise orbital determinations can be obtained from planetary radar\nobservations, which are in turn valuable for mission planning or spacecraft\nnavigation and planetary defense. The next-generation Very Large Array would\nnot have to be equipped with a transmitter to be an important asset in the\nworld's planetary radar infrastructure. Bistatic radar, in which one antenna\ntransmits (e.g., Arecibo or Goldstone) and another receives, are used commonly\ntoday, with the Green Bank Telescope (GBT) serving as a receiver. The improved\nsensitivity of the ngVLA relative to the GBT would improve the signal-to-noise\nratios on many targets and increase the accessible volume specifically for\nasteroids. Goldstone-ngVLA bistatic observations would have the potential of\nrivaling the sensitivity of Arecibo, but with much wider sky access.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.08712"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.07811",
+    "title": "Title:Return to the Kuiper Belt: launch opportunities from 2025 to 2040",
+    "date_publ": "17 Oct 2018",
+    "authors": [
+      "Amanda M. Zangari",
+      "Tiffany J. Finley",
+      "S. Alan Stern",
+      "Mark B. Taple"
+    ],
+    "abstract": "Abstract:  Preliminary spacecraft trajectories for 45 Kuiper Belt Objects (KBOs) and\nPluto suitable for launch between 2025 and 2040 are presented. These 46 objects\ncomprise all objects with H magnitude < 4.0 or which have received a name from\nthe International Astronomical Union as of May 2018. Using a custom Lambert\nsolver, trajectories are modeled after the New Horizons mission to\nPluto-Charon, which consisted of a fast launch with a Jupiter gravity assist.\nIn addition to searching for Earth-Jupiter-KBO trajectories, Earth-Saturn-KBO\ntrajectories are examined, with the option to add on a flyby to either Uranus\nor Neptune. With a single Jupiter gravity assist, all 45 KBOs and Pluto can be\nreached within a 25 year maximum mission duration. A more limited number can be\nreached when non-Jupiter flybys are added, and the KBOs that can be reached via\nthese alternate routes are listed. In most cases, a single Jupiter flyby is the\nmost efficient way to get to the Kuiper Belt, but the science return from\nrevisiting Saturn, Uranus, or Neptune may add substantial value to a mission,\nso alternate flybys should be considered.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.07811"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.07371",
+    "title": "Title:Simple Regret Minimization for Contextual Bandits",
+    "date_publ": "17 Oct 2018 (v1), last revised 25 Feb 2020 (this version, v2)",
+    "authors": [
+      "Aniket Anand Deshmukh",
+      "Srinagesh Sharma",
+      "James W. Cutler",
+      "Mark Moldwin",
+      "Clayton Scot"
+    ],
+    "abstract": "Abstract:  There are two variants of the classical multi-armed bandit (MAB) problem that\nhave received considerable attention from machine learning researchers in\nrecent years: contextual bandits and simple regret minimization. Contextual\nbandits are a sub-class of MABs where, at every time step, the learner has\naccess to side information that is predictive of the best arm. Simple regret\nminimization assumes that the learner only incurs regret after a pure\nexploration phase. In this work, we study simple regret minimization for\ncontextual bandits. Motivated by applications where the learner has separate\ntraining and autonomous modes, we assume that the learner experiences a pure\nexploration phase, where feedback is received after every action but no regret\nis incurred, followed by a pure exploitation phase in which regret is incurred\nbut there is no feedback. We present the Contextual-Gap algorithm and establish\nperformance guarantees on the simple regret, i.e., the regret during the pure\nexploitation phase. Our experiments examine a novel application to adaptive\nsensor selection for magnetic field estimation in interplanetary spacecraft,\nand demonstrate considerable improvement over algorithms designed to minimize\nthe cumulative regret.",
+    "categories": [
+      "Machine Learning (stat.ML)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/1810.07371"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.06633",
+    "title": "Title:Science with an ngVLA: Observations of the Solar Wind",
+    "date_publ": "15 Oct 2018",
+    "authors": [
+      "T. S. Bastia"
+    ],
+    "abstract": "Abstract:  The ngVLA has the potential to play a significant role in characterizing\nproperties of the outer corona and the heating and acceleration of the solar\nwind into the inner heliosphere. In particular, using distant background\nsources to transilluminate the foreground corona and solar wind, a variety of\nradio propagation phenomena can be used to map plasma properties as a function\nof solar elongation and position angle throughout the solar cycle. These\ninclude angular broadening, interplanetary scintillations, and differential\nFaraday rotation, which can be used to map the solar wind velocity, determine\nproperties of solar wind turbulence, and constrain the solar wind magnetic\nfield. These observations will provide a global characterization of the solar\nwind that will be highly complementary to in situ observations made by various\nspacecraft. In addition, such observations can be used to probe disturbances in\nthe solar wind -- coronal mass ejections, for example -- that may impact the\nnear-Earth environment.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1810.06633"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.05712",
+    "title": "Title:Methane on Mars: New insights into the sensitivity of CH4 with the NOMAD/ExoMars spectrometer through its first in-flight calibration",
+    "date_publ": "12 Oct 2018",
+    "authors": [
+      "Giuliano Liuzzi",
+      "Geronimo L. Villanueva",
+      "Michael J. Mumma",
+      "Michael D. Smith",
+      "Frank Daerden",
+      "Bojan Ristic",
+      "Ian Thomas",
+      "Ann Carine Vandaele",
+      "Manish R. Patel",
+      "Jos\u00e9-Juan Lopez-Moreno",
+      "Giancarlo Bellucci",
+      "the NOMAD tea"
+    ],
+    "abstract": "Abstract:  The Nadir and Occultation for MArs Discovery instrument (NOMAD), onboard the\nExoMars Trace Gas Orbiter (TGO) spacecraft was conceived to observe Mars in\nsolar occultation, nadir, and limb geometries, and will be able to produce an\noutstanding amount of diverse data, mostly focused on properties of the\natmosphere. The infrared channels of the instrument operate by combining an\nechelle grating spectrometer with an Acousto-Optical Tunable Filter (AOTF).\nUsing in-flight data, we characterized the instrument performance and\nparameterized its calibration. In particular: an accurate frequency calibration\nwas achieved, together with its variability due to thermal effects on the\ngrating. The AOTF properties and transfer function were also quantified, and we\ndeveloped and tested a realistic method to compute the spectral continuum\ntransmitted through the coupled grating + AOTF system. The calibration results\nenabled unprecedented insights into the important problem of the sensitivity of\nNOMAD to methane abundances in the atmosphere. We also deeply characterized its\nperformance under realistic conditions of varying aerosol abundances, diverse\nalbedos and changing illumination conditions as foreseen over the nominal\nmission. The results show that, in low aerosol conditions, NOMAD single\nspectrum, 1-sigma sensitivity to CH4 is around 0.33 ppbv at 20 km of altitude\nwhen performing solar occultations, and better than 1 ppbv below 30 km. In\ndusty conditions, we show that the sensitivity drops to 0 below 10 km. In Nadir\ngeometry, results demonstrate that NOMAD will be able to produce seasonal maps\nof CH4 with a sensitivity around 5 ppbv over most of planet's surface with\nspatial integration over 5x5 degrees bins. Results show also that such numbers\ncan be improved by a factor of 10 to 30 by data binning. Overall, our results\nquantify NOMAD's capability to address the variable aspects of Martian climate.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.05712"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.04749",
+    "title": "Title:Exploring Potential Environmental Benefits of Asteroid Mining",
+    "date_publ": "10 Oct 2018",
+    "authors": [
+      "Andreas M. Hein",
+      "Michael Saidani",
+      "Hortense Toll"
+    ],
+    "abstract": "Abstract:  Asteroid mining has been proposed as an approach to complement Earth-based\nsupplies of rare earth metals and supplying resources in space, such as water.\nExisting research on asteroid mining has mainly looked into its economic\nviability, technological feasibility, cartography of asteroids, and legal\naspects. More recently, potential environmental benefits for asteroid mining\nhave been considered. However, no quantitative estimate of these benefits has\nbeen given. This paper attempts to determine if and under which conditions\nasteroid mining would have environmental benefits, compared to either\nEarth-based mining or launching equipment and resources into space. We focus on\ntwo cases: Water supply to cis-lunar orbit and platinum mining. First, we\nconduct a state-of-the-art of current environmental life cycle assessment for\nthe space domain and platinum mining. Second, a first order environmental life\ncycle assessment is conducted, including goal and scope definition, inventory\nanalysis, and impact assessment. We compare water supply to cis-lunar orbit\nwith and without asteroid mining and go on to compare terrestrial with\nspace-based platinum mining. The results indicate that asteroid water mining\nwould have environmental benefits, as soon as the amount of water supplied via\nmining is larger than the mass of the spacecraft used for mining. For platinum\nmining, we find that by comparing the operations phase of terrestrial and space\nmining, space mining would have a lower environmental impact, if the spacecraft\nis able to return between 0.3 to 7% of its mass in platinum to Earth, assuming\n100% primary platinum or 100% secondary platinum, respectively. For future\nwork, we propose a more detailed analysis, based on a more precise inventory\nand a larger system boundary, including the production of the launcher and\nspacecraft.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1810.04749"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.04014",
+    "title": "Title:Radial evolution of the solar wind in pure high-speed streams: HELIOS revised observations",
+    "date_publ": "9 Oct 2018",
+    "authors": [
+      "D. Perrone",
+      "D. Stansby",
+      "T. Horbury",
+      "L. Mattein"
+    ],
+    "abstract": "Abstract:  Spacecraft observations have shown that the proton temperature in the solar\nwind falls off with radial distance more slowly than expected for an adiabatic\nprediction. Usually, previous studies have been focused on the evolution of the\nsolar-wind plasma by using the bulk speed as an order parameter to discriminate\ndifferent regimes. In contrast, here, we study the radial evolution of pure and\nhomogeneous fast streams (i.e. well-defined streams of coronal-hole plasma that\nmaintain their identity during several solar rotations) by means of\nre-processed particle data, from the HELIOS satellites between 0.3 and 1 AU. We\nhave identified 16 intervals of unperturbed high-speed coronal hole plasma,\nfrom three different sources and measured at different radial distances. The\nobservations show that, for all three streams, (i) the proton density decreases\nas expected for a radially expanding plasma, unlike previous analysis that\nfound a slower decrease; (ii) the magnetic field deviates from the Parker\nprediction, with the radial and tangential components decreasing more slowly\nand quickly than expected, respectively; (iii) the double-adiabatic invariants\nare violated and an increase of entropy is observed; (iv) the proton-core\ntemperature anisotropy is constrained by mirror mode instability; (v) the\ncollisional frequency is not constant, but decreases as the plasma travels away\nfrom the Sun. The present work provides an insight into the heating problem in\npure fast solar wind, fitting in the context of the next solar missions, and,\nespecially for Parker Solar Probe, it enables us to predict the high-speed\nsolar-wind environment much closer to the Sun.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1810.04014"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.03836",
+    "title": "Title:A Techno-Economic Analysis of Asteroid Mining",
+    "date_publ": "9 Oct 2018 (v1), last revised 10 Oct 2018 (this version, v2)",
+    "authors": [
+      "Andreas M. Hein",
+      "Robert Matheson",
+      "Dan Frie"
+    ],
+    "abstract": "Abstract:  Asteroid mining has been proposed as an approach to complement Earth-based\nsupplies of rare earth metals and supplying resources in space, such as water.\nHowever, existing studies on the economic viability of asteroid mining have\nremained rather simplistic and do not provide much guidance on which\ntechnological improvements would be needed for increasing its economic\nviability. This paper develops a techno-economic analysis of asteroid mining\nwith the objective of providing recommendations for future technology\ndevelopment and performance improvements. Both, in-space resource provision\nsuch as water and return of platinum to Earth are considered. Starting from\nfirst principles of techno-economic analysis, gradually additional economic and\ntechnological factors are added to the analysis model. Applied to mining\nmissions involving spacecraft reuse, learning curve effect, and multiple\nspacecraft, their economic viability is assessed. A sensitivity analysis with\nrespect to throughput rate, spacecraft mass, and resource price is performed.\nFurthermore, a sample asteroid volatile mining architecture based on small\nCubeSat-class spacecraft is presented. It is concluded that key technological\ndrivers for asteroid mining missions are throughput rate, number of spacecraft\nper mission, and the rate in which successive missions are conducted.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1810.03836"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.03493",
+    "title": "Title:Autonomous on-board data processing and instrument calibration software for the SO/PHI",
+    "date_publ": "8 Oct 2018",
+    "authors": [
+      "K. Albert",
+      "J. Hirzberger",
+      "D. Busse",
+      "T. Lange",
+      "M. Kolleck",
+      "B. Fiethe",
+      "D. Orozco Su\u00e1rez",
+      "J. Woch",
+      "J. Schou",
+      "J. Blanco Rodr\u00edguez",
+      "A. Gandorfer",
+      "Y. Guan",
+      "J.P. Cobos Carrascosa",
+      "D. Hern\u00e1ndez Exp\u00f3sito",
+      "J.C. del Toro Iniesta",
+      "S. K. Solanki",
+      "H. Michali"
+    ],
+    "abstract": "Abstract:  The extension of on-board data processing capabilities is an attractive\noption to reduce telemetry for scientific instruments on deep space missions.\nThe challenges that this presents, however, require a comprehensive software\nsystem, which operates on the limited resources a data processing unit in space\nallows. We implemented such a system for the Polarimetric and Helioseismic\nImager (PHI) on-board the Solar Orbiter (SO) spacecraft. It ensures autonomous\noperation to handle long command-response times, easy changing of the processes\nafter new lessons have been learned and meticulous book-keeping of all\noperations to ensure scientific accuracy. This contribution presents the\nrequirements and main aspects of the software implementation, followed by an\nexample of a task implemented in the software frame, and results from running\nit on SO/PHI. The presented example shows that the different parts of the\nsoftware framework work well together, and that the system processes data as we\nexpect. The flexibility of the framework makes it possible to use it as a\nbaseline for future applications with similar needs and limitations as SO/PHI.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1810.03493"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.03141",
+    "title": "Title:Secondary cosmic-ray nucleus spectra disfavor particle transport in the Galaxy without reacceleration",
+    "date_publ": "7 Oct 2018 (v1), last revised 17 Sep 2020 (this version, v2)",
+    "authors": [
+      "Qiang Yuan",
+      "Cheng-Rui Zhu",
+      "Xiao-Jun Bi",
+      "Da-Ming We"
+    ],
+    "abstract": "Abstract:  The precise observations of Galactic cosmic ray fluxes of the secondary\nfamily, such as Li, Be, B, are expected to have significant implications on our\nunderstanding of the cosmic ray origin and propagation. Here we employ the\nrecent very precise measurements of those species by the Alpha Magnetic\nSpectrometer on the International Space Station, together with their parent\nspecies (C and O), as well as the data collected by the Voyager-1 spacecraft\noutside the heliosphere and the Advanced Composition Explorer, to investigate\nthe propagation of cosmic rays in the Milky Way. We consider the diffusion of\ncosmic rays plus reacceleration or convection effect during the propagation,\nand find that the reacceleration model can fit the data significantly better\nthan the convection model. We further find that for the reacceleration model,\nthe spectral hardenings of both the primary and secondary particles can be well\ndescribed by the injection hardening without including additional propagation\nhardening. This is due to that the reacceleration effect results in a steeper\nsecondary-to-primary ratio at low energies, and can thus naturally reproduce\nthe fact that the secondary spectra harden more than the primary spectra found\nby AMS-02.",
+    "categories": [
+      "High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " High Energy Physics - Phenomenology (hep-ph)"
+    ],
+    "url_pdf": "/pdf/1810.03141"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.03130",
+    "title": "Title:Nonlinear Stochastic Attitude Filters on the Special Orthogonal Group 3: Ito and Stratonovich",
+    "date_publ": "7 Oct 2018 (v1), last revised 23 May 2020 (this version, v4)",
+    "authors": [
+      "Hashim A. Hashim",
+      "Lyndon J. Brown",
+      "Kenneth McIsaa"
+    ],
+    "abstract": "Abstract:  Two nonlinear stochastic complimentary filters are developed on SO(3). They\nguarantee that errors in the Rodriguez vector and estimates are semi-globally\nuniformly ultimately bounded in mean square, and they converge to a small\nneighborhood of the origin. Simulation results are presented to illustrate the\neffectiveness of the proposed filters considering high level of uncertainties\nin angular velocity as well as body-frame vector measurements. Keywords:\nAttitude estimate, Attitude estimator, Attitude observer, Attitude filter,\nNonlinear stochastic filter, stochastic differential equations, Brownian motion\nprocess, Ito, Stratonovich, Wong Zakai, Rodriguez vector, unit-quaternion,\nspecial orthogonal group 3, Euclidean, Euler angles, Angle-axis, Mapping,\nParameterization, Representation, Robust, Invariant, Kalman Filter, Extended\nKalman Filter, Multiplicative Extended Kalman Filter, Unscented Kalman Filter,\nParticle Filter, KF, EKF, MEKF, IEKF, first, second, Partial derivative,\noperator, probability, small, error, dynamics, kinematics, equilibrium,\nasymptotic, covariance, mean square, expected value, zero, unknown,\ntime-varying, global, semi-global, stable, stability, uncertain, white noise,\nGaussian noise, colored noise, bias, vectorial, vector measurement, angular\nvelocity, singular value decomposition, bounded, rotational matrix, identity,\ndeterministic, orientation, body frame, comparison, inertial frame, rigid body,\nthree dimensional, 3D, space, Attitude Control, Lie algebra, Lie group,\nprojection, Gyroscope, Inertial measurement units, micro electromechanical\nsystems, sensor, IMUs, MEMS, Roll, Pitch, Yaw, UAVs, QUAV, SVD, Fixed, Moving,\nVehicles, Robot, Robotic System, Spacecraft, submarine, Underwater vehicle,\nProblem, advantage, integral, integration, passive complementary filter,\nDisadvantage, autonomous, Review, Overview, Survey, comparative study, pose,\nSDEs, SE(3), SO(3).",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1810.03130"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.02213",
+    "title": "Title:Entanglement-enhanced optical gyroscope",
+    "date_publ": "4 Oct 2018",
+    "authors": [
+      "Matthias Fink",
+      "Fabian Steinlechner",
+      "Johannes Handsteiner",
+      "Jonathan P. Dowling",
+      "Thomas Scheidl",
+      "Rupert Ursi"
+    ],
+    "abstract": "Abstract:  Fiber optic gyroscopes (FOG) based on the Sagnac effect are a valuable tool\nin sensing and navigation and enable accurate measurements in applications\nranging from spacecraft and aircraft to self-driving vehicles such as\nautonomous cars. As with any classical optical sensors, the ultimate\nperformance of these devices is bounded by the standard quantum limit (SQL).\nQuantum-enhanced interferometry allows us to overcome this limit using\nnon-classical states of light. Here, we report on an entangled-photon gyroscope\nthat uses path-entangled NOON-states (N=2) to provide phase supersensitivity\nbeyond the standard-quantum-limit.",
+    "categories": [
+      "Quantum Physics (quant-ph)"
+    ],
+    "url_pdf": "/pdf/1810.02213"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.01815",
+    "title": "Title:Rubble Pile Asteroids",
+    "date_publ": "3 Oct 2018",
+    "authors": [
+      "Kevin J. Wals"
+    ],
+    "abstract": "Abstract:  The moniker rubble pile is typically applied to all solar system bodies with\nDiameter between 200m and 10km - where in this size range there is an abundance\nof evidence that nearly every object is bound primarily by self-gravity with\nsignificant void space or bulk porosity between irregularly shaped constituent\nparticles. The understanding of this population is derived from wide-ranging\npopulation studies of derived shape and spin, decades of observational studies\nin numerous wavelengths, evidence left behind from impacts on planets and moons\nand the in situ study of a few objects via spacecraft flyby or rendezvous. The\ninternal structure, however, which is responsible for the name rubble pile, is\nnever directly observed, but belies a violent history. Many or most of the\nasteroids on near-Earth orbits, and the ones most accessible for rendezvous and\nin situ study, are likely byproducts of the continued collisional evolution of\nthe Main Asteroid Belt.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1810.01815"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.01423",
+    "title": "Title:Scientific image rendering for space scenes with the SurRender software",
+    "date_publ": "2 Oct 2018",
+    "authors": [
+      "Roland Brochard",
+      "J\u00e9r\u00e9my Lebreton",
+      "Cyril Robin",
+      "Keyvan Kanani",
+      "Gr\u00e9gory Jonniaux",
+      "Aurore Masson",
+      "Noela Despr\u00e9",
+      "Ahmad Berjaou"
+    ],
+    "abstract": "Abstract:  Spacecraft autonomy can be enhanced by vision-based navigation (VBN)\ntechniques. Applications range from manoeuvers around Solar System objects and\nlanding on planetary surfaces, to in-orbit servicing or space debris removal.\nThe development and validation of VBN algorithms relies on the availability of\nphysically accurate relevant images. Yet archival data from past missions can\nrarely serve this purpose and acquiring new data is often costly. The SurRender\nsoftware is an image simulator that addresses the challenges of realistic image\nrendering, with high representativeness for space scenes. Images are rendered\nby raytracing, which implements the physical principles of geometrical light\npropagation, in physical units. A macroscopic instrument model and scene\nobjects reflectance functions are used. SurRender is specially optimized for\nspace scenes, with huge distances between objects and scenes up to Solar System\nsize. Raytracing conveniently tackles some important effects for VBN\nalgorithms: image quality, eclipses, secondary illumination, subpixel limb\nimaging, etc. A simulation is easily setup (in MATLAB, Python, and more) by\nspecifying the position of the bodies (camera, Sun, planets, satellites) over\ntime, 3D shapes and material surface properties. SurRender comes with its own\nmodelling tool enabling to go beyond existing models for shapes, materials and\nsensors (projection, temporal sampling, electronics, etc.). It is natively\ndesigned to simulate different kinds of sensors (visible, LIDAR, etc.). Tools\nare available for manipulating huge datasets to store albedo maps and digital\nelevation models, or for procedural (fractal) texturing that generates\nhigh-quality images for a large range of observing distances (from millions of\nkm to touchdown). We illustrate SurRender performances with a selection of case\nstudies, placing particular emphasis on a 900-km Moon flyby simulation.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1810.01423"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.01308",
+    "title": "Title:Automated detection of small-scale magnetic flux ropes in the solar wind: First results from the Wind spacecraft measurements",
+    "date_publ": "2 Oct 2018",
+    "authors": [
+      "Qiang Hu",
+      "Jinlei Zheng",
+      "Yu Chen",
+      "Jakobus le Roux",
+      "Lulu Zha"
+    ],
+    "abstract": "Abstract:  We have developed a new automated small-scale magnetic flux rope (SSMFR)\ndetection algorithm based on the Grad-Shafranov (GS) reconstruction technique.\nWe have applied this detection algorithm to the Wind spacecraft in-situ\nmeasurements during 1996 - 2016, covering two solar cycles, and successfully\ndetected a total number of 74,241 small-scale magnetic flux rope events with\nduration from 9 to 361 minutes. This large number of small-scale magnetic flux\nropes has not been discovered by any other previous studies through this unique\napproach. We perform statistical analysis of the small-scale magnetic flux rope\nevents based on our newly developed database, and summarize the main findings\nas follows. (1) The occurrence of small-scale flux ropes has strong solar cycle\ndependency with a rate of a few hundreds per month on average. (2) The\nsmall-scale magnetic flux ropes in the ecliptic plane tend to align along the\nParker spiral. (3) In low speed ($<$ 400 km/s) solar wind, the flux ropes tend\nto have lower proton temperature and higher proton number density, while in\nhigh speed ($\\ge$ 400 km/s) solar wind, they tend to have higher proton\ntemperature and lower proton number density. (4) Both the duration and scale\nsize distributions of the small-scale magnetic flux ropes obey a power law. (5)\nThe waiting time distribution of small-scale magnetic flux ropes can be fitted\nby an exponential function (for shorter waiting times) and a power law function\n(for longer waiting times). (6) The wall-to-wall time distribution obeys double\npower laws with the break point at 60 minutes (corresponding to the correlation\nlength). (7) The small-scale magnetic flux ropes tend to accumulate near the\nheliospheric current sheet (HCS). The entire database is available at\n\\url{this http URL} and in machine readable format in this article.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1810.01308"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.00696",
+    "title": "Title:Random Finite Set Theory and Centralized Control of Large Collaborative Swarms",
+    "date_publ": "1 Oct 2018 (v1), last revised 3 Dec 2020 (this version, v4)",
+    "authors": [
+      "Bryce Doerr",
+      "Richard Linares",
+      "Pingping Zhu",
+      "Silvia Ferrar"
+    ],
+    "abstract": "Abstract:  Controlling large swarms of robotic agents presents many challenges\nincluding, but not limited to, computational complexity due to a large number\nof agents, uncertainty in the functionality of each agent in the swarm, and\nuncertainty in the swarm's configuration. This work generalizes the swarm state\nusing Random Finite Set (RFS) theory and solves a centralized control problem\nwith a Quasi-Newton optimization through the use of Model Predictive Control\n(MPC) to overcome the aforementioned challenges. This work uses the RFS\nformulation to control the distribution of agents assuming an unknown or\nunspecified number of agents. Computationally efficient solutions are also\nobtained via the MPC version of the Iterative Linear Quadratic Regulator\n(ILQR), a variant of Differential Dynamic Programming (DDP). Information\ndivergence is used to define the distance between the swarm RFS and the desired\nswarm configuration through the use of the modified $L_2^2$ distance.\nSimulation results using MPC and ILQR show that the swarm intensity converges\nto the desired intensity. Additionally, the RFS control formulation is shown to\nbe very flexible in terms of the number of agents in the swarm and\nconfiguration of the desired Gaussian mixtures. Lastly, the ILQR and the\nGaussian Mixture Probability Hypothesis Density filter are used in conjunction\nto solve a spacecraft relative motion problem with imperfect information to\nshow the viability of centralized RFS control for this real-world scenario.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1810.00696"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.00407",
+    "title": "Title:Exploring the Kuiper Belt with Sun-diving Solar Sails",
+    "date_publ": "30 Sep 2018",
+    "authors": [
+      "Elena Ancona",
+      "Roman Ya. Kezerashvili",
+      "Gregory L. Matlof"
+    ],
+    "abstract": "Abstract:  We discuss a possibility to survey many Kuiper Belt Objects (KBO) with a\nsingle launch using a few smallscale spacecraft, each equipped with solar\nsails, which could be unfurled from a single interplanetary bus at the\nperihelion of that craft's solar orbit. Each small-scale spacecraft would carry\na scientific payload and would be directed to intersect one or more KBOs. The\nproposed scenario is the following: the sails are carried as a payload to a\nrelatively small heliocentric distance (0.1 - 0.3 AU). Once at the perihelion,\nthe sails are deployed. Besides electromagnetic propulsion due to the solar\nradiation, another mechanism could be convenient: thermal desorption, a\nphysical process of mass loss which can provide additional thrust as heating\nliberates atoms, embedded on the surface of a solar sail. Therefore, the sails\nexperience additional propulsive force due to the thermal desorption that\ndramatically increases the distance that sails travel per year.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Popular Physics (physics.pop-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1810.00407"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.00397",
+    "title": "Title:A post-Newtonian gravitomagnetic effect on the orbital motion of a test particle around its primary induced by the spin of a distant third body",
+    "date_publ": "30 Sep 2018 (v1), last revised 28 Feb 2019 (this version, v2)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  We study a general relativistic gravitomagnetic 3-body effect induced by the\nspin angular momentum ${\\boldsymbol S}_\\textrm{X}$ of a rotating mass\n$M_\\textrm{X}$ orbited at distance $r_\\textrm{X}$ by a local gravitationally\nbound restricted two-body system $\\mathcal{S}$ of size $r\\ll r_\\textrm{X}$\nconsisting of a test particle revolving around a massive body $M$. At the\nlowest post-Newtonian order, we analytically work out the doubly averaged rates\nof change of the Keplerian orbital elements of the test particle by finding\nnon-vanishing long-term effects for the inclination $I$, the node $\\Omega$ and\nthe pericenter $\\omega$. Such theoretical results are confirmed by a numerical\nintegration of the equations of motion for a fictitious 3-body system. We\nnumerically calculate the magnitudes of the post-Newtonian gravitomagnetic\n3-body precessions for some astronomical scenarios in our solar system. For\nputative man-made orbiters of the natural moons Enceladus and Europa in the\nexternal fields of Saturn and Jupiter, the relativistic precessions due to the\nangular momenta of the gaseous giant planets can be as large as $\\simeq\n10-50~\\textrm{milliarcseconds~per~year}~\\left(\\textrm{mas~yr}^{-1}\\right)$. A\npreliminary numerical simulation shows that, for certain orbital configurations\nof a hypothetical Europa orbiter, its range-rate signal $\\Delta\\dot\\rho$ can\nbecome larger than the current Doppler accuracy of the existing spacecraft Juno\nat Jupiter, i.e. $\\sigma_{\\dot\\rho}=0.015~\\textrm{mm~s}^{-1}$, after 1 d. The\neffects induced by the Sun's angular momentum on artificial probes of Mercury\nand the Earth are at the level of $\\simeq\n1-0.1~\\textrm{microarcseconds~per~year}~\\left(\\mu\\textrm{as~yr}^{-1}\\right)$.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1810.00397"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.10317",
+    "title": "Title:INO: Interplanetary Network of Optical Lattice Clocks",
+    "date_publ": "27 Sep 2018 (v1), last revised 11 Feb 2019 (this version, v2)",
+    "authors": [
+      "Toshikazu Ebisuzaki",
+      "Hidetoshi Katori",
+      "Jun'ichiro Makino",
+      "Atsushi Noda",
+      "Hisaaki Shinkai",
+      "Toru Tamagaw"
+    ],
+    "abstract": "Abstract:  The new technique of measuring frequency by optical lattice clocks now\napproaches to the relative precision of $(\\Delta f/f)=O(10^{-18})$. We propose\nto place such precise clocks in space and to use Doppler tracking method for\ndetecting low-frequency gravitational wave below 1 Hz. Our idea is to locate\nthree spacecrafts at one A.U. distance (say at L1, L4 & L5 of the Sun-Earth\norbit), and apply the Doppler tracking method by communicating \"the time\" each\nother. Applying the current available technologies, we obtain the sensitivity\nfor gravitational wave with three or four-order improvement ($h_{\\rm n}\\sim\n10^{-17}$ or $10^{-18}$ level in $10^{-5}$Hz -- $1$ Hz) than that of Cassini\nspacecraft in 2001. This sensitivity enables us to observe black-hole mergers\nof their mass greater than $10^5 M_\\odot$ in the cosmological scale. Based on\nthe hierarchical growth model of black-holes in galaxies, we estimate the event\nrate of detection will be 20-50 a year. We nickname \"INO\" (Interplanetary\nNetwork of Optical Lattice Clocks) for this system, named after Tadataka Ino\n(1745--1818), a Japanese astronomer, cartographer, and geodesist.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Astrophysics of Galaxies (astro-ph.GA)",
+      " General Relativity and Quantum Cosmology (gr-qc)",
+      " Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/1809.10317"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.09196",
+    "title": "Title:Directed Energy Interception of Satellites",
+    "date_publ": "24 Sep 2018 (v1), last revised 28 Feb 2019 (this version, v3)",
+    "authors": [
+      "Harrison She",
+      "Will Hettel",
+      "Philip Lubi"
+    ],
+    "abstract": "Abstract:  High power Earth and orbital-based directed energy (DE) systems pose a\npotential hazard to Earth orbiting spacecraft. The use of very high power,\nlarge aperture DE systems to propel spacecraft is being pursued as the only\nknown, feasible method to achieve relativistic flight in our NASA Starlight and\nBreakthrough Starshot programs. In addition, other beamed power mission\nscenarios, such as orbital debris removal and our NASA program using DE for\npowering high performance ion engine missions, pose similar concerns. It is\ncritical to quantify the probability and rates of interception of the DE beam\nwith the approximately 2000 active Earth orbiting spacecraft. We have modeled\nthe interception of the beam with satellites by using their orbital parameters\nand computing the likelihood of interception for many of the scenarios of the\nproposed systems we are working on. We are able to simulate both the absolute\ninterception as well as the distance and angle from the beam to the spacecraft,\nand have modeled a number of scenarios to obtain general probabilities. We have\nestablished that the probability of beam interception of any active satellite,\nincluding its orbital position uncertainty, during any of the proposed mission\nscenarios is low ($\\approx10^{-4}$). The outcome of this work gives us the\nability to predict when to energize the beam without intercept, as well as the\ncapability to turn off the DE as needed for extended mission scenarios. As\nadditional satellites are launched, our work can be readily extended to\naccommodate them. Our work can also be used to predict interception of\nastronomical adaptive optics guide-star lasers as well as more general laser\nuse.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1809.09196"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.08969",
+    "title": "Title:Experimental results from the ST7 mission on LISA Pathfinder",
+    "date_publ": "24 Sep 2018 (v1), last revised 16 Oct 2018 (this version, v2)",
+    "authors": [
+      "G Anderson",
+      "J Anderson",
+      "M Anderson",
+      "G Aveni",
+      "D Bame",
+      "P Barela",
+      "K Blackman",
+      "A Carmain",
+      "L Chen",
+      "M Cherng",
+      "S Clark",
+      "M Connally",
+      "W Connolly",
+      "D Conroy",
+      "M Cooper",
+      "C Cutler",
+      "J D'Agostino",
+      "N Demmons",
+      "E Dorantes",
+      "C Dunn",
+      "M Duran",
+      "E Ehrbar",
+      "J Evans",
+      "J Fernandez",
+      "G Franklin",
+      "M Girard",
+      "J Gorelik",
+      "V Hruby",
+      "O Hsu",
+      "D Jackson",
+      "S Javidnia",
+      "D Kern",
+      "M Knopp",
+      "R Kolasinski",
+      "C Kuo",
+      "T Le",
+      "I Li",
+      "O Liepack",
+      "A Littlefield",
+      "P Maghami",
+      "S Malik",
+      "L Markley",
+      "R Martin",
+      "C Marrese-Reading",
+      "J Mehta",
+      "J Mennela",
+      "D Miller",
+      "D Nguyen",
+      "J O'Donnell",
+      "R Parikh",
+      "G Plett",
+      "T Ramsey",
+      "T Randolph",
+      "S Rhodes",
+      "A Romero-Wolf",
+      "T Roy",
+      "A Ruiz",
+      "H Shaw",
+      "J Slutsky",
+      "D Spence",
+      "J Stocky",
+      "J Tallon",
+      "I Thorpe",
+      "W Tolman",
+      "H Umfress",
+      "R Valencia",
+      "C Valerio",
+      "W Warner",
+      "J Wellman",
+      "P Willis",
+      "J Ziemer",
+      "J Zwahlen",
+      "M Armano",
+      "H Audley",
+      "J Baird",
+      "P Binetruy",
+      "a M Born",
+      "D Bortoluzzi",
+      "E Castelli",
+      "A Cavalleri",
+      "A Cesarini",
+      "A M Cruise",
+      "K Danzmann",
+      "M de Deus Silva",
+      "I Diepholz",
+      "G Dixon",
+      "R Dolesi",
+      "L Ferraioli",
+      "V Ferroni",
+      "E D Fitzsimons",
+      "M Freschi",
+      "L Gesa",
+      "F Gibert",
+      "D Giardini",
+      "R Giusteri",
+      "C Grimani",
+      "J Grzymisch",
+      "I Harrison",
+      "G Heinzel",
+      "M Hewitson",
+      "D Hollington",
+      "D Hoyland",
+      "M Hueller",
+      "H Inchauspe",
+      "O Jennrich",
+      "P Jetzer",
+      "N Karnesis",
+      "B Kaune",
+      "N Korsakova",
+      "C J Killow",
+      "J A Lobo",
+      "I Lloro",
+      "L Liu",
+      "J P Lopez-Zaragoza",
+      "R Maarschalkerweerd",
+      "D Mance",
+      "N Meshksar",
+      "V Martin",
+      "L Martin-Polo",
+      "J Martino",
+      "F Martin-Porqueras",
+      "I Mateos",
+      "P W McNamara",
+      "J Mendes",
+      "L Mendes",
+      "M Nofrarias",
+      "S Paczkowski",
+      "M Perreur-Lloyd",
+      "A Petiteau",
+      "P Pivato",
+      "E Plagnol",
+      "J Ramos-Castro",
+      "J Reiche",
+      "D I Robertson",
+      "F Rivas",
+      "G Russano",
+      "C F Sopuerta",
+      "T Sumner",
+      "D Texier",
+      "D Vetrugno",
+      "S Vitale",
+      "G Wanner",
+      "H Ward",
+      "P J Wass",
+      "W J Weber",
+      "L Wissel",
+      "A Wittchen",
+      "P Zweifel\n\n\n    et al. (48 additional authors not shown)\n\u00a0You must enable JavaScript to view entire author list"
+    ],
+    "abstract": "Abstract:  The Space Technology 7 Disturbance Reduction System (ST7-DRS) is a NASA\ntechnology demonstration payload that operated from January 2016 through July\nof 2017 on the European Space Agency's LISA Pathfinder spacecraft. The joint\ngoal of the NASA and ESA missions was to validate key technologies for a future\nspace-based gravitational wave observatory targeting the source-rich milliHertz\nband. The two primary components of ST7-DRS are a micropropulsion system based\non colloidal micro-Newton thrusters (CMNTs) and a control system that\nsimultaneously controls the attitude and position of the spacecraft and the two\nfree-flying test masses (TMs). This paper presents our main experimental\nresults and summarizes the overall the performance of the CMNTs and control\nlaws. We find that the CMNT performance to be consistent with pre-flight\npredictions, with a measured system thrust noise on the order of\n$100\\,\\textrm{nN}/\\sqrt{\\textrm{Hz}}$ in the $1\\,\\textrm{mHz}\\leq f \\leq\n30\\,\\textrm{mHz}$ band. The control system maintained the TM-spacecraft\nseparation with an RMS error of less than 2$\\,$nm and a noise spectral density\nof less than $3\\,\\textrm{nm}/\\sqrt{\\textrm{Hz}}$ in the same band. Thruster\ncalibration measurements yield thrust values consistent with the performance\nmodel and ground-based thrust-stand measurements, to within a few percent. We\nalso report a differential acceleration noise between the two test masses with\na spectral density of roughly $3\\,\\textrm{fm}/\\textrm{s}^2/\\sqrt{\\textrm{Hz}}$\nin the $1\\,\\textrm{mHz}\\leq f \\leq 30\\,\\textrm{mHz}$ band, slightly less than\ntwice as large as the best performance reported with the baseline LISA\nPathfinder configuration and below the current requirements for the Laser\nInterferometer Space Antenna (LISA) mission.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1809.08969"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.08232",
+    "title": "Title:The LISA interferometer: impact of stray light on the phase of the heterodyne signal",
+    "date_publ": "21 Sep 2018",
+    "authors": [
+      "C P Sasso",
+      "G Mana",
+      "S Mottin"
+    ],
+    "abstract": "Abstract:  The Laser Interferometer Space Antenna is a foreseen gravitational wave\ndetector, which aims to detect $10^{-20}$ strains in the frequency range from\n0.1 mHz to 1 Hz. It is a triangular constellation, with equal sides of $2,5\n\\times 10^9$ m, of three spacecraft, where heterodyne interferometry measures\nthe spacecraft distances. The stray light from the powerful transmitted beam\ncan overlap with the received one and interfere with the heterodyne signal. We\ninvestigated the contribution of random phase variations of the stray photons\nto the noise of the heterodyne signal. A balanced detection scheme more\neffectively mitigates this adverse effect than a separation of the frequencies\nof the transmitted and local radiation. In the balanced scheme, in order to\nlimit the phase noise to picometer level, the incoherent power of the stray\nlight must be kept below about 10 nW/W for an asymmetry of the recombination\nbeam splitter of 1%.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1809.08232"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.07393",
+    "title": "Title:The Draconid meteoroid stream 2018: prospects for satellite impact detection",
+    "date_publ": "19 Sep 2018",
+    "authors": [
+      "Auriane Egal",
+      "Paul Wiegert",
+      "Peter G. Brown",
+      "Danielle E. Moser",
+      "Althea V. Moorhead",
+      "William J. Cook"
+    ],
+    "abstract": "Abstract:  Predictions of the 2018 Draconid activity at the Earth and the Sun-Earth L1\nand L2 Lagrange points are presented. Numerical simulations of the meteoroids'\nejection and evolution from comet 21P/Giacobini-Zinner are performed with a\ncareful implementation of the results analysis and weighting. Model meteoroid\nfluxes at Earth are derived using as calibration the main peak date, intensity,\nand shower profiles of previous Draconid outbursts. Good agreement between the\nmodel and measurements is found for the 1933, 1946, 1998 and 2011 showers for a\nmeteoroid size distribution index at ejection of about 2.6. A less accurate\nestimate of the peak time for the 1985, 2005 and 2012 predominantly\nradio-observed outbursts was found by considering the contribution of\nindividual ejection epochs, while the model peak flux estimate was found to\nagree with observations to within a factor 3. Despite the promising geometrical\nconfiguration in 2018, our simulations predict low Draconid activity is\nexpected on Earth, with a maximum of less than a few tens of meteors per hour\naround midnight the 9th of October, confirming previous models. At the L1 and\nL2 Lagrange points, however, the flux estimates suggest a 'meteoroid storm'.\nThe Gaia spacecraft at the L2 region might be able to detect small (~ {\\mu}g)\nDraconid meteoroid impacts centered in a two-hour window around 18h30 UT on the\n8th of October, 2018.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1809.07393"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.07238",
+    "title": "Title:Pose Estimation for Non-Cooperative Spacecraft Rendezvous Using Convolutional Neural Networks",
+    "date_publ": "19 Sep 2018",
+    "authors": [
+      "Sumant Sharma",
+      "Connor Beierle",
+      "Simone D'Amic"
+    ],
+    "abstract": "Abstract:  On-board estimation of the pose of an uncooperative target spacecraft is an\nessential task for future on-orbit servicing and close-proximity formation\nflying missions. However, two issues hinder reliable on-board monocular vision\nbased pose estimation: robustness to illumination conditions due to a lack of\nreliable visual features and scarcity of image datasets required for training\nand benchmarking. To address these two issues, this work details the design and\nvalidation of a monocular vision based pose determination architecture for\nspaceborne applications. The primary contribution to the state-of-the-art of\nthis work is the introduction of a novel pose determination method based on\nConvolutional Neural Networks (CNN) to provide an initial guess of the pose in\nreal-time on-board. The method involves discretizing the pose space and\ntraining the CNN with images corresponding to the resulting pose labels. Since\nreliable training of the CNN requires massive image datasets and computational\nresources, the parameters of the CNN must be determined prior to the mission\nwith synthetic imagery. Moreover, reliable training of the CNN requires\ndatasets that appropriately account for noise, color, and illumination\ncharacteristics expected in orbit. Therefore, the secondary contribution of\nthis work is the introduction of an image synthesis pipeline, which is tailored\nto generate high fidelity images of any spacecraft 3D model. The proposed\ntechnique is scalable to spacecraft of different structural and physical\nproperties as well as robust to the dynamic illumination conditions of space.\nThrough metrics measuring classification and pose accuracy, it is shown that\nthe presented architecture has desirable robustness and scalable properties.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1809.07238"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.07157",
+    "title": "Title:Effects of irradiation on Triple and Single Junction InGaP/GaAs/Ge solar cells",
+    "date_publ": "19 Sep 2018",
+    "authors": [
+      "Roberta Campesato",
+      "Carsten Baur",
+      "Mariacristina Casale",
+      "Massimo Gervasi",
+      "Enos Gombia",
+      "Erminio Greco",
+      "Aldo Kingma",
+      "Pier Giorgio Rancoita",
+      "Davide Rozza",
+      "Mauro Taccon"
+    ],
+    "abstract": "Abstract:  The investigation of the degradation effects on triple-junction (TJ) solar\ncells, operating in space environment, is of primary importance in view of\nfuture space missions towards harsh radiation orbits (e.g. MEO with high\nparticle irradiation intensity) and for the new spacecraft based on electrical\npropulsion. In the present work, we report the experimental results obtained\nfrom the irradiation test campaign carried out both on (InGaP/GaAs/Ge) TJ solar\ncells and on single junction (SJ) isotype sub-cells (i.e. InGaP top cells, GaAs\nmiddle cells and Ge bottom cells). In particular, the electrical performances\ndegradation of the irradiated samples was analyzed by means of the Displacement\nDamage Dose (DDD) method based on the NIEL (Non Ionizing Energy Loss) scaling\nhypothesis, with DDD doses computed by the SR-NIEL approach. By plotting the\nremaining factors as a function of the DDD, a single degradation curve for each\nsample type and for each electrical parameter has been found. The collapse of\nthe remaining factors on a single curve has been achieved by selecting suitable\ndisplacement threshold energies, $E_d$, for NIEL calculation. Moreover, DLTS\n(Deep level Transient Spectroscopy) technique was used to better understand the\nnature of the defects produced by irradiation. DLTS measurements reveal a good\ncorrelation between defects introduced by irradiation inside the GaAs sub-cell\nand the calculated Displacement Damage Doses.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1809.07157"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.06932",
+    "title": "Title:Electron-Scale Dynamics of the Diffusion Region during Symmetric Magnetic Reconnection in Space",
+    "date_publ": "18 Sep 2018",
+    "authors": [
+      "R. B. Torbert",
+      "J. L. Burch",
+      "T. D. Phan",
+      "M. Hesse",
+      "M. R. Argall",
+      "J.Shuster",
+      "R. E. Ergun",
+      "L.Alm",
+      "R. Nakamura",
+      "K. Genestreti",
+      "D. J. Gershman",
+      "W.R. Paterson",
+      "D. L. Turner",
+      "I. Cohen",
+      "B. L. Giles",
+      "C. J. Pollock",
+      "S.Wang",
+      "L.-J. Chen",
+      "Julia Stawarz",
+      "J. P. Eastwood",
+      "K.- J.Hwang",
+      "C. Farrugia",
+      "I. Dors",
+      "H. Vaith",
+      "C.Mouikis",
+      "A. Ardakani",
+      "B. H. Mauk",
+      "S. A. Fuselier",
+      "C. T. Russell",
+      "R. J. Strangeway",
+      "T.E. Moore",
+      "J. F. Drake",
+      "M. A. Shay",
+      "Yu. V. Khotyaintsev",
+      "P.-A. Lindqvist",
+      "W. Baumjohann",
+      "F. D. Wilder",
+      "N. Ahmadi",
+      "J. C. Dorelli",
+      "L. A. Avanov",
+      "M. Oka",
+      "D. N. Baker",
+      "J. F. Fennell",
+      "J. B. Blake",
+      "A. N. Jaynes",
+      "O. Le Contel",
+      "S. M. Petrinec",
+      "B. Lavraud",
+      "Y. Sait"
+    ],
+    "abstract": "Abstract:  Magnetic reconnection is an energy conversion process important in many\nastrophysical contexts including the Earth's magnetosphere, where the process\ncan be investigated in-situ. Here we present the first encounter of a\nreconnection site by NASA's Magnetospheric Multiscale (MMS) spacecraft in the\nmagnetotail, where reconnection involves symmetric inflow conditions. The\nunprecedented electron-scale plasma measurements revealed (1) super-Alfvenic\nelectron jets reaching 20,000 km/s, (2) electron meandering motion and\nacceleration by the electric field, producing multiple crescent-shaped\nstructures, (3) spatial dimensions of the electron diffusion region implying a\nreconnection rate of 0.1-0.2. The well-structured multiple layers of electron\npopulations indicate that, despite the presence of turbulence near the\nreconnection site, the key electron dynamics appears to be largely laminar.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1809.06932"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.06119",
+    "title": "Title:Measuring general relativistic dragging effects in the Earth's gravitational field with ELXIS: a proposal",
+    "date_publ": "17 Sep 2018 (v1), last revised 10 Jan 2019 (this version, v5)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  In a geocentric kinematically rotating ecliptical coordinate system in\ngeodesic motion through the deformed spacetime of the Sun, both the longitude\nof the ascending node $\\Omega$ and the inclination $I$ of an artificial\nsatellite of the spinning Earth are affected by the post-Newtonian\ngravitoelectric De Sitter and gravitomagnetic Lense-Thirring effects. By\nchoosing a circular orbit with $I = \\Omega = 90\u00b0$ for a potential new\nspacecraft, which we propose to name ELXIS, it would be possible to measure\neach of the gravitomagnetic precessions separately at a percent level, or,\nperhaps, even better depending on the level of accuracy of the current and\nfuture global ocean tide models since the competing classical long-term\nperturbations on $I,~\\Omega$ due to the even and odd zonal harmonics\n$J_\\ell,~\\ell=2,~3,~4,\\ldots$ of the geopotential vanish. Moreover, a suitable\nlinear combination of $I,~\\Omega$ would be able to cancel out the solid and\nocean tidal perturbations induced by the $K_1$ tide and, at the same time,\nenforce the geodetic precessions yielding a secular trend of\n$-8.3~\\textrm{milliarcseconds~per~year}$, thus strengthening the goal of a\n$\\simeq 10^{-5}$ test of the De Sitter effect recently proposed in the\nliterature in the case of an equatorial coordinate system. Relatively mild\ndepartures $\\Delta I = \\Delta\\Omega\\simeq 0.01-0.1\u00b0$ from the ideal orbital\nconfiguration with $I = \\Omega = 90\u00b0$ are allowed. [Abridged]",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1809.06119"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.05278",
+    "title": "Title:Solar wind interaction with comet 67P: impacts of corotating interaction regions",
+    "date_publ": "14 Sep 2018",
+    "authors": [
+      "Niklas J. T. Edberg",
+      "A. I. Eriksson",
+      "E. Odelstad",
+      "E. Vigren",
+      "D.J. Andrews",
+      "F. Johansson",
+      "J.L. Burch",
+      "C. M. Carr",
+      "E. Cupido",
+      "K.-H. Glassmeier",
+      "R. Goldstein",
+      "J. S. Halekas",
+      "P. Henri",
+      "J.-P. Lebreton",
+      "K. Mandt",
+      "P. Mokashi",
+      "Z. Nemeth",
+      "H. Nilsson",
+      "R. Ramstad",
+      "I. Richter",
+      "G. Stenberg Wiese"
+    ],
+    "abstract": "Abstract:  We present observations from the Rosetta Plasma Consortium of the effects of\nstormy solar wind on comet 67P/Churyumov-Gerasimenko. Four corotating\ninteraction regions (CIRs), where the first event has possibly merged with a\nCME, are traced from Earth via Mars (using Mars Express and MAVEN) and to comet\n67P from October to December 2014. When the comet is 3.1-2.7 AU from the Sun\nand the neutral outgassing rate $\\sim10^{25}-10^{26}$ s$^{-1}$ the CIRs\nsignificantly influence the cometary plasma environment at altitudes down to\n10-30 km. The ionospheric low-energy \\textcolor{black}{($\\sim$5 eV) plasma\ndensity increases significantly in all events, by a factor $>2$ in events 1-2\nbut less in events 3-4. The spacecraft potential drops below -20V upon impact\nwhen the flux of electrons increases}. The increased density is\n\\textcolor{black}{likely} caused by compression of the plasma environment,\nincreased particle impact ionisation, and possibly charge exchange processes\nand acceleration of mass loaded plasma back to the comet ionosphere. During all\nevents, the fluxes of suprathermal ($\\sim$10-100 eV) electrons increase\nsignificantly, suggesting that the heating mechanism of these electrons is\ncoupled to the solar wind energy input. At impact the magnetic field strength\nin the coma increases by a factor of ~2-5 as more interplanetary magnetic field\npiles up around of the comet. During two CIR impact events, we observe possible\nplasma boundaries forming, or moving past Rosetta, as the strong solar wind\ncompresses the cometary plasma environment. \\textcolor{black}{We also discuss\nthe possibility of seeing some signatures of the ionospheric response to tail\ndisconnection events",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1809.05278"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.04459",
+    "title": "Title:De-orbiting Small Satellites Using Inflatables",
+    "date_publ": "11 Sep 2018",
+    "authors": [
+      "Aman Chandra",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  Small-satellites and CubeSats offer a low-cost pathway to access Low Earth\nOrbit at altitudes of 450 km and lower thanks to miniaturization and\nadvancement in reliability of commercial electronics. However, at these low\naltitudes, atmospheric drag has a critical effect on the satellite resulting in\nnatural deorbits within months. As these small systems further increase in\nreliability and radiation tolerance they will be able readily access higher\norbits at altitudes of 700 km and higher, where atmospheric drag has little to\nno effect. This requires alternative technologies to either de-orbit these\nsmall spacecrafts at the end of life or move them to a safe parking orbit. Use\nof propulsion and de-orbit mechanisms have been proposed, however they require\nactive control systems to be trigged. Other typical de-orbit mechanism relies\non complex mechanisms with many moving parts. In this work, we analyze the\nfeasibility of using inflatable de-orbit devices that are triggered passively\nwhen a spacecraft is tumbling. Inflatables have already been proposed as\nhypersonic deccelerators that would carry large payload to the Martian surface.\nHowever, these systems are quite complex and need to withstand high-forces,\ntemperature and enable survival of a critical payload. Furthermore, inflatables\nhave been proposed as communication antennas and as structures using a class of\nsublimates that turn into gas under the vacuum of space. These inflatables\nsystem are relatively simple and does not require a specialized inflation\nsystem.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1809.04459"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.03798",
+    "title": "Title:The $^{16}$O/$^{18}$O ratio in Water in the Coma of Comet 67P / Churyumov-Gerasimenko measured with the Rosetta / ROSINA Double-Focusing Mass Spectrometer",
+    "date_publ": "11 Sep 2018 (v1), last revised 4 Apr 2019 (this version, v2)",
+    "authors": [
+      "Isaac R.H.G. Schroeder I",
+      "Kathrin Altwegg",
+      "Hans Balsiger",
+      "Jean-Jacques Berthelier",
+      "Johan De Keyser",
+      "Bj\u00f6rn Fiethe",
+      "Stephen A. Fuselier",
+      "S\u00e9bastien Gasc",
+      "Tamas I. Gombosi",
+      "Martin Rubin",
+      "Thierry S\u00e9mon",
+      "Chia-Yu Tzou",
+      "Susanne F. Wampfler",
+      "Peter Wur"
+    ],
+    "abstract": "Abstract:  The European Space Agency (ESA) spacecraft Rosetta accompanied the\nJupiter-family comet (JFC) 67P / Churyumov-Gerasimenko for over two years along\nits trajectory through the inner solar system. Between 2014 and 2016, it\nperformed almost continuous in-situ measurements of the comet's gaseous\natmosphere in close proximity to its nucleus. In this study, the\n$^{16}$O/$^{18}$O ratio of H$_2$O in the coma of 67P / Churyumov-Gerasimenko,\nas measured by the ROSINA DFMS mass spectrometer on board Rosetta, was\ndetermined from the ratio of H${_2}^{16}$O / H${_2}^{18}$O and $^{16}$OH /\n$^{18}$OH. The value of 445 $\\pm$ 35 represents an $\\sim$ 11% enrichment of\n$^{18}$O compared with the terrestrial ratio of 498.7 $\\pm$ 0.1. This cometary\nvalue is consistent with the comet containing primordial water, in accordance\nwith leading self-shielding models. These models predict primordial water to be\nbetween 5% to 20% enriched in heavier oxygen isotopes compared to terrestrial\nwater.\nAddendum: The $^{16}$O/$^{17}$O ratio of H$_2$O in the coma of 67P /\nChuryumov-Gerasimenko.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1809.03798"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.03651",
+    "title": "Title:Reconstructing solar wind inhomogeneous structures from stereoscopic observations in white-light: Small transients along the Sun-Earth line",
+    "date_publ": "11 Sep 2018",
+    "authors": [
+      "Xiaolei Li",
+      "Yuming Wang",
+      "Rui Liu",
+      "Chenglong Shen",
+      "Quanhao Zhang",
+      "Bin Zhuang",
+      "Jiajia Liu",
+      "Yutian Ch"
+    ],
+    "abstract": "Abstract:  The Heliospheric Imagers (HI) on board the two spacecraft of the Solar\nTerrestrial Relations Observatory (STEREO) provided white-light images of\ntransients in the solar wind from dual perspectives from 2007 to 2014. In this\npaper, we develop a new method to identify and locate the transients\nautomatically from simultaneous images from the two inner telescopes, known as\nHI-1, based on a correlation analysis. Correlation coefficient (cc) maps along\nthe Sun-Earth line are constructed for the period from 1 Jan 2010 to 28 Feb\n2011. From the maps, transients propagating along the Sun-Earth line are\nidentified, and a 27-day periodic pattern is revealed, especially for\nsmall-scale transients. Such a periodicity in the transient pattern is\nconsistent with the rotation of the Sun's global magnetic structure and the\nperiodic crossing of the streamer structures and slow solar wind across the\nSun-Earth line, and this substantiates the reliability of our method and the\nhigh degree of association between the small-scale transients of the slow solar\nwind and the coronal streamers. Besides, it is suggested by the cc map that\nsmall-scale transients along the Sun-Earth line are more frequent than\nlarge-scale transients by a factor of at least 2, and that they quickly\ndiffused into background solar wind within about 40 Rs in terms of the\nsignal-to-noise ratio of white-light emissions. The method provides a new tool\nto reconstruct inhomogeneous structures in the heliosphere from multiple\nperspectives.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1809.03651"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.03608",
+    "title": "Title:Optimal Strategies for Disjunctive Sensing and Control",
+    "date_publ": "10 Sep 2018",
+    "authors": [
+      "Richard L Sutherland",
+      "Ilya V Kolmanovsky",
+      "Anouck R Girard",
+      "Frederick A Leve",
+      "Christopher D Peterse"
+    ],
+    "abstract": "Abstract:  A disjunctive sensing and actuation problem is considered in which the\nactuators and sensors are prevented from operating together over any given time\nstep. This problem is motivated by practical applications in the area of\nspacecraft control. Assuming a linear system model with stochastic process\ndisturbance and measurement noise, a procedure to construct a periodic sequence\nthat ensures bounded states and estimation error covariance is described along\nwith supporting analysis results. The procedure is also extended to ensure\neventual satisfaction of probabilistic chance constraints on the state. The\nproposed scheme demonstrates good performance in simulations for spacecraft\nrelative motion control.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1809.03608"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.02915",
+    "title": "Title:The (Non-)Magnetization of 433 Eros: Possible Mechanisms for the Lack of Magnetism as Measured by NEAR",
+    "date_publ": "9 Sep 2018",
+    "authors": [
+      "Niraj K. Inamda"
+    ],
+    "abstract": "Abstract:  The Near Earth Asteroid Rendezvous-Shoemaker (\"NEAR\") spacecraft orbited and\nultimately landed on the near-Earth asteroid 433 Eros. One of the primary\nscience objectives of NEAR was the MAG experiment, which measured the magnetic\nfield in the vicinity of Eros during orbit and after landing. Eros is therefore\nat the present the best characterized asteroid using in situ measurement of\nmagnetism. MAG results suggested that Eros was very unmagnetized-with an upper\nbound on the natural remanent magnetism (NRM) placed at $1.9\\times\n10^{-6}\\mathrm{A\\cdot m^2 \\cdot kg^{-1}}$-especially when compared to meteorite\nsamples of analogous composition. Since meteorites and asteroids are typically\nbelieved to represent the remnants of disrupted parent bodies, the\nramifications of the low level of magnetization of Eros are considerable, since\nit could imply disparate origins for objects of similar composition. In this\npaper, we explore whether there are any systematic effects related to the\nactual process of measurement and derivation of the Erotian NRM, and whether\nsuch effects played a role in the low levels of NRM derived for Eros. By\nsimulating the orbit of NEAR around Eros and using the field strength values\nmeasured by NEAR, we find that we are able to place a higher bound on the NRM\nof Eros by a factor of at least an order of magnitude higher than that\noriginally suggested by Acu\u00f1a, et al. (2002). We find that if we suppose\nEros to be made up of constituents that have roughly uniform magnetization\ndirectionally, that it is possible to infer an L or LL chondrite-type\ncomposition for Eros within the bounds of values for remanent magnetism\nreported in the meteorite record. The results provide a more rigorous\nconfirmation of the suggestion by Wasilewski, et al. (2002) that Eros cannot be\nruled out as an L- or LL-type analogue.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1809.02915"
+  }
+]

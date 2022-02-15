@@ -1,0 +1,848 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1205.0928",
+    "title": "Title:Estimation of the effects of Y and Zn atoms on the elastic properties of Mg solid solution",
+    "date_publ": "2 May 2012",
+    "authors": [
+      "Vassiliki Katsika-Tsigourako"
+    ],
+    "abstract": "Abstract:  Mg-based alloys have recently attracted major interest in view of their\npotential applications in the aerospace, aircraft and automotive industries.\nHere, we show that the effects of Y and Zn atoms on their compressibility can\nbe reliably estimated by a simple thermodynamical model deduced by means of\nfirst-principles calculations based on density functional theory that just\nappeared.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Other Condensed Matter (cond-mat.other)"
+    ],
+    "url_pdf": "/pdf/1205.0928"
+  },
+  {
+    "url": "https://arxiv.org/abs/1205.0791",
+    "title": "Title:Early Science with SOFIA, the Stratospheric Observatory for Infrared Astronomy",
+    "date_publ": "3 May 2012",
+    "authors": [
+      "E. T. Young",
+      "E. E. Becklin",
+      "P. M. Marcum",
+      "T. L. Roellig",
+      "J. M. De Buizer",
+      "T. L. Herter",
+      "R. G\u00fcsten",
+      "E. W. Dunham",
+      "P. Temi",
+      "B.-G. Andersson",
+      "D. Backman",
+      "M. Burgdorf",
+      "L. J. Caroff",
+      "S. C. Casey",
+      "J. A. Davidson",
+      "E. F. Erickson",
+      "R. D. Gehrz",
+      "D. A. Harper",
+      "P. M. Harvey",
+      "L. A. Helton",
+      "S. D. Horner",
+      "C. D. Howard",
+      "R. Klein",
+      "A. Krabbe",
+      "I. S. McLean",
+      "A. W. Meyer",
+      "J. W. Miles",
+      "M. R. Morris",
+      "W. T. Reach",
+      "J. Rho",
+      "M. J. Richter",
+      "H.-P. Roeser",
+      "G. Sandell",
+      "R. Sankrit",
+      "M. L. Savage",
+      "E. C. Smith",
+      "R. Y. Shuping",
+      "W. D. Vacca",
+      "J. E. Vaillancourt",
+      "J. Wolf",
+      "H. Zinnecke"
+    ],
+    "abstract": "Abstract:  The Stratospheric Observatory for Infrared Astronomy (SOFIA) is an airborne\nobservatory consisting of a specially modified Boeing 747SP with a 2.7-m\ntelescope, flying at altitudes as high as 13.7 km (45,000 ft). Designed to\nobserve at wavelengths from 0.3 micron to 1.6 mm, SOFIA operates above 99.8 %\nof the water vapor that obscures much of the infrared and submillimeter. SOFIA\nhas seven science instruments under development, including an occultation\nphotometer, near-, mid-, and far-infrared cameras, infrared spectrometers, and\nheterodyne receivers. SOFIA, a joint project between NASA and the German\nAerospace Center DLR, began initial science flights in 2010 December, and has\nconducted 30 science flights in the subsequent year. During this early science\nperiod three instruments have flown: the mid-infrared camera FORCAST, the\nheterodyne spectrometer GREAT, and the occultation photometer HIPO. This\narticle provides an overview of the observatory and its early performance.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1205.0791"
+  },
+  {
+    "url": "https://arxiv.org/abs/1204.4036",
+    "title": "Title:Canards and curvature: nonsmooth approximation by pinching",
+    "date_publ": "18 Apr 2012 (v1), last revised 4 Jun 2015 (this version, v2)",
+    "authors": [
+      "Mathieu Desroches",
+      "Mike R. Jeffre"
+    ],
+    "abstract": "Abstract:  In multiple time-scale (singularly perturbed) dynamical systems, canards are\ncounterintuitive solutions that evolve along both attracting and repelling\ninvariant manifolds. In two dimensions, canards result in periodic oscillations\nwhose amplitude and period grow in a highly nonlinear way: they are slowly\nvarying with respect to a control parameter, except for an exponentially small\nrange of values where they grow extremely rapidly. This sudden growth, called a\ncanard explosion, has been encountered in many applications ranging from\nchemistry to neuronal dynamics, aerospace engineering and ecology. Canards were\ninitially studied using nonstandard analysis, and later the same results were\nproved by standard techniques such as matched asymptotics, invariant manifold\ntheory and parameter blow-up. More recently, canard-like behaviour has been\nlinked to surfaces of discontinuity in piecewise-smooth dynamical systems. This\npaper provides a new perspective on the canard phenomenon by showing that the\nnonstandard analysis of canard explosions can be recast into the framework of\npiecewise-smooth dynamical systems. An exponential coordinate scaling is\napplied to a singularly perturbed system of ordinary differential equations.\nThe scaling acts as a lens that resolves dynamics across all time-scales. The\nchanges of local curvature that are responsible for canard explosions are then\nanalysed. Regions where different time-scales dominate are separated by\nhypersurfaces, and these are pinched together to obtain a piecewise-smooth\nsystem, in which curvature changes manifest as discontinuity-induced\nbifurcations. The method is used to classify canards in arbitrary dimensions,\nand to derive the parameter values over which canards form either small cycles\n(canards without head) or large cycles (canards with head).",
+    "categories": [
+      "Dynamical Systems (math.DS)"
+    ],
+    "url_pdf": "#other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1203.2995",
+    "title": "Title:Marginal multi-Bernoulli filters: RFS derivation of MHT, JIPDA and association-based MeMBer",
+    "date_publ": "14 Mar 2012 (v1), last revised 24 Aug 2016 (this version, v6)",
+    "authors": [
+      "Jason L. William"
+    ],
+    "abstract": "Abstract:  Recent developments in random finite sets (RFSs) have yielded a variety of\ntracking methods that avoid data association. This paper derives a form of the\nfull Bayes RFS filter and observes that data association is implicitly present,\nin a data structure similar to MHT. Subsequently, algorithms are obtained by\napproximating the distribution of associations. Two algorithms result: one\nnearly identical to JIPDA, and another related to the MeMBer filter. Both\nimprove performance in challenging environments.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1203.2995"
+  },
+  {
+    "url": "https://arxiv.org/abs/1203.2386",
+    "title": "Title:On-Board Visual Tracking with Unmanned Aircraft System (UAS)",
+    "date_publ": "11 Mar 2012",
+    "authors": [
+      "Ashraf Qadir",
+      "Jeremiah Neubert",
+      "William Semk"
+    ],
+    "abstract": "Abstract:  This paper presents the development of a real time tracking algorithm that\nruns on a 1.2 GHz PC/104 computer on-board a small UAV. The algorithm uses zero\nmean normalized cross correlation to detect and locate an object in the image.\nA kalman filter is used to make the tracking algorithm computationally\nefficient. Object position in an image frame is predicted using the motion\nmodel and a search window, centered at the predicted position is generated.\nObject position is updated with the measurement from object detection. The\ndetected position is sent to the motion controller to move the gimbal so that\nthe object stays at the center of the image frame. Detection and tracking is\nautonomously carried out on the payload computer and the system is able to work\nin two different methods. The first method starts detecting and tracking using\na stored image patch. The second method allows the operator on the ground to\nselect the interest object for the UAV to track. The system is capable of\nre-detecting an object, in the event of tracking failure. Performance of the\ntracking system was verified both in the lab and on the field by mounting the\npayload on a vehicle and simulating a flight. Tests show that the system can\ndetect and track a diverse set of objects in real time. Flight testing of the\nsystem will be conducted at the next available opportunity.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1203.2386"
+  },
+  {
+    "url": "https://arxiv.org/abs/1203.0109",
+    "title": "Title:Structural and environmental monitoring of tracker and vertex systems using Fiber Optic Sensors",
+    "date_publ": "1 Mar 2012",
+    "authors": [
+      "David Moya",
+      "Iv\u00e1n Vil"
+    ],
+    "abstract": "Abstract:  Fibre optic sensors (FOS) are an established technique for environmental and\ndeformation monitoring in several areas like civil engineering, aerospace, and\nenergy. Their immunity to electromagnetic and magnetic fields and nuclear\nenvironments, its small size, multiplexing capability and the possibility to be\nembedded make them an attractive technology for the structural and\nenvironmental monitoring of collider particle physics experiments. Between all\nthe possible Fibre Optic sensors FBGs (Fiber Bragg Grating) seems to be the\nbest solution for HEP applications. The first step was to characterize FBG\nsensors for it use in High Energy Physics environment. During last two years we\nhave checked the resistance of the Fibre Bragg Grating sensors to radiation.\nTwo irradiation campaigns with protons have been done at CNA (Centro Nacional\nde Aceleradores).\nIn the near future these sensors are being planned to be used in detectors\n(the closest one Belle II.). Several work on integration issues in Belle II\nPXD-SVD, and checking for environmental and deformation monitoring in the\ndetectors inner part has been done.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)",
+      " High Energy Physics - Experiment (hep-ex)"
+    ],
+    "url_pdf": "/pdf/1203.0109"
+  },
+  {
+    "url": "https://arxiv.org/abs/1202.2732",
+    "title": "Title:Design of the magnetic diagnostics unit onboard LISA Pathfinder",
+    "date_publ": "13 Feb 2012",
+    "authors": [
+      "Marc Diaz-Aguil\u00f3",
+      "Ignacio Mateos",
+      "Juan Ramos-Castro",
+      "Alberto Lobo",
+      "Enrique Garc\u00eda-Berr"
+    ],
+    "abstract": "Abstract:  LISA (Laser Interferometer Space Antenna) is a joint mission of ESA and NASA\nwhich aims to be the first space-borne gravita- tional wave observatory. Due to\nthe high complexity and technological challenges that LISA will face, ESA\ndecided to launch a technological demonstrator, LISA Pathfinder. The payload of\nLISA Pathfinder is the so-called LISA Technology Package, and will be the\nhighest sensitivity geodesic explorer flown to date. The LISA Technology\nPackage is designed to measure relative accelerations between two test masses\nin nominal free fall (geodesic motion). The magnetic, thermal and radiation\ndisturbances affecting the payload are monitored and dealt by the diagnostics\nsubsystem. The diagnostics subsystem consists of several modules, and one of\nthese is the magnetic diagnostics unit. Its main function is the assessment of\ndifferential acceleration noise between test masses due to the magnetic\neffects. To do so, it has to determine the magnetic characteristics of the test\nmasses, namely their magnetic remanences and susceptibilities. In this paper we\nshow how this can be achieved to the desired accuracy.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/1202.2732"
+  },
+  {
+    "url": "https://arxiv.org/abs/1201.4443",
+    "title": "Title:Dynamic behavior analysis for a six axis industrial machining robot",
+    "date_publ": "21 Jan 2012",
+    "authors": [
+      "Claudiu-Florinel Bisu (MPS)",
+      "Medhi Cherif (I2M)",
+      "Alain G\u00e9rard (I2M)",
+      "Jean-Yves K'Nevez (I2M"
+    ],
+    "abstract": "Abstract:  The six axis robots are widely used in automotive industry for their good\nrepeatability (as defined in the ISO92983) (painting, welding, mastic\ndeposition, handling etc.). In the aerospace industry, robot starts to be used\nfor complex applications such as drilling, riveting, fiber placement, NDT, etc.\nGiven the positioning performance of serial robots, precision applications\nrequire usually external measurement device with complexes calibration\nprocedure in order to reach the precision needed. New applications in the\nmachining field of composite material (aerospace, naval, or wind turbine for\nexample) intend to use off line programming of serial robot without the use of\ncalibration or external measurement device. For those applications, the\nposition, orientation and path trajectory precision of the tool center point of\nthe robot are needed to generate the machining operation. This article presents\nthe different conditions that currently limit the development of robots in\nrobotic machining applications. We analyze the dynamical behavior of a robot\nKUKA KR240-2 (located at the University of Bordeaux 1) equipped with a HSM\nSpindle (42000 rpm, 18kW). This analysis is done in three stages. The first\nstep is determining the self-excited frequencies of the robot structure for\nthree different configurations of work. The second phase aims to analyze the\ndynamical vibration of the structure as the spindle is activated without\ncutting. The third stage consists of vibration analysis during a milling\noperation.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1201.4443"
+  },
+  {
+    "url": "https://arxiv.org/abs/1112.5282",
+    "title": "Title:Observability of Strapdown INS Alignment: A Global Perspective",
+    "date_publ": "22 Dec 2011",
+    "authors": [
+      "Yuanxin Wu",
+      "Hongliang Zhang",
+      "Meiping Wu",
+      "Xiaoping Hu",
+      "Dewen H"
+    ],
+    "abstract": "Abstract:  Alignment of the strapdown inertial navigation system (INS) has strong\nnonlinearity, even worse when maneuvers, e.g., tumbling techniques, are\nemployed to improve the alignment. There is no general rule to attack the\nobservability of a nonlinear system, so most previous works addressed the\nobservability of the corresponding linearized system by implicitly assuming\nthat the original nonlinear system and the linearized one have identical\nobservability characteristics. Strapdown INS alignment is a nonlinear system\nthat has its own characteristics. Using the inherent properties of strapdown\nINS, e.g., the attitude evolution on the SO(3) manifold, we start from the\nbasic definition and develop a global and constructive approach to investigate\nthe observability of strapdown INS static and tumbling alignment, highlighting\nthe effects of the attitude maneuver on observability. We prove that strapdown\nINS alignment, considering the unknown constant sensor biases, will be\ncompletely observable if the strapdown INS is rotated successively about two\ndifferent axes and will be nearly observable for finite known unobservable\nstates (no more than two) if it is rotated about a single axis. Observability\nfrom a global perspective provides us with insights into and a clearer picture\nof the problem, shedding light on previous theoretical results on strapdown INS\nalignment that were not comprehensive or consistent.. The reporting of\ninconsistencies calls for a review of all linearization-based observability\nstudies in the vast literature. Extensive simulations with constructed ideal\nobservers and an extended Kalman filter are carried out, and the numerical\nresults accord with the analysis. The conclusions can also assist in designing\nthe optimal tumbling strategy and the appropriate state observer in practice to\nmaximize the alignment performance.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1112.5282"
+  },
+  {
+    "url": "https://arxiv.org/abs/1110.2316",
+    "title": "Title:$h-p$ spectral element methods for three dimensional elliptic problems on non-smooth domains using parallel computers",
+    "date_publ": "11 Oct 2011",
+    "authors": [
+      "Akhlaq Husai"
+    ],
+    "abstract": "Abstract:  Elliptic partial differential equations arise in many fields of science and\nengineering such as steady state distribution of heat, fluid dynamics,\nstructural/mechanical engineering, aerospace engineering and seismology etc. In\nthree dimensions it is well known that the solutions of elliptic boundary value\nproblems have singular behavior near the corners and edges of the domain. The\nsingularities which arise are known as vertex, edge, and vertex-edge\nsingularities. We propose a nonconforming h-p spectral element method to solve\nthree dimensional elliptic boundary value problems on non-smooth domains to\nexponential accuracy. To overcome the singularities which arise in the\nneighbourhoods of the vertices, vertex-edges and edges we use local systems of\ncoordinates. These local coordinates are modified versions of spherical and\ncylindrical coordinate systems in their respective neighbourhoods. Away from\nthese neighbourhoods standard Cartesian coordinates are used. In each of these\nneighbourhoods we use a geometrical mesh which becomes finer near the corners\nand edges. We then derive differentiability estimates in these new set of\nvariables and a stability estimate on which our method is based for a\nnon-conforming h-p spectral element method. The Sobolev spaces in vertex-edge\nand edge neighbourhoods are anisotropic and become singular at the corners and\nedges.\nThe method is essentially a least-squares collocation} method and a solution\ncan be obtained using Preconditioned Conjugate Gradient Method (PCGM). To solve\nthe minimization problem we need to solve the normal equations for the\nleast-squares problem. The residuals in the normal equations can be obtained\nwithout computing and storing mass and stiffness matrices. Computational\nresults for a number of model problems confirm the theoretical estimates\nobtained for the error and computational complexity.",
+    "categories": [
+      "Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/1110.2316"
+  },
+  {
+    "url": "https://arxiv.org/abs/1109.3563",
+    "title": "Title:Verification, Validation and Testing of Kinetic Mechanisms of Hydrogen Combustion in Fluid Dynamic Computations",
+    "date_publ": "16 Sep 2011 (v1), last revised 1 Aug 2013 (this version, v2)",
+    "authors": [
+      "Victor P. Zhuko"
+    ],
+    "abstract": "Abstract:  A one-step, a two-step, an abridged, a skeletal and four detailed kinetic\nschemes of hydrogen oxidation have been tested. A new skeletal kinetic scheme\nof hydrogen oxidation has been developed. The CFD calculations were carried out\nusing ANSYS CFX software. Ignition delay times and speeds of flames were\nderived from the computational results. The computational data obtained using\nANSYS CFX and CHEMKIN, and experimental data were compared. The precision,\nreliability, and range of validity of the kinetic schemes in CFD simulations\nwere estimated. The impact of kinetic scheme on the results of computations was\ndiscussed. The relationship between grid spacing, timestep, accuracy, and\ncomputational cost were analyzed.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1109.3563"
+  },
+  {
+    "url": "https://arxiv.org/abs/1108.4879",
+    "title": "Title:Using Supervised Learning to Improve Monte Carlo Integral Estimation",
+    "date_publ": "24 Aug 2011",
+    "authors": [
+      "Brendan Tracey",
+      "David Wolpert",
+      "Juan J. Alons"
+    ],
+    "abstract": "Abstract:  Monte Carlo (MC) techniques are often used to estimate integrals of a\nmultivariate function using randomly generated samples of the function. In\nlight of the increasing interest in uncertainty quantification and robust\ndesign applications in aerospace engineering, the calculation of expected\nvalues of such functions (e.g. performance measures) becomes important.\nHowever, MC techniques often suffer from high variance and slow convergence as\nthe number of samples increases. In this paper we present Stacked Monte Carlo\n(StackMC), a new method for post-processing an existing set of MC samples to\nimprove the associated integral estimate. StackMC is based on the supervised\nlearning techniques of fitting functions and cross validation. It should reduce\nthe variance of any type of Monte Carlo integral estimate (simple sampling,\nimportance sampling, quasi-Monte Carlo, MCMC, etc.) without adding bias. We\nreport on an extensive set of experiments confirming that the StackMC estimate\nof an integral is more accurate than both the associated unprocessed Monte\nCarlo estimate and an estimate based on a functional fit to the MC samples.\nThese experiments run over a wide variety of integration spaces, numbers of\nsample points, dimensions, and fitting functions. In particular, we apply\nStackMC in estimating the expected value of the fuel burn metric of future\ncommercial aircraft and in estimating sonic boom loudness measures. We compare\nthe efficiency of StackMC with that of more standard methods and show that for\nnegligible additional computational cost significant increases in accuracy are\ngained.",
+    "categories": [
+      "Machine Learning (stat.ML)",
+      " Computational Engineering, Finance, and Science (cs.CE)",
+      " Numerical Analysis (math.NA)",
+      " Computation (stat.CO)"
+    ],
+    "url_pdf": "/pdf/1108.4879"
+  },
+  {
+    "url": "https://arxiv.org/abs/1107.0927",
+    "title": "Title:Application of Predictive Model Selection to Coupled Models",
+    "date_publ": "5 Jul 2011",
+    "authors": [
+      "Gabriel Terejanu",
+      "Todd Oliver",
+      "Chris Simmon"
+    ],
+    "abstract": "Abstract:  A predictive Bayesian model selection approach is presented to discriminate\ncoupled models used to predict an unobserved quantity of interest (QoI). The\nneed for accurate predictions arises in a variety of critical applications such\nas climate, aerospace and defense. A model problem is introduced to study the\nprediction yielded by the coupling of two physics/sub-components. For each\nsingle physics domain, a set of model classes and a set of sensor observations\nare available. A goal-oriented algorithm using a predictive approach to\nBayesian model selection is then used to select the combination of single\nphysics models that best predict the QoI. It is shown that the best coupled\nmodel for prediction is the one that provides the most robust predictive\ndistribution for the QoI.",
+    "categories": [
+      "Applications (stat.AP)",
+      " Information Theory (cs.IT)",
+      " Data Analysis, Statistics and Probability (physics.data-an)"
+    ],
+    "url_pdf": "/pdf/1107.0927"
+  },
+  {
+    "url": "https://arxiv.org/abs/1105.0977",
+    "title": "Title:T-Carbon: A Novel Carbon Allotrope",
+    "date_publ": "5 May 2011",
+    "authors": [
+      "Xian-Lei Sheng",
+      "Qing-Bo Yan",
+      "Fei Ye",
+      "Qing-Rong Zheng",
+      "Gang S"
+    ],
+    "abstract": "Abstract:  A structurally stable crystalline carbon allotrope is predicted by means of\nthe first-principles calculations. This allotrope can be derived by\nsubstituting each atom in diamond with a carbon tetrahedron, and possesses the\nsame space group Fd^1 3m as diamond, which is thus coined as T- carbon. The\ncalculations on geometrical, vibrational and electronic properties reveal that\nT-carbon, with a considerable structural stability and a much lower density\n1.50 g/cm3, is a semiconductor with a direct band gap about 3.0 eV, and has a\nVickers hardness 61.1 GPa lower than diamond but comparable with cubic boron\nnitride. Such a form of carbon, once obtained, would have wide applications in\nphotocatalysis, adsoption, hydrogen storage and aerospace materials.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1105.0977"
+  },
+  {
+    "url": "https://arxiv.org/abs/1104.4056",
+    "title": "Title:Cram\u00e9r-Rao Bound for Localization with A Priori Knowledge on Biased Range Measurements",
+    "date_publ": "20 Apr 2011",
+    "authors": [
+      "Tao Wan"
+    ],
+    "abstract": "Abstract:  This paper derives a general expression for the Cram\u00e9r-Rao bound (CRB) of\nwireless localization algorithms using range measurements subject to bias\ncorruption. Specifically, the a priori knowledge about which range measurements\nare biased, and the probability density functions (PDF) of the biases are\nassumed to be available. For each range measurement, the error due to\nestimating the time-of-arrival of the detected signal is modeled as a Gaussian\ndistributed random variable with zero mean and known variance. In general, the\nderived CRB expression can be evaluated numerically. An approximate CRB\nexpression is also derived when the bias PDF is very informative. Using these\nCRB expressions, we study the impact of the bias distribution on the mean\nsquare error (MSE) bound corresponding to the CRB. The analysis is corroborated\nby numerical experiments.",
+    "categories": [
+      "Information Theory (cs.IT)",
+      " Systems and Control (eess.SY)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1104.4056"
+  },
+  {
+    "url": "https://arxiv.org/abs/1104.3247",
+    "title": "Title:Physics of Extreme Gravitomagnetic and Gravity-Like Fields for Novel Space Propulsion and Energy Generation",
+    "date_publ": "16 Apr 2011 (v1), last revised 17 May 2011 (this version, v2)",
+    "authors": [
+      "Jochem Hauser",
+      "Walter Dr\u00f6sche"
+    ],
+    "abstract": "Abstract:  In 2006 Tajmar et al. reported on the measurements of extreme gravitomagnetic\nfields from small Nb rings at cryogenic temperatures that are about 18 orders\nof magnitude larger than gravitomagnetic fields obtained from GR (general\nrelativity). Cifuolini in 2004 and the NASA-Stanford Gravity Probe-B experiment\nin 2007 confirmed the Lense-Thirring effect as predicted by GR (gravitomagnetic\nfields generated by a rotating massive body, i.e. Earth) within some 10%. In\n2007 gravitomagnetic fields generated by a rotating cryogenic lead disk were\nmeasured by Graham et al. Though these measurements were not conclusive (the\naccuracy of the laser gyrometer was not sufficient to produce a standard\ndeviation small enough) their experiment seems to have seen the same phenomenon\nreported earlier by Tajmar et al., termed parity violation. This means that\ngravitomagnetic fields produced by the cryogenic rotating ring or disk vary\nsubstantially and change sign for clockwise and counter-clockwise directions of\nrotation. The experimental situation therefore occurs to be contradictory. On\nthe one hand GR has been confirmed while at the same time, there seems to be\nexperimental evidence for the existence of extreme gravitomagnetic fields that\ncannot be generated by the movement of large masses. If these experiments can\nbe confirmed, they give a clear indication for the existence of additional\ngravitational fields of non-Newtonian nature. As was shown by the GP-B\nexperiment, measuring gravitomagnetic fields from GR poses extreme\ndifficulties. Therefore a novel physical mechanism should exist for the\ngeneration of gravity-like fields, which might also provide the key to\ngravitational engineering similar to electromagnetic technology.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "#other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1103.4286",
+    "title": "Title:Design and frequency analysis of continuous finite-time-convergent differentiator",
+    "date_publ": "22 Mar 2011",
+    "authors": [
+      "Xinhua Wang",
+      "Hai Li"
+    ],
+    "abstract": "Abstract:  In this paper, a continuous finite-time-convergent differentiator is\npresented based on a strong Lyapunov function. The continuous differentiator\ncan reduce chattering phenomenon sufficiently than normal sliding mode\ndifferentiator, and the outputs of signal tracking and derivative estimation\nare all smooth. Frequency analysis is applied to compare the continuous\ndifferentiator with sliding mode differentiator. The beauties of the continuous\nfinite-time-convergent differentiator include its simplicity, restraining\nnoises sufficiently, and avoiding the chattering phenomenon.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Dynamical Systems (math.DS)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1103.4286"
+  },
+  {
+    "url": "https://arxiv.org/abs/1103.0733",
+    "title": "Title:Scalable Approach to Uncertainty Quantification and Robust Design of Interconnected Dynamical Systems",
+    "date_publ": "3 Mar 2011",
+    "authors": [
+      "Andrzej Banaszuk",
+      "Vladimir A. Fonoberov",
+      "Thomas A. Frewen",
+      "Marin Kobilarov",
+      "George Mathew",
+      "Igor Mezic",
+      "Alessandro Pinto",
+      "Tuhin Sahai",
+      "Harshad Sane",
+      "Alberto Speranzon",
+      "Amit Suran"
+    ],
+    "abstract": "Abstract:  Development of robust dynamical systems and networks such as autonomous\naircraft systems capable of accomplishing complex missions faces challenges due\nto the dynamically evolving uncertainties coming from model uncertainties,\nnecessity to operate in a hostile cluttered urban environment, and the\ndistributed and dynamic nature of the communication and computation resources.\nModel-based robust design is difficult because of the complexity of the hybrid\ndynamic models including continuous vehicle dynamics, the discrete models of\ncomputations and communications, and the size of the problem. We will overview\nrecent advances in methodology and tools to model, analyze, and design robust\nautonomous aerospace systems operating in uncertain environment, with stress on\nefficient uncertainty quantification and robust design using the case studies\nof the mission including model-based target tracking and search, and trajectory\nplanning in uncertain urban environment. To show that the methodology is\ngenerally applicable to uncertain dynamical systems, we will also show examples\nof application of the new methods to efficient uncertainty quantification of\nenergy usage in buildings, and stability assessment of interconnected power\nnetworks.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1103.0733"
+  },
+  {
+    "url": "https://arxiv.org/abs/1101.2172",
+    "title": "Title:Taking Saratoga from Space-Based Ground Sensors to Ground-Based Space Sensors",
+    "date_publ": "11 Jan 2011",
+    "authors": [
+      "Lloyd Wood",
+      "Charles Smith",
+      "Wesley M. Eddy",
+      "Will Ivancic",
+      "Chris Jackso"
+    ],
+    "abstract": "Abstract:  The Saratoga transfer protocol was developed by Surrey Satellite Technology\nLtd (SSTL) for its Disaster Monitoring Constellation (DMC) satellites. In over\nseven years of operation, Saratoga has provided efficient delivery of\nremote-sensing Earth observation imagery, across private wireless links, from\nthese seven low-orbit satellites to ground stations, using the Internet\nProtocol (IP). Saratoga is designed to cope with high bandwidth-delay products,\nconstrained acknowledgement channels, and high loss while streaming or\ndelivering extremely large files. An implementation of this protocol has now\nbeen developed at the Australian Commonwealth Scientific and Industrial\nResearch Organisation (CSIRO) for wider use and testing. This is intended to\nprototype delivery of data across dedicated astronomy radio telescope networks\non the ground, where networked sensors in Very Long Baseline Interferometer\n(VLBI) instruments generate large amounts of data for processing and can send\nthat data across private IP- and Ethernet-based links at very high rates. We\ndescribe this new Saratoga implementation, its features and focus on high\nthroughput and link utilization, and lessons learned in developing this\nprotocol for sensor-network applications.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1101.2172"
+  },
+  {
+    "url": "https://arxiv.org/abs/1011.5451",
+    "title": "Title:A model for the degradation of polyimides due to oxidation",
+    "date_publ": "24 Nov 2010",
+    "authors": [
+      "Satish Karra",
+      "K. R. Rajagopa"
+    ],
+    "abstract": "Abstract:  Polyimides, due to their superior mechanical behavior at high temperatures,\nare used in a variety of applications that include aerospace, automobile and\nelectronic packaging industries, as matrices for composites, as adhesives etc.\nIn this paper, we extend our previous model in [S. Karra, K. R. Rajagopal,\nModeling the non-linear viscoelastic response of high temperature polyimides,\nMechanics of Materials, In press, doi:10.1016/j.mechmat.2010.09.006], to\ninclude oxidative degradation of these high temperature polyimides. Appropriate\nforms for the Helmholtz potential and the rate of dissipation are chosen to\ndescribe the degradation. The results for a specific boundary value problem,\nusing our model compares well with the experimental creep data for PMR-15 resin\nthat is aged in air.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1011.5451"
+  },
+  {
+    "url": "https://arxiv.org/abs/1009.4867",
+    "title": "Title:Reconfigurable quantum metamaterials",
+    "date_publ": "24 Sep 2010 (v1), last revised 4 Jun 2011 (this version, v2)",
+    "authors": [
+      "James Q. Quach",
+      "Chun-Hsu Su",
+      "Andrew M. Martin",
+      "Andrew D. Greentree",
+      "Lloyd C. L. Hollenber"
+    ],
+    "abstract": "Abstract:  By coupling controllable quantum systems into larger structures we introduce\nthe concept of a quantum metamaterial. Conventional meta-materials represent\none of the most important frontiers in optical design, with applications in\ndiverse fields ranging from medicine to aerospace. Up until now however,\nmetamaterials have themselves been classical structures and interact only with\nthe classical properties of light. Here we describe a class of dynamic\nmetamaterials, based on the quantum properties of coupled atom-cavity arrays,\nwhich are intrinsically lossless, reconfigurable, and operate fundamentally at\nthe quantum level. We show how this new class of metamaterial could be used to\ncreate a reconfigurable quantum superlens possessing a negative index gradient\nfor single photon imaging. With the inherent features of quantum superposition\nand entanglement of metamaterial properties, this new class of dynamic quantum\nmetamaterial, opens a new vista for quantum science and technology.",
+    "categories": [
+      "Quantum Physics (quant-ph)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1009.4867"
+  },
+  {
+    "url": "https://arxiv.org/abs/1008.4789",
+    "title": "Title:Numerical Solution of ODEs and the Columbus' Egg: Three Simple Ideas for Three Difficult Problems",
+    "date_publ": "27 Aug 2010 (v1), last revised 14 Oct 2010 (this version, v4)",
+    "authors": [
+      "Luigi Brugnano",
+      "Felice Iavernaro",
+      "Donato Trigiant"
+    ],
+    "abstract": "Abstract:  On computers, discrete problems are solved instead of continuous ones. One\nmust be sure that the solutions of the former problems, obtained in real time\n(i.e., when the stepsize h is not infinitesimal) are good approximations of the\nsolutions of the latter ones. However, since the discrete world is much richer\nthan the continuous one (the latter being a limit case of the former), the\nclassical definitions and techniques, devised to analyze the behaviors of\ncontinuous problems, are often insufficient to handle the discrete case, and\nnew specific tools are needed. Often, the insistence in following a path\nalready traced in the continuous setting, has caused waste of time and efforts,\nwhereas new specific tools have solved the problems both more easily and\nelegantly. In this paper we survey three of the main difficulties encountered\nin the numerical solutions of ODEs, along with the novel solutions proposed.",
+    "categories": [
+      "Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/1008.4789"
+  },
+  {
+    "url": "https://arxiv.org/abs/1008.4185",
+    "title": "Title:Airborne Radar STAP using Sparse Recovery of Clutter Spectrum",
+    "date_publ": "25 Aug 2010",
+    "authors": [
+      "Ke Sun",
+      "Hao Zhang",
+      "Gang Li",
+      "Huadong Meng",
+      "Xiqin Wan"
+    ],
+    "abstract": "Abstract:  Space-time adaptive processing (STAP) is an effective tool for detecting a\nmoving target in spaceborne or airborne radar systems. Statistical-based STAP\nmethods generally need sufficient statistically independent and identically\ndistributed (IID) training data to estimate the clutter characteristics.\nHowever, most actual clutter scenarios appear only locally stationary and lack\nsufficient IID training data. In this paper, by exploiting the intrinsic\nsparsity of the clutter distribution in the angle-Doppler domain, a new STAP\nalgorithm called SR-STAP is proposed, which uses the technique of sparse\nrecovery to estimate the clutter space-time spectrum. Joint sparse recovery\nwith several training samples is also used to improve the estimation\nperformance. Finally, an effective clutter covariance matrix (CCM) estimate and\nthe corresponding STAP filter are designed based on the estimated clutter\nspectrum. Both the Mountaintop data and simulated experiments have illustrated\nthe fast convergence rate of this approach. Moreover, SR-STAP is less dependent\non prior knowledge, so it is more robust to the mismatch in the prior knowledge\nthan knowledge-based STAP methods. Due to these advantages, SR-STAP has great\npotential for application in actual clutter scenarios.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1008.4185"
+  },
+  {
+    "url": "https://arxiv.org/abs/1008.0933",
+    "title": "Title:Consequences from conservation of the total density of the universe during the expansion",
+    "date_publ": "5 Aug 2010 (v1), last revised 11 Aug 2010 (this version, v2)",
+    "authors": [
+      "Dimitar Vale"
+    ],
+    "abstract": "Abstract:  The recent Cosmic Microwave Background (CMB) experiments have shown that the\naverage density of the universe is close to the critical one and the universe\nis asymptotically flat (Euclidean). Taking into account that the universe\nremains flat and the total density of the universe $\\Omega_{0}$ is conserved\nequal to a unit during the cosmological expansion, the Schwarzschild radius of\nthe observable universe has been determined equal to the Hubble distance\n$R_{s}=2GM/c^{2}=R\\sim c/H$, where M is the mass of the observable universe, R\nis the Hubble distance and H is the Hubble constant. Besides, it has been shown\nthat the speed of the light c appears the parabolic velocity for the observable\nuniverse $c=\\sqrt{2GM/R}=v_{p}$ and the recessional velocity $v_{r}=Hr$ of an\narbitrary galaxy at a distance r > 100 Mps from the observer, is equal to the\nparabolic velocity for the sphere, having radius r and a centre, coinciding\nwith the observer. The requirement for conservation of $\\Omega_{0}=1$ during\nthe expansion enables to derive the Hoyle-Carvalho formula for the mass of the\nobservable universe $M=c^{3}/(2GH)$ by a new approach.\nKey words: flat universe; critical density of the universe; Schwarzschild\nradius; mass of the universe; parabolic velocity",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/1008.0933"
+  },
+  {
+    "url": "https://arxiv.org/abs/1006.0549",
+    "title": "Title:Joint probability density function modeling of velocity and scalar in turbulence with unstructured grids",
+    "date_publ": "3 Jun 2010",
+    "authors": [
+      "J. Bakosi",
+      "P. Franzese",
+      "Z. Boybey"
+    ],
+    "abstract": "Abstract:  In probability density function (PDF) methods a transport equation is solved\nnumerically to compute the time and space dependent probability distribution of\nseveral flow variables in a turbulent flow. The joint PDF of the velocity\ncomponents contains information on all one-point one-time statistics of the\nturbulent velocity field, including the mean, the Reynolds stresses and\nhigher-order statistics. We developed a series of numerical algorithms to model\nthe joint PDF of turbulent velocity, frequency and scalar compositions for\nhigh-Reynolds-number incompressible flows in complex geometries using\nunstructured grids. Advection, viscous diffusion and chemical reaction appear\nin closed form in the PDF formulation, thus require no closure hypotheses. The\ngeneralized Langevin model (GLM) is combined with an elliptic relaxation\ntechnique to represent the non-local effect of walls on the pressure\nredistribution and anisotropic dissipation of turbulent kinetic energy. The\ngoverning system of equations is solved fully in the Lagrangian framework\nemploying a large number of particles representing a finite sample of all fluid\nparticles. Eulerian statistics are extracted at gridpoints of the unstructured\nmesh. Compared to other particle-in-cell approaches for the PDF equations, this\nmethodology is non-hybrid, thus the computed fields remain fully consistent\nwithout requiring any specific treatment. Two testcases demonstrate the\napplicability of the algorithm: a fully developed turbulent channel flow and\nthe classical cavity flow both with scalars released from concentrated sources.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1006.0549"
+  },
+  {
+    "url": "https://arxiv.org/abs/1005.0959",
+    "title": "Title:Implementation of the Six Channel Redundancy to achieve fault tolerance in testing of satellites",
+    "date_publ": "6 May 2010",
+    "authors": [
+      "H. S. Aravinda",
+      "H. D. Maheshappa",
+      "Ranjan Moodithay"
+    ],
+    "abstract": "Abstract:  This paper aims to implement the six channel redundancy to achieve fault\ntolerance in testing of satellites with acoustic spectrum. We mainly focus here\non achieving fault tolerance. An immediate application is the microphone data\nacquisition and to do analysis at the Acoustic Test Facility (ATF) centre,\nNational Aerospace Laboratories. It has an 1100 cubic meter reverberation\nchamber in which a maximum sound pressure level of 157 dB is generated. The six\nchannel Redundancy software with fault tolerant operation is devised and\ndeveloped. The data are applied to program written in C language. The program\nis run using the Code Composer Studio by accepting the inputs. This is tested\nwith the TMS 320C 6727 DSP, Pro Audio Development Kit (PADK).",
+    "categories": [
+      "Other Computer Science (cs.OH)"
+    ],
+    "url_pdf": "/pdf/1005.0959"
+  },
+  {
+    "url": "https://arxiv.org/abs/1004.5412",
+    "title": "Title:Effects of a Conducting Sphere Moving Through a Gradient Magnetic Field",
+    "date_publ": "29 Apr 2010",
+    "authors": [
+      "Adom Giffin",
+      "Mikhail Shneider",
+      "Chiranjeev S. Kalra",
+      "T. L. Ames",
+      "Richard B. Mile"
+    ],
+    "abstract": "Abstract:  We examine several conducting spheres moving through a magnetic field\ngradient. An analytical approximation is derived and an experiment is conducted\nto verify the analytical solution. The experiment is simulated as well to\nproduce a numerical result. Both the low and high magnetic Reynolds number\nregimes are studied. Deformation of the sphere is noted in the high Reynolds\nnumber case. It is suggested that this deformation effect could be useful for\ndesigning or enhancing present protection systems against space debris.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Classical Physics (physics.class-ph)"
+    ],
+    "url_pdf": "/pdf/1004.5412"
+  },
+  {
+    "url": "https://arxiv.org/abs/1004.4999",
+    "title": "Title:Enhancing the Efficiency in Checking Constraints Satisfaction when Planning Ground-based and Space Experiments, Using an Alternative Problem",
+    "date_publ": "28 Apr 2010",
+    "authors": [
+      "Atanas Marinov Atanasso"
+    ],
+    "abstract": "Abstract:  The situational analysis lies in the basis of space and ground-based\nexperiment planning. It is connected with the use of complex computation models\nof environment and with verification of the restricting conditions, due to the\ncharacter of the conducted experiments and the solved scientific tasks. The\npresent work proposes a formulation of the situational analysis on the basis of\nthe finite abstract automata theory. On this basis, optimization of the\nsituational analysis is suggested by formal schemes for adaptation to the\nconditions of the model environment. The efficiency enhancement is illustrated\nby results from the application of the proposed real-time optimization for\nphotometric system control.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/1004.4999"
+  },
+  {
+    "url": "https://arxiv.org/abs/1004.4312",
+    "title": "Title:German Science Center for the Solar Dynamics Observatory",
+    "date_publ": "24 Apr 2010 (v1), last revised 6 May 2010 (this version, v2)",
+    "authors": [
+      "Y. Saidi",
+      "R. Burston",
+      "H. Moradi",
+      "L. Gizo"
+    ],
+    "abstract": "Abstract:  A data and computation center for helioseismology has been set up at the Max\nPlanck Institute for Solar System Research in Germany to prepare for the SDO\nmission. Here we present the system infrastructure and the scientific aims of\nthis project, which is funded through grants from the German Aerospace Center\nand the European Research Council.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1004.4312"
+  },
+  {
+    "url": "https://arxiv.org/abs/1004.1324",
+    "title": "Title:Distributed Fault-Tolerant Avionic Systems - A Real-Time Perspective",
+    "date_publ": "8 Apr 2010",
+    "authors": [
+      "Michael Burke",
+      "Neil Audsle"
+    ],
+    "abstract": "Abstract:  This paper examines the problem of introducing advanced forms of\nfault-tolerance via reconfiguration into safety-critical avionic systems. This\nis required to enable increased availability after fault occurrence in\ndistributed integrated avionic systems(compared to static federated systems).\nThe approach taken is to identify a migration path from current architectures\nto those that incorporate re-configuration to a lesser or greater degree. Other\nchallenges identified include change of the development process; incremental\nand flexible timing and safety analyses; configurable kernels applicable for\nsafety-critical systems.",
+    "categories": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ],
+    "url_pdf": "/pdf/1004.1324"
+  },
+  {
+    "url": "https://arxiv.org/abs/1004.0204",
+    "title": "Title:Radio Interface for High Data Rate Wireless Sensor Networks",
+    "date_publ": "1 Apr 2010",
+    "authors": [
+      "Julien Henaut (LAAS)",
+      "Aubin Lecointre (LAAS)",
+      "Daniela Dragomirescu (LAAS)",
+      "Robert Plana (LAAS"
+    ],
+    "abstract": "Abstract:  This paper gives an overview of radio interfaces devoted for high data rate\nWireless Sensor Networks. Four aerospace applications of WSN are presented to\nunderline the importance of achieving high data rate. Then, two modulation\nschemes by which High Data Rate can be achieved are compared : Multi carrier\napproaches, represented by the popular Orthogonal Frequency Division\nMultiplexing (OFDM) and Single carrier methods, represented by Single Carrier\nFrequency division Equalization and its application for multiple access Single\nCarrier Frequency division multiple Access (SC-FDMA). SC-FDMA, with a very low\nPeak Average Power Ratio (PAPR), is as strong alternative to the OFDM scheme\nfor highly power constraint application. The Chosen radio interface will be,\nfinally, tested by a model based design approach based on Simulink and FPGA\nrealization. SC-FDMA, with a very low Peak Average Power Ratio (PAPR), is as\nstrong alternative to the OFDM scheme for highly power constraint application.\nThe Chosen radio interface will be, finally, tested by a model based design\napproach based on Simulink and FPGA realization.",
+    "categories": [
+      "Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1004.0204"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.5363",
+    "title": "Title:Proceedings FM-09 Workshop on Formal Methods for Aerospace",
+    "date_publ": "28 Mar 2010",
+    "authors": [
+      "Manuela Bujorianu (University of Manchester",
+      "UK)",
+      "Michael Fisher (University of Liverpool",
+      "UK"
+    ],
+    "abstract": "Abstract:  The main workshop objective was to promote a holistic view and\ninterdisciplinary methods for design, verification and co-ordination of\naerospace systems, by combining formal methods with techniques from control\nengineering and artificial intelligence. The very demanding safety, robustness\nand performance requirements of these systems require unprecedented integration\nof heterogeneous techniques and models. The aim of FMA was to bring together\nactive researchers from all the above areas to discuss and present their work.",
+    "categories": [
+      "Logic in Computer Science (cs.LO)",
+      " Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "#other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.4812",
+    "title": "Title:Bisimulation Relations Between Automata, Stochastic Differential Equations and Petri Nets",
+    "date_publ": "25 Mar 2010",
+    "authors": [
+      "Mariken H.C. Everdij",
+      "Henk A.P. Blo"
+    ],
+    "abstract": "Abstract:  Two formal stochastic models are said to be bisimilar if their solutions as a\nstochastic process are probabilistically equivalent. Bisimilarity between two\nstochastic model formalisms means that the strengths of one stochastic model\nformalism can be used by the other stochastic model formalism. The aim of this\npaper is to explain bisimilarity relations between stochastic hybrid automata,\nstochastic differential equations on hybrid space and stochastic hybrid Petri\nnets. These bisimilarity relations make it possible to combine the formal\nverification power of automata with the analysis power of stochastic\ndifferential equations and the compositional specification power of Petri nets.\nThe relations and their combined strengths are illustrated for an air traffic\nexample.",
+    "categories": [
+      "Logic in Computer Science (cs.LO)"
+    ],
+    "url_pdf": "/pdf/1003.4812"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.2871",
+    "title": "Title:Implementing Multi-Periodic Critical Systems: from Design to Code Generation",
+    "date_publ": "15 Mar 2010",
+    "authors": [
+      "Julien Forget (1)",
+      "Fr\u00e9d\u00e9ric Boniol (1)",
+      "David Lesens (2)",
+      "Claire Pagetti (1) ((1) ONERA",
+      "Toulouse",
+      "France and (2) EADS Astrium Space Transportation",
+      "Les Mureaux",
+      "France"
+    ],
+    "abstract": "Abstract:  This article presents a complete scheme for the development of Critical\nEmbedded Systems with Multiple Real-Time Constraints. The system is programmed\nwith a language that extends the synchronous approach with high-level real-time\nprimitives. It enables to assemble in a modular and hierarchical manner several\nlocally mono-periodic synchronous systems into a globally multi-periodic\nsynchronous system. It also allows to specify flow latency constraints. A\nprogram is translated into a set of real-time tasks. The generated code (\\C\\\ncode) can be executed on a simple real-time platform with a dynamic-priority\nscheduler (EDF). The compilation process (each algorithm of the process, not\nthe compiler itself) is formally proved correct, meaning that the generated\ncode respects the real-time semantics of the original program (respect of\nperiods, deadlines, release dates and precedences) as well as its functional\nsemantics (respect of variable consumption).",
+    "categories": [
+      "Programming Languages (cs.PL)"
+    ],
+    "url_pdf": "/pdf/1003.2871"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.1741",
+    "title": "Title:Formalization and Validation of Safety-Critical Requirements",
+    "date_publ": "8 Mar 2010 (v1), last revised 27 Jun 2012 (this version, v2)",
+    "authors": [
+      "Alessandro Cimatti",
+      "Marco Roveri",
+      "Angelo Susi",
+      "Stefano Tonett"
+    ],
+    "abstract": "Abstract:  The validation of requirements is a fundamental step in the development\nprocess of safety-critical systems. In safety critical applications such as\naerospace, avionics and railways, the use of formal methods is of paramount\nimportance both for requirements and for design validation. Nevertheless, while\nfor the verification of the design, many formal techniques have been conceived\nand applied, the research on formal methods for requirements validation is not\nyet mature. The main obstacles are that, on the one hand, the correctness of\nrequirements is not formally defined; on the other hand that the formalization\nand the validation of the requirements usually demands a strong involvement of\ndomain experts. We report on a methodology and a series of techniques that we\ndeveloped for the formalization and validation of high-level requirements for\nsafety-critical applications. The main ingredients are a very expressive formal\nlanguage and automatic satisfiability procedures. The language combines\nfirst-order, temporal, and hybrid logic. The satisfiability procedures are\nbased on model checking and satisfiability modulo theory. We applied this\ntechnology within an industrial project to the validation of railways\nrequirements.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1003.1741"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.0634",
+    "title": "Title:Flexible Lyapunov Functions and Applications to Fast Mechatronic Systems",
+    "date_publ": "2 Mar 2010",
+    "authors": [
+      "M. Laza"
+    ],
+    "abstract": "Abstract:  The property that every control system should posses is stability, which\ntranslates into safety in real-life applications. A central tool in systems\ntheory for synthesizing control laws that achieve stability are control\nLyapunov functions (CLFs). Classically, a CLF enforces that the resulting\nclosed-loop state trajectory is contained within a cone with a fixed,\npredefined shape, and which is centered at and converges to a desired\nconverging point. However, such a requirement often proves to be\noverconservative, which is why most of the real-time controllers do not have a\nstability guarantee. Recently, a novel idea that improves the design of CLFs in\nterms of flexibility was proposed. The focus of this new approach is on the\ndesign of optimization problems that allow certain parameters that define a\ncone associated with a standard CLF to be decision variables. In this way\nnon-monotonicity of the CLF is explicitly linked with a decision variable that\ncan be optimized on-line. Conservativeness is significantly reduced compared to\nclassical CLFs, which makes \\emph{flexible CLFs} more suitable for\nstabilization of constrained discrete-time nonlinear systems and real-time\ncontrol. The purpose of this overview is to highlight the potential of flexible\nCLFs for real-time control of fast mechatronic systems, with sampling periods\nbelow one millisecond, which are widely employed in aerospace and automotive\napplications.",
+    "categories": [
+      "Other Computer Science (cs.OH)"
+    ],
+    "url_pdf": "/pdf/1003.0634"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.0617",
+    "title": "Title:Agent Based Approaches to Engineering Autonomous Space Software",
+    "date_publ": "2 Mar 2010",
+    "authors": [
+      "Louise A. Dennis",
+      "Michael Fisher",
+      "Nicholas Lincoln",
+      "Alexei Lisitsa",
+      "Sandor M. Vere"
+    ],
+    "abstract": "Abstract:  Current approaches to the engineering of space software such as satellite\ncontrol systems are based around the development of feedback controllers using\npackages such as MatLab's Simulink toolbox. These provide powerful tools for\nengineering real time systems that adapt to changes in the environment but are\nlimited when the controller itself needs to be adapted.\nWe are investigating ways in which ideas from temporal logics and agent\nprogramming can be integrated with the use of such control systems to provide a\nmore powerful layer of autonomous decision making. This paper will discuss our\ninitial approaches to the engineering of such systems.",
+    "categories": [
+      "Multiagent Systems (cs.MA)",
+      " Artificial Intelligence (cs.AI)"
+    ],
+    "url_pdf": "/pdf/1003.0617"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.0554",
+    "title": "Title:Polychronous Interpretation of Synoptic, a Domain Specific Modeling Language for Embedded Flight-Software",
+    "date_publ": "2 Mar 2010",
+    "authors": [
+      "L. Besnard",
+      "T. Gautier",
+      "J. Ouy",
+      "J.-P. Talpin",
+      "J.-P. Bodeveix",
+      "A. Cortier",
+      "M. Pantel",
+      "M. Strecker",
+      "G. Garcia",
+      "A. Rugina",
+      "J. Buisson",
+      "F. Dagna"
+    ],
+    "abstract": "Abstract:  The SPaCIFY project, which aims at bringing advances in MDE to the satellite\nflight software industry, advocates a top-down approach built on a\ndomain-specific modeling language named Synoptic. In line with previous\napproaches to real-time modeling such as Statecharts and Simulink, Synoptic\nfeatures hierarchical decomposition of application and control modules in\nsynchronous block diagrams and state machines. Its semantics is described in\nthe polychronous model of computation, which is that of the synchronous\nlanguage Signal.",
+    "categories": [
+      "Programming Languages (cs.PL)"
+    ],
+    "url_pdf": "/pdf/1003.0554"
+  },
+  {
+    "url": "https://arxiv.org/abs/1003.0396",
+    "title": "Title:Developing Experimental Models for NASA Missions with ASSL",
+    "date_publ": "1 Mar 2010",
+    "authors": [
+      "Emil Vassev",
+      "Mike Hinche"
+    ],
+    "abstract": "Abstract:  NASA's new age of space exploration augurs great promise for deep space\nexploration missions whereby spacecraft should be independent, autonomous, and\nsmart. Nowadays NASA increasingly relies on the concepts of autonomic\ncomputing, exploiting these to increase the survivability of remote missions,\nparticularly when human tending is not feasible. Autonomic computing has been\nrecognized as a promising approach to the development of self-managing\nspacecraft systems that employ onboard intelligence and rely less on control\nlinks. The Autonomic System Specification Language (ASSL) is a framework for\nformally specifying and generating autonomic systems. As part of long-term\nresearch targeted at the development of models for space exploration missions\nthat rely on principles of autonomic computing, we have employed ASSL to\ndevelop formal models and generate functional prototypes for NASA missions.\nThis helps to validate features and perform experiments through simulation.\nHere, we discuss our work on developing such missions with ASSL.",
+    "categories": [
+      "Software Engineering (cs.SE)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1003.0396"
+  },
+  {
+    "url": "https://arxiv.org/abs/1002.3088",
+    "title": "Title:An Adaptive Parallel Integrator of Ordinary Differential Equations System for Space Experiment Simulation",
+    "date_publ": "16 Feb 2010",
+    "authors": [
+      "Atanas Marinov Atanasso"
+    ],
+    "abstract": "Abstract:  Different possible sources are discussed for enhancement of the calculation\ntime when solving ordinary differential equations systems to forecast space\nobjects' motion. This paper presents an approach for building an integrator of\nordinary differential equations systems for simultaneous solving of motion\nequations of multiple objects. A parallelization of calculation on the base of\nthreads is offered. A method for synchronization is presented. The\ntechnological advance and the invasion of multi-core processors make actual the\nexamined approach for developing an integrator of ordinary differential\nequations systems.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Numerical Analysis (math.NA)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1002.3088"
+  },
+  {
+    "url": "https://arxiv.org/abs/1002.2694",
+    "title": "Title:Integration of the Equation of the artificial Earth's Satellites Motion with Selection of Runge-Kutta-Fehlberg Schemes of Optimum Precision Order",
+    "date_publ": "15 Feb 2010",
+    "authors": [
+      "Atanas Marinov Atanasso"
+    ],
+    "abstract": "Abstract:  An approach is treated for numerical integration of ordinary differential\nequations systems of the first order with choice of a computation scheme,\nensuring the required local precision. The treatment is made on the basis of\nschemes of Runge-Kutta-Fehlberg type. Criteria are proposed as well as a method\nfor the realization of the choice of an 'optimum' scheme. The effectiveness of\nthe presented approach to problems in the field of satellite dynamics is\nillustrated by results from a numerical experiment. These results refer to a\ncase when a satisfactory global stability of the solution for all treated cases\nis available. The effectiveness has been evaluated as good, especially when\nsolving multi-variable problems in the sphere of simulation modelling.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Numerical Analysis (math.NA)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1002.2694"
+  },
+  {
+    "url": "https://arxiv.org/abs/1002.2310",
+    "title": "Title:Analytical Method for Verification of a Satellite Pass over a Region of the Earth Surface",
+    "date_publ": "11 Feb 2010",
+    "authors": [
+      "Atanas Marinov Atanasso"
+    ],
+    "abstract": "Abstract:  An analytical method is proposed in this work for verification whether an\nartificial earth satellite during its orbital motion passes over a region of\nthe earth surface. The method is based on undisturbed Keppler's approximation\nof the orbit and approximation of the region by a circular segment S. In order\nto define the situational condition, a conic surface is used with apex in the\nearth centre, cutting out the circular segment. The tangents of the conical\nsurface with Keppler's plane determine the time intervals in which the\nsatellite trace on the earth surface occurs inside the segment S. The\ntransformation of these tangents in the plane of Keppler's orbit and the\ndetermination of their crossing points with Keppler's ellipse lies in the basis\nof the examined method.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1002.2310"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.0493",
+    "title": "Title:From Requirements to code: an Architecture-centric Approach for producing Quality Systems",
+    "date_publ": "2 Oct 2009",
+    "authors": [
+      "Antonio Bucchiarone",
+      "Davide Di Ruscio",
+      "Henry Muccini",
+      "Patrizio Pelliccion"
+    ],
+    "abstract": "Abstract:  When engineering complex and distributed software and hardware systems\n(increasingly used in many sectors, such as manufacturing, aerospace,\ntransportation, communication, energy, and health-care), quality has become a\nbig issue, since failures can have economics consequences and can also endanger\nhuman life. Model-based specifications of a component-based system permit to\nexplicitly model the structure and behaviour of components and their\nintegration. In particular Software Architectures (SA) has been advocated as an\neffective means to produce quality systems. In this chapter by combining\ndifferent technologies and tools for analysis and development, we propose an\narchitecture-centric model-driven approach to validate required properties and\nto generate the system code. Functional requirements are elicited and used for\nidentifying expected properties the architecture shall express. The\narchitectural compliance to the properties is formally demonstrated, and the\nproduced architectural model is used to automatically generate the Java code.\nSuitable transformations assure that the code is conforming to both structural\nand behavioural SA constraints. This chapter describes the process and\ndiscusses how some existing tools and languages can be exploited to support the\napproach.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/0910.0493"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.0116",
+    "title": "Title:Spitzer observations of the asteroid-comet transition object and potential spacecraft target 107P (4015) Wilson-Harrington",
+    "date_publ": "1 Oct 2009",
+    "authors": [
+      "J. Licandro",
+      "H. Campins",
+      "M. Kelley",
+      "Y. Fernandez",
+      "M. Delbo",
+      "W. T. Reach",
+      "O. Groussin",
+      "P. L. Lamy",
+      "I. Toth",
+      "M. F. A'Hearn",
+      "J. M. Bauer",
+      "S. C. Lowry",
+      "A. Fitzsimmons",
+      "C. M. Lisse",
+      "K. J. Meech",
+      "J. Pittichova",
+      "C. Snodgrass",
+      "H. A. Weave"
+    ],
+    "abstract": "Abstract:  Context. Near-Earth asteroid-comet transition object 107P/ (4015)\nWilson-Harrington is a possible target of the joint European Space Agency (ESA)\nand Japanese Aerospace Exploration Agency (JAXA) Marco Polo sample return\nmission. Physical studies of this object are relevant to this mission, and also\nto understanding its asteroidal or cometary nature. Aims. Our aim is to obtain\nsignificant new constraints on the surface thermal properties of this object.\nMethods. We present mid-infrared photometry in two filters (16 and 22 microns)\nobtained with NASA's Spitzer Space Telescope on February 12, 2007, and results\nfrom the application of the Near Earth Asteroid Thermal Model (NEATM).We\nobtained high S/N in two mid-IR bands allowing accurate measurements of its\nthermal emission. Results. We obtain a well constrained beaming parameter (eta\n= 1.39 +/- 0.26) and obtain a diameter and geometric albedo of D = 3.46 +/-\n0.32 km, and pV = 0.059 +/- 0.011. We also obtain similar results when we apply\nthis best-fitting thermal model to single-band mid-IR photometry reported by\nCampins et al. (1995), Kraemer et al. (2005) and Reach et al. (2007).\nConclusions. The albedo of 4015 Wilson-Harrington is low, consistent with those\nof comet nuclei and primitive C-, P-, D-type asteorids. We establish a rough\nlower limit for the thermal inertia of W-H of 60 Jm^-2s^(-0.5)K^-1 when it is\nat r=1AU, which is slightly over the limit of 30 Jm^-2s^(-0.5)K-1 derived by\nGroussin et al. (2009) for the thermal inertia of the nucleus of comet\n22P/Kopff.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0910.0116"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.4202",
+    "title": "Title:Improving Effectiveness Of ELearning In Maintenance Using Interactive 3D",
+    "date_publ": "23 Sep 2009",
+    "authors": [
+      "S Santhosh Baboo",
+      "Nikhil Lob"
+    ],
+    "abstract": "Abstract:  In aerospace and defense, training is being carried out on the web by viewing\nPowerPoint presentations, manuals and videos that are limited in their ability\nto convey information to the technician. Interactive training in the form of 3D\nis a more cost effective approach compared to creation of physical simulations\nand mockups. This paper demonstrates how training using interactive 3D\nsimulations in elearning achieves a reduction in the time spent in training and\nimproves the efficiency of a trainee performing the installation or removal.",
+    "categories": [
+      "Computers and Society (cs.CY)",
+      " Human-Computer Interaction (cs.HC)"
+    ],
+    "url_pdf": "/pdf/0909.4202"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.3271",
+    "title": "Title:Mathematical Modeling of Aerodynamic Space -to - Surface Flight with Trajectory for Avoid Intercepting Process for Safety and Security Issues",
+    "date_publ": "22 Aug 2009",
+    "authors": [
+      "Serge Gornef"
+    ],
+    "abstract": "Abstract:  The research project has been made for mathematical modeling of aerospace\nsystem Space-to-Surface for avoid intercepting process by flight objects\nSurface-to-Air. The research has been completed and created mathematical models\nwhich used for research and statistical analysis. In mathematical modeling has\nbeen including a few models: Model of atmosphere, Model of speed of sound,\nModel of flight head in space, Model of flight in atmosphere, Models of\nnavigation and guidance, Model and statistical analysis of approximation of\naerodynamic characteristics. Modeling has been created for a Space-to-Surface\nsystem defined for an optimal trajectory in terminal phase. The modeling\nincludes models for simulation atmosphere, aerodynamic flight and navigation by\nan infrared system. The modeling simulation includes statistical analysis of\nthe modeling results.",
+    "categories": [
+      "Other Computer Science (cs.OH)"
+    ],
+    "url_pdf": "/pdf/0908.3271"
+  },
+  {
+    "url": "https://arxiv.org/abs/0906.0196",
+    "title": "Title:Jet-induced cratering of a granular surface with application to lunar spaceports",
+    "date_publ": "1 Jun 2009",
+    "authors": [
+      "Philip T. Metzger",
+      "Christopher D. Immer",
+      "Carly M. Donahue",
+      "Bruce M. Vu",
+      "Robert C. Latta III",
+      "Matthew Deyo-Svendse"
+    ],
+    "abstract": "Abstract:  The erosion of lunar soil by rocket exhaust plumes is investigated\nexperimentally. This has identified the diffusion-driven flow in the bulk of\nthe sand as an important but previously unrecognized mechanism for erosion\ndynamics. It has also shown that slow regime cratering is governed by the\nrecirculation of sand in the widening geometry of the crater. Scaling\nrelationships and erosion mechanisms have been characterized in detail for the\nslow regime. The diffusion-driven flow occurs in both slow and fast regime\ncratering. Because diffusion-driven flow had been omitted from the lunar\nerosion theory and from the pressure cratering theory of the Apollo and Viking\nera, those theories cannot be entirely correct.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/0906.0196"
+  },
+  {
+    "url": "https://arxiv.org/abs/0905.3910",
+    "title": "Title:Special functions and pathways for problems in astrophysics: An essay in honor of A.M. Mathai",
+    "date_publ": "24 May 2009",
+    "authors": [
+      "H.J. Haubol"
+    ],
+    "abstract": "Abstract:  The paper provides a review of A.M. Mathai's applications of the theory of\nspecial functions, particularly generalized hypergeometric functions, to\nproblems in stellar physics and formation of structure in the Universe and to\nquestions related to reaction, diffusion, and reaction-diffusion models. The\nessay also highlights Mathai's recent work on entropic, distributional, and\ndifferential pathways to basic concepts in statistical mechanics, making use of\nhis earlier research results in information and statistical distribution\ntheory. The results presented in the essay cover a period of time in Mathai's\nresearch from 1982 to 2008 and are all related to the thematic area of the\ngravitationally stabilized solar fusion reactor and fractional\nreaction-diffusion, taking into account concepts of non-extensive statistical\nmechanics. The time period referred to above coincides also with Mathai's\nexceptional contributions to the establishment and operation of the Centre for\nMathematical Sciences, India, as well as the holding of the United Nations\n(UN)/European Space Agency (ESA)/National Aeronautics and Space Administration\n(NASA) of the United States/ Japanese Aerospace Exploration Agency (JAXA)\nWorkshops on basic space science and the International Heliophysical Year 2007,\naround the world. Professor Mathai's contributions to the latter, since 1991,\nare a testimony for his social conscience applied to international scientific\nactivity.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Cosmology and Nongalactic Astrophysics (astro-ph.CO)",
+      " Classical Analysis and ODEs (math.CA)"
+    ],
+    "url_pdf": "/pdf/0905.3910"
+  },
+  {
+    "url": "https://arxiv.org/abs/0902.2829",
+    "title": "Title:On the Residual Effective Potential within Global One-Dimensional Quantum Gravity",
+    "date_publ": "17 Feb 2009 (v1), last revised 11 Jul 2014 (this version, v3)",
+    "authors": [
+      "Lukasz Andrzej Glink"
+    ],
+    "abstract": "Abstract:  The global one-dimensional quantum gravity is the model of quantum gravity\nwhich arises from the global one-dimensionality conjecture within quantum\ngeneral relativity, first considered by the author in 2010 and then in 2012. In\nthis model the global dimension is a determinant of a metric of\nthree-dimensional space embedded into an enveloping Lorentizan four-dimensional\nspacetime. In 2012, it has already been presented by the author that this model\ncan be extended to any Lorentzian D + 1-dimensional spacetime, where D is a\ndimension of space, and resulting in the global one-dimensional model of a\nhigher dimensional quantum gravity.\nThe purely quantum-mechanical part of this model is a minimal effective model\nwithin the quantum geometrodynamics, introduced by J.A. Wheeler and B.S. DeWitt\nin the 1960s, but the effective potential is manifestly different from the one\nconsidered by Wheeler & DeWitt. Moreover, in our model the wave functionals\nsolving the quantum gravity are one-variable smooth functions and, therefore,\nthe troublesome mathematical technique of the Feynman functional integration\npresent in the Hawking formulation of quantum gravity, is absent is this model,\nwhat makes it a mathematically consistent theory of quantum gravitation.\nIn this paper, we discuss in some detail a certain part of the global\none-dimensional model already proposed in 2010, and then developed in 2012. The\ngeneralized functional expansion of the effective potential and the residual\napproximation, which describe the embedded spaces which are maximally symmetric\nthree-dimensional Einstein's manifolds, whose lead to the Newton-Coulomb type\npotential in the quantum gravity model, are considered. Furthermore, scenarios\nrelated to few selected specific forms of the effective potential are suggested\nas physically interesting and discussed.",
+    "categories": [
+      "High Energy Physics - Theory (hep-th)",
+      " General Relativity and Quantum Cosmology (gr-qc)",
+      " Mathematical Physics (math-ph)",
+      " Functional Analysis (math.FA)"
+    ],
+    "url_pdf": "/pdf/0902.2829"
+  },
+  {
+    "url": "https://arxiv.org/abs/0901.3033",
+    "title": "Title:Phenomenological quark-lepton mass relations and neutrino mass estimations",
+    "date_publ": "20 Jan 2009 (v1), last revised 9 Apr 2010 (this version, v4)",
+    "authors": [
+      "Dimitar Vale"
+    ],
+    "abstract": "Abstract:  Based on the experimental data and estimations of the charged leptons and\nquarks masses, a close power law with exponent 3/4 has been found, connecting\ncharged leptons masses and up quarks masses. A similar mass relation has been\nsuggested for the masses of neutral leptons and down quarks. The latter mass\nrelation and the results of the solar and atmospheric neutrino experiments have\nbeen used for prediction of neutrino masses. The obtained masses of electron\nneutrino, muon neutrino and tau neutrino are 0.0003 eV, 0.003 eV and 0.04 eV,\nrespectively. These values are compatible with the recent experimental data and\nsupport the normal hierarchy of neutrino masses.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/0901.3033"
+  }
+]

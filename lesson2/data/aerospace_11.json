@@ -1,0 +1,799 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1402.5891",
+    "title": "Title:Numerical and Experimental Studies on the Separation Topology of the MVG Controlled Flow at M=2.5",
+    "date_publ": "24 Feb 2014",
+    "authors": [
+      "Qin Li",
+      "Yonghua Yan",
+      "Ping Lu",
+      "Adam Pierce",
+      "Chaoqun Liu",
+      "Frank L"
+    ],
+    "abstract": "Abstract:  In this paper, the implicitly implemented LES method and fifth order\nbandwidth optimized WENO scheme are used to make comprehensive studies on the\nseparation topology of the MVG controlled flow at M=2.5 and Re{\\theta}=5760.\nExperiments are also made to verify the prediction of the computation. Analyses\nare conducted on three categories of the topology: the surface separation,\ncross-section separation and the three dimensional structure of the vortices. A\ncomplete description about the separation topology and a series of new findings\nare obtained. Among them, a pair of spiral point is first predicted by the\ncomputation and verified by the experiment. A corresponding new vortex model\nwith 7 vortex tubes is presented also.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1402.5891"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.5889",
+    "title": "Title:LES Study on the Mechanism of Vortex Rings behind Supersonic MVG with Turbulent Inflow",
+    "date_publ": "24 Feb 2014",
+    "authors": [
+      "Yonghua Yan",
+      "Caixia Chen",
+      "Ping Lu",
+      "Chaoqun Li"
+    ],
+    "abstract": "Abstract:  In this study, we investigate the interaction between vortex rings behind MVG\nand the oblique shocks in the MVG controlled ramp flow at M=2.5 and Req=5760.\nImplicit large eddy simulation (ILES) method is used by solving the unfiltered\nform of the Navier-Stokes equations with the 5th order Bandwidth-optimized WENO\nscheme. The fully developed inflow is given by a series of turbulent profiles\nobtained from previous DNS simulation. It shows that the ring structure does\nnot break down and keeps its topology after penetrating the strong shock wave\nand the oblique shocks is influenced a lot by the induced flow field from\nrings. The bump of the 3D shock wave surface is discovered and its mechanism is\nexplained.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1402.5889"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.5885",
+    "title": "Title:Universal High Order Subroutine with New Shock Detector for Shock Boundary Layer Interaction",
+    "date_publ": "24 Feb 2014",
+    "authors": [
+      "M. Oliveria",
+      "P. Lu",
+      "X. Liu",
+      "C. Li"
+    ],
+    "abstract": "Abstract:  The goal of this work is to develop a new universal high order subroutine for\nshock boundary layer interaction. First, an effective shock/discontinuity\ndetector has been developed.The detector has two steps.The first step is to\ncheck the ratio of the truncation errors on the coarse and fine grids and the\nsecond step is to check the local ratio of the left and right slopes. The\ncurrently popular shock/discontinuity detectors can detect shock, but mistake\nhigh frequency waves and critical points as shock and then damp the physically\nimportant high frequency waves.Preliminary results show the new\nshock/discontinuity detector is very delicate and can detect all shocks\nincluding strong, weak and oblique shocks or discontinuity in function and the\nfirst, second, and third order derivatives without artificial constants, but\nnever mistake high frequency waves and critical points, expansion waves as\nshock. This will overcome the bottle neck problem with numerical simulation for\nthe shock-boundary layer interaction, shock-acoustic interaction, image\nprocess, porous media flow, multiple phase flow and anywhere the high frequency\nwaves are important, but discontinuity exists and is mixed with high frequency\nwaves. After detecting the shock we can then use one side high order scheme for\nshocks and high order central compact scheme for the rest if the shock is\nappropriately located. Then a high order universal subroutine for finite\ndifference method is developed which can be used for any finite difference code\nfor accurate numerical derivatives.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1402.5885"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.5882",
+    "title": "Title:Improvement of Mixing Function for Modified Upwinding Compact Scheme",
+    "date_publ": "24 Feb 2014",
+    "authors": [
+      "Huankun Fu",
+      "Ping Lu",
+      "Chaoqun Li"
+    ],
+    "abstract": "Abstract:  The compact scheme has high order accuracy and high resolution, but cannot be\nused to capture the shock. WENO is a great scheme for shock capturing, but is\ntoo dissipative for turbulence and small length scales. We developed a modified\nupwinding compact scheme which uses an effective shock detector to block\ncompact scheme to cross the shock and a control function to mix the flux with\nWENO scheme near the shock. The new scheme makes the original compact scheme\nable to capture the shock sharply and, more important, keep high order accuracy\nand high resolution in the smooth area, which is particularly important for\nshock boundary layer and shock acoustic interactions. This work is a\ncontinuation to modify the control function for the modified up-winding compact\nscheme (MUCS). Numerical results show the scheme is successful for 2-D Euler.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)",
+      " Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/1402.5882"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.5877",
+    "title": "Title:Numerical Study of Mechanism of U-shaped Vortex Formation",
+    "date_publ": "24 Feb 2014",
+    "authors": [
+      "Ping Lu",
+      "Qin Li",
+      "Chaoqun Li"
+    ],
+    "abstract": "Abstract:  This paper illustrates the mechanism of U-shaped vortex formation which is\nfound both by experiment and DNS. The main goal of this paper is to explain how\nthe U-shaped vortex is formed and further develops. According to the results\nobtained by our direct numerical simulation with high order accuracy, the\nU-shaped vortex is part of the coherent vortex structure and is actually the\ntertiary streamwise vortices induced by the secondary vortices. The new finding\nis quite different from existing theories which describe that the U-shaped\nvortex is newly formed as the head of young turbulence spot and finally break\ndown to small pieces. In addition, we find that the U-shaped vortex has the\nsame vorticity sign as the original {\\lambda}-shaped vortex tube legs and\nserves as a second neck to supply vorticity to the ringlike vortex when the\noriginal vortex tube is stretched and multiple rings are generated.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1402.5877"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.5873",
+    "title": "Title:Numerical Study on Randomization in Late Boundary Layer Transition",
+    "date_publ": "24 Feb 2014",
+    "authors": [
+      "Ping Lu",
+      "Manoj Thapa",
+      "Chaoqun Li"
+    ],
+    "abstract": "Abstract:  The mechanism of randomization in late boundary layer transition is a key\nissue of late boundary layer transition and turbulence theory. We studied the\nmechanism carefully by high order DNS. The randomization was originally\nconsidered as a result of large background noise and non-periodic spanwise\nboundary conditions. It was addressed that the large ring structure is affected\nby background noises first and then the change of large ring structure affects\nthe small length scale quickly, which directly leads to randomization and\nformation of turbulence. However, what we observed is that the loss of symmetry\nstarts from the middle level rings while the top and bottom rings are still\nsymmetric. The nonsymmetric structure of second level rings will influence the\nsmall length scales at the boundary layer bottom quickly. The symmetry loss at\nthe bottom of the boundary layer is quickly spread to up level through\nejections. This will lead to randomization of the whole flow field. Therefore,\nthe internal instability of multiple level ring structure, especially the\nmiddle ring cycles, is the main reason for flow randomization, but not the\nbackground noise. A hypothesis is given that the loss of symmetry may be caused\nby the shift from C-type transition to K-type transition or reverses.",
+    "categories": [
+      "Chaotic Dynamics (nlin.CD)"
+    ],
+    "url_pdf": "/pdf/1402.5873"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.5586",
+    "title": "Title:Adaptive Zero Reaction Motion Control for Free-Floating Space Manipulators",
+    "date_publ": "23 Feb 2014 (v1), last revised 14 Dec 2015 (this version, v2)",
+    "authors": [
+      "Shuanfeng Xu",
+      "Hanlei Wang",
+      "Duzhou Zhang",
+      "Baohua Yan"
+    ],
+    "abstract": "Abstract:  This paper investigates adaptive zero reaction motion control for\nfree-floating space manipulators with uncertain kinematics and dynamics. The\nchallenge in deriving the adaptive reaction null-space (RNS) based control\nscheme is that it is difficult to obtain a linear expression, which is the\nbasis of the adaptive control. The main contribution of this paper is that we\nskillfully obtain such a linear expression, based on which, an adaptive version\nof the RNS-based controller (referred to as the adaptive zero reaction motion\ncontroller in the sequel) is developed at the velocity level, taking into\naccount both the kinematic and dynamic uncertainties. It is shown that the\nproposed controller achieves both the spacecraft attitude regulation and\nend-effector trajectory tracking. The performance of the proposed adaptive\ncontroller is shown by numerical simulations with a planar 3-DOF\n(degree-of-freedom) space manipulator.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1402.5586"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.2710",
+    "title": "Title:Direction Finding Algorithms with Joint Iterative Subspace Optimization",
+    "date_publ": "12 Feb 2014",
+    "authors": [
+      "L. Wang",
+      "R. C. de Lamare",
+      "M. Haard"
+    ],
+    "abstract": "Abstract:  In this paper, a reduced-rank scheme with joint iterative optimization is\npresented for direction of arrival estimation. A rank-reduction matrix and an\nauxiliary reduced-rank parameter vector are jointly optimized to calculate the\noutput power with respect to each scanning angle. Subspace algorithms to\nestimate the rank-reduction matrix and the auxiliary vector are proposed.\nSimulations are performed to show that the proposed algorithms achieve an\nenhanced performance over existing algorithms in the studied scenarios.",
+    "categories": [
+      "Data Structures and Algorithms (cs.DS)"
+    ],
+    "url_pdf": "/pdf/1402.2710"
+  },
+  {
+    "url": "https://arxiv.org/abs/1401.4802",
+    "title": "Title:Process Evolution Supported by Rationale: An Empirical Investigation of Process Changes",
+    "date_publ": "20 Jan 2014",
+    "authors": [
+      "Alexis Ocampo",
+      "J\u00fcrgen M\u00fcnc"
+    ],
+    "abstract": "Abstract:  Evolving a software process model without a retrospective and, in\nconsequence, without an understanding of the process evolution, can lead to\nsevere problems for the software development organization, e.g., inefficient\nperformance as a consequence of the arbitrary introduction of changes or\ndifficulty in demonstrating compliance to a given standard. Capturing\ninformation on the rationale behind changes can provide a means for better\nunderstanding process evolution. This article presents the results of an\nexploratory study with the goal of understanding the nature of process changes\nin a given context. It presents the most important issues that motivated\nprocess engineers changing important aerospace software process standards\nduring an industrial project. The study is part of research work intended to\nincrementally define a systematic mechanism for process evolution supported by\nrationale information.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1401.4802"
+  },
+  {
+    "url": "https://arxiv.org/abs/1401.1910",
+    "title": "Title:Aligning Software-related Strategies in Multi-Organizational Settings",
+    "date_publ": "9 Jan 2014",
+    "authors": [
+      "Martin Kowalczyk",
+      "J\u00fcrgen M\u00fcnch",
+      "Masafumi Katahira",
+      "Tatsuya Kaneko",
+      "Yuko Miyamoto",
+      "Yumi Koish"
+    ],
+    "abstract": "Abstract:  Aligning the activities of an organization with its business goals is a\nchallenging task that is critical for success. Alignment in a\nmulti-organizational setting requires the integration of different internal or\nexternal organizational units. The anticipated benefits of multi-organizational\nalignment consist of clarified contributions and increased transparency of the\ninvolved organizational units. The GQM+Strategies approach provides mechanisms\nfor explicitly linking goals and strategies within an organization and is based\non goal-oriented measurement. This paper presents the process and first-hand\nexperience of applying GQM+Strategies in a multi-organizational setting from\nthe aerospace industry. Additionally, the resulting GQM+Strategies grid is\nsketched and selected parts are discussed. Finally, the results are reflected\non and an overview of future work is given.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1401.1910"
+  },
+  {
+    "url": "https://arxiv.org/abs/1401.1779",
+    "title": "Title:Towards Space Solar Power - Examining Atmospheric Interactions of Power Beams with the HAARP Facility",
+    "date_publ": "8 Jan 2014",
+    "authors": [
+      "M. Leitgab",
+      "A. Cowle"
+    ],
+    "abstract": "Abstract:  In the most common space solar power (SSP) system architectures, solar energy\nharvested by large satellites in geostationary orbit is transmitted to Earth\nvia microwave radiation. Currently, only limited information about the\ninteractions of microwave beams with energy densities of several tens to\nhundreds of W/m$^2$ with the different layers of the atmosphere is available.\nGovernmental bodies will likely require detailed investigations of safety and\natmospheric effects of microwave power beams before issuing launch licenses for\nSSP satellite systems. This paper proposes to collect representative and\ncomprehensive data of the interaction of power beams with the atmosphere by\nextending the infrastructure of the High Frequency Active Auroral Research\nProgram (HAARP) facility in Alaska, USA. Estimates of the transmission\ninfrastructure performance as well as measurement devices and scientific\ncapabilities of possible upgrade scenarios will be discussed. The proposed\nupgrade of the HAARP facility is expected to deliver a wealth of data and\ninformation which could serve as a decision base for governmental launch\nlicensing of SSP satellites, and which can be used in addition to deepen public\nacceptance of SSP as a large-scale renewable energy source.\nCopyright 2014 IEEE. Personal use of this material is permitted. Permission\nfrom IEEE must be obtained for all other uses, in any current or future media,\nincluding reprinting/republishing this material for advertising or promotional\npurposes, creating new collective works, for resale or redistribution to\nservers or lists, or reuse of any copyrighted component of this work in other\nworks.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1401.1779"
+  },
+  {
+    "url": "https://arxiv.org/abs/1312.4850",
+    "title": "Title:Calibrating Data from the Hinode/X-Ray Telescope and Associated Uncertainties",
+    "date_publ": "17 Dec 2013",
+    "authors": [
+      "Adam R. Kobelski",
+      "Steven H. Saar",
+      "Mark A. Weber",
+      "David E. McKenzie",
+      "Katharine K. Reeve"
+    ],
+    "abstract": "Abstract:  The X-Ray Telescope (XRT) onboard the Hinode satellite, launched 23 September\n2006 by the Japanese Aerospace Exploration Agency (JAXA) is a joint mission\nbetween Japan, the United States, and the United Kingdom to study the solar\ncorona. In particular XRT was designed to study solar plasmas with temperatures\nbetween 1 and 10 MK with $\\approx1''$ pixels ($\\approx2''$ resolution). Prior\nto analysis, the data product from this instrument must be properly calibrated\nand data values quantified in order to assess accurately the information\ncontained within. We present here the standard methods of calibration for these\ndata. The calibration is performed on an empirical basis which uses the least\ncomplicated correction that accurately describes the data while suppressing\nspurious features. By analyzing the uncertainties remaining in the data after\ncalibration, we conclude that the procedure is successful, as the remaining\nuncertainty after calibration is dominated by photon noise. This calibration\nsoftware is available in the Solar Soft software library.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1312.4850"
+  },
+  {
+    "url": "https://arxiv.org/abs/1312.3571",
+    "title": "Title:Shape Selection and Multi-stability in Helical Ribbons",
+    "date_publ": "12 Dec 2013",
+    "authors": [
+      "Qiaohang Guo",
+      "Anil K. Mehta",
+      "Martha A. Grover",
+      "Wenzhe Chen",
+      "David G. Lynn",
+      "Zi Che"
+    ],
+    "abstract": "Abstract:  Helical structures, almost ubiquitous in biological systems, have inspired\nthe design and manufacturing of helical devices with applications in\nnanoelecromechanical systems (NEMS), morphing structures, optoelectronics,\nmicro-robotics and drug delivery devices. Meanwhile, multi-stable structures,\nrepresented by the Venus flytrap and slap bracelet, have attracted increasing\nattention due to their applications in making artificial muscles, bio-inspired\nrobots, deployable aerospace components and energy harvesting devices. Here we\nshow that the mechanical anisotropy pertinent to helical deformation, together\nwith geometric nonlinearity associated with multi-stability, can lead to novel\nselection principle of the geometric shape and multi-stability in spontaneous\nhelical ribbons. Simple table-top experiments were also performed to illustrate\nthe working principle. Our work will promote understanding of spontaneous\ncurling, twisting, wrinkling of thin objects and their instabilities, and serve\nas a tool in developing functional structures and devices with tunable,\nmorphing geometries and smart actuation mechanism that can be applied in a\nspectrum of areas.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/1312.3571"
+  },
+  {
+    "url": "https://arxiv.org/abs/1311.7183",
+    "title": "Title:Knowledge-Aided STAP Using Low Rank and Geometry Properties",
+    "date_publ": "28 Nov 2013",
+    "authors": [
+      "Zhaocheng Yang",
+      "Rodrigo C. de Lamare",
+      "Xiang Li",
+      "Hongqiang Wan"
+    ],
+    "abstract": "Abstract:  This paper presents knowledge-aided space-time adaptive processing (KA-STAP)\nalgorithms that exploit the low-rank dominant clutter and the array geometry\nproperties (LRGP) for airborne radar applications. The core idea is to exploit\nthe fact that the clutter subspace is only determined by the space-time\nsteering vectors,\n{red}{where the Gram-Schmidt orthogonalization approach is employed to\ncompute the clutter subspace. Specifically, for a side-looking uniformly spaced\nlinear array, the} algorithm firstly selects a group of linearly independent\nspace-time steering vectors using LRGP that can represent the clutter subspace.\nBy performing the Gram-Schmidt orthogonalization procedure, the orthogonal\nbases of the clutter subspace are obtained, followed by two approaches to\ncompute the STAP filter weights. To overcome the performance degradation caused\nby the non-ideal effects, a KA-STAP algorithm that combines the covariance\nmatrix taper (CMT) is proposed. For practical applications, a reduced-dimension\nversion of the proposed KA-STAP algorithm is also developed. The simulation\nresults illustrate the effectiveness of our proposed algorithms, and show that\nthe proposed algorithms converge rapidly and provide a SINR improvement over\nexisting methods when using a very small number of snapshots.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1311.7183"
+  },
+  {
+    "url": "https://arxiv.org/abs/1311.6677",
+    "title": "Title:Advanced robot calibration using partial pose measurements",
+    "date_publ": "26 Nov 2013",
+    "authors": [
+      "Alexandr Klimchik (IRCCyN)",
+      "Yier Wu (IRCCyN)",
+      "St\u00e9phane Caro (IRCCyN)",
+      "Beno\u00eet Furet (IRCCyN)",
+      "Anatol Pashkevich (IRCCyN"
+    ],
+    "abstract": "Abstract:  The paper focuses on the calibration of serial industrial robots using\npartial pose measurements. In contrast to other works, the developed advanced\nrobot calibration technique is suitable for geometrical and elastostatic\ncalibration. The main attention is paid to the model parameters identification\naccuracy. To reduce the impact of measurement errors, it is proposed to use\ndirectly position measurements of several points instead of computing\norientation of the end-effector. The proposed approach allows us to avoid the\nproblem of non-homogeneity of the least-square objective, which arises in the\nclassical identification technique with the full-pose information. The\ndeveloped technique does not require any normalization and can be efficiently\napplied both for geometric and elastostatic identification. The advantages of a\nnew approach are confirmed by comparison analysis that deals with the\nefficiency evaluation of different identification strategies. The obtained\nresults have been successfully applied to the elastostatic parameters\nidentification of the industrial robot employed in a machining work-cell for\naerospace industry.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1311.6677"
+  },
+  {
+    "url": "https://arxiv.org/abs/1311.4362",
+    "title": "Title:Sparse Identification of Posynomial Models",
+    "date_publ": "18 Nov 2013 (v1), last revised 14 Mar 2014 (this version, v2)",
+    "authors": [
+      "Giuseppe C. Calafiore",
+      "Laurent El Ghaoui",
+      "Carlo Novar"
+    ],
+    "abstract": "Abstract:  Posynomials are nonnegative combinations of monomials with possibly\nfractional and both positive and negative exponents. Posynomial models are\nwidely used in various engineering design endeavors, such as circuits,\naerospace and structural design, mainly due to the fact that design problems\ncast in terms of posynomial objectives and constraints can be solved\nefficiently by means of a convex optimization technique known as geometric\nprogramming (GP). However, while quite a vast literature exists on GP-based\ndesign, very few contributions can yet be found on the problem of identifying\nposynomial models from experimental data. Posynomial identification amounts to\ndetermining not only the coefficients of the combination, but also the\nexponents in the monomials, which renders the identification problem\nnumerically hard. In this draft, we propose an approach to the identification\nof multivariate posynomial models, based on the expansion on a given\nlarge-scale basis of monomials. The model is then identified by seeking\ncoefficients of the combination that minimize a mixed objective, composed by a\nterm representing the fitting error and a term inducing sparsity in the\nrepresentation, which results in a problem formulation of the ``square-root\nLASSO'' type, with nonnegativity constraints on the variables. We propose to\nsolve the problem via a sequential coordinate-descent scheme, which is suitable\nfor large-scale implementations.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1311.4362"
+  },
+  {
+    "url": "https://arxiv.org/abs/1311.4127",
+    "title": "Title:Gravity gradient torque of spacecraft orbiting asteroids",
+    "date_publ": "17 Nov 2013",
+    "authors": [
+      "Yue Wang",
+      "Shijie X"
+    ],
+    "abstract": "Abstract:  Purpose: This paper presents a full fourth-order model of the gravity\ngradient torque of spacecraft around asteroids by taking into consideration of\nthe inertia integrals of the spacecraft up to the fourth order, which is an\nimprovement of the previous fourth-order model of the gravity gradient torque.\nDesign, methodology and approach: The fourth-order gravitational potential of\nthe spacecraft is derived based on Taylor expansion. Then the expression of the\ngravity gradient torque in terms of gravitational potential derivatives is\nderived. By using the formulation of the gravitational potential, explicit\nformulations of the full fourth-order gravity gradient torque are obtained.\nThen a numerical simulation is carried out to verify our model. Findings: We\nfind that our model is more sound and precise than the previous fourth-order\nmodel due to the consideration of higher-order inertia integrals of the\nspacecraft. Numerical simulation results show that the motion of the previous\nfourth-order model is quite different from the exact motion, while our full\nfourth-order model fits the exact motion very well. Our full fourth-order model\nis precise enough for high-precision attitude dynamics and control around\nasteroids. Practical implications: This high-precision model is of importance\nfor the future asteroids missions for scientific explorations and near-Earth\nobjects mitigation. Originality and value: In comparison with the previous\nmodel, a gravity gradient torque model around asteroids that is more sound and\nprecise is established. This model is valuable for high-precision attitude\ndynamics and control around asteroids.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1311.4127"
+  },
+  {
+    "url": "https://arxiv.org/abs/1309.7723",
+    "title": "Title:On the Effect of Data Contamination on Track Purity",
+    "date_publ": "30 Sep 2013",
+    "authors": [
+      "Adrien Ickowicz",
+      "Jean-Pierre Le Cadr"
+    ],
+    "abstract": "Abstract:  This paper is concerned with performance analysis for data association, in a\ntarget tracking environment. Effects of misassociation are considered in a\nsimple (linear) multiscan framework so as to provide closed-form expressions of\nthe probability of correct association. In this paper, we focus on the\ndevelopment of explicit approximations of this probability. Via rigorous\ncalculations the effect of dimensioning parameters (number of scans, false\nmeasurement positions or densities) is analyzed, for various modelings of the\nfalse measurements. Remarkably, it is possible to derive very simple\nexpressions of the probability of correct association which are independent of\nthe scenario kinematic parameters.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1309.7723"
+  },
+  {
+    "url": "https://arxiv.org/abs/1309.5679",
+    "title": "Title:An Analytic Solution to Wahba's Problem",
+    "date_publ": "23 Sep 2013",
+    "authors": [
+      "Yaguang Yang",
+      "Zhiqiang Zho"
+    ],
+    "abstract": "Abstract:  All spacecraft attitude estimation methods are based on Wahba's optimization\nproblem. This problem can be reduced to finding the largest eigenvalue and the\ncorresponding eigenvector for Davenport's $K$-matrix. Several iterative\nalgorithms, such as QUEST and FOMA, were proposed, aiming at reducing the\ncomputational cost. But their computational time is unpredictable because the\niteration number is not fixed and the solution is not accurate in theory.\nRecently, an analytical solution, ESOQ was suggested. The advantages of\nanalytical solutions are that their computational time is fixed and the\nsolution should be accurate in theory if there is no numerical error. In this\npaper, we propose a different analytical solution to the Wahba's problem. We\nuse simple and easy to be verified examples to show that this method is\nnumerically more stable than ESOQ, potentially faster than QUEST and FOMA. We\nalso use extensive simulation test to support this claim.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1309.5679"
+  },
+  {
+    "url": "https://arxiv.org/abs/1309.5531",
+    "title": "Title:BRITE-Constellation: Nanosatellites for Precision Photometry of Bright Stars",
+    "date_publ": "21 Sep 2013",
+    "authors": [
+      "W. W. Weiss",
+      "A. F. J. Moffat",
+      "A. Schwarzenberg-Czerny",
+      "O. F. Koudelka",
+      "C. C. Grant",
+      "R. E. Zee",
+      "R. Kuschnig",
+      "St. Mochnacki",
+      "S. M. Rucinski",
+      "J. M. Matthews",
+      "P. Orleanski",
+      "A. Pamyatnykh",
+      "A. Pigulski",
+      "J. Alves",
+      "M. Guedel",
+      "G. Handler",
+      "G. A. Wade",
+      "A. L. Scholt"
+    ],
+    "abstract": "Abstract:  BRITE-Constellation (where BRITE stands for BRIght Target Explorer) is an\ninternational nanosatellite mission to monitor photometrically, in two colours,\nbrightness and temperature variations of stars brighter than V = 4. The current\nmission design consists of three pairs of 7 kg nanosats from Austria, Canada\nand Poland carrying optical telescopes and CCDs. One instrument in each pair is\nequipped with a blue filter; the other, a red filter. The first two nanosats\nare UNIBRITE, designed and built by University of Toronto Institute for\nAerospace Studies - Space Flight Laboratory and its twin, BRITE-Austria, built\nby the Technical University Graz with support of UTIAS-SFL. They were launched\non 25 February 2013 by the Indian Space Agency under contract to the Canadian\nSpace Agency into a low-Earth dusk-dawn polar orbit.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1309.5531"
+  },
+  {
+    "url": "https://arxiv.org/abs/1309.3512",
+    "title": "Title:Analytical and experimental stability investigation of a hardware-in-the-loop satellite docking simulator",
+    "date_publ": "13 Sep 2013",
+    "authors": [
+      "M. Zebenaya",
+      "T. Boge",
+      "R. Krenn",
+      "D. Choukrou"
+    ],
+    "abstract": "Abstract:  The European Proximity Operation Simulator (EPOS) of the DLR-German Aerospace\nCenter is a robotics-based simulator that aims at validating and verifying a\nsatellite docking phase. The generic concept features a robotics tracking\nsystem working in closed loop with a force/torque feedback signal. Inherent\ndelays in the tracking system combined with typical high stiffness at contact\nchallenge the stability of the closed-loop system. The proposed concept of\noperations is hybrid: the feedback signal is a superposition of a measured\nvalue and of a virtual value that can be tuned in order to guarantee a desired\nbehavior. This paper is concerned with an analytical study of the system's\nclosed-loop stability, and with an experimental validation of the hybrid\nconcept of operations in one dimension (1D). The robotics simulator is modeled\nas a second-order loop-delay system and closed-form expressions for the\ncritical delay and associated frequency are derived as a function of the\nsatellites' mass and the contact dynamics stiffness and damping parameters. A\nnumerical illustration sheds light on the impact of the parameters on the\nstability regions. A first-order Pade approximation provides additional means\nof stability investigation. Experiments were performed and tests results are\ndescribed for varying values of the mass and the damping coefficients. The\nempirical determination of instability is based on the coefficient of\nrestitution and on the observed energy. There is a very good agreement between\nthe critical damping values predicted by the analysis and observed during the\ntests...",
+    "categories": [
+      "Other Computer Science (cs.OH)"
+    ],
+    "url_pdf": "/pdf/1309.3512"
+  },
+  {
+    "url": "https://arxiv.org/abs/1308.2272",
+    "title": "Title:Search Optimization for Minimum Load under Detection Performance Constraints in Multifunction Radars",
+    "date_publ": "10 Aug 2013",
+    "authors": [
+      "Dae-Sung Jang",
+      "Han-Lim Choi",
+      "Ji-Eun Ro"
+    ],
+    "abstract": "Abstract:  This paper presents a solution procedure of search parameter optimization for\nminimum load ensuring desired one-off and cumulative probabilities of detection\nin a multifunction phased array radar. The key approach is to convert this\nnonlinear optimization on four search parameters into a scalar optimization on\nsignal-to-noise ratio by a semi-analytic process based on subproblem\ndecomposition. The efficacy of the proposed solution approach is verified with\ntheoretical analysis and numerical case studies.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1308.2272"
+  },
+  {
+    "url": "https://arxiv.org/abs/1308.0150",
+    "title": "Title:Flight demonstration of formation flying capabilities for future missions (NEAT Pathfinder)",
+    "date_publ": "1 Aug 2013",
+    "authors": [
+      "M. Delpech (CNES)",
+      "F. Malbet (IPAG)",
+      "T. Karlsson (OHB Sweden)",
+      "R. Larsson (OHB Sweden)",
+      "A. L\u00e9ger (IAS)",
+      "J. Jorgensen (DTU Space"
+    ],
+    "abstract": "Abstract:  PRISMA is a demonstration mission for formation-flying and on-orbit-servicing\ncritical technologies that involves two spacecraft launched in low Earth orbit\nin June 2010 and still in operation. Funded by the Swedish National Space\nBoard, PRISMA mission has been developed by OHB Sweden with important\ncontributions from the German Aerospace Centre (DLR/GSOC), the French Space\nAgency (CNES), and the Technical University of Denmark (DTU). The paper focuses\non the last CNES experiment achieved in September 2012 that was devoted to the\npreparation of future astrometry missions illustrated by the NEAT and microNEAT\nmission concepts. The experiment consisted in performing the type of formation\nmaneuvers required to point the two-satellite axis to a celestial target and\nmaintain it fixed during the observation period. Achieving inertial pointing\nfor a LEO formation represented a new challenge given the numerous constraints\nfrom propellant usage to star tracker blinding. The paper presents the\nexperiment objectives in relation with the NEAT/microNEAT mission concept,\ndescribes its main design features along with the guidance and control\nalgorithms evolutions and discusses the results in terms of performances\nachieved during the two rehearsals",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1308.0150"
+  },
+  {
+    "url": "https://arxiv.org/abs/1307.3874",
+    "title": "Title:Diffuse phase transition and electrical properties of lead-free piezoelectric (LixNa1-x)NbO3 (0.04 to x to 0.20) ceramics near morphotropic phase boundary",
+    "date_publ": "15 Jul 2013",
+    "authors": [
+      "S. Mitra",
+      "A. R. Kulkarni",
+      "Om. Prakas"
+    ],
+    "abstract": "Abstract:  Temperature-dependent dielectric permittivity of lead-free (LixNa1-x)NbO3 for\nnominal x = 0.04-0.20, prepared by solid state reaction followed by sintering,\nwas studied to resolve often debated issue pertaining to exactness of\nmorphotropic phase boundary (MPB) location along with structural aspects and\nphase stability in the system near MPB. Interestingly, a diffuse phase\ntransition has been observed in the dielectric permittivity peak arising from\nthe disorder induced in A-site and structural frustration in the perovskite\ncell due to Li substitution. A partial phase diagram has been proposed based on\ntemperature-dependent dielectric permittivity studies. The room temperature\npiezoelectric and ferroelectric properties were investigated and the ceramics\nwith x = 0.12 showed relatively good electrical properties (d33 = 28 pC/N, kp =\n13.8%, Qm = 440, Pr = 12.5 {micro}C/cm2, EC = 43.2 kV/cm, Tm = 340 oC). These\nparameter values make this material suitable for piezoelectric resonator and\nfilter applications. Moreover, a high dielectric permittivity (= 2703) with\nbroad diffuse peak near transition temperature along with low dielectric loss\n(< 4%) in a wide temperature range (50-250 oC) found in this material may also\nhave a potential application in high-temperature multilayer capacitors in\nautomotive and aerospace related industries.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1307.3874"
+  },
+  {
+    "url": "https://arxiv.org/abs/1307.3283",
+    "title": "Title:A particle filter approach to approximate posterior Cram\u00e9r-Rao lower bound",
+    "date_publ": "11 Jul 2013",
+    "authors": [
+      "Aditya Tulsyan",
+      "Biao Huang",
+      "R. Bhushan Gopaluni",
+      "J. Fraser Forbe"
+    ],
+    "abstract": "Abstract:  The posterior Cram\u00e9r-Rao lower bound (PCRLB) derived in Tichavsk\u00fd et al.,\n1998, provides a bound on the mean square error (MSE) obtained with any\nnon-linear state filter. Computing the PCRLB involves solving complex,\nmulti-dimensional expectations, which do not lend themselves to an easy\nanalytical solution. Furthermore, any attempt to approximate it using numerical\nor simulation based approaches require a priori access to the true states,\nwhich may not be available, except in simulations or in carefully designed\nexperiments. To allow recursive approximation of the PCRLB when the states are\nhidden or unmeasured, a new approach based on sequential Monte-Carlo (SMC) or\nparticle filters (PF) is proposed. The approach uses SMC methods to estimate\nthe hidden states using a sequence of the available sensor measurements. The\ndeveloped method is general and can be used to approximate the PCRLB in\nnon-linear systems with non-Gaussian state and sensor noise. The efficacy of\nthe developed method is illustrated on two simulation examples, including a\npractical problem of ballistic target tracking at re-entry phase.",
+    "categories": [
+      "Computation (stat.CO)"
+    ],
+    "url_pdf": "/pdf/1307.3283"
+  },
+  {
+    "url": "https://arxiv.org/abs/1306.6178",
+    "title": "Title:Effective conductivity of a singularly perturbed periodic two-phase composite with imperfect thermal contact at the two-phase interface",
+    "date_publ": "26 Jun 2013",
+    "authors": [
+      "Matteo Dalla Riva",
+      "Paolo Musolin"
+    ],
+    "abstract": "Abstract:  We consider the asymptotic behaviour of the effective thermal conductivity of\na two-phase composite obtained by introducing into an infinite homogeneous\nmatrix a periodic set of inclusions of a different material and of size\nproportional to a positive parameter \\epsilon. We are interested in the case of\nimperfect thermal contact at the two-phase interface. Under suitable\nassumptions, we show that the effective thermal conductivity can be continued\nreal analytically in the parameter \\epsilon around the degenerate value\n\\epsilon=0, in correspondence of which the inclusions collapse to points. The\nresults presented here are obtained by means of an approach based on functional\nanalysis and potential theory and are also part of a forthcoming paper by the\nauthors.",
+    "categories": [
+      "Analysis of PDEs (math.AP)"
+    ],
+    "url_pdf": "/pdf/1306.6178"
+  },
+  {
+    "url": "https://arxiv.org/abs/1306.1679",
+    "title": "Title:Clifford Fourier-Mellin transform with two real square roots of -1 in Cl(p,q), p+q=2",
+    "date_publ": "7 Jun 2013",
+    "authors": [
+      "Eckhard Hitze"
+    ],
+    "abstract": "Abstract:  We describe a non-commutative generalization of the complex Fourier-Mellin\ntransform to Clifford algebra valued signal functions over the domain\n$\\R^{p,q}$ taking values in Cl(p,q), p+q=2.\nKeywords: algebra, Fourier transforms; Logic, set theory, and algebra,\nFourier analysis, Integral transforms",
+    "categories": [
+      "Rings and Algebras (math.RA)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1306.1679"
+  },
+  {
+    "url": "https://arxiv.org/abs/1305.3304",
+    "title": "Title:The effect of tow gaps on compression after impact strength of robotically laminated structures",
+    "date_publ": "14 May 2013",
+    "authors": [
+      "A. T. Rhead",
+      "T. J. Dodwell",
+      "R. Butle"
+    ],
+    "abstract": "Abstract:  When (robotic) Automated Fibre Placement (AFP) is used to manufacture\naerospace components with complex three dimensional geometries, gaps between\nfibre tows can occur. This paper is the first to explore the interaction under\ncompressive load of these tow gaps with impact damage. Two coupons with\ndifferent distributions of tow-gaps were impacted. Results indicated that the\narea of delamination is smaller for an impact directly over a tow gap where the\ntow gap is situated close to the non-impact face. Subsequent Compression After\nImpact (CAI) testing demonstrated that both the formation of sublaminate\nbuckles and subsequent growth of delaminations is inhibited by the presence of\na tow gap near the non-impact face. Non-destructive testing techniques and a\ncomputationally efficient infinite Strip model are used to analyse the damage\nresistance and damage tolerance of the coupons. A new validation of the Strip\nmodel is also presented.",
+    "categories": [
+      "Pattern Formation and Solitons (nlin.PS)"
+    ],
+    "url_pdf": "/pdf/1305.3304"
+  },
+  {
+    "url": "https://arxiv.org/abs/1304.5084",
+    "title": "Title:Extended Object Tracking with Random Hypersurface Models",
+    "date_publ": "18 Apr 2013",
+    "authors": [
+      "Marcus Baum",
+      "Uwe D. Hanebec"
+    ],
+    "abstract": "Abstract:  The Random Hypersurface Model (RHM) is introduced that allows for estimating\na shape approximation of an extended object in addition to its kinematic state.\nAn RHM represents the spatial extent by means of randomly scaled versions of\nthe shape boundary. In doing so, the shape parameters and the measurements are\nrelated via a measurement equation that serves as the basis for a Gaussian\nstate estimator. Specific estimators are derived for elliptic and star-convex\nshapes.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1304.5084"
+  },
+  {
+    "url": "https://arxiv.org/abs/1304.3743",
+    "title": "Title:Frequency Transient of Three-Dimensional Perturbations in Shear Flows. Similarity Properties and Wave Packets Linear Formation",
+    "date_publ": "12 Apr 2013 (v1), last revised 27 Jun 2013 (this version, v2)",
+    "authors": [
+      "Federico Fraternal"
+    ],
+    "abstract": "Abstract:  The present thesis deals with the non-modal linear analysis of 3D\nperturbations in wall flows. In the first part,a solution to the Orr-Sommerfeld\nand Squire IVP, in the form of orthogonal functions expansion, is researched.\nThe Galerkin method is successfully implemented to numerically compute\napproximate solutions for bounded flows. The Chandrasekhar functions revealed\nto ensure a fifth order of accuracy. The focus of the subsequent analysis is on\nthe transient behavior of the perturbation frequency and phase velocity. The\nresults confirm recent observations about a jump in the temporal evolution of\nthe frequency of the wall-normal velocity signal, considered as the end of an\nEarly Transient. After this jump, the wave frequency for Plane Couette flow\nexperiences a periodic modulation about the asymptotic value, which is\nmotivated and investigated in detail. A new result is the presence of a second\nfrequency jump for the wall-normal vorticity. This fact, together with the\npossibility for different values of the signals asymptotic frequency, shows the\nexistence of an Intermediate Transient. Moreover, a connection between the\nfrequency jumps and the establishing of a self-similarity condition in time for\nboth the velocity and vorticity profiles is found and investigated for both\nPlane Couette flow and Plane Poiseuille flow. Eventually, through superposition\nof waves with limited wavenumber range, a wave packet is reconstructed for\nPlane Couette flow and Blasius boundary-layer flow . The linear spot evolution\nrevealed to have many common features with the early stages of a turbulent\nspot, particularly the streaky structure and the spot shape.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1304.3743"
+  },
+  {
+    "url": "https://arxiv.org/abs/1304.2707",
+    "title": "Title:Tracking the Tracker from its Passive Sonar ML-PDA Estimates",
+    "date_publ": "9 Apr 2013",
+    "authors": [
+      "D. Ciuonzo",
+      "P. K. Willett",
+      "Y. Bar-Shalo"
+    ],
+    "abstract": "Abstract:  Target motion analysis with wideband passive sonar has received much\nattention. Maximum likelihood probabilistic data-association (ML-PDA)\nrepresents an asymptotically efficient estimator for deterministic target\nmotion, and is especially well-suited for low-observable targets; the results\npresented here apply to situations with higher signal to noise ratio as well,\nincluding of course the situation of a deterministic target observed via clean\nmeasurements without false alarms or missed detections. Here we study the\ninverse problem, namely, how to identify the observing platform (following a\ntwo-leg motion model) from the results of the target estimation process, i.e.\nthe estimated target state and the Fisher information matrix, quantities we\nassume an eavesdropper might intercept. We tackle the problem and we present\nobservability properties, with supporting simulation results.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1304.2707"
+  },
+  {
+    "url": "https://arxiv.org/abs/1303.3512",
+    "title": "Title:Near-infrared spectroscopy of 1999 JU3, the target of the Hayabusa 2 mission",
+    "date_publ": "14 Mar 2013",
+    "authors": [
+      "N. Pinilla-Alonso",
+      "V. Lorenzi",
+      "H. Campins",
+      "J. deLeon",
+      "J. Licandr"
+    ],
+    "abstract": "Abstract:  Context. Primitive asteroids contain complex organic material and ices\nrelevant to the origin of life on Earth. These types of asteroids are the\ntarget of several-sample return missions to be launched in the next years. 1999\nJU3 is the target of the Japanese Aerospace Exploration Agency's Hayabusa 2\nmission. Aims. 1999 JU3 has been previously identified as a C-class asteroid.\nSpectroscopic observations at longer wavelengths will help to constrain its\ncomposition. Methods. We obtained spectroscopy of 1999 JU3 from 0.85 to 2.2\nmicrons, with the 3.6 m Telescopio Nazionale Galileo using the low resolution\nmode of the Near Infrared Camera Spectrograph. Results. We present a\nnear-infrared spectrum of 1999 JU3 from 0.85 to 2.2microns that is consistent\nwith previously published spectra and with its C-type classification.\nConclusions. Our spectrum confirms the primitive nature of 1999 JU3 and its\ninterest as target of the sample-return mission Hayabusa 2.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1303.3512"
+  },
+  {
+    "url": "https://arxiv.org/abs/1303.1615",
+    "title": "Title:The Prototype GAPS (pGAPS) Experiment",
+    "date_publ": "7 Mar 2013",
+    "authors": [
+      "S. A. I. Mognet",
+      "T. Aramaki",
+      "N. Bando",
+      "S. E. Boggs",
+      "P. von Doetinchem",
+      "H. Fuke",
+      "F. H. Gahbauer",
+      "C. J. Hailey",
+      "J. E. Koglin",
+      "N. Madden",
+      "K. Mori",
+      "S. Okazaki",
+      "R. A. Ong",
+      "K. M. Perez",
+      "G. Tajiri",
+      "T. Yoshida",
+      "J. Zweerin"
+    ],
+    "abstract": "Abstract:  The General Antiparticle Spectrometer (GAPS) experiment is a novel approach\nfor the detection of cosmic ray antiparticles. A prototype GAPS experiment\n(pGAPS) was successfully flown on a high-altitude balloon in June of 2012. The\ngoals of the pGAPS experiment were: to test the operation of lithium drifted\nsilicon (Si(Li)) detectors at balloon altitudes, to validate the thermal model\nand cooling concept needed for engineering of a full-size GAPS instrument, and\nto characterize cosmic ray and X-ray backgrounds. The instrument was launched\nfrom the Japan Aerospace Exploration Agency's (JAXA) Taiki Aerospace Research\nField in Hokkaido, Japan. The flight lasted a total of 6 hours, with over 3\nhours at float altitude (~33 km). Over one million cosmic ray triggers were\nrecorded and all flight goals were met or exceeded.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/1303.1615"
+  },
+  {
+    "url": "https://arxiv.org/abs/1302.5042",
+    "title": "Title:Early Science Results from SOFIA, the World's Largest Airborne Observatory",
+    "date_publ": "20 Feb 2013",
+    "authors": [
+      "James M. De Buizer (Universities Space Research Association - Stratospheric Observatory For Infrared Astronomy"
+    ],
+    "abstract": "Abstract:  The Stratospheric Observatory For Infrared Astronomy, or SOFIA, is the\nlargest flying observatory ever built,consisting of a 2.7-meter diameter\ntelescope embedded in a modified Boeing 747-SP aircraft. SOFIA is a joint\nproject between NASA and the German Aerospace Center Deutsches Zentrum fur Luft\nund-Raumfahrt (DLR). By flying at altitudes up to 45000 feet, the observatory\ngets above 99.9 percent of the infrared-absorbing water vapor in the Earth's\natmosphere. This opens up an almost uninterrupted wavelength range from\n0.3-1600 microns that is in large part obscured from ground based\nobservatories. Since its 'Initial Science Flight' in December 2010, SOFIA has\nflown several dozen science flights, and has observed a wide array of objects\nfrom Solar System bodies, to stellar nurseries, to distant galaxies. This paper\nreviews a few of the exciting new science results from these first flights\nwhich were made by three instruments: the mid-infrared camera FORCAST, the\nfar-infrared heterodyne spectrometer GREAT, and the optical occultation\nphotometer HIPO.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1302.5042"
+  },
+  {
+    "url": "https://arxiv.org/abs/1302.0533",
+    "title": "Title:Low-Complexity Reduced-Rank Beamforming Algorithms",
+    "date_publ": "3 Feb 2013",
+    "authors": [
+      "L. Wang",
+      "R. C. de Lamar"
+    ],
+    "abstract": "Abstract:  A reduced-rank framework with set-membership filtering (SMF) techniques is\npresented for adaptive beamforming problems encountered in radar systems. We\ndevelop and analyze stochastic gradient (SG) and recursive least squares\n(RLS)-type adaptive algorithms, which achieve an enhanced convergence and\ntracking performance with low computational cost as compared to existing\ntechniques. Simulations show that the proposed algorithms have a superior\nperformance to prior methods, while the complexity is lower.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1302.0533"
+  },
+  {
+    "url": "https://arxiv.org/abs/1212.5654",
+    "title": "Title:False Discovery Rate Based Distributed Detection in the Presence of Byzantines",
+    "date_publ": "22 Dec 2012 (v1), last revised 12 Sep 2013 (this version, v3)",
+    "authors": [
+      "Aditya Vempaty",
+      "Priyadip Ray",
+      "Pramod K. Varshne"
+    ],
+    "abstract": "Abstract:  Recent literature has shown that the control of False Discovery Rate (FDR)\nfor distributed detection in wireless sensor networks (WSNs) can provide\nsubstantial improvement in detection performance over conventional design\nmethodologies. In this paper, we further investigate system design issues in\nFDR based distributed detection. We demonstrate that improved system design may\nbe achieved by employing the Kolmogorov-Smirnov distance metric instead of the\ndeflection coefficient, as originally proposed in Ray&VarshneyAES11. We also\nanalyze the performance of FDR based distributed detection in the presence of\nByzantines. Byzantines are malicious sensors which send falsified information\nto the Fusion Center (FC) to deteriorate system performance. We provide\nanalytical and simulation results on the global detection probability as a\nfunction of the fraction of Byzantines in the network. It is observed that the\ndetection performance degrades considerably when the fraction of Byzantines is\nlarge. Hence, we propose an adaptive algorithm at the FC which learns the\nByzantines' behavior over time and changes the FDR parameter to overcome the\nloss in detection performance. Detailed simulation results are provided to\ndemonstrate the robustness of the proposed adaptive algorithm to Byzantine\nattacks in WSNs.",
+    "categories": [
+      "Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/1212.5654"
+  },
+  {
+    "url": "https://arxiv.org/abs/1212.2020",
+    "title": "Title:Disorder-assisted melting and the glass transition in amorphous solids",
+    "date_publ": "10 Dec 2012",
+    "authors": [
+      "Alessio Zaccone",
+      "Eugene M. Terentje"
+    ],
+    "abstract": "Abstract:  The mechanical response of solids depends on temperature because the way\natoms and molecules respond collectively to deformation is affected at various\nlevels by thermal motion. This is a fundamental problem of solid state science\nand plays a crucial role in metallurgy, aerospace engineering, energy. In\nglasses the vanishing of rigidity upon increasing temperature is the reverse\nprocess of the glass transition. It remains poorly understood due to the\ndisorder leading to nontrivial (nonaffine) components in the atomic\ndisplacements. Our theory explains the basic mechanism of the melting\ntransition of amorphous (disordered) solids in terms of the lattice energy lost\nto this nonaffine motion, compared to which thermal vibrations turn out to play\nonly a negligible role. It predicts the square-root vanishing of the shear\nmodulus $G\\sim\\sqrt{T_{c}-T}$ at criticality observed in the most recent\nnumerical simulation study. The theory is also in good agreement with classic\ndata on melting of amorphous polymers (for which no alternative theory can be\nfound in the literature) and offers new opportunities in materials science.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/1212.2020"
+  },
+  {
+    "url": "https://arxiv.org/abs/1209.6299",
+    "title": "Title:Approximate evaluation of marginal association probabilities with belief propagation",
+    "date_publ": "12 Sep 2012 (v1), last revised 20 Nov 2014 (this version, v2)",
+    "authors": [
+      "Jason L. Williams",
+      "Roslyn A. La"
+    ],
+    "abstract": "Abstract:  Data association, the problem of reasoning over correspondence between\ntargets and measurements, is a fundamental problem in tracking. This paper\npresents a graphical model formulation of data association and applies an\napproximate inference method, belief propagation (BP), to obtain estimates of\nmarginal association probabilities. We prove that BP is guaranteed to converge,\nand bound the number of iterations necessary. Experiments reveal a favourable\ncomparison to prior methods in terms of accuracy and computational complexity.",
+    "categories": [
+      "Artificial Intelligence (cs.AI)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1209.6299"
+  },
+  {
+    "url": "https://arxiv.org/abs/1209.6140",
+    "title": "Title:DAARIA: Driver Assistance by Augmented Reality for Intelligent Automobile",
+    "date_publ": "27 Sep 2012",
+    "authors": [
+      "Paul George (HEUDIASYC)",
+      "Indira Thouvenin (HEUDIASYC)",
+      "Vincent Fremont (HEUDIASYC)",
+      "V\u00e9ronique Cherfaoui (HEUDIASYC"
+    ],
+    "abstract": "Abstract:  Taking into account the drivers' state is a major challenge for designing new\nadvanced driver assistance systems. In this paper we present a driver\nassistance system strongly coupled to the user. DAARIA 1 stands for Driver\nAssistance by Augmented Reality for Intelligent Automobile. It is an augmented\nreality interface powered by several sensors. The detection has two goals: one\nis the position of obstacles and the quantification of the danger represented\nby them. The other is the driver's behavior. A suitable visualization metaphor\nallows the driver to perceive at any time the location of the relevant hazards\nwhile keeping his eyes on the road. First results show that our method could be\napplied to a vehicle but also to aerospace, fluvial or maritime navigation.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1209.6140"
+  },
+  {
+    "url": "https://arxiv.org/abs/1209.1710",
+    "title": "Title:Mesopause Temperature Retrieval from SATI Measured Spectra with a Linear Background Component. Results from the Numerical Simulation",
+    "date_publ": "8 Sep 2012",
+    "authors": [
+      "Atanas Marinov Atanasso"
+    ],
+    "abstract": "Abstract:  The Spectral Airglow Temperature Imager is a ground-based spectral instrument\nfor spatial registration of airglow emissions. The basic aim of the instrument\ndevelopment is the investigation of gravity waves based on the spatial\ncharacteristics of the temperature field at the altitude of mesopause and its\nevolution in the time. The temperature retrieval is based on matching measured\nand preliminary calculated synthetic spectra. Possibilities are presented for\ngeneralization of the basic regression equation which connects the measured and\nthe synthetic spectra. A linear change of the background for the entire filter\ntransmittance interval was presumed. Numerical experiments by Monte-Karlo\nsimulation were conducted. The presented results show a bigger stability of the\nproposed approach in comparison with the traditional one, without considering\nthe linear background.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1209.1710"
+  },
+  {
+    "url": "https://arxiv.org/abs/1209.1708",
+    "title": "Title:A new dynamical indicator for chaos detection in galactic Hamiltonian systems",
+    "date_publ": "8 Sep 2012",
+    "authors": [
+      "Euaggelos E. Zoto"
+    ],
+    "abstract": "Abstract:  A new dynamical parameter, the f-indicator, is introduced and used in order\nto distinguish between regular and chaotic motion in galactic Hamiltonian\nsystems. Two kinds of galactic potentials are used: (i) a global potential,\nwhich describes the whole galaxy and (ii) a local potential, which is made up\nof perturbed harmonic oscillators and describes motion near an equilibrium\npoint. The new indicator is based on the energies of the separable system along\nthe x, y and z axis. Comparison between the outcomes obtained using the new\ndynamical parameter and other methods, such as the maximum Lyapunov\nCharacteristic Exponent (L.C.E), or the S(c) dynamical spectrum, shows that the\nnew dynamical indicator gives fast and reliable results concerning the regular\nor chaotic character of the orbits. The new indicator was tested in several\nHamiltonian systems of two (2D) degrees and three (3D) degrees of freedom.",
+    "categories": [
+      "Chaotic Dynamics (nlin.CD)",
+      " Astrophysics of Galaxies (astro-ph.GA)"
+    ],
+    "url_pdf": "/pdf/1209.1708"
+  },
+  {
+    "url": "https://arxiv.org/abs/1209.1678",
+    "title": "Title:Policy based intrusion detection and response system in hierarchical WSN architecture",
+    "date_publ": "8 Sep 2012",
+    "authors": [
+      "Mohammad Saiful Islam Mamun",
+      "A.F.M Sultanul Kabir",
+      "Md. Sakhawat Hossen",
+      "Md.Razib Hayat Kha"
+    ],
+    "abstract": "Abstract:  In recent years, wireless sensor network becomes popular both in civil and\nmilitary jobs. However, security is one of the significant challenges for\nsensor network because of their deployment in open and unprotected environment.\nAs cryptographic mechanism is not enough to protect sensor network from\nexternal attacks, intrusion detection system (IDS) needs to be introduced. In\nthis paper we propose a policy based IDS for hierarchical architecture that\nfits the current demands and restrictions of wireless ad hoc sensor network. In\nthis proposed IDS architecture we followed clustering mechanism to build four\nlevel hierarchical network which enhance network scalability to large\ngeographical area and use both anomaly and misuse detection techniques for\nintrusion detection that concentrates on power saving of sensor nodes by\ndistributing the responsibility of intrusion detection among different layers.\nWe also introduce a policy based intrusion response system for hierarchical\narchitecture.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/1209.1678"
+  },
+  {
+    "url": "https://arxiv.org/abs/1209.1154",
+    "title": "Title:Generalized Formulation of Weighted Optimal Guidance Laws with Impact Angle Constraint",
+    "date_publ": "6 Sep 2012 (v1), last revised 4 Sep 2013 (this version, v3)",
+    "authors": [
+      "Chang-Hun Lee",
+      "Min-Jea Tahk",
+      "Jin-Ik Le"
+    ],
+    "abstract": "Abstract:  The purpose of this paper is to investigate the generalized formulation of\nweighted optimal guidance laws with impact angle constraint. From the\ngeneralized formulation, we explicitly find the feasible set of weighting\nfunctions that lead to analytical forms of weighted optimal guidance laws. This\nresult has potential significance because it can provide additional degrees of\nfreedom in designing a guidance law that accomplishes the specified guidance\nobjective.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1209.1154"
+  },
+  {
+    "url": "https://arxiv.org/abs/1207.7245",
+    "title": "Title:Autofocus Correction of Azimuth Phase Error and Residual Range Cell Migration in Spotlight SAR Polar Format Imagery",
+    "date_publ": "16 Jul 2012",
+    "authors": [
+      "Xinhua Mao",
+      "Daiyin Zhu",
+      "Zhaoda Zh"
+    ],
+    "abstract": "Abstract:  Synthetic aperture radar (SAR) images are often blurred by phase\nperturbations induced by uncompensated sensor motion and /or unknown\npropagation effects caused by turbulent media. To get refocused images,\nautofocus proves to be useful post-processing technique applied to estimate and\ncompensate the unknown phase errors. However, a severe drawback of the\nconventional autofocus algorithms is that they are only capable of removing\none-dimensional azimuth phase errors (APE). As the resolution becomes finer,\nresidual range cell migration (RCM), which makes the defocus inherently\ntwo-dimensional, becomes a new challenge. In this paper, correction of APE and\nresidual RCM are presented in the framework of polar format algorithm (PFA).\nFirst, an insight into the underlying mathematical mechanism of polar\nreformatting is presented. Then based on this new formulation, the effect of\npolar reformatting on the uncompensated APE and residual RCM is investigated in\ndetail. By using the derived analytical relationship between APE and residual\nRCM, an efficient two-dimensional (2-D) autofocus method is proposed.\nExperimental results indicate the effectiveness of the proposed method.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1207.7245"
+  },
+  {
+    "url": "https://arxiv.org/abs/1207.6059",
+    "title": "Title:Optimal Antenna Allocation in MIMO Radars with Collocated Antennas",
+    "date_publ": "25 Jul 2012",
+    "authors": [
+      "A.A. Gorji",
+      "R. Tharmarasa",
+      "W.D. Blair",
+      "T. Kirubaraja"
+    ],
+    "abstract": "Abstract:  This paper concerns with the sensor management problem in collocated\nMultiple-Input Multiple-Output (MIMO) radars. After deriving the Cramer-Rao\nLower Bound (CRLB) as a performance measure, the antenna allocation problem is\nformulated as a standard Semi-definite Programming (SDP) for the single-target\ncase. In addition, for multiple unresolved target scenarios, a sampling-based\nalgorithm is proposed to deal with the non-convexity of the cost function.\nSimulations confirm the superiority of the localization results under the\noptimal structure.",
+    "categories": [
+      "Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/1207.6059"
+  },
+  {
+    "url": "https://arxiv.org/abs/1207.3749",
+    "title": "Title:Preliminary Design of Debris Removal Missions by Means of Simplified Models for Low-Thrust, Many-Revolution Transfers",
+    "date_publ": "29 Jun 2012",
+    "authors": [
+      "Federico Zuiani",
+      "Massimiliano Vasil"
+    ],
+    "abstract": "Abstract:  This paper presents a novel approach for the preliminary design of\nLow-Thrust, many-revolution transfers. The main feature of the novel approach\nis a considerable reduction in the control parameters and a consequent gain in\ncomputational speed. Each spiral is built by using a predefined pattern for\nthrust direction and switching structure. The pattern is then optimised to\nminimise propellant consumption and transfer time. The variation of the orbital\nelements due to the thrust is computed analytically from a first-order solution\nof the perturbed Keplerian motion. The proposed approach allows for a realistic\nestimation of {\\Delta}V and time of flight required to transfer a spacecraft\nbetween two arbitrary orbits. Eccentricity and plane changes are both accounted\nfor. The novel approach is applied here to the design of missions for the\nremoval of space debris by means of an Ion Beam Shepherd Spacecraft. In\nparticular, two slightly different variants of the proposed low-thrust control\nmodel are used for the different phases of the mission. Thanks to their low\ncomputational cost they can be included in a multiobjective optimisation\nproblem in which the sequence and timing of the removal of five pieces of\ndebris are optimised to minimise propellant consumption and mission duration.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Neural and Evolutionary Computing (cs.NE)"
+    ],
+    "url_pdf": "/pdf/1207.3749"
+  },
+  {
+    "url": "https://arxiv.org/abs/1207.3434",
+    "title": "Title:An Approach to Model Interest for Planetary Rover through Dezert-Smarandache Theory",
+    "date_publ": "14 Jul 2012",
+    "authors": [
+      "Matteo Ceriotti",
+      "Massimiliano Vasile",
+      "Giovanni Giardini",
+      "Mauro Massar"
+    ],
+    "abstract": "Abstract:  In this paper, we propose an approach for assigning an interest level to the\ngoals of a planetary rover. Assigning an interest level to goals, allows the\nrover autonomously to transform and reallocate the goals. The interest level is\ndefined by data-fusing payload and navigation information. The fusion yields an\n\"interest map\", that quantifies the level of interest of each area around the\nrover. In this way the planner can choose the most interesting scientific\nobjectives to be analyzed, with limited human intervention, and reallocates its\ngoals autonomously. The Dezert-Smarandache Theory of Plausible and Paradoxical\nReasoning was used for information fusion: this theory allows dealing with\nvague and conflicting data. In particular, it allows us directly to model the\nbehavior of the scientists that have to evaluate the relevance of a particular\nset of goals. The paper shows an application of the proposed approach to the\ngeneration of a reliable interest map.",
+    "categories": [
+      "Artificial Intelligence (cs.AI)",
+      " Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1207.3434"
+  },
+  {
+    "url": "https://arxiv.org/abs/1207.1553",
+    "title": "Title:Velocity/Position Integration Formula (II): Application to Inertial Navigation Computation",
+    "date_publ": "6 Jul 2012",
+    "authors": [
+      "Yuanxin Wu",
+      "Xianfei Pa"
+    ],
+    "abstract": "Abstract:  Inertial navigation applications are usually referenced to a rotating frame.\nConsideration of the navigation reference frame rotation in the inertial\nnavigation algorithm design is an important but so far less seriously treated\nissue, especially for ultra-high-speed flying aircraft or the future\nultra-precision navigation system of several meters per hour. This paper\nproposes a rigorous approach to tackle the issue of navigation frame rotation\nin velocity/position computation by use of the newly-devised velocity/position\nintegration formulae in the Part I companion paper. The two integration\nformulae set a well-founded cornerstone for the velocity/position algorithms\ndesign that makes the comprehension of the inertial navigation computation\nprinciple more accessible to practitioners, and different approximations to the\nintegrals involved will give birth to various velocity/position update\nalgorithms. Two-sample velocity and position algorithms are derived to\nexemplify the design process. In the context of level-flight airplane examples,\nthe derived algorithm is analytically and numerically compared to the typical\nalgorithms existing in the literature. The results throw light on the problems\nin existing algorithms and the potential benefits of the derived algorithm.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1207.1553"
+  },
+  {
+    "url": "https://arxiv.org/abs/1207.1550",
+    "title": "Title:Velocity/Position Integration Formula (I): Application to In-flight Coarse Alignment",
+    "date_publ": "6 Jul 2012",
+    "authors": [
+      "Yuanxin Wu",
+      "Xianfei Pa"
+    ],
+    "abstract": "Abstract:  The in-flight alignment is a critical stage for airborne INS/GPS\napplications. The alignment task is usually carried out by the Kalman filtering\ntechnique that necessitates a good initial attitude to obtain satisfying\nperformance. Due to the airborne dynamics, the in-flight alignment is much\ndifficult than alignment on the ground. This paper proposes an\noptimization-based coarse alignment approach using GPS position/velocity as\ninput, founded on the newly-derived velocity/position integration formulae.\nSimulation and flight test results show that, with the GPS lever arm well\nhandled, it is potentially able to yield the initial heading up to one degree\naccuracy in ten seconds. It can serve as a nice coarse in-flight alignment\nwithout any prior attitude information for the subsequent fine Kalman\nalignment. The approach can also be applied to other applications that require\naligning the INS on the run.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1207.1550"
+  },
+  {
+    "url": "https://arxiv.org/abs/1206.1305",
+    "title": "Title:MACS: An Agent-Based Memetic Multiobjective Optimization Algorithm Applied to Space Trajectory Design",
+    "date_publ": "6 Jun 2012",
+    "authors": [
+      "Massimiliano Vasile",
+      "Federico Zuian"
+    ],
+    "abstract": "Abstract:  This paper presents an algorithm for multiobjective optimization that blends\ntogether a number of heuristics. A population of agents combines heuristics\nthat aim at exploring the search space both globally and in a neighborhood of\neach agent. These heuristics are complemented with a combination of a local and\nglobal archive. The novel agent- based algorithm is tested at first on a set of\nstandard problems and then on three specific problems in space trajectory\ndesign. Its performance is compared against a number of state-of-the-art\nmultiobjective optimisation algorithms that use the Pareto dominance as\nselection criterion: NSGA-II, PAES, MOPSO, MTS. The results demonstrate that\nthe agent-based search can identify parts of the Pareto set that the other\nalgorithms were not able to capture. Furthermore, convergence is statistically\nbetter although the variance of the results is in some cases higher.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Neural and Evolutionary Computing (cs.NE)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1206.1305"
+  }
+]

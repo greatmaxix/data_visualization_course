@@ -1,0 +1,819 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1709.00896",
+    "title": "Title:A framework for analyzing hyper-viscoelastic polymers",
+    "date_publ": "4 Sep 2017",
+    "authors": [
+      "Akash Trivedi",
+      "Clive Siviou"
+    ],
+    "abstract": "Abstract:  Hyper-viscoelastic polymers have multiple areas of application including\naerospace, biomedicine, and automotive. Their mechanical responses are\ntherefore extremely important to understand, particularly because they exhibit\nstrong rate and temperature dependence, including a low temperature brittle\ntransition. Relationships between the response at various strain rates and\ntemperatures are investigated and a framework developed to predict large strain\nresponse at rates of c. 1000 s$^{-1}$ and above where experiments are\nunfeasible. A master curve of the storage modulus's rate dependence at a\nreference temperature is constructed using a DMA test of the polymer. A\nfrequency sweep spanning two decades and a temperature range from pre-glass\ntransition to pre-melt is used. A fractional derivative model is fitted to the\nexperimental data, and this model's parameters are used to derive stress-strain\nrelationships at a desired strain rate.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/1709.00896"
+  },
+  {
+    "url": "https://arxiv.org/abs/1709.00310",
+    "title": "Title:Detection via simultaneous trajectory estimation and long time integration",
+    "date_publ": "1 Sep 2017 (v1), last revised 21 Apr 2019 (this version, v3)",
+    "authors": [
+      "Kimin Kim",
+      "Murat Uney",
+      "Bernard Mulgre"
+    ],
+    "abstract": "Abstract:  In this work, we consider the detection of manoeuvring small objects with\nradars. Such objects induce low signal to noise ratio (SNR) reflections in the\nreceived signal. We consider both co-located and separated transmitter/receiver\npairs, i.e., mono-static and bi-static configurations, respectively, as well as\nmulti-static settings involving both types. We propose a detection approach\nwhich is capable of coherently integrating these reflections within a coherent\nprocessing interval (CPI) in all these configurations and continuing\nintegration for an arbitrarily long time across consecutive CPIs. We estimate\nthe complex value of the reflection coefficients for integration while\nsimultaneously estimating the object trajectory. Compounded with this is the\nestimation of the unknown time reference shift of the separated transmitters\nnecessary for coherent processing. Detection is made by using the resulting\nintegration value in a Neyman-Pearson test against a constant false alarm rate\nthreshold. We demonstrate the efficacy of our approach in a simulation example\nwith a very low SNR object which cannot be detected with conventional\ntechniques.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/1709.00310"
+  },
+  {
+    "url": "https://arxiv.org/abs/1708.04722",
+    "title": "Title:Multi-Sensor Sequential Change Detection with Unknown Change Propagation Pattern",
+    "date_publ": "15 Aug 2017 (v1), last revised 20 Sep 2018 (this version, v4)",
+    "authors": [
+      "Mehmet Necip Kurt",
+      "Xiaodong Wan"
+    ],
+    "abstract": "Abstract:  The problem of detecting changes with multiple sensors has received\nsignificant attention in the literature. In many practical applications such as\ncritical infrastructure monitoring and modeling of disease spread, a useful\nchange propagation model is one where change eventually happens at all sensors,\nbut where not all sensors witness change at the same time instant. While prior\nwork considered the case of known change propagation dynamics, this paper\nstudies a more general setting of unknown change propagation pattern\n(trajectory). A Bayesian formulation of the problem in both centralized and\ndecentralized settings is studied with the goal of detecting the first time\ninstant at which any sensor witnesses a change. Using the dynamic programming\n(DP) framework, the optimal solution structure is derived and in the rare\nchange regime, several more practical change detection algorithms are proposed.\nUnder certain conditions, the first-order asymptotic optimality of a proposed\nalgorithm called multichart test is shown as the false alarm probability\nvanishes. To further reduce the computational complexity, change detection\nalgorithms are proposed based on online estimation of the unknown change\npropagation pattern. Numerical studies illustrate that the proposed detection\ntechniques offer near-optimal performance. Further, in the decentralized\nsetting, it is shown that if an event-triggered sampling scheme called\nlevel-crossing sampling with hysteresis (LCSH) is used for sampling and\ntransmission of local statistics, the detection performance can be\nsignificantly improved using the same amount of communication resources\ncompared to the conventional uniform-in-time sampling (US) scheme.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1708.04722"
+  },
+  {
+    "url": "https://arxiv.org/abs/1708.01970",
+    "title": "Title:Model Rocket Project for Aerospace Engineering Course: Trajectory Simulation and Propellant Analysis",
+    "date_publ": "7 Aug 2017",
+    "authors": [
+      "Thomas A. Campbell Jr.",
+      "Masataka Okuts"
+    ],
+    "abstract": "Abstract:  Model rockets have been employed in student projects, but very few papers in\naerospace education offer concise summaries of activities at university-course\nlevels. This paper aims to address this gap in the literature. The rockets used\nby our students reached some 500 m (~1,640 feet) in altitude, deployed a\nparachute, and spent 2-3 minutes descending to the ground. We present a series\nof analyses and experiments that students performed in order to predict the\nflight time, the maximum altitude, and the landing location of these rockets.\nThey wrote computer programs to numerically integrate equations of motion, and\nexperimentally measured input parameters (e.g., the thrust profile and drag\ncoefficients). Once launched, these rockets could not be controlled; targeting\nthe landing location would thus mean tilting the launch rail to a required\nangle. The largest source of error in landing location came from the difficulty\nin modeling wind velocities. Also discussed in this paper are the infrared\nspectroscopy and the extraction experiment as novel additions to model rocket\nprojects.",
+    "categories": [
+      "Physics Education (physics.ed-ph)"
+    ],
+    "url_pdf": "/pdf/1708.01970"
+  },
+  {
+    "url": "https://arxiv.org/abs/1707.09770",
+    "title": "Title:GPS Multipath Detection in the Frequency Domain",
+    "date_publ": "31 Jul 2017",
+    "authors": [
+      "Elie Amani (LISSI",
+      "F'SATI)",
+      "Karim Djouani (LISSI",
+      "F'SATI)",
+      "Anish Kurien (F'SATI)",
+      "Jean-R\u00e9mi De Boer",
+      "Willy Vigneau",
+      "Lionel Ries (CNES"
+    ],
+    "abstract": "Abstract:  Multipath is among the major sources of errors in precise positioning using\nGPS and continues to be extensively studied. Two Fast Fourier Transform\n(FFT)-based detectors are presented in this paper as GPS multipath detection\ntechniques. The detectors are formulated as binary hypothesis tests under the\nassumption that the multipath exists for a sufficient time frame that allows\nits detection based on the quadrature arm of the coherent Early-minus-Late\ndiscriminator (Q EmL) for a scalar tracking loop (STL) or on the quadrature (Q\nEmL) and/or in-phase arm (I EmL) for a vector tracking loop (VTL), using an\nobservation window of N samples. Performance analysis of the suggested\ndetectors is done on multipath signal data acquired from the multipath\nenvironment simulator developed by the German Aerospace Centre (DLR) as well as\non multipath data from real GPS signals. Application of the detection tests to\ncorrelator outputs of scalar and vector tracking loops shows that they may be\nused to exclude multipath contaminated satellites from the navigation solution.\nThese detection techniques can be extended to other Global Navigation Satellite\nSystems (GNSS) such as GLONASS, Galileo and Beidou.",
+    "categories": [
+      "Applications (stat.AP)",
+      " Information Theory (cs.IT)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1707.09770"
+  },
+  {
+    "url": "https://arxiv.org/abs/1707.05032",
+    "title": "Title:Protecting Military Avionics Platforms from Attacks on MIL-STD-1553 Communication Bus",
+    "date_publ": "17 Jul 2017",
+    "authors": [
+      "Orly Stan",
+      "Yuval Elovici",
+      "Asaf Shabtai",
+      "Gaby Shugol",
+      "Raz Tikochinski",
+      "Shachar Ku"
+    ],
+    "abstract": "Abstract:  MIL-STD-1553 is a military standard that defines the physical and logical\nlayers, and a command/response time division multiplexing of a communication\nbus used in military and aerospace avionic platforms for more than 40 years. As\na legacy platform, MIL-STD-1553 was designed for high level of fault tolerance\nwhile less attention was taken with regard to security. Recent studies already\naddressed the impact of successful cyber attacks on aerospace vehicles that are\nimplementing MIL-STD-1553. In this study we present a security analysis of\nMIL-STD-1553. In addition, we present a method for anomaly detection in\nMIL-STD-1553 communication bus and its performance in the presence of several\nattack scenarios implemented in a testbed, as well as results on real system\ndata. Moreover, we propose a general approach towards an intrusion detection\nsystem (IDS) for a MIL-STD-1553 communication bus.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/1707.05032"
+  },
+  {
+    "url": "https://arxiv.org/abs/1707.04228",
+    "title": "Title:dune-composites -- A New Framework for High-Performance Finite Element Modelling of Laminates",
+    "date_publ": "13 Jul 2017",
+    "authors": [
+      "Anne Reinarz",
+      "Tim Dodwell",
+      "Tim Fletcher",
+      "Linus Seelinger",
+      "Richard Butler",
+      "Robert Scheich"
+    ],
+    "abstract": "Abstract:  Finite element (FE) analysis has the potential to offset much of the\nexpensive experimental testing currently required to certify aerospace\nlaminates. However, large numbers of degrees of freedom are necessary to model\nentire aircraft components whilst accurately resolving micro-scale defects. The\nnew module dune-composites, implemented within DUNE by the authors, provides a\ntool to efficiently solve large-scale problems using novel iterative solvers.\nThe key innovation is a preconditioner that guarantees a constant number of\niterations regardless of the problem size. Its robustness has been shown\nrigorously in Spillane et al. (Numer. Math. 126, 2014) for isotropic problems.\nFor anisotropic problems in composites it is verified numerically for the first\ntime in this paper. The parallel implementation in DUNE scales almost optimally\nover thousands of cores. To demonstrate this, we present an original numerical\nstudy, varying the shape of a localised wrinkle and the effect this has on the\nstrength of a curved laminate. This requires a high-fidelity mesh containing at\nleast four layers of quadratic elements across each ply and interface layer,\nunderlining the need for dune-composites, which can achieve run times of just\nover 2 minutes on 2048 cores for realistic composites problems with 173 million\ndegrees of freedom.",
+    "categories": [
+      "Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/1707.04228"
+  },
+  {
+    "url": "https://arxiv.org/abs/1706.07170",
+    "title": "Title:The Principal Fiber Bundle Structure of the Gimbal-Spacecraft System",
+    "date_publ": "22 Jun 2017",
+    "authors": [
+      "Ravi N Banavar",
+      "Arjun Narayana"
+    ],
+    "abstract": "Abstract:  The gimbal-spacecraft system, that consists of a variable speed control\nmoment gyro (VSCMG) mounted inside a spacecraft, has been employed as an\nactuator for the attitude control of a spacecraft and has been much studied in\nthe aerospace control community. Employing a Newtonian approach, the equations\nof motion are derived, and further study focusses on singularity issues and\ncontrol law synthesis. While the geometric mechanics community has studied many\nmechanical systems of engineering interest, including spinning rotors (or\nmomentum wheels) that are used as actuators, there has not been a particular\neffort to model and control the gimbal-spacecraft system in a geometric\nframework. This article serves two purposes: it presents the gimbal-spacecraft\nsystem in a geometric mechanics framework, and in particular, highlights the\nconnection form, that could form the basis for future control design, and\nsecondly, the exposition is of a tutorial nature whereby the willing reader,\nwith minimal prerequisites, is introduced to the tools of differential geometry\nin this context.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1706.07170"
+  },
+  {
+    "url": "https://arxiv.org/abs/1706.06730",
+    "title": "Title:Ultrasensitive, high-dynamic-range and broadband strain sensing by time-of-flight detection with femtosecond-laser frequency combs",
+    "date_publ": "21 Jun 2017",
+    "authors": [
+      "Xing Lu",
+      "Shuangyou Zhang",
+      "Xing Chen",
+      "Dohyeon Kwon",
+      "Chan-Gi Jeon",
+      "Zhigang Zhang",
+      "Jungwon Kim",
+      "Kebin Sh"
+    ],
+    "abstract": "Abstract:  Ultrahigh-resolution optical strain sensors provide powerful tools in various\nscientific and engineering fields, ranging from long-baseline interferometers\nto civil and aerospace industries. Here we demonstrate an ultrahigh-resolution\nfibre strain sensing method by directly detecting the time-of-flight (TOF)\nchange of the optical pulse train generated from a free-running passively\nmode-locked laser (MLL) frequency comb. We achieved a local strain resolution\nof 18 p{\\epsilon}/Hz1/2 and 1.9 p{\\epsilon}/Hz1/2 at 1 Hz and 3 kHz,\nrespectively, with largedynamic range of >154 dB at 3 kHz. For remote-point\nsensing at 1-km distance, 80 p{\\epsilon}/Hz1/2 (at 1 Hz) and 2.2\np{\\epsilon}/Hz1/2 (at 3 kHz) resolution is demonstrated. While attaining both\nultrahigh resolution and large dynamic range, the demonstrated method can be\nreadily extended for multiple-point sensing as well by taking advantage of the\nbroad optical comb spectra. These advantages may allow various applications of\nthis sensor in geophysical science, structural health monitoring, and\nunderwater science.",
+    "categories": [
+      "Optics (physics.optics)",
+      " Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/1706.06730"
+  },
+  {
+    "url": "https://arxiv.org/abs/1706.04075",
+    "title": "Title:Interfacial amplification for graphene based position-sensitive-detectors",
+    "date_publ": "12 Jun 2017",
+    "authors": [
+      "Wen-Hui Wang",
+      "Ru-Xia Du",
+      "Xi-Tao Guo",
+      "Jie Jiang",
+      "Wei-Wei Zhao",
+      "Zhong-Hua Ni",
+      "Xin-Ran Wang",
+      "Yu-Meng You",
+      "Zhen-Hua N"
+    ],
+    "abstract": "Abstract:  Position-sensitive-detectors (PSDs) based on lateral photoeffect has been\nwidely used in diverse applications, including optical engineering, aerospace\nand military fields. With increasing demand in long distance, low energy\nconsumption, and weak signal sensing systems, the poor responsivity of\nconventional PSDs has become a bottleneck limiting its applications. Herein, we\npresent a high performance graphene based PSDs with revolutionary interfacial\namplification mechanism. Signal amplification in the order of ~10^4 has been\ndemonstrated by utilizing the ultrahigh mobility of graphene and long lifetime\nof photo-induced carriers at the interface of SiO2/Si. This would improve the\ndetection limit of Si-based PSDs from uW to nW level, without sacrificing the\nspatial resolution and response speed. Such interfacial amplification mechanism\nis compatible with current Si technology and can be easily extended to other\nsensing systems.",
+    "categories": [
+      "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      " Materials Science (cond-mat.mtrl-sci)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1706.04075"
+  },
+  {
+    "url": "https://arxiv.org/abs/1706.01837",
+    "title": "Title:Autoignition of Butanol Isomers at Low to Intermediate Temperature and Elevated Pressure",
+    "date_publ": "6 Jun 2017",
+    "authors": [
+      "Bryan W. Weber",
+      "Kamal Kumar",
+      "Chih-Jen Sun"
+    ],
+    "abstract": "Abstract:  Autoignition delay experiments for the isomers of butanol, including n-,\nsec-, tert-, and iso-butanol, have been performed using a heated rapid\ncompression machine. For a compressed pressure of 15 bar, the compressed\ntemperatures have been varied in the range of 725-855 K for all the\nstoichiometric fuel/oxidizer mixtures. Over the conditions investigated in this\nstudy, the ignition delay decreases monotonically as temperature increases and\nexhibits single-stage characteristics. Experimental ignition delays are also\ncompared to simulations computed using three kinetic mechanisms available in\nthe literature. Reasonable agreement is found for three isomers (tert-, iso-,\nand n-butanol).",
+    "categories": [
+      "Chemical Physics (physics.chem-ph)"
+    ],
+    "url_pdf": "/pdf/1706.01837"
+  },
+  {
+    "url": "https://arxiv.org/abs/1705.08996",
+    "title": "Title:An Experimental Platform for Multi-spacecraft Phase-Array Communications",
+    "date_publ": "24 May 2017",
+    "authors": [
+      "Aaditya Ravindran",
+      "Ravi Teja Nallapu",
+      "Andrew Warren",
+      "Alessandra Babuscia",
+      "Jose Vazco",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  The emergence of small satellites and CubeSats for interplanetary exploration\nwill mean hundreds if not thousands of spacecraft exploring every corner of the\nsolar-system. Current methods for communication and tracking of deep space\nprobes use ground based systems such as the Deep Space Network (DSN). However,\nthe increased communication demand will require radically new methods to ease\ncommunication congestion. Networks of communication relay satellites located at\nstrategic locations such as geostationary orbit and Lagrange points are\npotential solutions. Instead of one large communication relay satellite, we\ncould have scores of small satellites that utilize phase arrays to effectively\noperate as one large satellite. Excess payload capacity on rockets can be used\nto warehouse more small satellites in the communication network. The advantage\nof this network is that even if one or a few of the satellites are damaged or\ndestroyed, the network still operates but with degraded performance. The\nsatellite network would operate in a distributed architecture and some\nsatellites maybe dynamically repurposed to split and communicate with multiple\ntargets at once. The potential for this alternate communication architecture is\nsignificant, but this requires development of satellite formation flying and\nnetworking technologies. Our research has found neural-network control\napproaches such as the Artificial Neural Tissue can be effectively used to\ncontrol multirobot/multi-spacecraft systems and can produce human competitive\ncontrollers. We have been developing a laboratory experiment platform called\nAthena to develop critical spacecraft control algorithms and cognitive\ncommunication methods. We briefly report on the development of the platform and\nour plans to gain insight into communication phase arrays for space.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1705.08996"
+  },
+  {
+    "url": "https://arxiv.org/abs/1705.05631",
+    "title": "Title:Towards quantitative small-scale thermal imaging",
+    "date_publ": "16 May 2017",
+    "authors": [
+      "Jamie McMillan",
+      "Aaron Whittam",
+      "Maciej Rokosz",
+      "Rob Simpso"
+    ],
+    "abstract": "Abstract:  Quantitative thermal imaging has the potential of reliable temperature\nmeasurement across an entire field-of-view. This non-invasive technique has\napplications in aerospace, manufacturing and process control. However, robust\ntemperature measurement on the sub-millimetre (30 {\\mu}m) length scale has yet\nto be demonstrated. Here, the temperature performance and size-of-source\n(source size) effect of a 3 {\\mu}m to 5 {\\mu}m thermal imaging system have been\nassessed. In addition a technique of quantifying thermal imager non-uniformity\nis described. An uncertainty budget is constructed, which describes a\nmeasurement uncertainty of 640 mK (k = 2) for a target with a size of 10 mm.\nThe results of this study provide a foundation for developing the capability\nfor confident quantitative sub-millimetre thermal imaging.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/1705.05631"
+  },
+  {
+    "url": "https://arxiv.org/abs/1705.03162",
+    "title": "Title:Accelerating solutions of one-dimensional unsteady PDEs with GPU-based swept time-space decomposition",
+    "date_publ": "9 May 2017 (v1), last revised 10 Nov 2017 (this version, v2)",
+    "authors": [
+      "Daniel J Magee",
+      "Kyle E Niemeye"
+    ],
+    "abstract": "Abstract:  The expedient design of precision components in aerospace and other high-tech\nindustries requires simulations of physical phenomena often described by\npartial differential equations (PDEs) without exact solutions. Modern design\nproblems require simulations with a level of resolution difficult to achieve in\nreasonable amounts of time---even in effectively parallelized solvers. Though\nthe scale of the problem relative to available computing power is the greatest\nimpediment to accelerating these applications, significant performance gains\ncan be achieved through careful attention to the details of memory\ncommunication and access. The swept time-space decomposition rule reduces\ncommunication between sub-domains by exhausting the domain of influence before\ncommunicating boundary values. Here we present a GPU implementation of the\nswept rule, which modifies the algorithm for improved performance on this\nprocessing architecture by prioritizing use of private (shared) memory,\navoiding interblock communication, and overwriting unnecessary values. It shows\nsignificant improvement in the execution time of finite-difference solvers for\none-dimensional unsteady PDEs, producing speedups of 2--9$\\times$ for a range\nof problem sizes, respectively, compared with simple GPU versions and\n7--300$\\times$ compared with parallel CPU versions. However, for a more\nsophisticated one-dimensional system of equations discretized with a\nsecond-order finite-volume scheme, the swept rule performs 1.2--1.9$\\times$\nworse than a standard implementation for all problem sizes.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)",
+      " Distributed, Parallel, and Cluster Computing (cs.DC)",
+      " Mathematical Software (cs.MS)"
+    ],
+    "url_pdf": "/pdf/1705.03162"
+  },
+  {
+    "url": "https://arxiv.org/abs/1705.00960",
+    "title": "Title:Foundations of Intelligent Additive Manufacturing",
+    "date_publ": "18 Apr 2017 (v1), last revised 12 May 2017 (this version, v2)",
+    "authors": [
+      "K\u00e9vin Garanger",
+      "Eric Feron",
+      "Pierre-Lo\u00efc Garoche",
+      "Julian J. Rimoli",
+      "John D. Berrigan",
+      "Martha Grover",
+      "Kerianne Hobb"
+    ],
+    "abstract": "Abstract:  During the last decade, additive manufacturing has become increasingly\npopular for rapid prototyping, but has remained relatively marginal beyond the\nscope of prototyping when it comes to applications with tight tolerance\nspecifications, such as in aerospace. Despite a strong desire to supplant many\naerospace structures with printed builds, additive manufacturing has largely\nremained limited to prototyping, tooling, fixtures, and non-critical\ncomponents. There are numerous fundamental challenges inherent to additive\nprocessing to be addressed before this promise is realized. One ubiquitous\nchallenge across all AM motifs is to develop processing-property relationships\nthrough precise, in situ monitoring coupled with formal methods and feedback\ncontrol. We suggest a significant component of this vision is a set of semantic\nlayers within 3D printing files relevant to the desired material\nspecifications. This semantic layer provides the feedback laws of the control\nsystem, which then evaluates the component during processing and intelligently\nevolves the build parameters within boundaries defined by semantic\nspecifications. This evaluation and correction loop requires on-the-fly\ncoupling of finite element analysis and topology optimization. The required\nparameters for this analysis are all extracted from the semantic layer and can\nbe modified in situ to satisfy the global specifications. Therefore, the\nrepresentation of what is printed changes during the printing process to\ncompensate for eventual imprecision or drift arising during the manufacturing\nprocess.",
+    "categories": [
+      "Logic in Computer Science (cs.LO)"
+    ],
+    "url_pdf": "/pdf/1705.00960"
+  },
+  {
+    "url": "https://arxiv.org/abs/1704.02639",
+    "title": "Title:Numerical framework for transcritical real-fluid reacting flow simulations using the flamelet progress variable approach",
+    "date_publ": "9 Apr 2017",
+    "authors": [
+      "Peter C. Ma",
+      "Daniel T. Banuti",
+      "Jean-Pierre Hickey",
+      "Matthias Ihm"
+    ],
+    "abstract": "Abstract:  An extension to the classical FPV model is developed for transcritical\nreal-fluid combustion simulations in the context of finite volume, fully\ncompressible, explicit solvers. A double-flux model is developed for\ntranscritical flows to eliminate the spurious pressure oscillations. A hybrid\nscheme with entropy-stable flux correction is formulated to robustly represent\nlarge density ratios. The thermodynamics for ideal-gas values is modeled by a\nlinearized specific heat ratio model. Parameters needed for the cubic EoS are\npre-tabulated for the evaluation of departure functions and a quadratic\nexpression is used to recover the attraction parameter. The novelty of the\nproposed approach lies in the ability to account for pressure and temperature\nvariations from the baseline table. Cryogenic LOX/GH2 mixing and reacting cases\nare performed to demonstrate the capability of the proposed approach in\nmultidimensional simulations. The proposed combustion model and numerical\nschemes are directly applicable for LES simulations of real applications under\ntranscritical conditions.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Chemical Physics (physics.chem-ph)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1704.02639"
+  },
+  {
+    "url": "https://arxiv.org/abs/1704.02094",
+    "title": "Title:Precise Real-Time Navigation of LEO Satellites Using a Single-Frequency GPS Receiver and Ultra-Rapid Ephemerides",
+    "date_publ": "7 Apr 2017",
+    "authors": [
+      "Xiucong Sun",
+      "Chao Han",
+      "Pei Che"
+    ],
+    "abstract": "Abstract:  Precise (sub-meter level) real-time navigation using a space-capable\nsingle-frequency global positioning system (GPS) receiver and ultra-rapid\n(real-time) ephemerides from the international global navigation satellite\nsystems service is proposed for low-Earth-orbiting (LEO) satellites. The C/A\ncode and L1 carrier phase measurements are combined and single-differenced to\neliminate first-order ionospheric effects and receiver clock offsets. A\nrandom-walk process is employed to model the phase ambiguities in order to\nabsorb the time-varying and satellite-specific higher-order measurement errors\nas well as the GPS clock correction errors. A sequential Kalman filter which\nincorporates the known orbital dynamic model is developed to estimate orbital\nstates and phase ambiguities without matrix inversion. Real flight data from\nthe single-frequency GPS receiver onboard China's SJ-9A small satellite are\nprocessed to evaluate the orbit determination accuracy. Statistics from\ninternal orbit assessments indicate that three-dimensional accuracies of better\nthan 0.50 m and 0.55 mm/s are achieved for position and velocity, respectively.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1704.02094"
+  },
+  {
+    "url": "https://arxiv.org/abs/1704.00695",
+    "title": "Title:Dark solitons, modulation instability and breathers in a chain of weakly non-linear oscillators with cyclic symmetry",
+    "date_publ": "3 Apr 2017",
+    "authors": [
+      "F. Fontanela",
+      "A. Grolet",
+      "L. Salles",
+      "A. Chabchoub",
+      "N. Hoffman"
+    ],
+    "abstract": "Abstract:  In the aerospace industry the trend for light-weight structures and the\nresulting complex dynamic behaviours currently challenge vibration engineers.\nIn many cases, these light-weight structures deviate from linear behaviour, and\ncomplex nonlinear phenomena can be expected. We consider a cyclically symmetric\nsystem of coupled weakly nonlinear undamped oscillators that could be\nconsidered a minimal model for different cyclic and symmetric aerospace\nstructures experiencing large deformations. The focus is on localised\nvibrations that arise from wave envelope modulation of travelling waves. For\nthe defocussing parameter range of the approximative nonlinear evolution\nequation, we show the possible existence of dark solitons and discuss their\ncharacteristics. For the focussing parameter range, we characterise modulation\ninstability and illustrate corresponding nonlinear breather dynamics.\nFurthermore, we show that for stronger nonlinearity or randomness in initial\nconditions, transient breather-type dynamics and decay into bright solitons\nappear. The findings suggest that significant vibration localisation may arise\ndue to mechanisms of nonlinear modulation dynamics.",
+    "categories": [
+      "Pattern Formation and Solitons (nlin.PS)"
+    ],
+    "url_pdf": "/pdf/1704.00695"
+  },
+  {
+    "url": "https://arxiv.org/abs/1703.06569",
+    "title": "Title:Split, Send, Reassemble: A Formal Specification of a CAN Bus Protocol Stack",
+    "date_publ": "20 Mar 2017",
+    "authors": [
+      "Rob van Glabbeek (Data61",
+      "CSIRO)",
+      "Peter H\u00f6fner (Data61",
+      "CSIRO"
+    ],
+    "abstract": "Abstract:  We present a formal model for a fragmentation and a reassembly protocol\nrunning on top of the standardised CAN bus, which is widely used in automotive\nand aerospace applications. Although the CAN bus comes with an in-built\nmechanism for prioritisation, we argue that this is not sufficient and provide\nanother protocol to overcome this shortcoming.",
+    "categories": [
+      "Logic in Computer Science (cs.LO)",
+      " Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1703.06569"
+  },
+  {
+    "url": "https://arxiv.org/abs/1703.04264",
+    "title": "Title:Poisson multi-Bernoulli mixture filter: direct derivation and implementation",
+    "date_publ": "13 Mar 2017 (v1), last revised 13 Sep 2018 (this version, v4)",
+    "authors": [
+      "\u00c1ngel F. Garc\u00eda-Fern\u00e1ndez",
+      "Jason L. Williams",
+      "Karl Granstr\u00f6m",
+      "Lennart Svensso"
+    ],
+    "abstract": "Abstract:  We provide a derivation of the Poisson multi-Bernoulli mixture (PMBM) filter\nfor multi-target tracking with the standard point target measurements without\nusing probability generating functionals or functional derivatives. We also\nestablish the connection with the \\delta-generalised labelled multi-Bernoulli\n(\\delta-GLMB) filter, showing that a \\delta-GLMB density represents a\nmulti-Bernoulli mixture with labelled targets so it can be seen as a special\ncase of PMBM. In addition, we propose an implementation for linear/Gaussian\ndynamic and measurement models and how to efficiently obtain typical estimators\nin the literature from the PMBM. The PMBM filter is shown to outperform other\nfilters in the literature in a challenging scenario.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Methodology (stat.ME)"
+    ],
+    "url_pdf": "/pdf/1703.04264"
+  },
+  {
+    "url": "https://arxiv.org/abs/1702.06805",
+    "title": "Title:Embedded real-time monitoring using SystemC in IMA network",
+    "date_publ": "21 Feb 2017",
+    "authors": [
+      "Zied Aloui (SYEL)",
+      "Nawfal Ahamada (SYEL)",
+      "Julien Denoulet (SYEL)",
+      "Francine Pierre (TAES)",
+      "Martin Rayrole (TAES)",
+      "Marc Gatti (TAES)",
+      "Bertrand Granado (SYEL"
+    ],
+    "abstract": "Abstract:  Avionics is one kind of domain where prevention prevails. Nonetheless fails\noccur. Sometimes due to pilot misreacting, flooded in information. Sometimes\ninformation itself would be better verified than trusted. To avoid some kind of\nfailure, it has been thought to add,in midst of the ARINC664 aircraft data\nnetwork, a new kind of monitoring.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1702.06805"
+  },
+  {
+    "url": "https://arxiv.org/abs/1702.06554",
+    "title": "Title:GNSS Signal Authentication via Power and Distortion Monitoring",
+    "date_publ": "21 Feb 2017 (v1), last revised 27 Mar 2020 (this version, v4)",
+    "authors": [
+      "Kyle D. Wesson",
+      "Jason N. Gross",
+      "Todd E. Humphreys",
+      "Brian L. Evan"
+    ],
+    "abstract": "Abstract:  We propose a simple low-cost technique that enables civil Global Positioning\nSystem (GPS) receivers and other civil global navigation satellite system\n(GNSS) receivers to reliably detect carry-off spoofing and jamming. The\ntechnique, which we call the Power-Distortion detector, classifies received\nsignals as interference-free, multipath-afflicted, spoofed, or jammed according\nto observations of received power and correlation function distortion. It does\nnot depend on external hardware or a network connection and can be readily\nimplemented on many receivers via a firmware update. Crucially, the detector\ncan with high probability distinguish low-power spoofing from ordinary\nmultipath. In testing against over 25 high-quality empirical data sets yielding\nover 900,000 separate detection tests, the detector correctly alarms on all\nmalicious spoofing or jamming attacks while maintaining a <0.6% single-channel\nfalse alarm rate.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/1702.06554"
+  },
+  {
+    "url": "https://arxiv.org/abs/1702.01832",
+    "title": "Title:Dimensionless scaling of heat-release-induced planar shock waves in near-critical CO2",
+    "date_publ": "7 Feb 2017",
+    "authors": [
+      "Mario Tindaro Migliorino",
+      "Carlo Scal"
+    ],
+    "abstract": "Abstract:  We performed highly resolved one-dimensional fully compressible Navier-Stokes\nsimulations of heat-release-induced compression waves in near-critical CO2. The\ncomputational setup, inspired by the experimental setup of Miura et al., Phys.\nRev. E, 2006, is composed of a closed inviscid (one-dimensional) duct with\nadiabatic hard ends filled with CO2 at three supercritical pressures. The\ncorresponding initial temperature values are taken along the pseudo-boiling\nline. Thermodynamic and transport properties of CO2 in near-critical conditions\nare modeled via the Peng-Robinson equation of state and Chung's Method. A heat\nsource is applied at a distance from one end, with heat release intensities\nspanning the range 10^3-10^11 W/m^2, generating isentropic compression waves\nfor values < 10^9 W/m^2. For higher heat-release rates such compressions are\ncoalescent with distinct shock-like features (e.g. non-isentropicity and\npropagation Mach numbers measurably greater than unity) and a non-uniform\npost-shock state is present due to the strong thermodynamic nonlinearities. The\nresulting compression wave intensities have been collapsed via the thermal\nexpansion coefficient, highly variable in near-critical fluids, used as one of\nthe scaling parameters for the reference energy. The proposed scaling applies\nto isentropic thermoacoustic waves as well as shock waves up to shock strength\n2. Long-term time integration reveals resonance behavior of the compression\nwaves, raising the mean pressure and temperature at every resonance cycle. When\nthe heat injection is halted, expansion waves are generated, which counteract\nthe compression waves leaving conduction as the only thermal relaxation\nprocess. In the long term evolution, the decay in amplitude of the resonating\nwaves observed in the experiments is qualitatively reproduced by using\nisothermal boundary conditions.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1702.01832"
+  },
+  {
+    "url": "https://arxiv.org/abs/1702.00818",
+    "title": "Title:Novel Use of Photovoltaics for Backup Spacecraft Laser Communication System",
+    "date_publ": "3 Feb 2017",
+    "authors": [
+      "Xinchen Guo",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  Communication with a spacecraft is typically performed using Radio Frequency\n(RF). RF is a well-established and well-regulated technology that enables\ncommunication over long distances as proven by the Voyager 1 & II missions.\nHowever, RF requires licensing of very limited radio spectrum and this poses a\nchallenge in the future, particularly with spectrum time-sharing. This is of a\nconcern for emergency communication when it is of utmost urgency to contact the\nspacecraft and maintain contact, particularly when there is a major mission\nanomaly or loss of contact. For these applications, we propose a backup laser\ncommunication system where a laser is beamed towards a satellite and the\nonboard photovoltaics acts as a laser receiver. This approach enables a laser\nground station to broadcast commands to the spacecraft in times of emergency.\nAdding an actuated reflector to the laser receiver on the spacecraft enables\ntwo-way communication between ground and the spacecraft, but without the laser\nbeing located on the spacecraft. In this paper, we analyze the feasibility of\nthe concept in the laboratory and develop a benchtop experiment to verify the\nconcept. We have also developed a preliminary design for a 6U CubeSat-based\ndemonstrator to evaluate technology merits",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1702.00818"
+  },
+  {
+    "url": "https://arxiv.org/abs/1702.00814",
+    "title": "Title:Pulsejet engine dynamics in vertical motion using momentum conservation",
+    "date_publ": "22 Jan 2017 (v1), last revised 26 Feb 2017 (this version, v2)",
+    "authors": [
+      "Tiberius O. Chech"
+    ],
+    "abstract": "Abstract:  The momentum conservation law is applied to analyse the dynamics of pulsejet\nengine in vertical motion in a uniform gravitational field in the absence of\nfriction. The model predicts existence of a terminal speed given frequency of\nthe short pulses. The conditions that the engine does not return to the\nstarting position are identified. The number of short periodic pulses after\nwhich the engine returns to the starting position is found to be independent of\nthe exhaust velocity and gravitational field intensity for certain frequency of\nthe pulses. The pulsejet engine and turbojet engine aircraft models of dynamics\nare compared. Also the octopus dynamics is modelled. The paper is addressed to\nintermediate undergraduate students of classical mechanics and aerospace\nengineering.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Popular Physics (physics.pop-ph)"
+    ],
+    "url_pdf": "/pdf/1702.00814"
+  },
+  {
+    "url": "https://arxiv.org/abs/1702.00475",
+    "title": "Title:High-fidelity simulation of an ultrasonic standing-wave thermoacoustic engine with bulk viscosity effects",
+    "date_publ": "1 Feb 2017",
+    "authors": [
+      "Jeffrey Lin",
+      "Carlo Scalo",
+      "Lambertus Hesselin"
+    ],
+    "abstract": "Abstract:  We have carried out boundary-layer-resolved, unstructured fully-compressible\nNavier--Stokes simulations of an ultrasonic standing-wave thermoacoustic engine\n(TAE) model. The model is constructed as a quarter-wavelength engine,\napproximately 4 mm by 4 mm in size and operating at 25 kHz, and comprises a\nthermoacoustic stack and a coin-shaped cavity, a design inspired by Flitcroft\nand Symko (2013). Thermal and viscous boundary layers (order of 10\n$\\mathrm{\\mu}$m) are resolved. Vibrational and rotational molecular relaxation\nare modeled with an effective bulk viscosity coefficient modifying the viscous\nstress tensor. The effective bulk viscosity coefficient is estimated from the\ndifference between theoretical and semi-empirical attenuation curves.\nContributions to the effective bulk viscosity coefficient can be identified as\nfrom vibrational and rotational molecular relaxation. The inclusion of the\ncoefficient captures acoustic absorption from infrasonic ($\\sim$10 Hz) to\nultrasonic ($\\sim$100 kHz) frequencies. The value of bulk viscosity depends on\npressure, temperature, and frequency, as well as the relative humidity of the\nworking fluid. Simulations of the TAE are carried out to the limit cycle, with\ngrowth rates and limit-cycle amplitudes varying non-monotonically with the\nmagnitude of bulk viscosity, reaching a maximum for a relative humidity level\nof 5%. A corresponding linear model with minor losses was developed; the linear\nmodel overpredicts transient growth rate but gives an accurate estimate of\nlimit cycle behavior. An improved understanding of thermoacoustic energy\nconversion in the ultrasonic regime based on a high-fidelity computational\nframework will help to further improve the power density advantages of\nsmall-scale thermoacoustic engines.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1702.00475"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.08981",
+    "title": "Title:PI(D) tuning for Flight Control Systems via Incremental Nonlinear Dynamic Inversion",
+    "date_publ": "31 Jan 2017 (v1), last revised 5 Apr 2017 (this version, v3)",
+    "authors": [
+      "Paul Acquatella B.",
+      "Wim van Ekeren",
+      "Qi Ping Ch"
+    ],
+    "abstract": "Abstract:  Previous results reported in the robotics literature show the relationship\nbetween time-delay control (TDC) and proportional-integral-derivative control\n(PID). In this paper, we show that incremental nonlinear dynamic inversion\n(INDI) - more familiar in the aerospace community - are in fact equivalent to\nTDC. This leads to a meaningful and systematic method for PI(D)-control tuning\nof robust nonlinear flight control systems via INDI. We considered a\nreformulation of the plant dynamics inversion which removes effector blending\nmodels from the resulting control law, resulting in robust model-free control\nlaws like PI(D)-control.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1701.08981"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.08849",
+    "title": "Title:Accurate Measurement of Power Consumption Overhead During FPGA Dynamic Partial Reconfiguration",
+    "date_publ": "30 Jan 2017",
+    "authors": [
+      "Amor Nafkha",
+      "Yves Loue"
+    ],
+    "abstract": "Abstract:  In the context of embedded systems design, two important challenges are still\nunder investigation. First, improve real-time data processing,\nreconfigurability, scalability, and self-adjusting capabilities of hardware\ncomponents. Second, reduce power consumption through low-power design\ntechniques as clock gating, logic gating, and dynamic partial reconfiguration\n(DPR) capabilities. Today, several application, e.g., cryptography,\nSoftware-defined radio or aerospace missions exploit the benefits of DPR of\nprogrammable logic devices. The DPR allows well defined reconfigurable FPGA\nregion to be modified during runtime. However, it introduces an overhead in\nterm of power consumption and time during the reconfiguration phase. In this\npaper, we present an investigation of power consumption overhead of the DPR\nprocess using a high-speed digital oscilloscope and the shunt resistor method.\nResults in terms of reconfiguration time and power consumption overhead for\nVirtex 5 FPGAs are shown.",
+    "categories": [
+      "Hardware Architecture (cs.AR)"
+    ],
+    "url_pdf": "/pdf/1701.08849"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.08429",
+    "title": "Title:Separation delay via hydro-acoustic control of a NACA4412 airfoil in pre-stalled conditions",
+    "date_publ": "29 Jan 2017",
+    "authors": [
+      "Julien Bodart",
+      "Carlo Scalo",
+      "Grigory Shelekhov",
+      "Laurent Jol"
+    ],
+    "abstract": "Abstract:  We have performed large-eddy simulations of turbulent separation control via\nimpedance boundary conditions (IBCs) on a \\nacafft airfoil in near-stalled\nconditions. The uncontrolled baseline flow is obtained for freestream Mach\nnumbers of $M_\\infty=0.3$, chord-Reynolds numbers $Re_c = 1.5\\times10^6$ and\nangle of attack, $\\alpha=14^{\\circ{}}$. Flow control is applied via imposition\nof complex IBCs using the time-domain implementation developed by Scalo,\nBodart, and Lele, $\\textit{Phys. Fluids} $(2015). Separation is delayed due to\nthe enhanced mixing associated with convectively amplified spanwise-oriented\nKelvin-Helmholtz (KH) rollers, generated via hydro-acoustic instabilities. The\nlatter are the result of the interaction of the wall-normal transpiration\nthrough the impedance panel and the overlying mean background shear. The result\nis an alteration of the coupled instability between the separating shear layer\nand the vortex shedding in the wake (already present in the uncontrolled\nbaseline flow) yielding unique wake topologies associated with different\nintensities for the passively generated KH vortical structures. Specifically,\nenhancements up to +13\\% in the lift coefficients have been obtained. Results\nshow that tuning of the resonant cavities below the natural shedding frequency\nis required to generate KH rollers structures with a sufficiently large\nentrainment diameter to encompass the full extent of the separated region,\nthereby enhancing mixing and promoting reattachment. Overall, the results\npresented in this work show that the adoption of hydro-acoustically tuned\nresonant panels is a promising passive control technique for boundary layer\nseparation control.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1701.08429"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.08391",
+    "title": "Title:Towards Impedance Characterization of Carbon-Carbon Ultrasonically Absorptive Cavities via the Inverse Helmholtz Problem",
+    "date_publ": "29 Jan 2017",
+    "authors": [
+      "Danish Patel",
+      "Prateek Gupta",
+      "Carlo Scalo",
+      "Thomas Rothermel",
+      "Markus Kuh"
+    ],
+    "abstract": "Abstract:  We present a numerical method to determine the complex acoustic impedance at\nthe open surface of an arbitrarily shaped cavity, associated to an impinging\nplanar acoustic wave with a given wavenumber vector and frequency. We have\nachieved this by developing the first inverse Helmholtz Solver (iHS), which\nimplicitly reconstructs the complex acoustic waveform--at a given frequency--up\nto the unknown impedance boundary, hereby providing the spatial distribution of\nimpedance as a result of the calculation for that given frequency. We show that\nthe algebraic closure conditions required by the inverse Helmholtz problem are\nphysically related to the assignment of the spatial distribution of the\npressure phase over the unknown impedance boundary. The iHS is embarrassingly\nparallelizable over the frequency domain allowing for the straightforward\ndetermination of the full broadband impedance at every point of the target\nboundary. In this paper, we restrict our analysis to two-dimensions only. We\nfirst validate our results against Rott's quasi one-dimensional thermoacoustic\ntheory for viscid and inviscid constant-area rectangular ducts, test our iHS in\na fully unstructured fashion with a geometrically complex cavity, and finally,\npresent a simplified, two-dimensional analysis of a sample of carbon-carbon\nultrasonically absorptive coatings (C/C UACs) manufactured in DLR-Stuttgart,\nand used in the hypersonic transition delay experiments by Wagner et al. in\nAIAA 2012-5865. The final goal is to model C/C UACs with multi-oscillator Time\nDomain Impedance Boundary Conditions (TDIBC) developed by Lin et al. in JFM\n(2016) to be applied in direct numerical simulations (DNS) focused on the\noverlying boundary layer, eliminating the need to simultaneously resolve the\nmicroscopic porous structure of the C/C UACs.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Numerical Analysis (math.NA)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1701.08391"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.07545",
+    "title": "Title:Radiometric Actuators for Spacecraft Attitude Control",
+    "date_publ": "26 Jan 2017",
+    "authors": [
+      "Ravi Teja Nallapu",
+      "Amit Tallapragada",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  CubeSats and small satellites are emerging as low-cost tools to perform\nastronomy, exoplanet searches and earth observation. These satellites can be\ndedicated to pointing at targets for weeks or months at a time. This is\ntypically not possible on larger missions where usage is shared. Current\nsatellites use reaction wheels and where possible magneto-torquers to control\nattitude. However, these actuators can induce jitter due to various sources. In\nthis work, we introduce a new class of actuators that exploit radiometric\nforces induced by gasses on surface with a thermal gradient. Our work shows\nthat a CubeSat or small spacecraft mounted with radiometric actuators can\nachieve precise pointing of few arc-seconds or less and avoid the jitter\nproblem. The actuator is entirely solid-state, containing no moving mechanical\ncomponents. This ensures high-reliability and long-life in space. A preliminary\ndesign for these actuators is proposed, followed by feasibility analysis of the\nactuator performance.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1701.07545"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.07544",
+    "title": "Title:Spherical Planetary Robot for Rugged Terrain Traversal",
+    "date_publ": "26 Jan 2017 (v1), last revised 9 Feb 2017 (this version, v2)",
+    "authors": [
+      "Laksh Raura",
+      "Andrew Warren",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  Wheeled planetary rovers such as the Mars Exploration Rovers (MERs) and Mars\nScience Laboratory (MSL) have provided unprecedented, detailed images of the\nMars surface. However, these rovers are large and are of high-cost as they need\nto carry sophisticated instruments and science laboratories. We propose the\ndevelopment of low-cost planetary rovers that are the size and shape of\ncantaloupes and that can be deployed from a larger rover. The rover named\nSphereX is 2 kg in mass, is spherical, holonomic and contains a hopping\nmechanism to jump over rugged terrain. A small low-cost rover complements a\nlarger rover, particularly to traverse rugged terrain or roll down a canyon,\ncliff or crater to obtain images and science data. While it may be a one-way\njourney for these small robots, they could be used tactically to obtain\nhigh-reward science data. The robot is equipped with a pair of stereo cameras\nto perform visual navigation and has room for a science payload. In this paper,\nwe analyze the design and development of a laboratory prototype. The results\nshow a promising pathway towards development of a field system.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1701.07544"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.07543",
+    "title": "Title:FPGA Architecture for Deep Learning and its application to Planetary Robotics",
+    "date_publ": "26 Jan 2017",
+    "authors": [
+      "Pranay Gankidi",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  Autonomous control systems onboard planetary rovers and spacecraft benefit\nfrom having cognitive capabilities like learning so that they can adapt to\nunexpected situations in-situ. Q-learning is a form of reinforcement learning\nand it has been efficient in solving certain class of learning problems.\nHowever, embedded systems onboard planetary rovers and spacecraft rarely\nimplement learning algorithms due to the constraints faced in the field, like\nprocessing power, chip size, convergence rate and costs due to the need for\nradiation hardening. These challenges present a compelling need for a portable,\nlow-power, area efficient hardware accelerator to make learning algorithms\npractical onboard space hardware. This paper presents a FPGA implementation of\nQ-learning with Artificial Neural Networks (ANN). This method matches the\nmassive parallelism inherent in neural network software with the fine-grain\nparallelism of an FPGA hardware thereby dramatically reducing processing time.\nMars Science Laboratory currently uses Xilinx-Space-grade Virtex FPGA devices\nfor image processing, pyrotechnic operation control and obstacle avoidance. We\nsimulate and program our architecture on a Xilinx Virtex 7 FPGA. The\narchitectural implementation for a single neuron Q-learning and a more complex\nMultilayer Perception (MLP) Q-learning accelerator has been demonstrated. The\nresults show up to a 43-fold speed up by Virtex 7 FPGAs compared to a\nconventional Intel i5 2.3 GHz CPU. Finally, we simulate the proposed\narchitecture using the Symphony simulator and compiler from Xilinx, and\nevaluate the performance and power consumption.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1701.07543"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.06325",
+    "title": "Title:Distributed Unknown-Input-Observers for Cyber Attack Detection and Isolation in Formation Flying UAVs",
+    "date_publ": "23 Jan 2017",
+    "authors": [
+      "Lebsework Negash",
+      "Sang-Hyeon Kim",
+      "Han-Lim Cho"
+    ],
+    "abstract": "Abstract:  In this paper, cyber attack detection and isolation is studied on a network\nof UAVs in a formation flying setup. As the UAVs communicate to reach consensus\non their states while making the formation, the communication network among the\nUAVs makes them vulnerable to a potential attack from malicious adversaries.\nTwo types of attacks pertinent to a network of UAVs have been considered: a\nnode attack on the UAVs and a deception attack on the communication between the\nUAVs. UAVs formation control presented using a consensus algorithm to reach a\npre-specified formation. A node and a communication path deception cyber\nattacks on the UAV's network are considered with their respective models in the\nformation setup. For these cyber attacks detection, a bank of Unknown Input\nObserver (UIO) based distributed fault detection scheme proposed to detect and\nidentify the compromised UAV in the formation. A rule based on the residuals\ngenerated using the bank of UIOs are used to detect attacks and identify the\ncompromised UAV in the formation. Further, an algorithm developed to remove the\nfaulty UAV from the network once an attack detected and the compromised UAV\nisolated while maintaining the formation flight with a missing UAV node.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1701.06325"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.06203",
+    "title": "Title:Geometric Optimal Control and Applications to Aerospace",
+    "date_publ": "22 Jan 2017",
+    "authors": [
+      "Jiamin Zhu",
+      "Emmanuel Tr\u00e9lat",
+      "Max Cer"
+    ],
+    "abstract": "Abstract:  This survey article deals with applications of optimal control to aerospace\nproblems with a focus on modern geometric optimal control tools and numerical\ncontinuation techniques. Geometric optimal control is a theory combining\noptimal control with various concepts of differential geometry. The ultimate\nobjective is to derive optimal synthesis results for general classes of control\nsystems. Continuation or homotopy methods consist in solving a series of\nparameterized problems, starting from a simple one to end up by continuous\ndeformation with the initial problem. They help overcoming the difficult\ninitialization issues of the shooting method. The combination of geometric\ncontrol and homotopy methods improves the traditional techniques of optimal\ncontrol theory. A nonacademic example of optimal attitude-trajectory control of\n(classical and airborne) launch vehicles, treated in details, illustrates how\ngeometric optimal control can be used to analyze finely the structure of the\nextremals. This theoretical analysis helps building an efficient numerical\nsolution procedure combining shooting methods and numerical continuation.\nChattering is also analyzed and it is shown how to deal with this issue in\npractice.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1701.06203"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.03867",
+    "title": "Title:Pre-melting hcp to bcc Transition in Beryllium",
+    "date_publ": "14 Jan 2017",
+    "authors": [
+      "Y. Lu",
+      "T. Sun",
+      "Ping. Zhang",
+      "P. Zhang",
+      "D.-B. Zhang",
+      "R. M. Wentzcovitc"
+    ],
+    "abstract": "Abstract:  Beryllium (Be) is an important material with wide applications ranging from\naerospace components to X-ray equipments. Yet a precise understanding of its\nphase diagram remains elusive. We have investigated the phase stability of Be\nusing a recently developed hybrid free energy computation method that accounts\nfor anharmonic effects by invoking phonon quasiparticles. We find that the hcp\nto bcc transition occurs near the melting curve at 0<P<11 GPa with a positive\nClapeyron slope of 41 K/GPa. The bcc phase exists in a narrow temperature range\nthat shrinks with increasing pressure, explaining the difficulty in observing\nthis phase experimentally. This work also demonstrates the validity of this\ntheoretical framework based on phonon quasiparticle to study structural\nstability and phase transitions in strongly anharmonic materials.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1701.03867"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.03836",
+    "title": "Title:Formal Analysis of SEU Mitigation for Early Dependability and Performability Analysis of FPGA-based Space Applications",
+    "date_publ": "12 Jan 2017 (v1), last revised 23 Feb 2017 (this version, v2)",
+    "authors": [
+      "Khaza Anuarul Hoque",
+      "Otmane Ait Mohamed",
+      "Yvon Savari"
+    ],
+    "abstract": "Abstract:  SRAM-based FPGAs are increasingly popular in the aerospace industry due to\ntheir field programmability and low cost. However, they suffer from cosmic\nradiation induced Single Event Upsets (SEUs). In safety-critical applications,\nthe dependability of the design is a prime concern since failures may have\ncatastrophic consequences. An early analysis of the relationship between\ndependability metrics, performability-area trade-off, and different mitigation\ntechniques for such applications can reduce the design effort while increasing\nthe design confidence. This paper introduces a novel methodology based on\nprobabilistic model checking, for the analysis of the reliability,\navailability, safety and performance-area tradeoffs of safety-critical systems\nfor early design decisions. Starting from the high-level description of a\nsystem, a Markov reward model is constructed from the Control Data Flow Graph\n(CDFG) and a component characterization library targeting FPGAs. The proposed\nmodel and exhaustive analysis capture all the failure states (based on the\nfault detection coverage) and repairs possible in the system. We present\nquantitative results based on an FIR filter circuit to illustrate the\napplicability of the proposed approach and to demonstrate that a wide range of\nuseful dependability and performability properties can be analyzed using the\nproposed methodology. The modeling results show the relationship between\ndifferent mitigation techniques and fault detection coverage, exposing their\ndirect impact on the design for early decisions.",
+    "categories": [
+      "Performance (cs.PF)",
+      " Hardware Architecture (cs.AR)",
+      " Logic in Computer Science (cs.LO)"
+    ],
+    "url_pdf": "/pdf/1701.03836"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.01535",
+    "title": "Title:High-Assurance Separation Kernels: A Survey on Formal Methods",
+    "date_publ": "6 Jan 2017",
+    "authors": [
+      "Yongwang Zhao",
+      "David Sanan",
+      "Fuyuan Zhang",
+      "Yang Li"
+    ],
+    "abstract": "Abstract:  Separation kernels provide temporal/spatial separation and controlled\ninformation flow to their hosted applications. They are introduced to decouple\nthe analysis of applications in partitions from the analysis of the kernel\nitself. More than 20 implementations of separation kernels have been developed\nand widely applied in critical domains, e.g., avionics/aerospace,\nmilitary/defense, and medical devices. Formal methods are mandated by the\nsecurity/safety certification of separation kernels and have been carried out\nsince this concept emerged. However, this field lacks a survey to\nsystematically study, compare, and analyze related work. On the other hand,\nhigh-assurance separation kernels by formal methods still face big challenges.\nIn this paper, an analytical framework is first proposed to clarify the\nfunctionalities, implementations, properties and standards, and formal methods\napplication of separation kernels. Based on the proposed analytical framework,\na taxonomy is designed according to formal methods application,\nfunctionalities, and properties of separation kernels. Research works in the\nliterature are then categorized and overviewed by the taxonomy. In accordance\nwith the analytical framework, a comprehensive analysis and discussion of\nrelated work are presented. Finally, four challenges and their possible\ntechnical directions for future research are identified, e.g. specification\nbottleneck, multicore and concurrency, and automation of full formal\nverification.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1701.01535"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.00630",
+    "title": "Title:Source Code Verification for Embedded Systems using Prolog",
+    "date_publ": "3 Jan 2017",
+    "authors": [
+      "Frank Flederer (University of Wuerzburg)",
+      "Ludwig Ostermayer (University of Wuerzburg)",
+      "Dietmar Seipel (University of Wuerzburg)",
+      "Sergio Montenegro (University of Wuerzburg"
+    ],
+    "abstract": "Abstract:  System relevant embedded software needs to be reliable and, therefore, well\ntested, especially for aerospace systems. A common technique to verify programs\nis the analysis of their abstract syntax tree (AST). Tree structures can be\nelegantly analyzed with the logic programming language Prolog. Moreover, Prolog\noffers further advantages for a thorough analysis: On the one hand, it natively\nprovides versatile options to efficiently process tree or graph data\nstructures. On the other hand, Prolog's non-determinism and backtracking eases\ntests of different variations of the program flow without big effort. A\nrule-based approach with Prolog allows to characterize the verification goals\nin a concise and declarative way.\nIn this paper, we describe our approach to verify the source code of a flash\nfile system with the help of Prolog. The flash file system is written in C++\nand has been developed particularly for the use in satellites. We transform a\ngiven abstract syntax tree of C++ source code into Prolog facts and derive the\ncall graph and the execution sequence (tree), which then are further tested\nagainst verification goals. The different program flow branching due to control\nstructures is derived by backtracking as subtrees of the full execution\nsequence. Finally, these subtrees are verified in Prolog.\nWe illustrate our approach with a case study, where we search for incorrect\napplications of semaphores in embedded software using the real-time operating\nsystem RODOS. We rely on computation tree logic (CTL) and have designed an\nembedded domain specific language (DSL) in Prolog to express the verification\ngoals.",
+    "categories": [
+      "Software Engineering (cs.SE)",
+      " Logic in Computer Science (cs.LO)",
+      " Programming Languages (cs.PL)"
+    ],
+    "url_pdf": "/pdf/1701.00630"
+  },
+  {
+    "url": "https://arxiv.org/abs/1701.00234",
+    "title": "Title:Aggressive Congestion Control Mechanism for Space Systems",
+    "date_publ": "1 Jan 2017 (v1), last revised 5 Aug 2020 (this version, v3)",
+    "authors": [
+      "Jingjing Wang",
+      "Chunxiao Jiang",
+      "Haijun Zhang",
+      "Yong Ren",
+      "Victor C. M. Leun"
+    ],
+    "abstract": "Abstract:  How to implement an impeccable space system-of-systems (SoS) internetworking\narchitecture has been a significant issue in system engineering for years.\nReliable data transmission is considered one of the most important technologies\nof space SoS internetworking systems. Due to the high bit error rate (BER),\nlong time delay and asymmetrical channel in the space communication\nenvironment, the congestion control mechanism of classic transport control\nprotocols (TCP) shows unsatisfying performances. With the help of existing TCP\nmodifications, this paper contributes an aggressive congestion control\nmechanism. The proposed mechanism is characterized with a fast start procedure,\nas well as the feedback information to analyze network traffic and with a link\nterminating processing mechanism, which can help to reveal the real reason of\npacket loss, and maintain the size of congestion window at a high level.\nSimulation results are shown in the end to verify the proposed scheme.",
+    "categories": [
+      "Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1701.00234"
+  },
+  {
+    "url": "https://arxiv.org/abs/1612.06784",
+    "title": "Title:Singularity-Free Spacecraft Attitude Control Using Variable-Speed Control Moment Gyroscopes",
+    "date_publ": "20 Dec 2016",
+    "authors": [
+      "Yaguang Yan"
+    ],
+    "abstract": "Abstract:  This paper discusses spacecraft control using variable-speed CMGs. A new\noperational concept for VSCMGs is proposed. This new concept makes it possible\nto approximate the complex nonlinear system by a linear time-varying system\n(LTV). As a result, an effective control system design method, Model Predictive\nControl (MPC) using robust pole assignment, can be used to design the\nspacecraft control system using VSCMGs. A nice feature of this design is that\nthe control system does not have any singular point. A design example is\nprovided. The simulation result shows the effectiveness of the proposed method.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1612.06784"
+  },
+  {
+    "url": "https://arxiv.org/abs/1612.06275",
+    "title": "Title:Anomalous Hardening in Magnesium Driven by a Size-Dependent Transition in Deformation Modes",
+    "date_publ": "19 Dec 2016",
+    "authors": [
+      "Gi-Dong Sim",
+      "Gyuseok Kim",
+      "Steven Lavenstein",
+      "Mohamed H. Hamza",
+      "Haidong Fan",
+      "Jaafar A. El-Awad"
+    ],
+    "abstract": "Abstract:  Magnesium (Mg) and its alloys hold great potential as an energy-saving\nstructural material for automative, aerospace applications. However, the use of\nMg alloys has been limited due to poor ductility and formability. Poor\nmechanical properties of Mg alloys origin from the insufficient number of slip\nsystems, and deformation twinning plays an important role to accommodate\nplastic deformation. Here, we report a comprehensive experimental and modeling\nstudy to understand crystal size effect on the transformation in deformation\nmodes in twin oriented Mg single crystals. The experiments reveal two regimes\nof size effects: (1) single twin propagation, where a typical \"smaller the\nstronger\" behavior was dominant in pillars {\\le} 18 {\\mu}m in diameter, and (2)\ntwin-twin interaction, which results in anomalous strain hardening in pillars >\n18 {\\mu}m. Molecular dynamics simulations further indicate a transition from\ntwinning to dislocation mediated plasticity for crystal sizes below a few\nhundred nanometers. Our results provide new understanding of the fundamental\ndeformation modes of twin oriented Mg from nano-scale to bulk, and insights to\ndesign Mg alloys with superior mechanical properties through dimensional\nrefinement. This subsequently can materialize into more utilization of Mg\nalloys as a structural material in technologically relevant applications.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1612.06275"
+  },
+  {
+    "url": "https://arxiv.org/abs/1612.06118",
+    "title": "Title:ICS for Multivariate Outlier Detection with Application to Quality Control",
+    "date_publ": "19 Dec 2016 (v1), last revised 2 Feb 2018 (this version, v3)",
+    "authors": [
+      "Aurore Archimbaud",
+      "Klaus Nordhausen",
+      "Anne Ruiz-Gaze"
+    ],
+    "abstract": "Abstract:  In high reliability standards fields such as automotive, avionics or\naerospace, the detection of anomalies is crucial. An efficient methodology for\nautomatically detecting multivariate outliers is introduced. It takes advantage\nof the remarkable properties of the Invariant Coordinate Selection (ICS)\nmethod. Based on the simultaneous spectral decomposition of two scatter\nmatrices, ICS leads to an affine invariant coordinate system in which the\nEuclidian distance corresponds to a Mahalanobis Distance (MD) in the original\ncoordinates. The limitations of MD are highlighted using theoretical arguments\nin a context where the dimension of the data is large. Unlike MD, ICS makes it\npossible to select relevant components which removes the limitations. Owing to\nthe resulting dimension reduction, the method is expected to improve the power\nof outlier detection rules such as MD-based criteria. It also greatly\nsimplifies outliers interpretation. The paper includes practical guidelines for\nusing ICS in the context of a small proportion of outliers which is relevant in\nhigh reliability standards fields. The choice of scatter matrices together with\nthe selection of relevant invariant components through parallel analysis and\nnormality tests are addressed. The use of the regular covariance matrix and the\nso called matrix of fourth moments as the scatter pair is recommended. This\nchoice combines the simplicity of implementation together with the possibility\nto derive theoretical results. A simulation study confirms the good properties\nof the proposal and compares it with other scatter pairs. This study also\nprovides a comparison with Principal Component Analysis and MD. The performance\nof our proposal is also evaluated on several real data sets using a\nuser-friendly R package accompanying the paper.",
+    "categories": [
+      "Methodology (stat.ME)"
+    ],
+    "url_pdf": "/pdf/1612.06118"
+  },
+  {
+    "url": "https://arxiv.org/abs/1612.04896",
+    "title": "Title:A Stochastic Global Identification Framework for Aerospace Vehicles Operating Under Varying Flight States",
+    "date_publ": "15 Dec 2016",
+    "authors": [
+      "Fotis Kopsaftopoulos",
+      "Raphael Nardari",
+      "Yu-Hung Li",
+      "Fu-Kuo Chan"
+    ],
+    "abstract": "Abstract:  In this work, a novel data-based stochastic global identification framework\nis introduced for air vehicles operating under varying flight states and\nuncertainty. In this context, the term global refers to the identification of a\nmodel that is capable of representing the system dynamics under any admissible\nflight state based on data recorded from sample states. The proposed framework\nis based on stochastic time-series models for representing the system dynamics\nand aeroelastic response under multiple flight states, with each state\ncharacterized by several variables, such as the airspeed and angle of attack,\nforming a flight state vector. The method's cornerstone lies in the new class\nof Vector-dependent Functionally Pooled (VFP) models which allow the explicit\nanalytical inclusion of the flight state vector into the model parameters and,\nhence, system dynamics. The experimental evaluation is based on a prototype\nbio-inspired self-sensing composite wing that is subjected to a series of wind\ntunnel experiments. Distributed micro-sensors in the form of stretchable sensor\nnetworks are embedded in the composite layup of the wing to provide the sensing\ncapabilities. Data collected from piezoelectric sensors are employed for the\nidentification of a stochastic global VFP model. The estimated VFP model\nparameters constitute two-dimensional functions of the flight state vector\ndefined by the airspeed and angle of attack. The identified model is able to\nsuccessfully represent the aeroelastic response of the wing under the\nadmissible flight states via a minimum number of estimated parameters compared\nto standard identification approaches. The obtained results demonstrate the\nhigh accuracy and effectiveness of the proposed global identification\nframework, thus constituting a first step towards the next generation of\nfly-by-feel aerospace vehicles with state awareness capabilities.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1612.04896"
+  },
+  {
+    "url": "https://arxiv.org/abs/1612.03238",
+    "title": "Title:Affordable, Rapid Bootstrapping of the Space Industry and Solar System Civilization",
+    "date_publ": "10 Dec 2016",
+    "authors": [
+      "Philip T. Metzger",
+      "Anthony Muscatello",
+      "Robert P. Mueller",
+      "James Mantovan"
+    ],
+    "abstract": "Abstract:  Advances in robotics and additive manufacturing have become game-changing for\nthe prospects of space industry. It has become feasible to bootstrap a\nself-sustaining, self-expanding industry at reasonably low cost. Simple\nmodeling was developed to identify the main parameters of successful\nbootstrapping. This indicates that bootstrapping can be achieved with as little\nas 12 metric tons (MT) landed on the Moon during a period of about 20 years.\nThe equipment will be teleoperated and then transitioned to full autonomy so\nthe industry can spread to the asteroid belt and beyond. The strategy begins\nwith a sub-replicating system and evolves it toward full self-sustainability\n(full closure) via an in situ technology spiral. The industry grows\nexponentially due to the free real estate, energy, and material resources of\nspace. The mass of industrial assets at the end of bootstrapping will be 156 MT\nwith 60 humanoid robots, or as high as 40,000 MT with as many as 100,000\nhumanoid robots if faster manufacturing is supported by launching a total of 41\nMT to the Moon. Within another few decades with no further investment, it can\nhave millions of times the industrial capacity of the United States. Modeling\nover wide parameter ranges indicates this is reasonable, but further analysis\nis needed. This industry promises to revolutionize the human condition.",
+    "categories": [
+      "Popular Physics (physics.pop-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1612.03238"
+  },
+  {
+    "url": "https://arxiv.org/abs/1612.02495",
+    "title": "Title:An initial investigation of the performance of GPU-based swept time-space decomposition",
+    "date_publ": "8 Dec 2016 (v1), last revised 3 Jan 2017 (this version, v2)",
+    "authors": [
+      "Daniel Magee",
+      "Kyle E Niemeye"
+    ],
+    "abstract": "Abstract:  Simulations of physical phenomena are essential to the expedient design of\nprecision components in aerospace and other high-tech industries. These\nphenomena are often described by mathematical models involving partial\ndifferential equations (PDEs) without exact solutions. Modern design problems\nrequire simulations with a level of resolution that is difficult to achieve in\na reasonable amount of time even in effectively parallelized solvers. Though\nthe scale of the problem relative to available computing power is the greatest\nimpediment to accelerating these applications, significant performance gains\ncan be achieved through careful attention to the details of memory accesses.\nParallelized PDE solvers are subject to a trade-off in memory management: store\nthe solution for each timestep in abundant, global memory with high access\ncosts or in a limited, private memory with low access costs that must be passed\nbetween nodes. The GPU implementation of swept time-space decomposition\npresented here mitigates this dilemma by using private (shared) memory,\navoiding internode communication, and overwriting unnecessary values. It shows\nsignificant improvement in the execution time of the PDE solvers in one\ndimension achieving speedups of 6-2x for large and small problem sizes\nrespectively compared to naive GPU versions and 7-300x compared to parallel CPU\nversions.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)",
+      " Distributed, Parallel, and Cluster Computing (cs.DC)",
+      " Mathematical Software (cs.MS)"
+    ],
+    "url_pdf": "/pdf/1612.02495"
+  },
+  {
+    "url": "https://arxiv.org/abs/1611.06925",
+    "title": "Title:Robust Design of H-infinity Controller for a Launch Vehicle Autopilot against Disturbances",
+    "date_publ": "21 Nov 2016",
+    "authors": [
+      "Antonio Graells",
+      "Francisco Carrabin"
+    ],
+    "abstract": "Abstract:  Atmospheric flight phase of a launch vehicle is utilized to evaluate the\nperformance of an H-infinity controller in the presence of disturbances.\nDynamics of the vehicle is linearly modeled using time-varying parameters. An\noperating point was found to design a robust command tracker using H-infinity\ncontrol theory that guarantees a stable maneuver. At the end, the controller\nwas employed on the launch vehicle to assess the capability of control design\non the linearized aerospace vehicle. Experimental results illustrate the\nexcellent performance of the H-infinity controller and accurate tracking\nimplemented by the autopilot. Also the robustness of the entire system against\ndisturbances is demonstrated to be acceptable.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1611.06925"
+  },
+  {
+    "url": "https://arxiv.org/abs/1611.05512",
+    "title": "Title:Unmatched Perturbation Accommodation for an Aerospace Launch Vehicle Autopilot Using Dynamic Sliding Manifolds",
+    "date_publ": "17 Nov 2016",
+    "authors": [
+      "Mohammad Reza Sanie"
+    ],
+    "abstract": "Abstract:  Sliding mode control of a launch vehicle during its atmospheric flight phase\nis studied in the presence of unmatched disturbances. Linear time-varying\ndynamics of the aerospace vehicle is converted into a systematic formula and\nthen dynamic sliding manifold as an advanced method is used in order to\novercome the limited capability of conventional sliding manifolds in minimizing\nthe undesired effects of unmatched perturbations on the control system. At the\nend, simulation results are evaluated and the performance of two approaches are\ncompared in terms of stability and robustness of the autopilot.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1611.05512"
+  },
+  {
+    "url": "https://arxiv.org/abs/1611.04782",
+    "title": "Title:Feature Extraction and Soft Computing Methods for Aerospace Structure Defect Classification",
+    "date_publ": "15 Nov 2016",
+    "authors": [
+      "Gianni D'Angelo",
+      "Salvatore Rampon"
+    ],
+    "abstract": "Abstract:  This study concerns the effectiveness of several techniques and methods of\nsignals processing and data interpretation for the diagnosis of aerospace\nstructure defects. This is done by applying different known feature extraction\nmethods, in addition to a new CBIR-based one; and some soft computing\ntechniques including a recent HPC parallel implementation of the U-BRAIN\nlearning algorithm on Non Destructive Testing data. The performance of the\nresulting detection systems are measured in terms of Accuracy, Sensitivity,\nSpecificity, and Precision. Their effectiveness is evaluated by the Matthews\ncorrelation, the Area Under Curve (AUC), and the F-Measure. Several experiments\nare performed on a standard dataset of eddy current signal samples for aircraft\nstructures. Our experimental results evidence that the key to a successful\ndefect classifier is the feature extraction method - namely the novel\nCBIR-based one outperforms all the competitors - and they illustrate the\ngreater effectiveness of the U-BRAIN algorithm and the MLP neural network among\nthe soft computing methods in this kind of application.\nKeywords- Non-destructive testing (NDT); Soft Computing; Feature Extraction;\nClassification Algorithms; Content-Based Image Retrieval (CBIR); Eddy Currents\n(EC).",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1611.04782"
+  },
+  {
+    "url": "https://arxiv.org/abs/1611.04425",
+    "title": "Title:The Drought-Stress Response of a Drought Resistant Impatiens Processed in PEG-6000 Solution in a Simulation Test",
+    "date_publ": "14 Nov 2016",
+    "authors": [
+      "Xue Lan Liao",
+      "Guo Qin Wen",
+      "Qing Lin Liu",
+      "Xue Yang Li Meng Xi Wu",
+      "Yuan Zhi Pa"
+    ],
+    "abstract": "Abstract:  Premise of the Study: Impatiens is a commonly seen garden flower, renowned\nfor its strong adaptability and long history of cultivation. However, seldom\nhas any research touched on its physiological resistance mechanism. In this\nexperiment, the impatiens is selected from those which experienced aerospace\nmutation and thereafter 12 years of cultivation and breeding. Therefore, it is\nsuperior to the non-mutagenized impatiens in terms of drought resistance and\ndemonstrates tremendous differences from the normal impatiens in physiology,\nwhich intrigues scholars to search for the underlying reasons . Methods: By\nreference to Impatiens balsamina L,this experiment uses mutagenized impatiens\nseeds, processed by PEG-6000 in different solution concentration, to measure\nthe germination rate of impatiens, its relative enzymatic activity and\nexpression differences between gene SoS2 and gene RD29b in the drought lower\nreaches. Key results: Under simulated drought stress, there is no distinct\ndifference between the mutagenized impatiens and the normal impatiens in terms\nof germination rate. But by measuring the root tillers and the length, the\nrelative enzymatic activity, MDA, and the expression differences between gene\nSoS2 and gene RD29b in the drought lower reaches, it is verified that the\nmutagenized impatiens has more advantages than the normal impatiens, and it Can\nfurther cultivate become drought resistance varieties impatiens. Conclusions:\nIn this experiment,which is a positive mutation, the mutagenized impatiens\nimproves drought resistance through radiative mutation. The so obtained\nimpatiens is more pleasing in sight in terms of color and shape and has higher\napplication value in garden virescence.",
+    "categories": [
+      "Other Quantitative Biology (q-bio.OT)"
+    ],
+    "url_pdf": "/pdf/1611.04425"
+  }
+]

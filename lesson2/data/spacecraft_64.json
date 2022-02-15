@@ -1,0 +1,800 @@
+[
+  {
+    "url": "https://arxiv.org/abs/0706.1985",
+    "title": "Title:Examining the Location of the Magnetopause in an Undergraduate Lab",
+    "date_publ": "14 Jun 2007 (v1), last revised 18 Sep 2015 (this version, v2)",
+    "authors": [
+      "James P. Crumley",
+      "Ari D. Palczewski",
+      "Stephen A. Kaste"
+    ],
+    "abstract": "Abstract:  Integrating areas of current research into undergraduate physics labs can be\na difficult task. The location of the magnetopause is one problem that can be\nexamined with no prior exposure to space physics. The magnetopause location can\nbe viewed as a pressure balance between the dynamic pressure of the solar wind\nand the magnetic pressure of the magnetosphere. In this lab sophomore and\njunior students examine the magnetopause location using simulation results from\nBATS-R-US global MHD code run at NASA's Community Coordinated Modeling Center.\nStudents also analyze data from several spacecraft to find magnetopause\ncrossings. The students get reasonable agreement between their results and\nmodel predictions from this lab as well as exposure to the tools and techniques\nof space physics.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Physics Education (physics.ed-ph)"
+    ],
+    "url_pdf": "/pdf/0706.1985"
+  },
+  {
+    "url": "https://arxiv.org/abs/0706.0838",
+    "title": "Title:Periodicity of ~155 days in solar electron fluence",
+    "date_publ": "6 Jun 2007 (v1), last revised 7 Jun 2007 (this version, v2)",
+    "authors": [
+      "Partha Chowdhury",
+      "P. C. Ray",
+      "Saibal Ra"
+    ],
+    "abstract": "Abstract:  In this paper we have investigated the occurrence rate of high energetic(E>10\nMeV) solar electron flares measured by IMP-8 spacecraft of NASA for solar cycle\n21 (June, 1976 to August, 1986) first time by three different methods to detect\nperiodicities accurately. Power-spectrum analysis confirms a periodicity ~155\ndays which is in consistent with the result of Chowdhury and Ray (2006), that\n\"Rieger periodicity\" was operated throughout the cycle 21 and it is independent\non the energy of the electron fluxes.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0706.0838"
+  },
+  {
+    "url": "https://arxiv.org/abs/0705.3408",
+    "title": "Title:Testing Gravity in the Outer Solar System: Results from Trans-Neptunian Objects",
+    "date_publ": "23 May 2007",
+    "authors": [
+      "John F. Wallin",
+      "David S. Dixon",
+      "Gary L. Pag"
+    ],
+    "abstract": "Abstract:  The inverse square law of gravity is poorly probed by experimental tests at\ndistances of ~ 10 AUs. Recent analysis of the trajectory of the Pioneer 10 and\n11 spacecraft have shown an unmodeled acceleration directed toward the Sun\nwhich was not explained by any obvious spacecraft systematics, and occurred\nwhen at distances greater than 20 AUs from the Sun. If this acceleration\nrepresents a departure from Newtonian gravity or is indicative of an additional\nmass distribution in the outer solar system, it should be detectable in the\norbits of Trans-Neptunian Objects (TNOs). To place limits on deviations from\nNewtonian gravity, we have selected a well observed sample of TNOs found\norbiting between 20 and 100 AU from the Sun. By examining their orbits with\nmodified orbital fitting software, we place tight limits on the perturbations\nof gravity that could exist in this region of the solar system.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0705.3408"
+  },
+  {
+    "url": "https://arxiv.org/abs/0705.3083",
+    "title": "Title:Spectral estimation on a sphere in geophysics and cosmology",
+    "date_publ": "22 May 2007",
+    "authors": [
+      "F. A. Dahlen",
+      "Frederik J Simon"
+    ],
+    "abstract": "Abstract:  We address the problem of estimating the spherical-harmonic power spectrum of\na statistically isotropic scalar signal from noise-contaminated data on a\nregion of the unit sphere. Three different methods of spectral estimation are\nconsidered: (i) the spherical analogue of the one-dimensional (1-D)\nperiodogram, (ii) the maximum likelihood method, and (iii) a spherical analogue\nof the 1-D multitaper method. The periodogram exhibits strong spectral leakage,\nespecially for small regions of area $A\\ll 4\\pi$, and is generally unsuitable\nfor spherical spectral analysis applications, just as it is in 1-D. The maximum\nlikelihood method is particularly useful in the case of nearly-whole-sphere\ncoverage, $A\\approx 4\\pi$, and has been widely used in cosmology to estimate\nthe spectrum of the cosmic microwave background radiation from spacecraft\nobservations. The spherical multitaper method affords easy control over the\nfundamental trade-off between spectral resolution and variance, and is easily\nimplemented regardless of the region size, requiring neither non-linear\niteration nor large-scale matrix inversion. As a result, the method is ideally\nsuited for most applications in geophysics, geodesy or planetary science, where\nthe objective is to obtain a spatially localized estimate of the spectrum of a\nsignal from noisy data within a pre-selected and typically small region.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0705.3083"
+  },
+  {
+    "url": "https://arxiv.org/abs/0705.2047",
+    "title": "Title:Non-Metric Gravity II: Spherically Symmetric Solution, Missing Mass and Redshifts of Quasars",
+    "date_publ": "14 May 2007 (v1), last revised 15 Oct 2007 (this version, v2)",
+    "authors": [
+      "Kirill Krasnov",
+      "Yuri Shtano"
+    ],
+    "abstract": "Abstract:  We continue the study of the non-metric theory of gravity introduced in\nhep-th/0611182 and gr-qc/0703002 and obtain its general spherically symmetric\nvacuum solution. It respects the analog of the Birkhoff theorem, i.e., the\nvacuum spherically symmetric solution is necessarily static. As in general\nrelativity, the spherically symmetric solution is seen to describe a black\nhole. The exterior geometry is essentially the same as in the Schwarzschild\ncase, with power-law corrections to the Newtonian potential. The behavior\ninside the black-hole region is different from the Schwarzschild case in that\nthe usual spacetime singularity gets replaced by a singular surface of a new\ntype, where all basic fields of the theory remain finite but metric ceases to\nexist. The theory does not admit arbitrarily small black holes: for small\nobjects, the curvature on the would-be horizon is so strong that non-metric\nmodifications prevent the horizon from being formed. The theory allows for\nmodifications of gravity of very interesting nature. We discuss three physical\neffects, namely, (i) correction to Newton's law in the neighborhood of the\nsource, (ii) renormalization of effective gravitational and cosmological\nconstants at large distances from the source, and (iii) additional redshift\nfactor between spatial regions of different curvature. The first two effects\ncan be responsible, respectively, for the observed anomaly in the acceleration\nof the Pioneer spacecraft and for the alleged missing mass in spiral galaxies\nand other astrophysical objects. The third effect can be used to propose a\nnon-cosmological explanation of high redshifts of quasars and gamma-ray bursts.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Theory (hep-th)"
+    ],
+    "url_pdf": "/pdf/0705.2047"
+  },
+  {
+    "url": "https://arxiv.org/abs/0705.1202",
+    "title": "Title:Deflection of High-Energy Cosmic Radiation Ions using a Bent Crystal Shield",
+    "date_publ": "9 May 2007",
+    "authors": [
+      "M B H Brees"
+    ],
+    "abstract": "Abstract:  A bent crystal shield which is capable of deflecting cosmic radiation ions of\nall atomic numbers away from spacecraft using the ion channeling effect is\ndescribed. Its effect on the transmitted angular distribution of heavy,\nhigh-energy ions is characterized using Monte Carlo channeling simulations.\nIons up to an energy limit set by the bent crystal curvature radius are\ndeflected by the full curvature angle. A bent crystal shield with a 1 x 1 cm2\nsurface area capable of deflecting such ions with energies up to 100\nGeV/nucleon is fabricated in which the lattice planes across the entrance\nsurface are uniformly aligned.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/0705.1202"
+  },
+  {
+    "url": "https://arxiv.org/abs/0705.1021",
+    "title": "Title:Satellite Observations of Separator Line Geometry of Three-Dimensional Magnetic Reconnection",
+    "date_publ": "8 May 2007 (v1), last revised 2 Jul 2007 (this version, v2)",
+    "authors": [
+      "C. J. Xiao",
+      "X. G. Wang",
+      "Z. Y. Pu",
+      "Z. W. Ma",
+      "H. Zhao",
+      "G. P. Zhou",
+      "J. X. Wang",
+      "M. G. Kivelson",
+      "S. Y. Fu",
+      "Z. X. Liu",
+      "Q. G. Zong",
+      "M. W. Dunlop",
+      "K-H. Glassmeier",
+      "E. Lucek",
+      "H. Reme",
+      "I. Dandouras",
+      "C. P. Escoube"
+    ],
+    "abstract": "Abstract:  Detection of a separator line that connects magnetic nulls and the\ndetermination of the dynamics and plasma environment of such a structure can\nimprove our understanding of the three-dimensional (3D) magnetic reconnection\nprocess. However, this type of field and particle configuration has not been\ndirectly observed in space plasmas. Here we report the identification of a pair\nof nulls, the null-null line that connects them, and associated fans and spines\nin the magnetotail of Earth using data from the four Cluster spacecraft. With\ndi and de designating the ion and electron inertial lengths, respectively, the\nseparation between the nulls is found to be ~0.7di and an associated\noscillation is identified as a lower hybrid wave with wavelength ~ de. This in\nsitu evidence of the full 3D reconnection geometry and associated dynamics\nprovides an important step toward to establishing an observational framework of\n3D reconnection.",
+    "categories": [
+      "Plasma Physics (physics.plasm-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/0705.1021"
+  },
+  {
+    "url": "https://arxiv.org/abs/0704.3493",
+    "title": "Title:Simulation of ASTROD I test mass charging due to solar energetic particles",
+    "date_publ": "26 Apr 2007",
+    "authors": [
+      "Lei Liu",
+      "Gang Bao",
+      "Wei-Tou Ni",
+      "D N A Shau"
+    ],
+    "abstract": "Abstract:  As ASTROD I travels through space, its test mass will accrue charge due to\ngalactic cosmic-rays and solar energetic particles incident on the spacecraft.\nThis test mass charge will result in Coulomb forces between the test mass and\nthe surrounding electrodes. In earlier work using the GEANT4 toolkit, we\npredicted a net charging rate of nearly 9.0 +e/s from cosmic-ray protons\nbetween 0.1 and 1000 GeV at solar maximum, and rising to 26.5 +e/s at solar\nminimum. Here we use GEANT4 to simulate the charging process due to solar\nenergetic particle events and to estimate the magnitude of acceleration noise\ndue to this charging. The predicted charging rates range from 2840 to 64300\n+e/s, at peak intensity, for the 4 largest SEP events in September and October\n1989. For the 2 larger events, the acceleration disturbances due to charging\nexceeds the ASTROD I acceleration noise budget requirement. Continuous\ndischarge should be considered for suppressing this charging noise. The\nacceleration noise during the 2 small events is well below the design target,\nalthough during these events, the net charging rate will be dominated by these\nsolar fluxes.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0704.3493"
+  },
+  {
+    "url": "https://arxiv.org/abs/0704.3488",
+    "title": "Title:Optimal Occulter Design for Finding Extrasolar Planets",
+    "date_publ": "26 Apr 2007",
+    "authors": [
+      "R.J. Vanderbei",
+      "N.J. Kasdin",
+      "E. Cad"
+    ],
+    "abstract": "Abstract:  One proposed method for finding terrestrial planets around nearby stars is to\nuse two spacecraft--a telescope and a specially shaped occulter that is\nspecifically designed to prevent all but a tiny fraction of the starlight from\ndiffracting into the telescope. As the cost and observing cadence for such a\nmission will be driven largely by the separation between the two spacecraft, it\nis critically important to design an occulter that can meet the observing goals\nwhile flying as close to the telescope as possible. In this paper, we explore\nthis tradeoff between separation and occulter diameter. More specifically, we\npresent a method for designing the shape of the outer edge of an occulter that\nis as small as possible and gives a shadow that is deep enough and large enough\nfor a 4m telescope to survey the habitable zones of many stars for Earth-like\nplanets. In particular, we show that in order for a 4m telescope to detect in\nbroadband visible light a planet 0.06 arcseconds from a star shining $10^{10}$\ntimes brighter than the planet requires a specially-shaped occulter 50m in\ndiameter positioned about $72,000$ km in front of the telescope.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0704.3488"
+  },
+  {
+    "url": "https://arxiv.org/abs/0704.3303",
+    "title": "Title:ASTROD I Charging Simulation and Disturbances",
+    "date_publ": "25 Apr 2007",
+    "authors": [
+      "Gang Bao",
+      "D N A Shaul",
+      "H M Araujo",
+      "Wei-Tou Ni",
+      "T J Sumner",
+      "Lei Li"
+    ],
+    "abstract": "Abstract:  ASTROD I is planned as a single spacecraft mission. It will use\ninterferometric and pulse ranging techniques between the spacecraft and ground\nstations, to make high precision measurements of the parameters that describe\nthe solar system, and to test relativistic gravity with improved accuracy. At\nthe heart of the spacecraft is a test mass, which the spacecraft will follow\nusing a drag-free control system. The mission critically depends on maintaining\nthe geodesic motion of the test mass. Charging of the test mass due to cosmic\nrays and solar particles will disturb its geodesic motion. We have modelled the\ncharging process using the GEANT4 toolkit and a simplified, geometrical model\nand estimate that the ASTROD I test mass will charge positively, at a rate of\n24 +/-7 e+/s, due to cosmic ray protons and alpha particles (3He and 4He) at\nsolar minimum. We have used the results of this simulation to estimate the\nmagnitude of disturbances associated with test mass charging, for the\nworst-case scenario, taking into account uncertainties in the model and\npotential charging contributions from minor cosmic-ray components.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0704.3303"
+  },
+  {
+    "url": "https://arxiv.org/abs/0704.2991",
+    "title": "Title:Second post-Newtonian approximation of scalar-tensor theory of gravity",
+    "date_publ": "23 Apr 2007 (v1), last revised 28 Jul 2009 (this version, v3)",
+    "authors": [
+      "Yi Xie",
+      "Wei-Tou Ni",
+      "Peng Dong",
+      "Tian-Yi Huan"
+    ],
+    "abstract": "Abstract:  Deep space laser ranging missions like ASTROD I (Single-Spacecraft\nAstrodynamical Space Test of Relativity using Optical Devices) and ASTROD,\ntogether with astrometry missions like GAIA and LATOR will be able to test\nrelativistic gravity to an unprecedented level of accuracy. More precisely,\nthese missions will enable us to test relativistic gravity to\n$10^{-7}-10^{-9}$, and will require 2nd post-Newtonian approximation of\nrelevant theories of gravity. The first post-Newtonian approximation is valid\nto $10^{-6}$ and the second post-Newtonian is valid to $10^{-12}$ in the solar\nsystem. The scalar-tensor theory is widely discussed and used in tests of\nrelativistic gravity, especially after the interests in inflation, cosmological\nconstant and dark energy in cosmology. In the Lagrangian, intermediate-range\ngravity term has a similar form as cosmological term. Here we present the full\nsecond post-Newtonian approximation of the scalar-tensor theory including\nviable examples of intermediate-range gravity. We use Chandrasekhar's approach\nto derive the metric coefficients and the equation of the hydrodynamics\ngoverning a perfect fluid in the 2nd post-Newtonian approximation in\nscalar-tensor theory; all terms inclusive of $O(c^{-4})$ are retained\nconsistently in the equation of motion.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0704.2991"
+  },
+  {
+    "url": "https://arxiv.org/abs/0704.1592",
+    "title": "Title:Multi-wavelength Analysis of a Quiet Solar Region",
+    "date_publ": "12 Apr 2007",
+    "authors": [
+      "G. Tsiropoula",
+      "K. Tziotziou",
+      "J. Giannikakis",
+      "P. Young",
+      "U. Schuehle",
+      "P. Heinze"
+    ],
+    "abstract": "Abstract:  We present observations of a solar quiet region obtained by the ground-based\nDutch Open Telescope (DOT), and by instruments on the spacecraft SOHO and\nTRACE. The observations were obtained during a coordinated observing campaign\non October 2005. The aim of this work is to present the rich diversity of\nfine-scale structures that are found at the network boundaries and their\nappearance in different instruments and different spectral lines that span the\nphotosphere to the corona. Detailed studies of these structures are crucial to\nunderstanding their dynamics in different solar layers, as well as the role\nsuch structures play in the mass balance and heating of the solar atmosphere.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0704.1592"
+  },
+  {
+    "url": "https://arxiv.org/abs/0704.0175",
+    "title": "Title:Solar System Constraints on Gauss-Bonnet Mediated Dark Energy",
+    "date_publ": "2 Apr 2007 (v1), last revised 2 Oct 2007 (this version, v2)",
+    "authors": [
+      "Luca Amendola",
+      "Christos Charmousis",
+      "Stephen C. Davi"
+    ],
+    "abstract": "Abstract:  Although the Gauss-Bonnet term is a topological invariant for general\nrelativity, it couples naturally to a quintessence scalar field, modifying\ngravity at solar system scales. We determine the solar system constraints due\nto this term by evaluating the post-Newtonian metric for a distributional\nsource. We find a mass dependent, 1/r^7 correction to the Newtonian potential,\nand also deviations from the Einstein gravity prediction for light-bending. We\nconstrain the parameters of the theory using planetary orbits, the Cassini\nspacecraft data, and a laboratory test of Newton's law, always finding\nextremely tight bounds on the energy associated to the Gauss-Bonnet term. We\ndiscuss the relevance of these constraints to late-time cosmological\nacceleration.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " General Relativity and Quantum Cosmology (gr-qc)",
+      " High Energy Physics - Theory (hep-th)"
+    ],
+    "url_pdf": "/pdf/0704.0175"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0703042",
+    "title": "Title:Reply to \"The meaning of systematic errors, a comment to \"Reply to On the Systematic Errors in the Detection of the Lense-Thirring Effect with a Mars Orbiter\", by Lorenzo Iorio'', by G. Felici",
+    "date_publ": "6 Mar 2007 (v1), last revised 9 Mar 2007 (this version, v3)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  In this note we reply to the criticisms by Felici concerning some aspects of\nthe recent frame-dragging test performed by Iorio with the Mars Global Surveyor\n(MGS) spacecraft in the gravitational field of Mars.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0703042"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0703017",
+    "title": "Title:The impact of the Kuiper Belt Objects and of the asteroid ring on future high-precision relativistic Solar System tests",
+    "date_publ": "2 Mar 2007 (v1), last revised 8 Aug 2007 (this version, v7)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  We preliminarily investigate the impact of the Kuiper Belt Objects (KBOs) and\nof the asteroid ring on some proposed high-precision tests of Newtonian and\npost-Newtonian gravity to be performed in the Solar System by means of\nspacecraft in heliocentric \\approx 1 AU orbits and accurate orbit determination\nof some of the inner planets. It turns out that the Classical KBOSs (CKBOS),\nwhich amount to \\approx 70% of the observed population of Trans-Neptunian\nbodies, induce a systematic secular error of about 1 m after one year in the\ntransverse direction T of the orbit of a test particle orbiting at 1 AU from\nthe Sun. For Mercury the ratios of the secular perihelion precessions induced\nby CKBOs to the ones induced by the general relativity and the solar oblateness\nJ_2 amount to 6 10^-7 and 8 10^-4, respectively. The secular transverse\nperturbation induced on a \\approx 1 AU orbit by the asteroid ring, which\nglobally accounts for the action of the minor asteroids whose mass is about 5\n10^-10 solar masses, is 10 m yr^-1; the bias on the relativistic and J_2\nMercury perihelion precessions is 6.1 10^-6 and 1 10^-2, respectively. Given\nthe very ambitious goals of many expensive and complex missions aimed to\ntesting gravitational theories to unprecedented levels of accuracy, these notes\nmay suggest further and more accurate investigations of such sources of\npotentially insidious systematic bias.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0703017"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0703627",
+    "title": "Title:Orientations of LASCO Halo CMEs and Their Connection to the Flux Rope Structure of Interplanetary CMEs",
+    "date_publ": "23 Mar 2007",
+    "authors": [
+      "V. Yurchyshyn",
+      "Q.Hu",
+      "R.P. Lepping",
+      "B.J. Lynch",
+      "J. Kral"
+    ],
+    "abstract": "Abstract:  Coronal mass ejections (CMEs) observed near the Sun via LASCO coronographic\nimaging are the most important solar drivers of geomagnetic storms. ICMEs,\ntheir interplanetary, near-Earth counterparts, can be detected in-situ, for\nexample, by the Wind and ACE spacecraft. An ICME usually exhibits a complex\nstructure that very often includes a magnetic cloud (MC). They can be commonly\nmodelled as magnetic flux ropes and there is observational evidence to expect\nthat the orientation of a halo CME elongation corresponds to the orientation of\nthe flux rope. In this study, we compare orientations of elongated CME halos\nand the corresponding MCs, measured by Wind and ACE spacecraft. We characterize\nthe MC structures by using the Grad-Shafranov reconstruction technique and\nthree MC fitting methods to obtain their axis directions. The CME tilt angles\nand MC fitted axis angles were compared without taking into account handedness\nof the underlying flux rope field and the polarity of its axial field. We\nreport that for about 64% of CME-MC events, we found a good correspondence\nbetween the orientation angles implying that for the majority of interplanetary\nejecta their orientations do not change significantly (less than 45 deg\nrotation) while travelling from the Sun to the near Earth environment.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0703627"
+  },
+  {
+    "url": "https://arxiv.org/abs/math/0702738",
+    "title": "Title:A Combinatorial Optimal Control Problem for Spacecraft Formation Reconfiguration",
+    "date_publ": "24 Feb 2007",
+    "authors": [
+      "Taeyoung Lee",
+      "N. Harris McClamroch",
+      "Melvin Leo"
+    ],
+    "abstract": "Abstract:  We consider a spacecraft formation reconfiguration problem in the case of\nidentical spacecraft. This introduces in the optimal reconfiguration problem a\npermutational degree of freedom, in addition to the choice of individual\nspacecraft trajectories. We approach this using a coupled combinatorial and\ncontinuous optimization framework, in which the inner loop consists of\ncomputing the costs associated with a particular assignment by using a\ngeometrically exact and numerically efficient discrete optimal control method\nbased on Lie group variational integrators. In the outer optimization loop,\ncombinatorial techniques are used to determine the optimal assignments based on\nthe costs computed in the inner loop. The proposed method is demonstrated on\nthe optimal reconfiguration problem for 5 identical spacecraft to go from an\ninline configuration to one equally spaced on a circle.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/math/0702738"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0702151",
+    "title": "Title:A Quick and Dirty Approach to Verify the Pioneer Anomaly",
+    "date_publ": "28 Feb 2007 (v1), last revised 1 Mar 2007 (this version, v2)",
+    "authors": [
+      "Alexander Unzicker",
+      "Daniel Schmidl"
+    ],
+    "abstract": "Abstract:  We present source code for the computer algebra system Mathematica that\nanalyzes the motion of the Pioneer spacecraft using the public available\nephemeris data from JPL's website. Within 15 minutes, the reader can verify\nthat the Pioneer anomalous acceleration a_p (1) exists in the order of\nmagnitude of c H_0, (2) is not due to mismodeling of gravitational attraction,\nsolar pressure or spacecraft attitude maneuvers. The simple code of about 100\nlines may easily be extended by the reader to include further tests. Due to the\nlimitations of our approach, we do not know (1) whether the unknown raw data\nwere correctly processed to generate the trajectory files (2) how the apparent\nmismatch of ephemerides before 1990 had occurred.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0702151"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0702149",
+    "title": "Title:A mission to test the Pioneer anomaly: estimating the main systematic effects",
+    "date_publ": "28 Feb 2007 (v1), last revised 20 Jun 2007 (this version, v2)",
+    "authors": [
+      "O. Bertolami",
+      "J. Paramo"
+    ],
+    "abstract": "Abstract:  We estimate the main systematic effects relevant in a mission to test and\ncharacterize the Pioneer anomaly through the flight formation concept, by\nlaunching probing spheres from a mother spacecraft and tracking their motion\nvia laser ranging.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0702149"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0702452",
+    "title": "Title:Pulse Width Evolution of Late Time X-rays Flares in GRBs: Evidence For Internal Shocks",
+    "date_publ": "19 Feb 2007 (v1), last revised 30 Jul 2007 (this version, v2)",
+    "authors": [
+      "Daniel Kocevski",
+      "Nathaniel Butler",
+      "Joshua S. Bloo"
+    ],
+    "abstract": "Abstract:  We study the duration and variability of late time X-ray flares following\ngamma-ray bursts (GRBs) observed by the narrow field X-ray telescope (XRT)\naboard the {\\it Swift} spacecraft. These flares are thought to be indicative of\nlate time activity by the central engine that powers the GRB and produced by\nmeans similar to those which produce the prompt emission. We use a\nnon-parametric procedure to study the overall temporal properties of the flares\nand a structure function analysis to look for an evolution of the fundamental\nvariability time-scale between the prompt and late time emission. We find a\nstrong correlation in 28 individual x-ray flares in 18 separate GRBs between\nthe flare duration and their time of peak flux since the GRB trigger. We also\nfind a qualitative trend of decreasing variability as a function of time since\ntrigger, with a characteristic minimum variability timescale $\\Delta t/t=0.1$\nfor most flares. We interpret these results as evidence of internal shocks at\ncollision radii that are larger than those that produced the prompt emission.\nContemporaneous detections of high energy emission by GLAST could be a crucial\ntest in determining if indeed these X-ray flares originate as internal shocks\nbehind the afterglow, as any X-ray emission originating from behind the\nafterglow is expected to undergo inverse Compton scattering as it passes\nthrough the external shock.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0702452"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0702391",
+    "title": "Title:Contamination by Surface Effects of Time-distance Helioseismic Inversions for Sound Speed Beneath Sunspots",
+    "date_publ": "14 Feb 2007",
+    "authors": [
+      "S. Couvidat",
+      "S. P. Rajagur"
+    ],
+    "abstract": "Abstract:  Using Doppler velocity data from the SOI/MDI instrument onboard the SoHO\nspacecraft, we do time-distance helioseismic inversions for sound-speed\nperturbations beneath 16 sunspots observed in high-resolution mode. We clearly\ndetect ring-like regions of enhanced sound speed beneath most sunspot\npenumbrae, extending from near the surface to depths of about 3.5 Mm. Due to\ntheir location and dependence on frequency bands of p-modes used, we believe\nthese rings to be artifacts produced by a surface signal probably associated\nwith the sunspot magnetic field.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0702391"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0702264",
+    "title": "Title:Observation of inertial energy cascade in interplanetary space plasma",
+    "date_publ": "9 Feb 2007",
+    "authors": [
+      "Luca Sorriso-Valvo",
+      "Raffaele Marino",
+      "Vincenzo Carbone",
+      "Fabio Lepreti",
+      "Pierluigi Veltri",
+      "Alain Noullez",
+      "Roberto Bruno",
+      "Bruno Bavassano",
+      "Ermanno Pietropaol"
+    ],
+    "abstract": "Abstract:  We show in this article direct evidence for the presence of an inertial\nenergy cascade, the most characteristic signature of hydromagnetic turbulence\n(MHD), in the solar wind as observed by the Ulysses spacecraft. After a brief\nrederivation of the equivalent of Yaglom's law for MHD turbulence, we show that\na linear relation is indeed observed for the scaling of mixed third order\nstructure functions involving Els\u00e4sser variables. This experimental result,\nconfirming the prescription stemming from a theorem for MHD turbulence, firmly\nestablishes the turbulent character of low-frequency velocity and magnetic\nfield fluctuations in the solar wind plasma.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " Chaotic Dynamics (nlin.CD)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0702264"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0702217",
+    "title": "Title:A new method of observing weak extended x-ray sources with RHESSI",
+    "date_publ": "8 Feb 2007",
+    "authors": [
+      "Iain G. Hannah",
+      "Gordon J. Hurford",
+      "Hugh S. Hudson",
+      "Robert P. Li"
+    ],
+    "abstract": "Abstract:  We present a new method, fan-beam modulation, for observing weak extended\nx-ray sources with the Reuven Ramaty High-Energy Solar Spectroscopic Imager\n(RHESSI). This space-based solar x-ray and gamma-ray telescope has much greater\nsensitivity than previous experiments in the 3-25 keV range, but is normally\nnot well suited to detecting extended sources since their signal is not\nmodulated by RHESSI's rotating grids. When the spacecraft is offpointed from\nthe target source, however, the fan-beam modulation time-modulates the\ntransmission by shadowing resulting from exploiting the finite thickness of the\ngrids. In this paper we detail how the technique is implemented and verify its\nconsistency with sources with clear known signals that have occurred during\nRHESSI offpointing: microflares and the Crab Nebula. In both cases the results\nare consistent with previous and complementary measurements. Preliminary work\nindicates that this new technique allows RHESSI to observe the integrated hard\nx-ray spectrum of weak extended sources on the quiet Sun.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0702217"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0701330",
+    "title": "Title:Central universal force field to explain solar orbital radial acceleration and other universal phenomena",
+    "date_publ": "30 Jan 2007",
+    "authors": [
+      "Kamal Barghou"
+    ],
+    "abstract": "Abstract:  I investigate a repulsive central universal force field on the behavior of\ncelestial objects. I show its negative tidal effect on the solar orbits as\nexperienced by Pioneer spacecrafts. I explain several cosmological effects in\nlight of this force.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0701330"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0701094",
+    "title": "Title:A New Method of Atmospheric Reentry for Space Ships",
+    "date_publ": "8 Jan 2007",
+    "authors": [
+      "Alexander Bolonki"
+    ],
+    "abstract": "Abstract:  In recent years, industry has produced high-temperature fiber and whiskers.\nThe author examined the atmospheric reentry of the USA Space Shuttles and\nproposed the use of high temperature tolerant parachute for atmospheric air\nbraking. Though it is not large, a light parachute decreases Shuttle speed from\n8 km/s to 1 km/s and Shuttle heat flow by 3 - 4 times. The parachute surface is\nopened with backside so that it can emit the heat radiation efficiently to\nEarth-atmosphere. The temperature of parachute is about 1000 - 1300 C. The\ncarbon fiber is able to keep its functionality up to a temperature of 1500 -\n2000 C. There is no conceivable problem to manufacture the parachute from\ncarbon fiber. The proposed new method of braking may be applied to the old\nSpace Shuttles as well as to newer spacecraft designs.",
+    "categories": [
+      "General Physics (physics.gen-ph)",
+      " Popular Physics (physics.pop-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0701094"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0701058",
+    "title": "Title:Wireless Transfer of Electricity in Outer Space",
+    "date_publ": "4 Jan 2007 (v1), last revised 7 May 2008 (this version, v2)",
+    "authors": [
+      "Alexander Bolonki"
+    ],
+    "abstract": "Abstract:  Author offers conclusions from his research of a revolutionary new idea -\ntransferring electric energy in the hard vacuum of outer space wirelessly,\nusing a plasma power cord as an electric cable (wire). He shows that a certain\nminimal electric currency creates a compressed force that supports the plasma\ncable in the compacted form. A large energy can be transferred hundreds of\nmillions of kilometers by this method. The required mass of the plasma cable is\nonly hundreds of grams. He computed the macroprojects: transference of hundreds\nkilowatts of energy to Earth Space Station, transferring energy to the Moon or\nback, transferring energy to a spaceship at distance 100 million of kilometers,\nthe transfer energy to Mars when one is located at opposed side of the distant\nSun, transfer colossal energy from one of Earth's continents to another\ncontinent (for example, between Europe-USA) wirelessly-using Earth ionosphere\nas cable, using Earth as gigantic storage of electric energy, using the plasma\nring as huge MagSail for moving of spaceships. He also demonstrates that\nelectric currency in a plasma cord can accelerate or brake spacecraft and space\napparatus.",
+    "categories": [
+      "General Physics (physics.gen-ph)",
+      " Plasma Physics (physics.plasm-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0701058"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0701159",
+    "title": "Title:Reply to ``On the Systematic Errors in the Detection of the Lense-Thirring Effect with a Mars Orbiter '', by Giampiero Sindoni, Claudio Paris and Paolo Ialongo",
+    "date_publ": "29 Jan 2007 (v1), last revised 31 Jan 2007 (this version, v3)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  In this note we reply to the criticisms by Sindoni, Paris and Ialongo\nconcerning some aspects of the recent frame-dragging test performed by Iorio\nwith the Mars Global Surveyor (MGS) spacecraft in the gravitational field of\nMars.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Geophysics (physics.geo-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0701159"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0701146",
+    "title": "Title:On the Lense-Thirring test with the Mars Global Surveyor in the gravitational field of Mars",
+    "date_publ": "29 Jan 2007 (v1), last revised 21 Jun 2009 (this version, v6)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  I discuss some aspects of the recent test of frame-dragging performed by me\nby exploiting the Root-Mean-Square (RMS) orbit overlap differences of the\nout-of-plane component N of the orbit of the Mars Global Surveyor (MGS)\nspacecraft in the gravitational field of Mars. A linear fit of the full time\nseries of the entire MGS data (4 February 1999-14 January 2005) yields a\nnormalized slope 1.03 +/- 0.41 (with 95% confidence bounds). Other linear fits\nto different data sets confirm the agreement with general relativity. The huge\nsystematic effects induced by the mismodeling in the martian gravitational\nfield claimed by some authors are absent in the MGS out-of-plane record. The\nnon-gravitational forces affect at the same level of the gravitomagnetic one\nthe in-plane orbital components of MGS, not the out-of-plane one. Moreover,\nthey experience high-frequency variations which does not matter in the present\ncase in which secular effects are relevant.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Geophysics (physics.geo-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0701146"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0701042",
+    "title": "Title:Testing frame-dragging with the Mars Global Surveyor spacecraft in the gravitational field of Mars",
+    "date_publ": "6 Jan 2007 (v1), last revised 14 May 2007 (this version, v10)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  In this paper we propose an interpretation of the time series of the RMS\noverlap differences of the out-of-plane part $N$ of the orbit of the Martian\npolar orbiter Mars Global Surveyor (MGS) over a time span Delta P of about 5\nyears (14 November 1999-14 January 2005) in terms of the general relativistic\ngravitomagnetic Lense-Thirring effect. It turns out that the average of such a\ntime series over Delta P, normalized to the predicted Lense-Thirring\nout-of-plane mean shift over the same time span, is \\mu= 1.0018 +/- 0.0053. A\nlinear fit of the considered time series over Delta P yields a normalized slope\n1.1 +/- 0.3 strengthening our interpretation of the determined MGS out-of-plane\nfeatures of motion as due to the gravitomagnetic force of Mars.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Geophysics (physics.geo-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0701042"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0701653",
+    "title": "Title:Iorio's \"high-precision measurement\" of frame-dragging with the Mars Global Surveyor",
+    "date_publ": "23 Jan 2007 (v1), last revised 11 Nov 2007 (this version, v5)",
+    "authors": [
+      "Kris Krog"
+    ],
+    "abstract": "Abstract:  In two analyses of orbital data from the Mars Global Surveyor spacecraft,\nIorio [1,2] has claimed confirmation of the frame-dragging effect predicted by\ngeneral relativity. Initially to an accuracy of 6%, and now 0.5%, exceeding the\nexpected accuracy of NASA's Gravity Probe B. It is shown his results come from\nmisinterpreting the MGS data and then altering a key time period.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0701653"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0701542",
+    "title": "Title:Bound on the Dark Matter Density in the Solar System from Planetary Motions",
+    "date_publ": "18 Jan 2007",
+    "authors": [
+      "J.-M. Fr\u00e8re",
+      "F.-S. Ling",
+      "G. Vertonge"
+    ],
+    "abstract": "Abstract:  High precision planet orbital data extracted from direct observation,\nspacecraft explorations and laser ranging techniques enable to put a strong\nconstraint on the maximal dark matter density of a spherical halo centered\naround the Sun. The maximal density at Earth's location is of the order $10^5$\n${\\rm GeV/cm^3}$ and shows only a mild dependence on the slope of the halo\nprofile, taken between 0 and -2. This bound is somewhat better than that\nobtained from the perihelion precession limits.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0701542"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0701401",
+    "title": "Title:Properties of sunspots in cycle 23: I. Dependence of brightness on sunspot size and cycle phase",
+    "date_publ": "13 Jan 2007",
+    "authors": [
+      "S. K. Mathew",
+      "V. Martinez Pillet",
+      "S. K. Solanki",
+      "N. A. Krivov"
+    ],
+    "abstract": "Abstract:  In this paper we investigate the dependence of umbral core brightness, as\nwell as the mean umbral and penumbral brightness on the phase of the solar\ncycle and on the size of the sunspot. Albregtsen & Maltby (1978) reported an\nincrease in umbral core brightness from the early to the late phase of solar\ncycle from the analysis of 13 sunspots which cover solar cycles 20 and 21. Here\nwe revisit this topic by analysing continuum images of more than 160 sunspots\nobserved by the MDI instrument on board the SOHO spacecraft for the period\nbetween 1998 March to 2004 March, i.e. a sizable part of solar cycle 23. The\nadvantage of this data set is its homogeneity, with no seeing fluctuations. A\ncareful stray light correction, which is validated using the Mercury transit of\n7th May, 2003, is carried out before the umbral and penumbral intensities are\ndetermined. The influence of the Zeeman splitting of the nearby NiI spectral\nline on the measured 'continuum' intensity is also taken into account. We did\nnot observe any significant variation in umbral core, mean umbral and mean\npenumbral intensities with solar cycle, which is in contrast to earlier\nfindings for the umbral core intensity. We do find a strong and clear\ndependence of the umbral brightness on sunspot size, however. The penumbral\nbrightness also displays a weak dependence. The brightness-radius relationship\nhas numerous implications, some of which, such as those for the energy\ntransport in umbrae, are pointed out.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0701401"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0701344",
+    "title": "Title:Universes seen by a Chandrasekhar equation in stellar physics",
+    "date_publ": "11 Jan 2007 (v1), last revised 12 Jan 2007 (this version, v2)",
+    "authors": [
+      "Tom Gehrel"
+    ],
+    "abstract": "Abstract:  While we know that quantum, relativity and gravity physics control much of\nNature, Subrahmanyan Chandrasekhar derived an equation showing that for the\nstructure, composition, and source of energy of stars. This paper extends its\napplication to universes. A model is derived of these physics indicating that a\nprimordial mass of our universe is finite, at 1.13179 x 10E+78 proton masses.\nThis seems confirmed by two sets of data, from the WMAP spacecraft and other\nobservatories. The model is confirmed more in detail by a determination of the\nproton radius, at 8.2 (+/-0.2) x 10E-16 m, with a precise theoretical value.\nThis is the equivalent radius for a sphere, while the actual shape of the\nproton may be ellipsoidal. Together with theories of inflation, the model\npredicts the existence of a space-time background that is spawning new\nuniverses. They all have the same physics and near-critical mass. The\nmultiverse is a hierarchy of increasing numbers of universes. The paper ends\nwith a set of predictions in terms of suggestions for future work",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0701344"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0701132",
+    "title": "Title:Another look at the Pioneer anomaly",
+    "date_publ": "5 Jan 2007 (v1), last revised 14 Aug 2007 (this version, v5)",
+    "authors": [
+      "Erhard Schol"
+    ],
+    "abstract": "Abstract:  The often quoted equ. (15) in (Anderson_ea:2002) defines the observed Pioneer\nanomaly $a_P$ such that literal reading suggests $\\nu_{obs} < \\nu_{mod$ ($\\nu\n_{obs}$ the observed (Doppler) frequency, $\\nu_{mod}$ the one expected from a\nrelativistic orbit model of the spacecraft). Contextualized reading shows,\nhowever, that (15) is meant the other way round, $\\nu_{obs} > \\nu_{mod}$.\nVersion 1 to 4 of this paper built upon the first reading and led to a\ncorrection term for frequency shifts of wrong sign. Thus the proposal therein\ndoes not resolve the Pioneer anomaly, although it gives a correction term for\nfrequencies which has the correct absolute value.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0701132"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0701064",
+    "title": "Title:Modeling of the Terminal Velocities of the Dust Ejected Material by the Impact",
+    "date_publ": "3 Jan 2007",
+    "authors": [
+      "M. Rengel (1)",
+      "M. Kueppers (1)",
+      "H.U. Keller (1)",
+      "P. Gutierrez (2) ((1) Max-Plack-Institut fuer Sonnensystemforschung",
+      "Katlenburg-Lindau",
+      "Germany. (2) Instituto de Astrofisica de Andalucia-CSIC.Granada",
+      "Spain."
+    ],
+    "abstract": "Abstract:  We compute the distribution of velocities of the particles ejected by the\nimpact of the projectile released from NASA Deep Impact spacecraft on the\nnucleus of comet 9P/Tempel 1 on the successive 20 hours following the\ncollision. This is performed by the development and use of an ill-conditioned\ninverse problem approach, whose main ingredients are a set of observations\ntaken by the Narrow Angle Camera (NAC) of OSIRIS onboard the Rosetta\nspacecraft, and a set of simple models of the expansion of the dust ejecta\nplume for different velocities. Terminal velocities are derived using a maximum\nlikelihood estimator.\nWe compare our results with published estimates of the expansion velocity of\nthe dust cloud. Our approach and models reproduce well the velocity\ndistribution of the ejected particles. We consider these successful comparisons\nof the velocities as an evidence for the appropriateness of the approach. This\nanalysis provides a more thorough understanding of the properties of the Deep\nImpact dust cloud.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0701064"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0612102",
+    "title": "Title:Normal Coordinates Describing Coupled Oscillations in the Gravitational Field",
+    "date_publ": "16 Dec 2006 (v1), last revised 10 Jul 2007 (this version, v2)",
+    "authors": [
+      "Walter J. Christensen J"
+    ],
+    "abstract": "Abstract:  The motion of a local source inducing small oscillations in the gravitational\nfield is investigated and shown to exhibit pure rotational kinetic energy.\nShould the net affect of these slow, revolving oscillations cause large-scale\nrotations in spacetime it would certainly result in anomalous celestial\naccelerations. When this angular rotational frequency of spacetime is applied\nto the anomalous acceleration of the Pioneer 10/11 spacecrafts, the correlation\nis promising.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0612102"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0612767",
+    "title": "Title:Heating of Heavy Ions by Interplanetary Coronal Mass Ejection (ICME) Driven Collisionless Shocks",
+    "date_publ": "28 Dec 2006",
+    "authors": [
+      "K. E. Korreck",
+      "T. H. Zurbuchen",
+      "S. T. Lepri",
+      "J. M . Raine"
+    ],
+    "abstract": "Abstract:  Shock heating and particle acceleration processes are some of the most\nfundamental physical phenomena of plasma physics with countless applications in\nlaboratory physics, space physics, and astrophysics. This study is motivated by\nprevious observations of non-thermal heating of heavy ions in astrophysical\nshocks (Korreck et al. 2004). Here, we focus on shocks driven by Interplanetary\nCoronal Mass Ejections (ICMEs) which heat the solar wind and accelerate\nparticles. This study focuses specifically on the heating of heavy ions caused\nby these shocks. Previous studies have focused only on the two dynamically\ndominant species, H+ and He2+ . This study utilizes thermal properties measured\nby the Solar Wind Ion Composition Spectrometer (SWICS) aboard the Advanced\nComposition Explorer (ACE) spacecraft to examine heavy ion heating. This\ninstrument provides data for many heavy ions not previously available for\ndetailed study, such as Oxygen (O6+, O7+), Carbon (C5+, C6+), and Iron (Fe10+).\nThe ion heating is found to depend critically on the upstream plasma",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0612767"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0612636",
+    "title": "Title:Magnetic Stereoscopy",
+    "date_publ": "21 Dec 2006",
+    "authors": [
+      "Thomas Wiegelmann",
+      "Bernd Inheste"
+    ],
+    "abstract": "Abstract:  The space mission STEREO will provide images from two viewpoints. An\nimportant aim of the STEREO mission is to get a 3D view of the solar corona.\nWe develop a program for the stereoscopic reconstruction of\n3D coronal loops from images taken with the two STEREO spacecraft.\nA pure geometric triangulation of coronal features leads to ambiguities\nbecause the dilute plasma emissions complicates the association of features in\nimage 1 with features in image 2. As a consequence of these problems the\nstereoscopic reconstruction is not unique and multiple solutions occur.\nWe demonstrate how these ambiguities can be resolved with the help of\ndifferent coronal magnetic field models (potential, linear and non-linear\nforce-free fields). The idea is that, due to the high conductivity in the\ncoronal plasma, the emitting plasma outlines the magnetic field lines.\nConsequently the 3D coronal magnetic field provides a proxy for the\nstereoscopy which allows to eliminate inconsistent configurations.\nThe combination of stereoscopy and magnetic modelling is more powerful than\none of these tools alone. We test our method with the help of a model active\nregion and plan to apply it to the solar case as soon as\nSTEREO data become available.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0612636"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0612567",
+    "title": "Title:Scalar potential model of the Pioneer Anomaly",
+    "date_publ": "20 Dec 2006 (v1), last revised 20 Jan 2007 (this version, v2)",
+    "authors": [
+      "John C. Hodg"
+    ],
+    "abstract": "Abstract:  The unexplained sunward acceleration $a_\\mathrm{P}$ of the Pioneer 10 (P10)\nand the Pioneer 11 (P11) spacecraft remains a mystery. A scalar potential model\n(SPM) that derived from considerations of galaxy clusters, of redshift, and of\nH{\\scriptsize{I}} rotation curves of spiral galaxies is applied to the Pioneer\nAnomaly. Matter is posited to warp the scalar potential $\\rho$ field. The\nchanging $\\rho$ field along the light path causes the Pioneer Anomaly. The SPM\nis consistent with the general value of $a_\\mathrm{P}$; with the annual\nperiodicity; with the differing $a_\\mathrm{P}$ between the spacecraft; with the\ndiscrepancy between {\\textit{Sigma}} and CHASMP programs at P10 (I) and their\ncloser agreement at P10 (III); with the slowly declining $a_\\mathrm{P}$; with\nthe low value of $a_\\mathrm{P}$ immediately before the P11's Saturn encounter;\nwith the high uncertainty in the value of $a_\\mathrm{P}$ obtained during and\nafter the P11's Saturn encounter; and with the cosmological connection\nsuggested by $a_\\mathrm{P} \\approx cH_\\mathrm{o}$. The effect of the $\\rho$\nfield warp appears as the curvature of space proposed by general relativity\n(GR). The Hubble Law and $a_\\mathrm{P} \\approx cH_\\mathrm{o}$ are\nmanifestations of the Newtonian spherical property. Therefore, gravitational\nattraction, the equivalence principle, and the planet ephemeris remain as\ndescribed by GR. GR corresponds to the SPM in the limit in which the Sources\nand Sinks may be replaced by a flat and static $\\rho$ field such as between\ncluster cells and on the Solar System scale at a relatively large distance from\na Source or Sink.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0612567"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0612356",
+    "title": "Title:The Fe-Line Feature In The X-Ray Spectrum of Solar Flares: First Results From The SOXS Mission",
+    "date_publ": "13 Dec 2006",
+    "authors": [
+      "Rajmal Jain",
+      "(Physical Research Laboratory (PRL))",
+      "Anil K. Pradhan (Ohio State",
+      "USA)",
+      "Vishal Joshi",
+      "K.J. Shah",
+      "Jayshree J. Trivedi",
+      "S.L. Kayasth",
+      "Vishal M. Shah",
+      "M.R. Deshpande (PRL"
+    ],
+    "abstract": "Abstract:  We present the first results from the \"Low Energy Detector\" payload of the\n\"Solar X-ray Spectrometer (SOXS)\" mission, which was launched onboard the\nGSAT-2 Indian spacecraft on 08 May 2003 by the GSLV-D2 rocket to study solar\nflares. The SOXS Low Energy Detector (SLD) payload was designed, developed, and\nfabricated by the Physical Research Laboratory (PRL) in collaboration with the\nSpace Application Centre (SAC), Ahmedabad and the ISRO Satellite Centre (ISAC),\nBangalore of Indian Space Research Organization (ISRO). The energy ranges of\nthe Si PIN and CZT detectors are 4 - 25 keV and 4 - 56 keV respectively. The Si\nPIN provides sub-keV energy resolution while the CZT reveals ~1.7 keV energy\nresolution throughout the energy range. The high sensitivity and sub-keV energy\nresolution of the Si PIN detector allows measuring the intensity, peak energy,\nand the equivalent width of the Fe-line complex at approximately 6.7 keV as a\nfunction of time in all ten M-class flares studied in this investigation. The\npeak energy (Ep) of the Fe-line feature varies between 6.4 and 6.7 keV with\nincreasing in temperature from 9 to 58 MK. We found that the equivalent width\n(w) of the Fe-line feature increases exponentially with temperature up to 30 MK\nand then increases very slowly up to 40 Mk. It remains between 3.5 and 4 keV in\nthe temperature range of 30 - 45 MK. We compare our measurements of w with\ncalculations made earlier by various investigators and propose that these\nmeasurements may improve theoretical models. We interpret the variation of both\nEp and w with temperature as due to the changes in the ionization and\nrecombination conditions in the plasma during the flare interval and as a\nconsequence the contribution from different ionic emission lines also varies.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0612356"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0612013",
+    "title": "Title:Analytical scanning and transmission electron microscopy of laboratory impacts on Stardust aluminum foils: interpreting impact crater morphology and the composition of impact residues",
+    "date_publ": "1 Dec 2006",
+    "authors": [
+      "A. T. Kearsley",
+      "G. A. Graham",
+      "M. J. Burchell",
+      "M. J. Cole",
+      "Z. R. Dai",
+      "N. Teslich",
+      "J. P. Bradley",
+      "R. Chater",
+      "P. A. Wozniakiewicz",
+      "J. Spratt",
+      "G. Jone"
+    ],
+    "abstract": "Abstract:  The known encounter velocity (6.1kms-1) and particle incidence angle\n(perpendicular) between the Stardust spacecraft and the dust emanating from the\nnucleus of comet Wild 2 fall within a range that allows simulation in\nlaboratory light gas gun experiments designed to validate analytical methods\nfor the interpretation of dust impacts on the aluminum foil components of the\nStardust collector. Buckshot of a wide size, shape and density range of\nmineral, glass, polymer and metal grains, have been fired to impact\nperpendicularly upon samples of Stardust Al1100 foil, tightly wrapped onto\naluminium alloy plate as an analogue of foil on the spacecraft collector. We\nhave not yet been able to produce laboratory impacts by projectiles with weak\nand porous aggregate structure, as may occur in some cometary dust grains. In\nthis report we present information on crater gross morphology and its\ndependence on particle size and density, the pre-existing major and trace\nelement composition of the foil, geometrical issues for energy dispersive X-ray\nanalysis of the impact residues in scanning electron microscopes, and the\nmodification of dust chemical composition during creation of impact craters as\nrevealed by analytical transmission electron microscopy. Together, these\nobservations help to underpin the interpretation of size, density and\ncomposition for particles impacted upon the Stardust aluminum foils.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0612013"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0611073",
+    "title": "Title:Systematic Characterization of Low Frequency Electric and Magnetic Field Data Applicable to Solar Orbiter",
+    "date_publ": "7 Nov 2006",
+    "authors": [
+      "Jan E.S. Bergman",
+      "Tobia D. Carozz"
+    ],
+    "abstract": "Abstract:  We present a systematic and physically motivated characterization of\nincoherent or coherent electric and magnetic fields, as measured for instance\nby the low frequency receiver on-board the Solar Orbiter spacecraft. The\ncharacterization utilizes the 36 auto/cross correlations of the 3+3 complex\nCartesian components of the electric and magnetic fields; hence, they are\nsecond order in the field strengths and so have physical dimension energy\ndensity. Although such 6x6 correlation matrices have been successfully employed\non previous space missions, they are not physical quantities; because they are\nnot manifestly space-time tensors. In this paper we propose a systematic\nrepresentation of the 36 degrees-of-freedom of partially coherent\nelectromagnetic fields as a set of manifestly covariant space-time tensors,\nwhich we call the Canonical Electromagnetic Observables (CEO). As an example,\nwe apply this formalism to analyze real data from a chorus emission in the\nmid-latitude magnetosphere, as registered by the STAFF-SA instrument on board\nthe Cluster-II spacecraft. We find that the CEO analysis increases the amount\nof information that can be extracted from the STAFF-SA dataset; for instance,\nthe reactive energy flux density, which is one of the CEO parameters,\nidentifies the source region of electromagnetic emissions more directly than\nthe active energy (Poynting) flux density alone.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0611073"
+  },
+  {
+    "url": "https://arxiv.org/abs/nlin/0611034",
+    "title": "Title:Magnetic field gradients in solar wind plasma and geophysics periods",
+    "date_publ": "16 Nov 2006",
+    "authors": [
+      "A. Bershadski"
+    ],
+    "abstract": "Abstract:  Using recent data obtained by Advanced Composition Explorer (ACE) the pumping\nscale of the magnetic field gradients of the solar wind plasma has been\ncalculated. This pumping scale is found to be equal to 24h $\\pm$ 2h. The ACE\nspacecraft orbits at the L1 libration point which is a point of Earth-Sun\ngravitational equilibrium about 1.5 million km from Earth. Since the Earth's\nmagnetosphere extends into the vacuum of space from approximately 80 to 60,000\nkilometers on the side toward the Sun the pumping scale cannot be a consequence\nof the 24h-period of the Earth's rotation. Vise versa, a speculation is\nsuggested that for the very long time of the coexistence of Earth and of the\nsolar wind the weak interaction between the solar wind and Earth could lead to\nstochastic synchronization between the Earth's rotation and the pumping scale\nof the solar wind magnetic field gradients. This synchronization could\ntransform an original period of the Earth's rotation to the period close to the\npumping scale of the solar wind magnetic field gradients.",
+    "categories": [
+      "Chaotic Dynamics (nlin.CD)",
+      " Geophysics (physics.geo-ph)"
+    ],
+    "url_pdf": "/pdf/nlin/0611034"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0611081",
+    "title": "Title:A comment on the new non-conventional gravitational mechanism proposed by Jaekel and Reynaud to accommodate the Pioneer anomaly",
+    "date_publ": "14 Nov 2006 (v1), last revised 4 Dec 2006 (this version, v4)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  In this paper we put on the test the new mechanism of gravitational origin\nrecently put forth by Jaekel and Reynaud in order to explain the Pioneer\nanomaly in the framework of their post-Einsteinian metric extension of general\nrelativity. According to such a proposal, the secular part of the anomalous\nacceleration experienced by the twin spacecraft of about 1 nm s^-2 could be\ncaused by an extra-potential \\delta\\Phi_P=c^2\\chi r^2, with \\chi=4 10^-8 AU^-2,\ncoming from the second sector of the considered model. When applied to the\nmotion of the planets of the Solar System, it would induce anomalous secular\nperihelion advances which amount to tens-hundreds of arcseconds per century for\nthe outer planets. As for other previously proposed non-conventional\ngravitational explanations of the Pioneer anomaly, the answer of the latest\nobservational determinations of the residual perihelion rates by RAS IAA is\nneatly and unambiguously negative. The presence of another possible candidate\nto explain the Pioneer anomaly, i.e. the extra-potential \\delta\\Phi_N, linear\nin distance, from the first sector of the Jaekel and Reynaud model, is ruled\nout not only by the residuals of the optical data of the outer planets\nprocessed with the recent RAS IAA EPM2004 ephemerides but also by those\nproduced with other, older dynamical theories like, e.g., the well known NASA\nJPL DE200.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0611081"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0611250",
+    "title": "Title:Significant Results from SUMER/SOHO",
+    "date_publ": "8 Nov 2006",
+    "authors": [
+      "B. N. Dwived"
+    ],
+    "abstract": "Abstract:  We briefly outline recent observations by solar spacecraft such as Yohkoh,\nSOHO, TRACE, and RHESSI, which have revolutionized what we know and don't know\nabout the Sun. We then present some significant results, mainly from SUMER/SOHO\nbut also complimentary from the other SOHO's experiments, such as CDS, EIT,\nUVCS, and LASCO. In particular, we present density-temperature structures,\nexplosive events, velocity anisotropy, wave activity, coronal holes and the\nsolar wind etc. These results have provided valuable clues to a better\nunderstanding of the two of the SOHO's principal scientific objectives namely,\nhow the Sun's magnetic energy heats its million-degree corona, and feeds the\nsolar wind.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0611250"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0611170",
+    "title": "Title:Stereoscopic electron spectroscopy of solar hard X-ray flares with a single spacecraft",
+    "date_publ": "6 Nov 2006",
+    "authors": [
+      "Eduard P. Kontar",
+      "John C. Brow"
+    ],
+    "abstract": "Abstract:  Hard X-ray (HXR) spectroscopy is the most direct method of diagnosing\nenergetic electrons in solar flares. Here we present a technique which allows\nus to use a single HXR spectrum to determine an effectively stereoscopic\nelectron energy distribution. Considering the Sun's surface to act as a\n'Compton mirror' allows us to look at emitting electrons also from behind the\nsource, providing vital information on downward-propagating particles. Using\nthis technique we determine simultaneously the electron spectra of downward and\nupward directed electrons for two solar flares observed by the Ramaty High\nEnergy Solar Spectroscopic Imager (RHESSI). The results reveal surprisingly\nnear-isotropic electron distributions, which contrast strongly with the\nexpectations from the standard model which invokes strong downward beaming,\nincluding collisional thick-target model.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0611170"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0610029",
+    "title": "Title:Is the pioneer anomaly a counter example to the dark matter hypothesis?",
+    "date_publ": "8 Oct 2006 (v1), last revised 6 Jun 2007 (this version, v5)",
+    "authors": [
+      "Firmin J. Oliveir"
+    ],
+    "abstract": "Abstract:  The Hubble law is extended to massive particles based on the de Broglie\nwavelength. Due to the expansion of the universe the wavelength of an unbound\nparticle would increase according to its cosmological redshift. Based on the\nnavigation anomalies of the Pioneer 10 & 11 spacecraft it is postulated that an\nunbound massive particle has a cosmological redshift z = (c / v_0) H_0 t, where\nc is the speed of light in vacuum, v_0 is the initial velocity of the particle,\nH_0 is Hubble's constant and t is the duration of time that the particle has\nbeen unbound. The increase in wavelength of the particle corresponds to a\ndecrease in its speed by delta_v = - c H_0 t. Furthermore, it is hypothesized\nthat the solar system has escaped the gravity of the Galaxy as evidenced by its\norbital speed and radial distance and by the visible mass within the solar\nsystem radius. This means that spacecraft which become unbound to the solar\nsystem would also be galactically unbound and subject to the Hubble law. This\nhypothesis and the extended Hubble law may explain the anomalous acceleration\nfound to be acting upon the unbound Pioneer 10 & 11 spacecraft. Thus, the\nPioneer anomaly may be a counter example to the dark matter hypothesis.\nBecause photons have a speed which make them unbound to the Galaxy, it is\npredicted that the navigation beam in open space would undergo a cosmological\nredshift in its frequency which would be detectable with modern clocks.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0610029"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0610614",
+    "title": "Title:Prospects for helio- and asteroseismology",
+    "date_publ": "20 Oct 2006",
+    "authors": [
+      "J. Christensen-Dalsgaar"
+    ],
+    "abstract": "Abstract:  Major progress has been made in helio- and asteroseismology in recent years.\nIn helioseismology, much of the activity has been in local helioseismology.\nHowever, the recent revision of solar surface abundances, and the resulting\nproblems in reconciling solar models with the helioseismic inferences, have\nlead to renewed activity in solar modelling and global helioseismology.\nInteresting, although perhaps not compelling, evidence has been found for solar\ng modes in observations with the GOLF instrument on the SOHO spacecraft.\nExtensive asteroseismic results have been obtained from ground-based\nobservations as well as from the WIRE and MOST satellites, and much is expected\nfrom the upcoming launch of the CoRoT satellite and, in a few years, from the\nKepler mission. In parallel, stellar modelling is being extended to take some\naccount of hydrodynamical effects, while large-scale hydrodynamical\ncalculations are providing increasingly realistic simulations of these effects.\nThe outcome of these activities will undoubtedly be a far better understanding\nof stellar internal properties and stellar evolution, together with an improved\ninsight into the physics of matter under the extreme conditions found in stars.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0610614"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0610130",
+    "title": "Title:Coexistence of Self-Organized Criticality and Intermittent Turbulence in the Solar Corona",
+    "date_publ": "4 Oct 2006 (v1), last revised 25 May 2007 (this version, v3)",
+    "authors": [
+      "Vadim M. Uritsky",
+      "Maya Paczuski",
+      "Joseph M. Davila",
+      "Shaela I. Jone"
+    ],
+    "abstract": "Abstract:  An extended data set of extreme ultraviolet images of the solar corona\nprovided by the SOHO spacecraft are analyzed using statistical methods common\nto studies of self-organized criticality (SOC) and intermittent turbulence\n(IT). The data exhibits simultaneous hallmarks of both regimes, namely power\nlaw avalanche statistics as well as multiscaling of structure functions for\nspatial activity. This implies that both SOC and IT may be manifestations of a\nsingle complex dynamical process entangling avalanches of magnetic energy\ndissipation with turbulent particle flows.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0610130"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0610049",
+    "title": "Title:CZT in Space Based Hard-X-ray Astronomy",
+    "date_publ": "2 Oct 2006",
+    "authors": [
+      "A. Garson III",
+      "H. Krawczynski",
+      "G. Weidenspointner",
+      "E.I. Novikova",
+      "J. Grindlay",
+      "J. Hong",
+      "I.V. Jun"
+    ],
+    "abstract": "Abstract:  One of the key aspects of a detector material for space-borne hard X-ray and\ngamma-ray telescopes is the rate of prompt and delayed background events\ngenerated inside the material by charged and neutral particles striking the\ndetector. These particles are Cosmic Rays, particles trapped in Earth's\nmagnetic field, and secondaries from Cosmic Ray interacting with the atmosphere\nand the spacecraft. Here, we present a preliminary study of Cadmium Zinc\nTelluride (CZT) and its behaviour in space environments. We have used the\nsimulation package MGGPOD to estimate the background of the CZT detectors in\nthe proposed Energetic X-ray Imaging Survey Telescope (EXIST) for possible\norbital parameters. The EXIST mission will make use of 6 square meters of 0.5\ncm thick CZT detectors to record cosmic X-rays in the energy range from 10 keV\nto 600 keV. The detectors will be shielded by a fully or partly active shield.\nFor the specific detector and shielding geometry considered here and an orbit\nwith a low (7 deg) inclination, the background rate is dominated by the diffuse\nextragalactic below 200 keV. Prompt and delayed hadronic backgrounds grow\nincreasingly important above this energy, becoming the main contributors to the\ntotal background above 1 MeV. A fully active shield performs slightly better\nthan a half active/half passive shield.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0610049"
+  }
+]

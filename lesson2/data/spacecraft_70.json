@@ -1,0 +1,898 @@
+[
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0205063",
+    "title": "Title:Relativistic stellar aberration for the Space Interferometry Mission: parallax analysis",
+    "date_publ": "15 May 2002",
+    "authors": [
+      "Slava G. Turyshe"
+    ],
+    "abstract": "Abstract:  This paper is a continuation of our previous analysis (i.e. Turyshev 2002a,\n2002b) of the relativistic stellar aberration requirements for the Space\nInterferometry Mission (SIM). Here we have considered a problem of how the\nexpected astrometric accuracy of parallax determination will constrain the\naccuracy of the spacecraft navigation. We show that effect of the spacecraft's\nnavigational errors on the accuracy of parallax determination with SIM will be\nnegligible. We discuss the implication of the results obtained for the future\nmission analysis.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0205063"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0205062",
+    "title": "Title:Relativistic stellar aberration for the Space Interferometry Mission (2)",
+    "date_publ": "15 May 2002",
+    "authors": [
+      "Slava G. Turyshe"
+    ],
+    "abstract": "Abstract:  We address the issue of relativistic stellar aberration requirements for the\nSpace Interferometry Mission (SIM). Motivated by the importance of this issue\nfor SIM, we have considered a problem of relative astrometric observations of\ntwo stars separated by angle $\\theta$ on the sky with a single baseline\ninterferometer. While a definitive answer on the stellar aberration issue may\nbe obtained only in numerical simulations based on the accurate astrometric\nmodel of the instrument, one could still derive realistic conclusions by\naccounting for the main expected properties of SIM. In particular, we have\nanalysied how the expected astrometric accuracy of determination of positions,\nparallaxes and proper motions will constrain the accuracy of the spaceraft\nnavigation. We estimated the astrometric errors introduced by imperfect\nmetrology (variations of the calibration term across the tile of interest),\nerrors in the baseline length estimations, and those due to orbital motion of\nthe spacecraft. We also estimate requirements on the data sampling rate\nnecessary to apply on-board in order to correct for the stellar aberration. We\nhave shown that the worst case observation scenario is realized for the motion\nof the spacecraft in the direction perpendicular to the tile. This case of\nmotion will provide the most stringent requirement on the accuracy of knowledge\nof the velocity's magnitude. We discuss the implication of the results obtained\nfor the future mission analysis.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0205062"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0205059",
+    "title": "Title:A Mission to Test the Pioneer Anomaly",
+    "date_publ": "15 May 2002 (v1), last revised 18 Oct 2002 (this version, v3)",
+    "authors": [
+      "John D. Anderson",
+      "Michael Martin Nieto",
+      "Slava G. Turyshe"
+    ],
+    "abstract": "Abstract:  Analysis of the radio tracking data from the Pioneer 10/11 spacecraft has\nconsistently indicated the presence of an anomalous small Doppler frequency\ndrift. The drift can be interpreted as being due to a constant acceleration of\na_P= (8.74 +/- 1.33) x 10^{-8} cm/s^2 directed towards the Sun. Although it is\nsuspected that there is a systematic origin to the effect, none has been found.\nThe nature of this anomaly has become of growing interest in the fields of\nrelativistic cosmology, astro- and gravitational physics as well as in the\nareas of spacecraft design and high-precision navigation. We present a concept\nfor a designated deep-space mission to test the discovered anomaly. A number of\ncritical requirements and design considerations for such a mission are outlined\nand addressed.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0205059"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0205478",
+    "title": "Title:Dust en-route to Jupiter and the Galilean satellites",
+    "date_publ": "28 May 2002",
+    "authors": [
+      "Harald Krueger",
+      "Eberhard Gruen (Max-Planck-Institut fuer Kernphysik Heidelberg Germany"
+    ],
+    "abstract": "Abstract:  Spacecraft investigations during the last ten years have vastly improved our\nknowledge about dust in the Jovian system. All Galilean satellites, and\nprobably all smaller satellites as well, are sources of dust in the Jovian\nsystem. In-situ measurements with the dust detectors on board the Ulysses and\nGalileo spacecraft have for the first time demonstrated the electromagnetic\ninteraction of charged dust grains with the interplanetary magnetic field and\nwith a planetary magnetosphere. Jupiter's magnetosphere acts as a giant\nmass-velocity spectrometer for charged 10-nanometer dust grains. These dust\ngrains are released from Jupiter's moon Io with typical rate of 1 kg s^1. The\ndust streams probe the plasma conditions in the Io plasma torus and can be used\nas a potential monitor of Io's volcanic plume activity. The other Galilean\nsatellites are surrounded by tenuous impact-generated clouds of mostly\nsub-micrometer ejecta grains. Galileo measurements have demonstrated that\nimpact-ejecta derived from hypervelocity impacts onto satellites are the major\n-- if not the only -- constituent of dusty planetary rings. We review the\nin-situ dust measurements at Jupiter and give an update of most recent results.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0205478"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0204111",
+    "title": "Title:Clementine Observations of the Zodiacal Light and the Dust Content of the Inner Solar System",
+    "date_publ": "7 Apr 2002",
+    "authors": [
+      "J. M. Hahn",
+      "H. A. Zook",
+      "B. Cooper",
+      "B. Sunkar"
+    ],
+    "abstract": "Abstract:  Using the Moon to occult the Sun, the Clementine spacecraft used its\nnavigation cameras to map the inner zodiacal light at optical wavelengths over\nelongations of 3-30 degrees from the Sun. This surface brightness map is then\nused to infer the spatial distribution of interplanetary dust over heliocentric\ndistances of about 10 solar radii to the orbit of Venus. We also apply a simple\nmodel that attributes the zodiacal light as being due to three dust populations\nhaving distinct inclination distributions, namely, dust from asteroids and\nJupiter-family comets (JFCs), dust from Halley-type comets, and an isotropic\ncloud of dust from Oort Cloud comets. The best-fitting scenario indicates that\nasteroids + JFCs are the source of about 45% of the optical dust cross-section\nseen in the ecliptic at 1 AU, but that at least 89% of the dust cross-section\nenclosed by a 1 AU radius sphere is of a cometary origin. When these results\nare extrapolated out to the asteroid belt, we find an upper limit on the mass\nof the light-reflecting asteroidal dust that is equivalent to a 12 km asteroid,\nand a similar extrapolation of the isotropic dust cloud out to Oort Cloud\ndistances yields a mass equivalent to a 30 km comet, although the latter mass\nis uncertain by orders of magnitude.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0204111"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0203107",
+    "title": "Title:New Solar Seismic Models and the Neutrino Puzzle",
+    "date_publ": "7 Mar 2002",
+    "authors": [
+      "S. Couvidat",
+      "S. Turck-Chieze",
+      "A. G. Kosoviche"
+    ],
+    "abstract": "Abstract:  The SoHO spacecraft made astrophysicists achieve a major breakthrough in the\nknowledge of the Sun. In helioseismology, both GOLF and MDI experiments aboard\nSoHO greatly improve the accuracy of seismic data. More specifically, the\ndetection of an enhanced number of low degree low order modes improves the\naccuracy on the sound speed and density profiles in the solar core. After a\ndescription of these profiles, we build solar seismic models. Different models\nare considered and enable us to derive precise emitted neutrino fluxes. These\nones are validated by the seismic data and are in agreement with the recent\ndetected neutrinos, assuming 3 neutrino flavors. The seismic models are also\nused to put limits on large scale magnetic fields in the solar interior. This\nanalysis puts some upper bounds of about 3x10^7 G in the radiative zone. Such a\nfield could slightly improve the emitted neutrino flux, which remains in\nagreement with the Sudbury Neutrino Observatory result of 2001. From the models\nwe deduce gravity mode predictions, and the electron and neutron radial\ndensities that are useful to calculate the neutrino oscillations. We also begin\nto discuss how the external magnetic field may influence such quantities.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0203107"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0202162",
+    "title": "Title:FUSE 900-1200A Spectroscopy of AM Her",
+    "date_publ": "7 Feb 2002",
+    "authors": [
+      "J. B. Hutchings (HIA",
+      "NRC Canada)",
+      "A. W. Fullerton (JHU and UVIC)",
+      "A. P. Cowley",
+      "P. C. Schmidtke (ASU"
+    ],
+    "abstract": "Abstract:  Spectra of the magnetic white dwarf binary AM Her were obtained with the Far\nUltraviolet Spectroscopic Explorer (FUSE) during three consecutive spacecraft\norbits. These observations were split into 19 spectra of about 5 min duration\n(0.025P binary phase) partially covering the binary orbit. We report the\nphase-related changes in the far ultraviolet continuum light curve and the\nemission lines, noting particularly the behavior of O VI. We discuss the fluxes\nand velocities of the narrow and broad O VI emissions. We find the FUV light\ncurve has maximum amplitude at ~1000A, although at shorter wavelengths the\ncontinuum may be strongly affected by overlapping Lyman lines. Weak, narrow\nLyman absorption lines are present. Their velocities don't appear to vary over\nthe observed orbital phases, and their mean value is consistent with the\nsystemic velocity.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0202162"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0202039",
+    "title": "Title:Radio emission of the Moon before and after the Lunar Prospector impact",
+    "date_publ": "1 Feb 2002",
+    "authors": [
+      "A.A. Berezhnoi (1)",
+      "S.G. Gusev (2)",
+      "O.B. Khavroshkin (3)",
+      "B.A. Poperechenko (2)",
+      "V.V. Shevchenko (1)",
+      "V.V. Tzyplakov (3) ((1) Sternberg Astronomical Institute",
+      "Moscow",
+      "Russia (2) Special Design Office",
+      "Moscow Energetic Institute",
+      "Moscow",
+      "Russia (3) Schmidt Institute of Physics of the Earth",
+      "Moscow",
+      "Russia"
+    ],
+    "abstract": "Abstract:  The direct impact of the American spacecraft Lunar Prospector into the Moon\non July 31, 1999 was accompanied by seismic effects comparable to a big\nmoonquake. Such an impact can be accompanied by radio seismic radiation of the\nlunar surface layers. For registration of the lunar radio seismic radiation\nafter the Lunar Prospector impact radio observations of the Moon on two 64-m\nradio telescopes at 13, 21, and 90 cm were conducted on July 30 - August 2,\n1999. Changes of the radio temperature of the south polar regions after the\nimpact were detected. The Lunar Prospector impact may have been the cause of\nthese changes. Recommendations about the registration of the lunar radio\nseismic radiation during the Leonid meteor showers are given.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0202039"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0201374",
+    "title": "Title:The Current Performance of the Third Interplanetary Network",
+    "date_publ": "22 Jan 2002",
+    "authors": [
+      "K. Hurley",
+      "T.Cline",
+      "I. Mitrofanov",
+      "E. Mazets",
+      "S. Golenetskii",
+      "F. Frontera",
+      "E. Montanari",
+      "C. Guidorzi",
+      "M. Feroc"
+    ],
+    "abstract": "Abstract:  The 3rd Interplanetary Network (IPN) has been operating since April 2001 with\ntwo distant spacecraft, Ulysses and Mars Odyssey, and numerous near-Earth\nspacecraft, such as BeppoSAX, Wind, and HETE-II. Mars Odyssey is presently in\norbit about Mars, and the network has detected approximately 30 cosmic, SGR,\nand solar bursts. We discuss the results obtained to date and use them to\npredict the future performance of the network.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0201374"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0201291",
+    "title": "Title:Origins of Solar System Dust Beyond Jupiter",
+    "date_publ": "17 Jan 2002",
+    "authors": [
+      "M. Landgraf (1",
+      "3)",
+      "J.-C. Liou (2)",
+      "H. A. Zook (3)",
+      "E. Gr\u00fcn (4) ((1) ESA/ESOC",
+      "Darmstadt",
+      "(2) Lockheed Martin Space Operations",
+      "Houston",
+      "(3) NASA/JSC",
+      "Houston",
+      "(4) MPI-K",
+      "Heidelberg"
+    ],
+    "abstract": "Abstract:  The measurements of cosmic interplanetary dust by the instruments on board\nthe Pioneer 10 and 11 spacecraft contain the dynamical signature of dust\ngenerated by Edgeworth-Kuiper Belt objects, as well as short period Oort Cloud\ncomets and short period Jupiter family comets. While the dust concentration\ndetected between Jupiter and Saturn is mainly due to the cometary components,\nthe dust outside Saturn's orbit is dominated by grains originating from the\nEdgeworth-Kuiper Belt. In order to sustain a dust concentration that accounts\nfor the Pioneer measurements, short period external Jupiter family comets, on\norbits similar to comet 29P/Schwassmann-Wachmann-1, have to produce $8\\times\n10^4:{\\rm g}:{\\rm s}^{-1}$ of dust grains with sizes between 0.01 and $6:{\\rm\nmm}$. A sustained production rate of $3\\times 10^5:{\\rm g}:{\\rm s}^{-1}$ has to\nbe provided by short period Oort cloud comets on 1P/Halley-like orbits. The\ncomets can not, however, account for the dust flux measured outside Saturn's\norbit. The measurements there can only be explained by a generation of dust\ngrains in the Edgeworth-Kuiper belt by mutual collisions of the source objects\nand by impacts of interstellar dust grains onto the objects' surfaces. These\nprocesses have to release in total $5\\times 10^7:{\\rm g}:{\\rm s}^{-1}$ of dust\nfrom the Edgeworth Kuiper belt objects in order to account for the amount of\ndust found by Pioneer beyond Saturn, making the Edgeworth-Kuiper disk the\nbrightest extended feature of the Solar System when observed from afar.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0201291"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0112070",
+    "title": "Title:Discrete scalar field and general relativity",
+    "date_publ": "26 Dec 2001",
+    "authors": [
+      "Manoelito M. de Souz"
+    ],
+    "abstract": "Abstract:  What is the nature - continuous or discrete - of matter and of its\nfundamental interactions? The physical meaning, the properties and the\nconsequences of a discrete scalar field are discussed; limits for the validity\nof a mathematical description of fundamental physics in terms of continuum\nfields are a natural outcome of discrete fields with discrete interactions. Two\ndemarcating points (a near and a far) define a domain where no difference\nbetween the discrete and the standard continuum field formalisms can be\nexperimentally detected. Discrepancies, however, can be observed as a\ncontinuous-interaction is always stronger below the near point and weaker above\nthe far point than a discrete one. The connections between the discrete scalar\nfield and gravity from general relativity are discussed. Whereas vacuum\nsolutions of general relativity can be retrieved from discrete scalar field\nsolutions, this cannot be extended to solutions in presence of massive sources\nas they require a true tensor metric field. Contact is made, on passing, with\nthe problem of dark matter and the rotation curve of galaxies, with inflation\nand the accelerated expansion, the apparent anomaly in the Pioneer spacecraft\nacceleration, the quantum Hall effect, high-$T_{c}$ superconductivity, quark\nconfinement, and with Tsallis generalized one-parameter statistics as some\npossible manifestation of discrete interaction and of an essentially discrete\nworld.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Theory (hep-th)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0112070"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0112059",
+    "title": "Title:Algebraic approach to time-delay data analysis for LISA",
+    "date_publ": "22 Dec 2001 (v1), last revised 20 Jun 2002 (this version, v2)",
+    "authors": [
+      "S. V. Dhurandhar",
+      "K. Rajesh Nayak",
+      "J-Y. Vine"
+    ],
+    "abstract": "Abstract:  Cancellation of laser frequency noise in interferometers is crucial for\nattaining the requisite sensitivity of the triangular 3-spacecraft LISA\nconfiguration. Raw laser noise is several orders of magnitude above the other\nnoises and thus it is essential to bring it down to the level of other noises\nsuch as shot, acceleration, etc. Since it is impossible to maintain equal\ndistances between spacecrafts, laser noise cancellation must be achieved by\nappropriately combining the six beams with appropriate time-delays. It has been\nshown in several recent papers that such combinations are possible. In this\npaper, we present a rigorous and systematic formalism based on algebraic\ngeometrical methods involving computational commutative algebra, which\ngenerates in principle {\\it all} the data combinations cancelling the laser\nfrequency noise. The relevant data combinations form the first module of\nsyzygies, as it is called in the literature of algebraic geometry. The module\nis over a polynomial ring in three variables, the three variables corresponding\nto the three time-delays around the LISA triangle. Specifically, we list\nseveral sets of generators for the module whose linear combinations with\npolynomial coefficients generate the entire module. We find that this formalism\ncan also be extended in a straight forward way to cancel Doppler shifts due to\noptical bench motions. The two modules are infact isomorphic.\nWe use our formalism to obtain the transfer functions for the six beams and\nfor the generators. We specifically investigate monochromatic gravitational\nwave sources in the LISA band and carry out the maximisiation over linear\ncombinations of the generators of the signal-to-noise ratios with the frequency\nand source direction angles as parameters.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0112059"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0112422",
+    "title": "Title:Dynamical Screening of Gravitational Interaction and Planetary Motions in Modified Solar Potential",
+    "date_publ": "18 Dec 2001",
+    "authors": [
+      "A.G. Bashkirov",
+      "A.V. Vityazev",
+      "G.V. Pechernikov"
+    ],
+    "abstract": "Abstract:  A density disturbance in a system of gravitating mass, induced by a moving\nselected body gives rise to a dynamical screening of Newtonian potential of\nthis body. When applied to the solar planetary system it means that as a result\nof the motion of the Sun in the Galaxy its effective force potential appears\nmore weak than the Newtonian potential. The relevant modifications of main\nrelations of the solar dynamics are considered here and it is found in\nparticular that the reestimated period of the Earth revolution around the Sun\nrises in 1 second per year and semimajor axis of the Earth orbit increases on 4\nkilometers. Similar relations are obtained for other planets too. It may be\nsupposed that the inclusion of these effects can help to explain the observable\nanomalous acceleration of spacecrafts Pioneer 10 and 11.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0112422"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0112054",
+    "title": "Title:Euler, Jacobi, and Missions to Comets and Asteroids",
+    "date_publ": "3 Dec 2001 (v1), last revised 15 May 2002 (this version, v3)",
+    "authors": [
+      "Michael Efroimsk"
+    ],
+    "abstract": "Abstract:  Whenever a freely spinning body is found in a complex rotational state, this\nmeans that either the body is a recent victim of an impact or a tidal\ninteraction, or is a fragment of a recently disrupted progenitor. Another\nfactor (relevant for comets) is outgassing. Due to impacts, tidal forces and\noutgassing, the asteroidal and cometary precession must be a generic\nphenomenon: while some rotators are in the state of visible tumbling, a much\nlarger amount of objects must be performing narrow-cone precession not so\neasily observable from the Earth. The internal dissipation in a freely\nprecessing top leads to relaxation (gradual damping of the precession) and\nsometimes to spontaneous changes in the rotation axis. Recently developed\ntheory of dissipative precession of a rigid body reveals that this is a highly\nnonlinear process: while the body is precessing at an angular rate $ \\omega$,\nthe precession-caused stresses and strains in the body contain components\noscillating at other frequencies. Dependent upon the spin state, those\nfrequencies may be higher or, most remarkably, lower than the precession rate.\nIn many states dissipation at the harmonics is comparable to or even exceeds\nthat at the principal frequency. For this and other reasons, in many spin\nstates the damping of asteroidal and cometary wobble happens faster, by several\norders, than believed previously. This makes it possible to measure the\nprecession-damping rate. The narrowing of the precession cone through the\nperiod of about a year can be registered by the currently available\nspacecraft-based observational means. However, in the near-separatrix spin\nstates a precessing rotator can considerably slow down its relaxation.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " Dynamical Systems (math.DS)",
+      " Chaotic Dynamics (nlin.CD)",
+      " Geophysics (physics.geo-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0112054"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0110094",
+    "title": "Title:Marked variability in modern-time gravitational data indicates a large secular increase in the mass of ponderable bodies",
+    "date_publ": "31 Oct 2001 (v1), last revised 9 Feb 2002 (this version, v2)",
+    "authors": [
+      "V. Raic"
+    ],
+    "abstract": "Abstract:  In spite of two hundred years of considerable efforts directed towards\nimprovement in the experimental techniques, gravitational measurements have\nprovided unsettled results for Newton's gravitational constant G. Analysis of\nthe published (over ~75 years) small-scale gravitational measurements,\npresented in this report, unveils a large secular increase in the gravitational\nforce, that reveals itself as a formal increase in the Newton's constant G at a\nrate 'G dot per G' = (1.43 +-0.08) x 10^(-5) year^(-1). Since its\ninterpretation as a true 'G dot per G' effect is excluded by laser and radar\nranging to the Moon and the interior planets as well as by double-pulsar\nstudies, which all put tight limits on any variation in G, this large secular\neffect appears to originate in a temporal increase of gravitational masses due\nto, e.g., capture of mass from a hypothetical cold dark matter halo of the Sun.\nBy virtue of the equivalence principle, the secular mass increase leads\nnaturally to modifications of the Newtonian dynamics in the Solar System, as it\npredicts a cosmic deceleration of moving bodies dependent upon their speed. In\nparticular, it predicts for the Pioneer 10/11 spacecraft an anomalous, nearly\nconstant acceleration of -(11.0 +-1.8) x 10^(-10) m/s^2, in agreement with the\npublished experimental value of -(8.7 +- 0.9) x 10^(-10) m/s^2. Dynamical\neffects of this kind have been also detected in the motion of other spacecraft\nand artificial satellites, but not in the motion of large and/or old objects in\nthe Solar System.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0110094"
+  },
+  {
+    "url": "https://arxiv.org/abs/hep-ph/0110373",
+    "title": "Title:The Anomalous Trajectories of the Pioneer Spacecraft",
+    "date_publ": "29 Oct 2001",
+    "authors": [
+      "Michael Martin Nieto",
+      "John D. Anderson",
+      "Philip A. Laing",
+      "Eunice L. Lau",
+      "Slava G. Turyshe"
+    ],
+    "abstract": "Abstract:  Because of their unique designs, the Pioneer 10 and 11 spacecraft have\nprovided the cleanest Doppler, deep-space navigation data. Analysis of this\ndata can be interpreted as showing an anomalous acceleration of these craft\ndirected towards the Sun of $a_P \\sim 8 \\times 10^{-8} {\\rm cm/s}^2$. The\nbackground of this discovery and the significance of the result are discussed.",
+    "categories": [
+      "High Energy Physics - Phenomenology (hep-ph)"
+    ],
+    "url_pdf": "/pdf/hep-ph/0110373"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0110607",
+    "title": "Title:Rotation of the solar interior",
+    "date_publ": "29 Oct 2001",
+    "authors": [
+      "J. Christensen-Dalsgaard (1)",
+      "M. J. Thompson (2) ((1) Teoretisk Astrofysik Center",
+      "Danmarks Grundforskningsfond",
+      "and Institut for Fysik og Astronomi",
+      "Aarhus Universitet",
+      "Denmark",
+      "(2) Department of Physics",
+      "Imperial College",
+      "London",
+      "England"
+    ],
+    "abstract": "Abstract:  Helioseismology has allowed us to infer the rotation in the greater part of\nthe solar interior with high precision and resolution. The results show\ninteresting conflicts with earlier theoretical expectations, indicating that\nthe the Sun is host to complex dynamical phenomena, so far hardly understood.\nThis has important consequences for our ideas about the evolution of stellar\nrotation, as well as for models for the generation of the solar magnetic field.\nHere we provide an overview of our current knowledge about solar rotation, much\nof it obtained from observations from the SOHO spacecraft, and discuss the\nbroader implications.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0110607"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0110091",
+    "title": "Title:Sungrazing comets: Properties of nuclei and in-situ detectability of cometary ions at 1 AU",
+    "date_publ": "3 Oct 2001",
+    "authors": [
+      "M. Iseli",
+      "M. Kueppers",
+      "W. Benz",
+      "P. Bochsle"
+    ],
+    "abstract": "Abstract:  A one dimensional sublimation model for cometary nuclei is used to derive\nsize limits for the nuclei of sungrazing comets, and to estimate oxygen ion\nfluxes at 1 AU from their evaporation. Given that none of the ~300 sungrazers\ndetected by the SOlar and Heliospheric Observatory (SOHO) was observed after\ndisappearing behind the sun, and that small nuclei with a radius of ~3.5m could\nbe observed, it is assumed that all SOHO sungrazers were completely destroyed.\nFor the case that sublimation alone is sufficient for destruction, the model\nyields an upper size limit as a function of nuclear density, albedo and\nperihelion distance. If the density of the nuclei is that typical of porous ice\n(600kg/m^3), the maximum size is 63m. These results confirm similar model\ncalculations by Weissman (1983). An analytical expression is derived that\napproximates the model results well. We discuss possible modifications of our\nresults by different disruption mechanisms. While disruption by thermal stress\ndoes not change the upper size limits significantly, they may be somewhat\nincreased by tidal disruption (up to 100m for a density of 600kg/m^3) dependent\non the isotropy of the sublimation process and the tensile strength of the\ncomet. Implications for the Kreutz family of sungrazers are discussed.\nOxygen ions from the sublimation of sungrazing comets form a tail. Fluxes\nfrom this tail are sufficiently high to be measured at 1 AU by particle\ndetectors on spacecraft, but the duration of a tail crossing is only about half\nan hour. Therefore the probability of a spacecraft actually encountering a tail\nof an evaporating sungrazer is only of the order of two percent per year.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0110091"
+  },
+  {
+    "url": "https://arxiv.org/abs/nucl-th/0109021",
+    "title": "Title:Nucleons and Isobars at finite density ($\u03c1$) and temperature (T)",
+    "date_publ": "7 Sep 2001",
+    "authors": [
+      "Rinaldo Cenni",
+      "Jishnu Dey",
+      "Mira De"
+    ],
+    "abstract": "Abstract:  The importance of studying matter at high $\\rho$ increases as more\nastrophysical data becomes available from recently launched spacecrafts. The\nimportance of high T studies derives from heavy ion data. In this paper we set\nup a formalism to study the nucleons and isobars with long and short range\npotentials non-pertubatively, bosonizing and expanding semi-classically the\nFeyman integrals up to one loop. We address the low density, finite T\nproblem=A0 first, the case relevant to heavy ion collisions, hoping to adresss\nthe high density case later. Interactions change the nucleon and isobar numbers\nat different $\\rho$ and T non-trivially.",
+    "categories": [
+      "Nuclear Theory (nucl-th)"
+    ],
+    "url_pdf": "/pdf/nucl-th/0109021"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0109345",
+    "title": "Title:Contemporary interstellar meteoroids in the solar system - in situ measurements and clues on composition",
+    "date_publ": "20 Sep 2001",
+    "authors": [
+      "M. Landgraf (1) ((1) ESA/ESOC",
+      "Darmstadt",
+      "germany"
+    ],
+    "abstract": "Abstract:  Meteoroids originating from the local interstellar medium, traverse the solar\nsystem. This has been proven by in situ measurements by interplanetary\nspacecraft as well as highly sensitive radar measurements. Early attempts to\ndetect interstellar meteoroids using the instruments on board the Pioneer 8 and\n9 spacecraft failed. More sensitive detectors on board the joint ESA/NASA\nmission Ulysses as well as on board the NASA spacecraft Galileo, however,\nunambiguously detected meteoroids of interstellar origin. This discovery has\nstarted efforts to compare the results from the in situ measurements with\nhighly sophisticated models of interstellar dust properties derived from\nastronomical absorption and extinction measurements. It was found that, at\nleast locally, is more mass locked up in meteoroids than expected from the\nastronomical measurements. So far the in situ measurements only allow to derive\ncomposition information indirectly via the meteoroid's dynamics.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0109345"
+  },
+  {
+    "url": "https://arxiv.org/abs/hep-ph/0108051",
+    "title": "Title:A mirror world explanation for the Pioneer spacecraft anomalies?",
+    "date_publ": "6 Aug 2001",
+    "authors": [
+      "R. Foot",
+      "R. R. Volka"
+    ],
+    "abstract": "Abstract:  We show that the anomalous acceleration of the Pioneer 10/11 spacecraft can\nbe explained if there is some mirror gas or mirror dust in our solar system.",
+    "categories": [
+      "High Energy Physics - Phenomenology (hep-ph)",
+      " Astrophysics (astro-ph)",
+      " General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/hep-ph/0108051"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0108054",
+    "title": "Title:A Conventional Physics Explanation for the Anomalous Acceleration of Pioneer 10/11",
+    "date_publ": "22 Aug 2001",
+    "authors": [
+      "Louis K. Scheffe"
+    ],
+    "abstract": "Abstract:  Anderson, et al., find the measured trajectories of Pioneer 10 and 11\nspacecraft deviate from the trajectories computed from known forces acting on\nthem. This unmodelled acceleration can be accounted for by non-isotropic\nradiation of spacecraft heat. Various forms of non-isotropic radiation were\nproposed by Katz, Murphy, and Scheffer, but Anderson, et al. felt that none of\nthese could explain the observed effect. This paper calculates the known\neffects in more detail and considers new sources of radiation, all based on\nspacecraft construction. These effects are then modelled over the duration of\nthe experiment. The model provides a reasonable fit to the acceleration from\nits appearance at a heliocentric distance of 5 AU to the last measurement at 71\nAU, but overpredicts by 9% the decrease in acceleration between intervals I and\nIII of the Pioneer 10 observations. (For comparison, the two different\nmeasurements of the effect (SIGMA and CHASMP) themselves differ by 4% in\ninterval III.) In any case, by accounting for the bulk of the acceleration, the\nproposed mechanism makes it much more likely that the entire effect can be\nexplained without the need for new physics.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0108054"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0108366",
+    "title": "Title:Transient Gamma Ray Spectrometer Measurements of Gamma-Ray Lines from Novae. III. The 478 keV Line from 7Be Decay",
+    "date_publ": "22 Aug 2001",
+    "authors": [
+      "M.J. Harris (1 and 2)",
+      "B.J. Teegarden (2)",
+      "G. Weidenspointner (1 and 2)",
+      "D.M. Palmer (1 and 2)",
+      "T.L. Cline (2)",
+      "N. Gehrels (2)",
+      "R. Ramaty (2",
+      "3) ((1) USRA",
+      "(2) NASA/GSFC",
+      "(3) Deceased"
+    ],
+    "abstract": "Abstract:  The \"Wind\" spacecraft carrying the Transient Gamma Spectrometer (TGRS) moves\nin an extremely elliptical orbit that largely avoids Earth's trapped radiation\nbelts and albedo gamma-radiation. The TGRS therefore enjoys a relatively low\nlevel of background that is also extremely stable. We show how this stability\nenables modeling of the time variability of background lines, which in turn\nenables a novel technique of background subtraction to be used in the detection\nof transient astrophysical lines. We apply a simple version of this method to\nthe line at 478 keV that is expected to arise from nucleosynthesis of 7Be in\nnearby novae. This search covers the entire southern ecliptic hemisphere during\n1995-1997, including five known individual events, and possible undiscovered\nindividual events. The TGRS design also uses \"Wind\"'s 3 s rotation period to\nmodulate signals from the Galactic Center (GC). We use this feature of the\ninstrument to search for a quasi-constant level of 478 keV emission from the\naccumulation of 7Be from several novae that are expected to occur in the\ndirection of the GC during that isotope's 53 d half-life. We derive upper\nlimits on the transient (single-nova) emission which improve on previous limits\nby about an order of magnitude, and limits on the steady (many-nova) emission\nwhich represent a factor 2 improvement. Only weak limits can be placed on the\nkey parameters in the nucleosynthesis and ejection of 7Be, however.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0108366"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0107092",
+    "title": "Title:Conventional Forces can Explain the Anomalous Acceleration of Pioneer 10",
+    "date_publ": "27 Jul 2001 (v1), last revised 25 Feb 2003 (this version, v5)",
+    "authors": [
+      "Louis K. Scheffe"
+    ],
+    "abstract": "Abstract:  Anderson, et al. find the measured trajectories of Pioneer 10 and 11\nspacecraft deviate from the trajectories computed from known forces acting on\nthem. This unmodelled acceleration (and the less well known, but similar,\nunmodelled torque) can be accounted for by non-isotropic radiation of\nspacecraft heat. Various forms of non-isotropic radiation were proposed by\nKatz, Murphy, and Scheffer, but Anderson, et al. felt that none of these could\nexplain the observed effect. This paper calculates the known effects in more\ndetail and considers new sources of radiation, all based on spacecraft\nconstruction. These effects are then modelled over the duration of the\nexperiment. The model reproduces the acceleration from its appearance at a\nheliocentric distance of 5 AU to the last measurement at 71 AU to within 10\npercent. However, it predicts a larger decrease in acceleration between\nintervals I and III of the Pioneer 10 observations than is observed. This is a\n2 sigma discrepancy from the average of the three analyses (SIGMA, CHASMP, and\nMarkwardt). A more complex (but more speculative) model provides a somewhat\nbetter fit. Radiation forces can also plausibly explain the previously\nunmodelled torques, including the spindown of Pioneer 10 that is directly\nproportional to spacecraft bus heat, and the slow but constant spin-up of\nPioneer 11. In any case, by accounting for the bulk of the acceleration, the\nproposed mechanism makes it much more likely that the entire effect can be\nexplained without the need for new physics.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0107092"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0107062",
+    "title": "Title:Far-UV Observations of the Galactic Supersoft Binary RXJ0019.8+2156 (QR And)",
+    "date_publ": "3 Jul 2001",
+    "authors": [
+      "J.B. Hutchings",
+      "D. Crampton",
+      "A.P. Cowley",
+      "P.C. Schmidtke",
+      "A.W. Fullerto"
+    ],
+    "abstract": "Abstract:  FUSE spectra were obtained of the supersoft X-ray binary RX J0019.8+2156 (QR\nAnd) during 16 consecutive spacecraft orbits, covering the binary orbit\n(P=15.85 hr) with about 0.2 phase overlap. The spectrum is dominated by strong\nH2 absorption (column density ~10**20 g/cm**2), which appears at a radial\nvelocity different from other interstellar absorption lines and may be\npartially circumbinary. This absorption makes study of spectral features from\nthe binary system difficult. The only well-detected emission lines are He II,\n1085A, and O VI, 1032A, (the other line of the O VI doublet, 1037A, is largely\nobscured by strong H2 absorption). The O VI shows a P Cygni profile that varies\nin velocity and strength with binary phase. We compare this with similar\nchanges seen in Balmer line profiles. We extract the FUV light curve and\ncompare it with the optical light curve. There is an eclipse in both wavelength\nregions, but the FUV minimum lasts much longer, well beyond the visible light\negress. The FUV results are discussed in connection with the binary model and\nmass flows within the system.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0107062"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0107052",
+    "title": "Title:One year of Galileo dust data from the Jovian system: 1996",
+    "date_publ": "3 Jul 2001",
+    "authors": [
+      "H. Kr\u00fcger",
+      "E. Gr\u00fcn",
+      "A. Graps",
+      "D. Bindschadler",
+      "S. Dermott",
+      "H. Fechtig",
+      "B. A. Gustason",
+      "D. P. Hamilton",
+      "M. S. Hanner",
+      "M. Hor\u00e1nyi",
+      "J. Kissel",
+      "B. A. Lindblad",
+      "D. Linkert",
+      "G. Linkert",
+      "I. Mann",
+      "J. A. M. McDonnell",
+      "G. E. Morfill",
+      "C. Planskey",
+      "G. Schwehm",
+      "R. Srama",
+      "H. A. Zoo"
+    ],
+    "abstract": "Abstract:  The dust detector system onboard Galileo records dust impacts in circumjovian\nspace since the spacecraft has been injected into a bound orbit about Jupiter\nin December 1995. This is the sixth in a series of papers dedicated to\npresenting Galileo and Ulysses dust data. We present data from the Galileo dust\ninstrument for the period January to December 1996 when the spacecraft\ncompleted four orbits about Jupiter (G1, G2, C3 and E4). Data were obtained as\nhigh resolution realtime science data or recorded data during a time period of\n100 days, or via memory read-outs during the remaining times. Because the data\ntransmission rate of the spacecraft is very low, the complete data set (i. e.\nall parameters measured by the instrument during impact of a dust particle) for\nonly 2% (5353) of all particles detected could be transmitted to Earth; the\nother particles were only counted. Together with the data for 2883 particles\ndetected during Galileo's interplanetary cruise and published earlier, complete\ndata of 8236 particles detected by the Galileo dust instrument from 1989 to\n1996 are now available. The majority of particles detected are tiny grains\n(about 10 nm in radius) originating from Jupiter's innermost Galilean moon Io.\nThese grains have been detected throughout the Jovian system and the highest\nimpact rates exceeded $\\rm 100 min^{-1}$. A small number of grains has been\ndetected in the close vicinity of the Galilean moons Europa, Ganymede and\nCallisto which belong to impact-generated dust clouds formed by (mostly\nsubmicrometer sized) ejecta from the surfaces of the moons (Kr\u00fcger et al.,\nNature, 399, 558, 1999). Impacts of submicrometer to micrometer sized grains\nhave been detected thoughout the Jovian system and especially in the region\nbetween the Galilean moons.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0107052"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0106010",
+    "title": "Title:Support for a prosaic explanation for the anomalous acceleration of Pioneer 10 and 11",
+    "date_publ": "4 Jun 2001",
+    "authors": [
+      "Louis K. Scheffe"
+    ],
+    "abstract": "Abstract:  Anderson, et al., find the measured trajectories of Pioneer 10 and 11\nspacecraft deviate from the trajectories computed from known forces acting on\nthem. This unmodelled acceleration can be accounted for by non-isotropic\nradiation of spacecraft heat. This explanation was first proposed by Murphy,\nbut Anderson, et al. felt it could not explain the observed effect. This paper\nincludes new calculations on the expected magnitude of this effect, based on\nthe relative emissivities of the different sides of the spacecraft, as\nestimated from the known spacecraft construction. The calculations indicate the\nproposed effect can account for most, if not all, of the unmodelled\nacceleration.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0106010"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0106322",
+    "title": "Title:Four years of Ulysses dust data: 1996 to 1999",
+    "date_publ": "19 Jun 2001",
+    "authors": [
+      "H. Kr\u00fcger",
+      "E. Gr\u00fcn",
+      "M. Landgraf",
+      "S. Dermott",
+      "H. Fechtig",
+      "B. A. Gustafson",
+      "D. P. Hamilton",
+      "M. S. Hanner",
+      "M. Hor\u00e1nyi",
+      "J. Kissel",
+      "B. A. Lindblad",
+      "D. Linkert",
+      "G. Linkert",
+      "I. Mann",
+      "J. A. M. McDonnell",
+      "G. E. Morfill",
+      "C. Polanskey",
+      "G. Schwehm",
+      "R. Srama",
+      "H. A. Zoo"
+    ],
+    "abstract": "Abstract:  The Ulysses spacecraft is orbiting the Sun on a highly inclined ellipse ($ i\n= 79^{\\circ}$, perihelion distance 1.3 AU, aphelion distance 5.4 AU). Between\nJanuary 1996 and December 1999 the spacecraft was beyond 3 AU from the Sun and\ncrossed the ecliptic plane at aphelion in May 1998. In this four-year period\n218 dust impacts were recorded with the dust detector on board. We publish and\nanalyse the complete data set of both raw and reduced data for particles with\nmasses $\\rm 10^{-16} g$ to $\\rm 10^{-8}$ g. Together with 1477 dust impacts\nrecorded between launch of Ulysses and the end of 1995 published earlier\n\\cite{gruen1995c,krueger1999b}, a data set of 1695 dust impacts detected with\nthe Ulysses sensor between October 1990 and December 1999 is now available. The\nimpact rate measured between 1996 and 1999 was relatively constant with about\n0.2 impacts per day. The impact direction of the majority of the impacts is\ncompatible with particles of interstellar origin, the rest are most likely\ninterplanetary particles. The observed impact rate is compared with a model for\nthe flux of interstellar dust particles. The flux of particles several\nmicrometers in size is compared with the measurements of the dust instruments\non board Pioneer 10 and Pioneer 11 beyond 3 AU (Humes 1980, JGR, 85,\n5841--5852, 1980). Between 3 and 5 AU, Pioneer results predict that Ulysses\nshould have seen five times more ($\\rm \\sim 10 \\mu m$ sized) particles than\nactually detected.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0106322"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0104064",
+    "title": "Title:Study of the anomalous acceleration of Pioneer 10 and 11",
+    "date_publ": "19 Apr 2001 (v1), last revised 10 Mar 2005 (this version, v5)",
+    "authors": [
+      "John D. Anderson",
+      "Philip A. Laing",
+      "Eunice L. Lau",
+      "Anthony S. Liu",
+      "Michael Martin Nieto",
+      "Slava G. Turyshe"
+    ],
+    "abstract": "Abstract:  Our previous analyses of radio Doppler and ranging data from distant\nspacecraft in the solar system indicated that an apparent anomalous\nacceleration is acting on Pioneer 10 and 11, with a magnitude a_P ~ 8 x 10^{-8}\ncm/s^2, directed towards the Sun (anderson,moriond). Much effort has been\nexpended looking for possible systematic origins of the residuals, but none has\nbeen found. A detailed investigation of effects both external to and internal\nto the spacecraft, as well as those due to modeling and computational\ntechniques, is provided. We also discuss the methods, theoretical models, and\nexperimental techniques used to detect and study small forces acting on\ninterplanetary spacecraft. These include the methods of radio Doppler data\ncollection, data editing, and data reduction.\nThere is now further data for the Pioneer 10 orbit determination. The\nextended Pioneer 10 data set spans 3 January 1987 to 22 July 1998. [For Pioneer\n11 the shorter span goes from 5 January 1987 to the time of loss of coherent\ndata on 1 October 1990.] With these data sets and more detailed studies of all\nthe systematics, we now give a result, of a_P = (8.74 +/- 1.33) x 10^{-8}\ncm/s^2. (Annual/diurnal variations on top of a_P, that leave a_P unchanged, are\nalso reported and discussed.)",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0104064"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0104365",
+    "title": "Title:Space-VLBI phase-reference mapping and astrometry",
+    "date_publ": "23 Apr 2001",
+    "authors": [
+      "J.C. Guirado (U. Valencia)",
+      "E. Ros (MPIfR)",
+      "D.L. Jones (JPL)",
+      "J.F. Lestrade (Paris-Meudon)",
+      "J.M. Marcaide (U. Valencia)",
+      "M.A. Perez-Torres (IRA/CNR)",
+      "R.A. Preston (JPL"
+    ],
+    "abstract": "Abstract:  We present 5 GHz space-VLBI observations of the quasar pair\nB1342+662/B1342+663 that demonstrate the feasibility of phase-reference\ntechniques using an antenna in space. The space-based data were taken by the\nsatellite HALCA, of the space-VLBI mission VSOP. From residual (referenced)\nphases we derive an upper bound of 10 meters to the uncertainty of the\nspacecraft orbit reconstruction. An analysis of the phase-reference maps of the\nsources additionally suggests that the above mentioned uncertaintyis likely not\nlarger than 3 meters. With errors of this magnitude, HALCA is a useful tool for\nastrometric studies of close pairs of radio sources.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0104365"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0104278",
+    "title": "Title:Interstellar Dust Module for the ESA Meteoroid Model",
+    "date_publ": "17 Apr 2001",
+    "authors": [
+      "M. Landgraf (1)",
+      "R. Jehn (1)",
+      "N. Altobelli (1)",
+      "V. Dikarev (2)",
+      "E. Gr\u00fcn (2) ((1) ESA/ESOC",
+      "Darmstadt",
+      "Germany) ((2) MPI-K",
+      "Heidelberg",
+      "Germany"
+    ],
+    "abstract": "Abstract:  The ESA meteoroid model predicts impacts of meteoroids in the mass range\nbetween $10^{-18}$ to $10^0$ g on spacecraft surfaces. It covers heliocentric\ndistances from 0.3 to 20 AU. Measurements of the dust detector on board the\nhighly successful joint ESA/NASA mission Ulysses have shown, that the flux of\nmeteoroids with masses between $10^{-15}$ and $10^{-12}$ g is, at least in the\nouter Solar System, dominated by interstellar dust grains that traverse the\nSolar System as it travels through the local interstellar cloud. We present a\nsimple semi-analytic interstellar dust model that can easily be included in the\nESA meteoroid model, together with a more precise determination of the flux\ndirection of the interstellar dust stream. The model is based on the assumption\nthat interstellar dust dynamics have two effects: solar gravitation and\nradiation pressure determines the spatial distribution, and Lorentz-interaction\nof the charged particles creates a temporal variation.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0104278"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0104277",
+    "title": "Title:Space Debris Hazards from Explosions in the collinear Sun-Earth Lagrange points",
+    "date_publ": "17 Apr 2001",
+    "authors": [
+      "M. Landgraf (1)",
+      "R. Jehn (1) ((1) ESA/ESOC",
+      "Darmstadt",
+      "Germany"
+    ],
+    "abstract": "Abstract:  The collinear Lagrange points of the Sun-Earth system provide an ideal\nenvironment for highly sensitive space science missions. Consequently many new\nmissions are planed by ESA and NASA that require satellites close to these\npoints. For example, the SOHO spacecraft built by ESA is already installed in\nthe first collinear Lagrange point. Neither uncontrolled spacecraft nor escape\nmotors will stay close to the Lagrange points for a long time. In case an\noperational satellite explodes, the fragmentation process will take place close\nto the Lagrange point. Apparently a number of spacecraft will accumulate close\nto the Lagrange points over the next decades. We investigate the space debris\nhazard posed by these spacecraft if they explode and fall back to an Earth\norbit. From our simulation we find that, as expected, about half of the\nfragments drift towards the Earth while the other half drifts away from it.\nAround 2% of the simulated fragments even impact the Earth within one year\nafter the explosion.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0104277"
+  },
+  {
+    "url": "https://arxiv.org/abs/hep-th/0103218",
+    "title": "Title:Discrete fields, general relativity, other possible implications and experimental evidences",
+    "date_publ": "26 Mar 2001",
+    "authors": [
+      "Manoelito M. de Souz"
+    ],
+    "abstract": "Abstract:  The physical meaning, the properties and the consequences of a discrete\nscalar field are discussed; limits for the validity of a mathematical\ndescription of fundamental physics in terms of continuous fields are a natural\noutcome of discrete fields with discrete interactions. The discrete scalar\nfield is ultimately the gravitational field of general relativity, necessarily,\nand there is no place for any other fundamental scalar field, in this context.\nPart of the paper comprehends a more generic discussion about the nature, if\ncontinuous or discrete, of fundamental interactions. There is a critical point\ndefined by the equivalence between the two descriptions. Discrepancies between\nthem can be observed far away from this point as a continuous-interaction is\nalways stronger below it and weaker above it than a discrete one. It is\npossible that some discrete-field manifestations have already been observed in\nthe flat rotation curves of galaxies and in the apparent anomalous acceleration\nof the Pioneer spacecrafts. The existence of a critical point is equivalent to\nthe introduction of an effective-acceleration scale which may put Milgrom's\nMOND on a more solid physical basis. Contact is also made, on passing, with\ninflation in cosmological theories and with Tsallis generalized one-parameter\nstatistics which is regarded as proper for discrete-interaction systems. The\nvalidity of Botzmann statistics is then reduced to idealized asymptotic states\nwhich, rigorously, are reachable only after an infinite number of internal\ninteractions . Tsallis parameter is then a measure of how close a system is\nfrom its idealized asymptotic state.",
+    "categories": [
+      "High Energy Physics - Theory (hep-th)",
+      " Astrophysics (astro-ph)",
+      " Statistical Mechanics (cond-mat.stat-mech)",
+      " General Relativity and Quantum Cosmology (gr-qc)",
+      " Mathematical Physics (math-ph)"
+    ],
+    "url_pdf": "/pdf/hep-th/0103218"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0103288",
+    "title": "Title:IRSI-DARWIN: How to see through the interplanetary dust cloud",
+    "date_publ": "19 Mar 2001",
+    "authors": [
+      "M. Landgraf",
+      "R. Jehn",
+      "W. Flury",
+      "M. Fridlund",
+      "A. Karlsson",
+      "A. L\u00e9ge"
+    ],
+    "abstract": "Abstract:  ESA has identified interferometry as one of the major goals of the Horizon\n2000+ programme. Infrared interferometers are a highly sensitive astronomical\ninstruments that enable us to observe terrestrial planets around nearby stars.\nIn this context the Infrared Space Interferometry Mission (IRSI)/ DARWIN is\nstudied. The current design calls for a constellation of 6 free flying\ntelescopes using 1.5m mirrors, plus one hub and one master spacecraft. As the\nbaseline trajectory an orbit about the second collinear libration point of the\nEarth-Sun system has been selected. The thermal radiation from the\ninterplanetary dust cloud that surrounds the Sun, the so-called zodiacal\ninfrared foreground, is a major concern for any high-sensitivity infrared\nmission. The most reliable information about this radiation comes from the\nmeasurements by NASA's Cosmic Background Explorer (COBE) mission. There are\nvarious ways to detect faint terrestrial planets despite the bright foreground.\nWe find that, using integration times in the order of 30h, the baseline mission\nscenario is capable of detecting earth-sized exo-planets out to 14pc. We seize\nthe suggestion that increasing the heliocentric distance of the instrument\nwould make the observing conditions even better. A dust model that was fitted\nto the COBE measurements shows that an observing location of DARWIN in the\nouter solar system would potentially reduce the zodiacal foreground by a factor\nof 100, effectively increasing the number of potential target stars by almost a\nfactor of 30.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0103288"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0103154",
+    "title": "Title:Comparative Analysis of GALLEX-GNO Solar Neutrino Data and SOHO/MDI Helioseismology Data; Further Evidence for Rotational Modulation of the Solar Neutrino Flux",
+    "date_publ": "10 Mar 2001",
+    "authors": [
+      "Peter A. Sturrock",
+      "Mark A. Webe"
+    ],
+    "abstract": "Abstract:  We carry out a comparative analysis of the GALLEX-GNO solar neutrino data and\nestimates of the solar internal rotation rate derived from the MDI\nhelioseismology experiment on the SOHO spacecraft. We introduce a statistic,\nwhich we evaluate as a function of radius and latitude, that is a measure of\nthe degree of \"resonance\" of oscillations in the neutrino flux and the synodic\nsolar rotation rate at that radius and latitude. A map of this statistic\nindicates that the probable location is deep in the convection zone near the\nequator.\nWe also examine the integral of this statistic over the equatorial section of\nthe convection zone. This provides a measure of the likelihood that the\nvariability of the solar neutrino flux, as measured by the GALLEX-GNO data, has\nits origin in the equatorial section of the convection zone. We apply the\nshuffle test, randomly reassigning measurements among runs, to estimate the\nsignificance of the value of the statistic computed from the actual data. This\ntest implies that the result is significant at the 0.2% level. When, for\ncomparison, we repeat this analysis for the radiative zone, we find that the\nintegral resonance statistic is not significant.\nThese results support earlier evidence for rotational modulation of the solar\nneutrino flux.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0103154"
+  },
+  {
+    "url": "https://arxiv.org/abs/math/0102121",
+    "title": "Title:Fuel-Optimal Rendezvous in a Central Force Field with Linear Drag",
+    "date_publ": "15 Feb 2001 (v1), last revised 28 May 2001 (this version, v2)",
+    "authors": [
+      "Mayer Humi (department of mathematical sciences",
+      "Worcester Polytechnic Institute",
+      "Worcester",
+      "MA)",
+      "Thomas Carter (department of mathematics",
+      "Eastern CT State University",
+      "Willimantic",
+      "CT"
+    ],
+    "abstract": "Abstract:  In this paper we consider the fuel-optimal rendezvous between a satellite and\na spacecraft in a central force field with a drag force that is linear in the\nvelocity. In this general setting we linearize the equations of motion of the\nspacecraft and show that they can be reduced effectively, in the case of a\nlinear drag, to one second order linear differential equation. We then\nspecialize to the case of inverse square laws. Under certain simplifying\nassumptions a state-transition matrix can be found in terms of integrals. The\nwork can then be placed in the context of various control models that have been\ndeveloped in previouswork. PAPER WAS WITHDRAWN BY AUTHORS. IT will apprear in\nAIAA J. Guidance and Control.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Dynamical Systems (math.DS)"
+    ],
+    "url_pdf": "#other"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0102056",
+    "title": "Title:Solutions of Conformal Gravity with Dynamical Mass Generation in the Solar System",
+    "date_publ": "13 Feb 2001",
+    "authors": [
+      "Joshua Wood",
+      "William Morea"
+    ],
+    "abstract": "Abstract:  The field equations of Mannheim's theory of conformal gravity with dynamic\nmass generation are solved numerically in the interior and exterior regions of\na model spherically symmetric sun with matched boundary conditions at the\nsurface. The model consists of a generic fermion field inside the sun, and a\nscalar Higgs field in both the interior and exterior regions. From the\nconformal geodesic equations it is shown how an asymptotic gradient in the\nHiggs field causes an anomalous radial acceleration in qualitative agreement\nwith that observed on the Pioneer 10/11, Galileo, and Ulysses spacecraft. At\nthe same time the standard solar system tests of general relativity are\npreserved within the limits of observation.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0102056"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0102149",
+    "title": "Title:X-ray Halos and Large Grains in the Diffuse Interstellar Medium",
+    "date_publ": "8 Feb 2001",
+    "authors": [
+      "Adolf N. Witt",
+      "Randall K. Smith",
+      "Eli Dwe"
+    ],
+    "abstract": "Abstract:  Recent observations with dust detectors on board the interplanetary\nspacecraft Ulysses and Galileo have recorded a substantial flux of large\ninterstellar grains with radii between 0.25 and 2.0 mu entering the solar\nsystem from the local interstellar cloud. The most commonly used interstellar\ngrain size distribution is characterized by a a^-3.5 power law in grain radii\na, and extends to a maximum grain radius of 0.25 mu. The extension of the\ninterstellar grain size distribution to such large radii will have a major\neffect on the median grain size, and on the amount of mass needed to be tied up\nin dust for a given visual optical depth. It is therefore important to\ninvestigate whether this population of larger dust particles prevails in the\ngeneral interstellar medium, or if it is merely a local phenomenon. The\npresence of large interstellar grains can be mainly inferred from their effect\non the intensity and radial profiles of scattering halos around X-ray sources.\nIn this paper we examine the grain size distribution that gives rise to the\nX-ray halo around Nova Cygni 1992. The results of our study confirm the need to\nextend the interstellar grain size distribution in the direction of this source\nto and possibly beyond 2.0 mu. The model that gives the best fit to the halo\ndata is characterized by: (1) a grain size distribution that follows an a^-3.5\npower law up to 0.50 mu, followed by an a^-4.0 extension from 0.50 mu to 2.0\nmu; and (2) silicate and graphite (carbon) dust-to-gas mass ratios of 0.0044\nand 0.0022, respectively, consistent with solar abundances constraints.\nAdditional observations of X-ray halos probing other spatial directions are\nbadly needed to test the general validity of this result.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0102149"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0101003",
+    "title": "Title:On Five Independent Phenomena Sharing a Common Cause",
+    "date_publ": "30 Dec 2000 (v1), last revised 19 Aug 2012 (this version, v8)",
+    "authors": [
+      "Roger Ellman (The-Origin Foundation",
+      "Inc"
+    ],
+    "abstract": "Abstract:  Over the past century a succession of five different independent astronomical\nphenomena have been discovered, each appearing to be the result of a common\nunderlying cause that also produces an unaccounted-for acceleration that is:\nquite small, centrally directed in the system exhibiting each phenomenon,\nnon-gravitational, distance independent, and apparently of a common magnitude.\nThe present paper analyzes the phenomena and proposes the underlying common\ncause, a common solution to the problem that they present.\nFour of the phenomena, in the order of their discovery are:\n1 - In 1933, the indication by galactic rotation curves that there is such an\nacceleration present and acting in galaxies but with no observable cause [hence\nthe postulating of \"Dark Matter\"]. Here the acceleration is directed toward the\ngalactic center, the dominant factor in the mechanics of galaxy rotation.\n2 - In 1998, the Pioneer Anomaly in which the acceleration is directed toward\nthe Sun, the dominant factor in the mechanics of the Pioneer spacecrafts'\nmotion.\n3 - In 2008, the Flybys Anomaly for which the acceleration is directed toward\nthe center of the Earth, the dominant factor in the mechanics of the flyby\nmotion [as presented in the paper following].\n4 - Also in 2008, confirmed in 2010, the Dark Flow anomaly for which the\nacceleration is directed toward the central origin of the overall universe, the\ndominant factor in the mechanics of the overall universe, where the Big Bang\nand expansion began [as presented in the paper following].\nThe earliest of all is\n5 - Hubble's discovery of Redshifts of the light from various distant astral\nbodies.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0101003"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0012034",
+    "title": "Title:Data Processing for LISA's Laser Interferometer Tracking System (LITS)",
+    "date_publ": "8 Dec 2000",
+    "authors": [
+      "Ronald W. Helling"
+    ],
+    "abstract": "Abstract:  The purpose of this paper is twofold. First, we will present recent results\non the data processing for LISA, including algorithms for elimination of clock\njitter noise and discussion of the generation of the data averages that will\neventually need to be telemetered to the ground. Second, we will argue, based\npartly on these results, that a laser interferometer tracking system (LITS)\nthat employs independent lasers in each spacecraft is preferable for reasons of\nsimplicity to that in which the lasers in two of the spacecraft are locked to\nthe incoming beam from the third.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0012034"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0012013",
+    "title": "Title:Elimination of Clock Jitter Noise in Spaceborn Laser Interferometers",
+    "date_publ": "4 Dec 2000 (v1), last revised 5 Dec 2000 (this version, v2)",
+    "authors": [
+      "Ronald W. Hellings (Jet Propulsion Laboratory"
+    ],
+    "abstract": "Abstract:  Space gravitational wave detectors employing laser interferometry between\nfree-flying spacecraft differ in many ways from their laboratory counterparts.\nAmong these differences is the fact that, in space, the end-masses will be\nmoving relative to each other. This creates a problem by inducing a Doppler\nshift between the incoming and outgoing frequencies. The resulting beat\nfrequency is so high that its phase cannot be read to sufficient accuracy when\nreferenced to state-of-the-art space-qualified clocks. This is the problem that\nis addressed in this paper. We introduce a set of time-domain algorithms in\nwhich the effects of clock jitter are exactly canceled. The method employs the\ntwo-color laser approach that has been previously proposed, but avoids the\nsingularities that arise in the previous frequency-domain algorithms. In\naddition, several practical aspects of the laser and clock noise cancellation\nschemes are addressed.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0012013"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0012519",
+    "title": "Title:A Non-Triggered Burst Supplement to the BATSE Gamma-Ray Burst Catalogs",
+    "date_publ": "28 Dec 2000",
+    "authors": [
+      "J. M. Kommers (1)",
+      "W. H. G. Lewin (1)",
+      "C. Kouveliotou (2",
+      "3)",
+      "J. van Paradijs (4",
+      "5)",
+      "G. N. Pendleton (4)",
+      "C. A. Meegan (3)",
+      "G. J. Fishman (3) ((1) MIT",
+      "(2) USRA",
+      "(3) NASA/MSFC",
+      "(4) U. Amsterdam",
+      "(5) UAH"
+    ],
+    "abstract": "Abstract:  The Burst and Transient Source Experiment (BATSE) on the Compton Gamma Ray\nObservatory detected gamma-ray bursts (GRBs) with a real-time burst detection\n(or \"trigger\") system running onboard the spacecraft. Under some circumstances,\nhowever, a GRB may not have activated the onboard burst trigger. For example,\nthe burst may have been too faint to exceed the onboard detection threshold, or\nit may have occurred while the onboard burst trigger was disabled for technical\nreasons. This paper describes a catalog of 873 \"non-triggered\" GRBs that were\ndetected in a search of the archival continuous data from BATSE, recorded\nbetween 1991 December 9.0 and 1997 December 17.0. For each burst, the catalog\ngives an estimated source direction, duration, peak flux, and fluence. Similar\ndata are presented for 50 additional bursts of unknown origin that were\ndetected in the 25--50 keV range; these events may represent the low-energy\n\"tail\" of the GRB spectral distribution. This catalog increases the number of\nGRBs detected with BATSE by 48% during the time period covered by the search.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0012519"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0012332",
+    "title": "Title:The COMPTEL instrumental line background",
+    "date_publ": "14 Dec 2000",
+    "authors": [
+      "G. Weidenspointner",
+      "M. Varendorff",
+      "U. Oberlack",
+      "D. Morris",
+      "S. Plueschke",
+      "R. Diehl",
+      "S. C. Kappadath",
+      "M. McConnell",
+      "J. Ryan",
+      "V. Schoenfelder",
+      "H. Steinl"
+    ],
+    "abstract": "Abstract:  The instrumental line background of the Compton telescope COMPTEL onboard the\nCompton Gamma-Ray Observatory is due to the activation and/or decay of many\nisotopes. The major components of this background can be attributed to eight\nindividual isotopes, namely 2D, 22Na, 24Na, 28Al, 40K, 52Mn, 57Ni, and 208Tl.\nThe identification of instrumental lines with specific isotopes is based on the\nline energies as well as on the variation of the event rate with time,\ncosmic-ray intensity, and deposited radiation dose during passages through the\nSouth-Atlantic Anomaly. The characteristic variation of the event rate due to a\nspecific isotope depends on its life-time, orbital parameters such as the\naltitude of the satellite above Earth, and the solar cycle. A detailed\nunderstanding of the background contributions from instrumental lines is\ncrucial at MeV energies for measuring the cosmic diffuse gamma-ray background\nand for observing gamma-ray line emission in the interstellar medium or from\nsupernovae and their remnants. Procedures to determine the event rate from each\nbackground isotope are described, and their average activity in spacecraft\nmaterials over the first seven years of the mission is estimated.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0012332"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0012226",
+    "title": "Title:Cosmic Dust: The Ulysses perspective",
+    "date_publ": "11 Dec 2000",
+    "authors": [
+      "Eberhard Gr\u00fcn",
+      "Harald Kr\u00fcger",
+      "Markus Landgra"
+    ],
+    "abstract": "Abstract:  The Ulysses spacecraft, launched in October 1990, orbits the Sun on a polar\ntrajectory. The spacecraft is equipped with a highly sensitive impact-\nionization dust detector which can in situ measure cosmic dust grains in the\nmass range 10^-9 to 10^-19 kg. With the Ulysses dust detector dust streams\noriginating from Jupiter's volcanically active moon Io have been discovered as\nwell as interstellar dust particles sweeping through the solar system. The\ndistribution of interplanetary dust grains has been measured at high ecliptic\nlatitudes with Ulysses for the first time. The Ulysses measurements of\ninterplanetary dust, dust grains interacting electromagnetically with the\nmagnetosphere of Jupiter and measurements of interstellar dust in the solar\nsystem are reviewed.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0012226"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0012054",
+    "title": "Title:A Gas-Kinetic Stability Analysis of Self-Gravitating and Collisional Particulate Disks with Application to Saturn's Rings",
+    "date_publ": "3 Dec 2000",
+    "authors": [
+      "Evgeny Griv (1)",
+      "Michael Gedalin (1)",
+      "David Eichler (1)",
+      "Chi Yuan (2) ((1) Department of Physics",
+      "Ben-Gurion University of the Negev",
+      "Israel",
+      "(2) Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)",
+      "Taiwan"
+    ],
+    "abstract": "Abstract:  Linear theory is used to determine the stability of the self-gravitating,\nrapidly (and nonuniformly) rotating, two-dimensional, and collisional\nparticulate disk against small-amplitude gravity perturbations. A gas-kinetic\ntheory approach is used by exploring the combined system of the Boltzmann and\nthe Poisson equations. The effects of physical collisions between particles are\ntaken into account by using in the Boltzmann kinetic equation a Krook model\nintegral of collisions modified to allow collisions to be inelastic. It is\nshown that as a direct result of the classical Jeans instability and a secular\ndissipative-type instability of small-amplitude gravity disturbances (e.g.\nthose produced by a spontaneous perturbation and/or a companion system) the\ndisk is subdivided into numerous irregular ringlets, with size and spacing of\nthe order of the Jeans length (= (4-6) mean epicyclic radius). The present\nresearch is aimed above all at explaining the origin of various structures in\nhighly flattened, rapidly rotating systems of mutually gravitating particles.\nIn particular, it is suggested that forthcoming Cassini spacecraft\nhigh-resolution images may reveal this kind of hyperfine of the order of 100 m\nstructure in the main rings A, B, and C of the Saturnian ring system.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0012054"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0011064",
+    "title": "Title:Particle Propagation Upstream of CIR Shocks",
+    "date_publ": "28 Nov 2000",
+    "authors": [
+      "M. Savopulos",
+      "J.J. Quenby",
+      "M.K. Joshi",
+      "M. Fraen"
+    ],
+    "abstract": "Abstract:  The first high solar latitude pass of the Ulysses spacecraft revealed the\npresence of MeV particle increases up to latitudes above 60 degrees, well\noutside the CIR belt but associated in time with the regular passage of these\nplasma interfaces at more equatorial latitudes. The particle increases have\nbeen explained variously as due to diffusion from a field line connection with\na CIR at a greater distance, perpendicular diffusion in latitude, propagation\nfrom the inner Corona or an acceleration process on a connecting field line.\nNumerical solutions to the 1-D propagation equation upstream of a CIR shock for\nreasonable diffusion mean free paths are shown here to limit the source of the\nincreases to within about 2 AU of the CIR's, asssuming the CIR's either trap or\naccelerate energetic particles and they diffuse from the nearby CIR interface.\nThe problem of allowing propagation from the CIR's is eased if the CIRs are\nlocated according to the predictions for the current sheet with a solar source\nsurface at $2.5 R_{s}$, rather than at $3.25 R_{s}$. Energetic electron\nobservations showing delays with respect to the CIR-associated ions suggest\npossibly an acceleration in the inner corona, rather than in the CIR-associated\nshock. A more likely explanation, however, is the ability of electrons to take\na longer a longer route, from beyond the point of observation, than for that of\nthe ions and yet arrive within a few days of CIR closest approach time.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0011064"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0011216",
+    "title": "Title:The XMM-Newton Optical/UV Monitor Telescope",
+    "date_publ": "10 Nov 2000",
+    "authors": [
+      "K. O. Mason (1)",
+      "A. A. Breeveld (1)",
+      "R. Much (2)",
+      "M. Carter (1)",
+      "F. A. Cordova (3)",
+      "M. S. Cropper (1)",
+      "J. Fordham (4)",
+      "H. Huckle (1)",
+      "C. Ho (6)",
+      "H. Kawakami (1)",
+      "J. Kennea (3)",
+      "T. Kennedy (1)",
+      "J. Mittaz (1)",
+      "D. Pandel (3)",
+      "W. C. Priedhorsky (6)",
+      "T. Sasseen (3)",
+      "R. Shirey (3)",
+      "P. Smith (1)",
+      "J.-M. Vreux (5) ((1) MSSL",
+      "(2) Estec",
+      "(3) University of California Santa Barbara",
+      "(4) UCL",
+      "(5) University of Liege Belgium",
+      "(6) Los Alamos Nat Lab."
+    ],
+    "abstract": "Abstract:  The XMM-OM instrument extends the spectral coverage of the XMM-Newton\nobservatory into the ultraviolet and optical range. It provides imaging and\ntime-resolved data on targets simultaneously with observations in the EPIC and\nRGS. It also has the ability to track stars in its field of view, thus\nproviding an improved post-facto aspect solution for the spacecraft. An\noverview of the XMM-OM and its operation is given, together with current\ninformation on the performance of the instrument.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0011216"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0009046",
+    "title": "Title:Average observed properties of the Earth's quasi-perpendicular and quasi-parallel bow shock",
+    "date_publ": "13 Sep 2000",
+    "authors": [
+      "A. Czaykowska",
+      "T. M. Bauer",
+      "R. A. Treumann",
+      "W. Baumjohan"
+    ],
+    "abstract": "Abstract:  We present a statistical analysis of 132 dayside (LT 0700-1700) bow shock\ncrossings of the AMPTE/IRM spacecraft. We perform a superposed epoch analysis\nof plasma and magnetic field parameters as well as of low frequency magnetic\npower spectra some minutes upstream and downstream of the bow shock by dividing\nthe events into categories depending on the angle between bow shock normal and\ninterplanetary magnetic field and on the plasma-beta, i.e., the ratio of plasma\nto magnetic pressure.\nDownstream of the quasi-perpendicular low-beta (beta < 0.5) bow shock we find\na dominance of the left-hand polarized component at frequencies just below the\nion cyclotron frequency with amplitudes of about 3 nT. These waves are\nidentified as ion cyclotron waves which grow in a low-beta regime due to the\nproton temperature anisotropy. We find a strong correlation of this anisotropy\nwith the intensity of the left-hand polarized component. Downstream of some\nnearly perpendicular high-beta (beta > 1.0) crossings mirror waves are\nidentified. However, there are also cases where the conditions for mirror modes\nare met downstream of the nearly perpendicular shock, but no mirror waves are\nobserved.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0009046"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0007007",
+    "title": "Title:Numerical Data-Processing Simulations of Microarcsecond Classical and Relativistic Effects in Space Astrometry",
+    "date_publ": "5 Jul 2000",
+    "authors": [
+      "Sergei M. Kopeikin (University of Missouri-Columbia",
+      "USA)",
+      "N.V. Shuygina",
+      "M.V. Vasilyev",
+      "E.I. Yagudina (Institute of Applied Astronomy",
+      "Russia)",
+      "L.I. Yagudin (Pulkovo Observatory",
+      "Russia"
+    ],
+    "abstract": "Abstract:  The accuracy of astrometric observations conducted via a space-borne optical\ninterferometer orbiting the Earth is expected to approach a few\nmicroarcseconds. Data processing of such extremely high-precision measurements\nrequires access to a rigorous relativistic model of light ray propagation\ndeveloped in the framework of General Relativity. The data-processing of the\nspace interferometric observations must rely upon the theory of\ngeneral-relativistic transformations between the spacecraft, geocentric, and\nsolar barycentric reference systems allowing unique and unambiguous\ninterpretation of the stellar aberration and parallax effects. On the other\nhand, the algorithm must also include physically adequate treatment of the\nrelativistic effect of light deflection caused by the spherically-symmetric\n(monopole-dependent) part of the gravitational field of the Sun and planets as\nwell as the quadrupole- and spin-dependent counterparts of it. In some\nparticular cases the gravitomagnetic field induced by the translational motion\nof the Sun and planets should be also taken into account for unambigious\nprediction of the light-ray deflection angle. In the present paper we describe\nthe corresponding software program for taking into account all classical\n(proper motion, parallax, etc.) and relativistic (aberration, deflection of\nlight) effects up to the microarcsecond threshold and demonstrate, using\nnumerical simulations, how observations of stars and/or quasars conducted on\nboard a space optical interferometer orbiting the Earth can be processed and\ndisentangled.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0007007"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0007146",
+    "title": "Title:The formation of Encke meteoroids and dust trail",
+    "date_publ": "11 Jul 2000",
+    "authors": [
+      "William T. Reach",
+      "Mark V. Sykes",
+      "David Lien",
+      "John K. Davie"
+    ],
+    "abstract": "Abstract:  We observed comet 2P/Encke with the Infrared Space Observatory ISOCAM on July\n14, 1997 from a particularly favorable viewing geometry above the comet's\norbital plane and at a distance of 0.25 AU. A structured coma was observed,\nalong with a long, straight dust trail. For the first time, we are able to\nobserve the path of particles as they evolve from the nucleus to the trail. The\nparticles that produce the infrared coma are large, with a radiation to\ngravitational force ratio beta<0.001 (corresponding to >mm-sized particles).\nThe dust trail follows the orbit of the comet across our image, with a central\ncore that is 20,000 km wide, composed of particles with beta<1e-5 (size $\\sim\n5$ cm) from previous apparitions. The abundant large particles near the comet\npose a significant hazard to spacecraft. There is no evidence of a classical\ncometary dust tail due to small particles with beta>0.001, in marked contrast\nto other comets like P/Halley or C/Hale-Bopp. The structure of the coma\nrequires anisotropic emission and that the spin axis of the nucleus to be\nnearly parallel to the orbital plane, resulting in strong seasonal variations\nof the particle emission. While most of the infrared coma emission is due to\ndust produced during the 1997 apparition, the core of the dust trail requires\nemissions from previous apparitions. The total mass lost during the 1997\napparition is estimated to be\n2-6e13 g. Comparing to the gas mass loss from ultraviolet observations, the\ndust-to-gas mass ratio is 10-30, much higher than has ever been suggested from\nvisual light observations. Using the recently-measured nuclear diameter, we\nfind that Encke can only last 3000-10,000 rhoN yr (where rhoN is the nuclear\ndensity in g/cc) at its present mass loss rate.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0007146"
+  }
+]

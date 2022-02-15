@@ -1,0 +1,423 @@
+[
+  {
+    "url": "https://arxiv.org/abs/0806.0740",
+    "title": "Title:Modeling And Simulation Of Prolate Dual-Spin Satellite Dynamics In An Inclined Elliptical Orbit: Case Study Of Palapa B2R Satellite",
+    "date_publ": "4 Jun 2008",
+    "authors": [
+      "J. Muliadi",
+      "S.D. Jenie",
+      "A. Budiyon"
+    ],
+    "abstract": "Abstract:  In response to the interest to re-use Palapa B2R satellite nearing its End of\nLife (EOL) time, an idea to incline the satellite orbit in order to cover a new\nregion has emerged in the recent years. As a prolate dual-spin vehicle, Palapa\nB2R has to be stabilized against its internal energy dissipation effect. This\nwork is focused on analyzing the dynamics of the reusable satellite in its\ninclined orbit. The study discusses in particular the stability of the prolate\ndual-spin satellite under the effect of perturbed field of gravitation due to\nthe inclination of its elliptical orbit. Palapa B2R physical data was\nsubstituted into the dual-spin's equation of motion. The coefficient of zonal\nharmonics J2 was induced into the gravity-gradient moment term that affects the\nsatellite attitude. The satellite's motion and attitude were then simulated in\nthe perturbed gravitational field by J2, with the variation of orbit's\neccentricity and inclination. The analysis of the satellite dynamics and its\nstability was conducted for designing a control system for the vehicle in its\nnew inclined orbit.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/0806.0740"
+  },
+  {
+    "url": "https://arxiv.org/abs/0805.3390",
+    "title": "Title:Design of Attitude Stability System for Prolate Dual-spin Satellite in Its Inclined Elliptical Orbit",
+    "date_publ": "22 May 2008",
+    "authors": [
+      "J. Muliadi",
+      "S.D. Jenie",
+      "A. Budiyon"
+    ],
+    "abstract": "Abstract:  In general, most of communication satellites were designed to be operated in\ngeostationary orbit. And many of them were designed in prolate dual-spin\nconfiguration. As a prolate dual-spin vehicle, they have to be stabilized\nagainst their internal energy dissipation effect. Several countries that\nlocated in southern hemisphere, has shown interest to use communication\nsatellite. Because of those countries southern latitude, an idea emerged to\nincline the communication satellite (due to its prolate dualspin configuration)\nin elliptical orbit. This work is focused on designing Attitude Stability\nSystem for prolate dual-spin satellite in the effect of perturbed field of\ngravity due to the inclination of its elliptical orbit. DANDE (De-spin Active\nNutation Damping Electronics) provides primary stabilization method for the\nsatellite in its orbit. Classical Control Approach is used for the iteration of\nDANDE parameters. The control performance is evaluated based on time response\nanalysis.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/0805.3390"
+  },
+  {
+    "url": "https://arxiv.org/abs/0803.3776",
+    "title": "Title:Thermonuclear Reflect AB-Reactor",
+    "date_publ": "26 Mar 2008",
+    "authors": [
+      "Alexander Bolonki"
+    ],
+    "abstract": "Abstract:  The author offers a new kind of thermonuclear reflect reactor. The remarkable\nfeature of this new reactor is a three net AB reflector, which confines the\nhigh temperature plasma. The plasma loses part of its energy when it contacts\nwith the net but this loss can be compensated by an additional permanent plasma\nheating. When the plasma is rarefied (has a small density), the heat flow to\nthe AB reflector is not large and the temperature in the triple reflector net\nis lower than 2000 - 3000 K. This offered AB-reactor has significantly less\npower then the currently contemplated power reactors with magnetic or inertial\nconfinement (hundreds-thousands of kW, not millions of kW). But it is enough\nfor many vehicles and ships and particularly valuable for tunnelers, subs and\nspace apparatus, where air to burn chemical fuel is at a premium or simply not\navailable.\nThe author has made a number of innovations in this reactor, researched its\ntheory, developed methods of computation, made a sample computation of typical\nproject. The main point of preference for the offered reactor is its likely\ncheapness as a power source.\nKey words: Micro-thermonuclear reactor, Multi-reflex AB-thermonuclear\nreactor, Self-magnetic AB-thermonuclear reactor, aerospace thermonuclear\nengine.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/0803.3776"
+  },
+  {
+    "url": "https://arxiv.org/abs/0710.3715",
+    "title": "Title:A fretting crack initiation prediction taking into account the surface roughness and the crack nucleation process volume",
+    "date_publ": "19 Oct 2007",
+    "authors": [
+      "Henry Proudhon (1 and 2)",
+      "Siegfried Fouvry (1)",
+      "Jean-Yves Buffiere (2) ((1) LTDS Ecole Centrale de Lyon France",
+      "(2) GEMPPM INSA Lyon France"
+    ],
+    "abstract": "Abstract:  This paper presents an experimental study of the fretting crack nucleation\nthreshold, expressed in terms of loading conditions, with a cylinder/plane\ncontact. The studied material is a damage tolerant aluminium alloy widely used\nin the aerospace application. Since in industrial problems, the surface quality\nis often variable, the impact of a unidirectional roughness is investigated via\nvarying the roughness of the counter body in the fretting experiments. As\nexpected, experimental results show a large effect of the contact roughness on\nthe crack nucleation conditions. Rationalisation of the crack nucleation\nboundary independently of the studied roughnesses was successfully obtained by\nintroducing the concept of effective contact area. This does show that the\nfretting crack nucleation of the studied material can be efficiently described\nby the local effective loadings inside the contact. Analytical prediction of\nthe crack nucleation is presented with the Smith-Watson-Topper (SWT) parameter\nand size effect is also studied and discussed.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/0710.3715"
+  },
+  {
+    "url": "https://arxiv.org/abs/0709.3251",
+    "title": "Title:Widespread Occurrence of Trenching Patterns in the Granulation Field: Evidence for Roll Convection?",
+    "date_publ": "20 Sep 2007",
+    "authors": [
+      "A. V. Getling",
+      "A. A. Buchne"
+    ],
+    "abstract": "Abstract:  Time-averaged series of granulation images are analysed using COLIBRI, a\npurpose-adapted version of a code originally developed to detect straight or\ncurvilinear features in aerospace images. The algorithm of image processing\nutilises a nonparametric statistical criterion that identifies a straight-line\nsegment as a linear feature (lineament) if the photospheric brightness at a\ncertain distance from this line is on both sides stochastically lower or higher\nthan at the line itself. Curvilinear features can be detected as chains of\nlineaments, using a criterion modified in some way. Once the input parameters\nused by the algorithm are properly adjusted, the algorithm highlights\n``ridges'' and ``trenches'' in the relief of the brightness field, drawing\nwhite and dark lanes. The most remarkable property of the trenching patterns is\na nearly-universally-present parallelism of ridges and trenches. Since the\nmaterial upflows are brighter than the downflows, the alternating parallel\nlight and dark lanes should reflect the presence of roll convection in the\nsubphotospheric layers. If the numerous images processed by us are\nrepresentative, the patterns revealed suggest a widespread occurrence of roll\nconvection in the outer solar convection zone. In particular, the roll systems\ncould form the fine structure of larger-scale, supergranular and/or\nmesogranular convection flows. Granules appear to be overheated blobs of\nmaterial that could develop in convection rolls due to some instabilities of\nroll motion.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/0709.3251"
+  },
+  {
+    "url": "https://arxiv.org/abs/0708.1821",
+    "title": "Title:Preliminary Results on Vibration Damping Properties of Nanoscale-Reinforced Composite Materials",
+    "date_publ": "14 Aug 2007",
+    "authors": [
+      "M.-V. Kireitseu",
+      "G. Tomlinson",
+      "J. Lu (LSMIS)",
+      "H. Altenbach",
+      "G. Rongong",
+      "L.-V. Bochkareva",
+      "D. Hu"
+    ],
+    "abstract": "Abstract:  The focus in this paper is an analysis of existing state of the arts directed\ntoward the development of the next generation of vibration damping systems. The\nresearch work concentrates on an investigation related to\nnanoparticles/fibres/tubes-reinforced materials and coatings dynamic\ncharacterization and modeling of the fundamental phenomena that control\nrelationships between structure and damping/mechanical properties of the\nmaterials. We simulated composite materials using finite element and mesh free\nmethods, using a hollow shell representation of the individual nanotube/fiber.\nResults of the research work will provide a platform for the development of\nnanoparticle-reinforced damping materials that are light-weight, vibration and\nshock resistant. The outcome of the research work is expected to have\nwide-ranging technical benefits with direct relevance to industry in areas of\ntransportation (aerospace, automotive, rail), electronics and civil\ninfrastructure development.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/0708.1821"
+  },
+  {
+    "url": "https://arxiv.org/abs/0706.2182",
+    "title": "Title:New AB-Thermonuclear Reactor for Aerospace",
+    "date_publ": "14 Jun 2007",
+    "authors": [
+      "Alexander Bolonki"
+    ],
+    "abstract": "Abstract:  There are two main methods of nulcear fusion: inertial confinement fusion\n(ICF) and magnetic confinement fusion (MCF). Existing thermonuclear reactors\nare very complex, expensive, large, and heavy. They cannot achieve the Lawson\ncreterion.\nThe author offers an innovation. ICF has on the inside surface of the\nshell-shaped combustion chamber a covering of small Prism Reflectors (PR) and\nplasma reflector. These prism reflectors have a noteworthy advantage, in\ncomparison with conventional mirror and especially with conventional shell:\nthey multi-reflect the heat and laser radiation exactly back into collision\nwith the fuel target capsule (pellet). The plasma reflector reflects the\nBremsstrahlung radiation.\nThe offered innovation decreases radiation losses, creates significant\nradiation pressure and increases the reaction time. The Lawson criterion\nincreases by hundreds of times. The size, cost, and weight of a typical\ninstallation will decrease by tens of times.\nThe author is researching the efficiency of these innovations. Keywords:\nThermonuclear reactor, Multi-reflex AB-thermonuclear reactor, aerospace\nthermonuclear engine.\nThis work is presented as paper AIAA-2006-7225 to Space-2006 Conference,\n19-21 September, 2006, San Jose, CA, USA.",
+    "categories": [
+      "General Physics (physics.gen-ph)",
+      " Atomic Physics (physics.atom-ph)"
+    ],
+    "url_pdf": "/pdf/0706.2182"
+  },
+  {
+    "url": "https://arxiv.org/abs/0706.0141",
+    "title": "Title:The structure of hypersonic shock waves using Navier-Stokes equations modified to include mass diffusion",
+    "date_publ": "1 Jun 2007",
+    "authors": [
+      "Christopher J Greenshields",
+      "Jason M Rees"
+    ],
+    "abstract": "Abstract:  Howard Brenner has recently proposed modifications to the Navier-Stokes\nequations that relate to a diffusion of fluid volume that would be significant\nfor flows with high density gradients. In a previous paper (Greenshields &\nReese, 2007), we found these modifications gave good predictions of the viscous\nstructure of shock waves in argon in the range Mach 1.0-12.0 (while\nconventional Navier-Stokes equations are known to fail above about Mach 2).\nHowever, some areas of concern with this model were a somewhat arbitrary choice\nof modelling coefficient, and potentially unphysical and unstable solutions. In\nthis paper, we therefore present slightly different modifications to include\nmolecule mass diffusion fully in the Navier-Stokes equations. These\nmodifications are shown to be stable and produce physical solutions to the\nshock problem of a quality broadly similar to those from the family of extended\nhydrodynamic models that includes the Burnett equations. The modifications\nprimarily add a diffusion term to the mass conservation equation, so are at\nleast as simple to solve as the Navier-Stokes equations; there are none of the\nnumerical implementation problems of conventional extended hydrodynamics\nmodels, particularly in respect of boundary conditions. We recommend further\ninvestigation and testing on a number of different benchmark non-equilibrium\nflow cases.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/0706.0141"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0701095",
+    "title": "Title:Micro -Thermonuclear AB-Reactors for Aerospace",
+    "date_publ": "8 Jan 2007",
+    "authors": [
+      "Alexander Bolonki"
+    ],
+    "abstract": "Abstract:  The author offers several innovations that he first suggested publicly early\nin 1983 for the AB multi-reflex engine, space propulsion, getting energy from\nplasma, etc. (see: A. Bolonkin, Non-Rocket Space Launch and Flight, Elsevier,\nLondon, 2006, Chapters 12, 3A). It is the micro-thermonuclear AB-Reactors. That\nis new micro-thermonuclear reactor with very small fuel pellet that uses plasma\nconfinement generated by multi-reflection of laser beam or its own magnetic\nfield. The Lawson criterion increases by hundreds of times. The author also\nsuggests a new method of heating the power-making fuel pellet by outer electric\ncurrent as well as new direct method of transformation of ion kinetic energy\ninto harvestable electricity. These offered innovations dramatically decrease\nthe size, weight and cost of thermonuclear reactor, installation, propulsion\nsystem and electric generator. Non-industrial countries can produce these\nresearches and constructions. Currently, the author is researching the\nefficiency of these innovations for two types of the micro-thermonuclear\nreactors: multi-reflection reactor (ICF) and self-magnetic reactor (MCF).",
+    "categories": [
+      "General Physics (physics.gen-ph)",
+      " Atomic Physics (physics.atom-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0701095"
+  },
+  {
+    "url": "https://arxiv.org/abs/math/0701551",
+    "title": "Title:Design of Optimal Regulators",
+    "date_publ": "19 Jan 2007",
+    "authors": [
+      "Alexander Bolonkin",
+      "Robert Sierakowsk"
+    ],
+    "abstract": "Abstract:  Current research suggests the use of a liner quadratic performance index for\noptimal control of regulators in various applications. Some examples include\ncorrecting the trajectory of rocket and air vehicles, vibration suppression of\nflexible structures, and airplane stability. In all these cases, the focus is\nin suppressing/decreasing system deviations rapidly. However, if one compares\nthe Linear Quadratic Regulator (LQR) solution with optimal solutions (minimum\ntime), it is seen that the LQR solution is less than optimal in some cases\nindeed (3-6) times that obtained using a minimum time solution. Moreover, the\nLQR solution is sometimes unacceptable in practice due to the fact that values\nof control extend beyond admissible limits and thus the designer must choose\ncoefficients in the linear quadratic form, which are unknown.\nThe authors suggest methods which allow finding a quasi-optimal LQR solution\nwith bounded control which is closed to the minimum time solution. They also\nremand the process of the minimum time decision. Keywords: Optimal regulator,\nminimum time controller, Linear Quadratic Regulator (LQR). -- This paper is\ndeclared a work of the U.S. Government and not subject to copyright protection\nin the USA. The manuscript is accepted as paper AIAA-2003-6638 by 2nd AIAA\nUnmanned Unlimited Systems, Technologies, and Operations-Aerospace, Land, and\nSee Conference and Workshop - Exhibit, San Diego, California, USA, 15-18 Sep.\n2003.",
+    "categories": [
+      "General Mathematics (math.GM)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/math/0701551"
+  },
+  {
+    "url": "https://arxiv.org/abs/cs/0612006",
+    "title": "Title:Evocation and elaboration of solutions: Different types of problem-solving actions. An empirical study on the design of an aerospace artifact",
+    "date_publ": "30 Nov 2006",
+    "authors": [
+      "Willemien Visser (INRIA Rocquencourt"
+    ],
+    "abstract": "Abstract:  An observational study was conducted on a professional designer working on a\ndesign project in aerospace industry. The protocol data were analyzed in order\nto gain insight into the actions the designer used for the development of a\nsolution to the corresponding problem. Different processes are described: from\nthe \"simple\" evocation of a solution existing in memory, to the elaboration of\na \"new\" solution out of mnesic entities without any clear link to the current\nproblem. Control is addressed in so far as it concerns the priority among the\ndifferent types of development processes: the progression from evocation of a\n\"standard\" solution to elaboration of a \"new\" solution is supposed to\ncorrespond to the resulting order, that is, the one in which the designer's\nactivity proceeds. Short discussions of * the double status of \"problem\" and\n\"solution,\" * the problem/solution knowledge units in memory and their access,\nand * the different abstraction levels on which problem and solution\nrepresentations are developed, are illustrated by the results.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)"
+    ],
+    "url_pdf": "/pdf/cs/0612006"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0610082",
+    "title": "Title:Three Important Theorems for Fluid Dynamics",
+    "date_publ": "11 Oct 2006 (v1), last revised 8 May 2007 (this version, v3)",
+    "authors": [
+      "Hua-Shu Do"
+    ],
+    "abstract": "Abstract:  The new proposed \"energy gradient theory,\" which physically explains the\nphenomena of flow instability and turbulent transition in shear flows and has\nbeen shown to be valid for parallel flows, is extended to curved flows in this\nstudy. Then, three important theorems for fluid dynamics are deduced. These\ntheorems are (1) Potential flow (inviscid and irrotational) is stable. (2)\nInviscid rotational (nonzero vorticity) flow is unstable. (3) Velocity profile\nwith an inflectional point is unstable when there is no work input or output to\nthe system, for both inviscid and viscous flows. These theorems are, for the\nfirst time, deduced, and are of great significance for the understanding of\ngeneration of turbulence and the explanation of complex flows.\nFrom these results, it is concluded that the classical Rayleigh theorem\n(1880) on inflectional velocity instability of inviscid flows is incorrect\nwhich has last for more than a century. It is demonstrated that existence of\ninflection point on velocity profile is a sufficient condition, but not a\nnecessary condition for flow instability, for both inviscid and viscous flows.\nThe paradox of dual role of viscosity has been resolved: viscosity has only\nstable role. Why the paradox appeared is due to that the Rayleigh Theorem of\ninviscid flows by linear analysis is incorrect.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Classical Physics (physics.class-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0610082"
+  },
+  {
+    "url": "https://arxiv.org/abs/math-ph/0610004",
+    "title": "Title:Ortho-normal quaternion frames, Lagrangian evolution equations and the three-dimensional Euler equations",
+    "date_publ": "2 Oct 2006 (v1), last revised 9 Mar 2007 (this version, v2)",
+    "authors": [
+      "J. D. Gibbo"
+    ],
+    "abstract": "Abstract:  More than 150 years after their invention by Hamilton, quaternions are now\nwidely used in the aerospace and computer animation industries to track the\npaths of moving objects undergoing three-axis rotations. It is shown here that\nthey provide a natural way of selecting an appropriate ortho-normal frame --\ndesignated the quaternion-frame -- for a particle in a Lagrangian flow, and of\nobtaining the equations for its dynamics. How these ideas can be applied to the\nthree-dimensional Euler fluid equations is then considered. This work has a\nbearing on the issue of whether the Euler equations develop a singularity in a\nfinite time. Some of the literature on this topic is reviewed, which includes\nboth the Beale-Kato-Majda theorem and associated work on the direction of\nvorticity by both Constantin, Fefferman & Majda and Deng, Hou and Yu. It is\nthen shown how the quaternion formulation provides a further direction of\nvorticity result using the Hessian of the pressure.",
+    "categories": [
+      "Mathematical Physics (math-ph)",
+      " Chaotic Dynamics (nlin.CD)"
+    ],
+    "url_pdf": "/pdf/math-ph/0610004"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0610698",
+    "title": "Title:Do quasi-regular structures really exist in the solar photosphere? I. Observational evidence",
+    "date_publ": "24 Oct 2006",
+    "authors": [
+      "A.V. Getlin"
+    ],
+    "abstract": "Abstract:  Two series of solar-granulation images -- the La Palma series of 5 June 1993\nand the SOHO MDI series of 17--18 January 1997 -- are analysed both\nqualitatively and quantitatively. New evidence is presented for the existence\nof long-lived, quasi-regular structures (first reported by Getling and Brandt\n(2002)), which no longer appear unusual in images averaged over 1--2-h time\nintervals. Such structures appear as families of light and dark concentric\nrings or families of light and dark parallel strips (``ridges'' and\n``trenches'' in the brightness distributions). In some cases, rings are\ncombined with radial ``spokes'' and can thus form ``web'' patterns. The\ncharacteristic width of a ridge or trench is somewhat larger than the typical\nsize of granules. Running-average movies constructed from the series of images\nare used to seek such structures. An algorithm is developed to obtain, for\nautomatically selected centres, the radial distributions of the azimuthally\naveraged intensity, which highlight the concentric-ring patterns. We also\npresent a time-averaged granulation image processed with a software package\nintended for the detection of geological structures in aerospace images. A\ntechnique of running-average-based correlations between the brightness\nvariations at various points of the granular field is developed and indications\nare found for a dynamical link between the emergence and sinking of hot and\ncool parcels of the solar plasma. In particular, such a correlation analysis\nconfirms our suggestion that granules -- overheated blobs -- may repeatedly\nemerge on the solar surface. Based on our study, the critical remarks by Rast\n(2002) on the original paper by Getling and Brandt (2002) can be dismissed.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0610698"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0605464",
+    "title": "Title:Mid-Infrared Spectroscopy of Disks around Classical T Tauri Stars",
+    "date_publ": "18 May 2006",
+    "authors": [
+      "W. J. Forrest",
+      "B. Sargent",
+      "E. Furlan",
+      "P. D'Alessio",
+      "N. Calvet",
+      "L. Hartmann",
+      "K. I. Uchida",
+      "J. D. Green",
+      "D. M. Watson",
+      "C. H. Chen",
+      "F. Markwick-Kemper",
+      "L. D. Keller",
+      "G. C. Sloan",
+      "T. L. Herter",
+      "B. R. Brandl",
+      "J. R. Houck",
+      "D. J. Barry",
+      "P. Hall",
+      "P. W. Morris",
+      "J. Najita",
+      "P. C. Myer"
+    ],
+    "abstract": "Abstract:  We present the first Spitzer Infrared Spectrograph (IRS; The IRS was a\ncollaborative venture between Cornell University and Ball Aerospace Corporation\nfunded by NASA through the Jet Propulsion Laboratory and the Ames Research\nCenter.) observations of the disks around classical T Tauri stars: spectra in\nthe 5.2-30 micron range of six stars. The spectra are dominated by emission\nfeatures from amorphous silicate dust, and a continuous component from 5 to 8\nmicrons that in most cases comprises an excess above the photosphere throughout\nour spectral range. There is considerable variation in the silicate\nfeature/continuum ratio, which implies variations of inclination, disk flaring,\nand stellar mass accretion rate. In most of our stars, structure in the\nsilicate feature suggests the presence of a crystalline component. In one, CoKu\nTau/4, no excess above the photosphere appears at wavelengths shortward of the\nsilicate features, similar to 10 Myr old TW Hya, Hen 3-600, and HR 4796A. This\nindicates the optically thick inner disk is largely absent. The silicate\nemission features with peaks at 9.7 and 18 microns indicate small dust grains\nare present. The extremely low 10-20 micron color temperature of the dust\nexcess, 135 K, indicates these grains are located more than 10 AU from the\nstar. These features are suggestive of gravitational influence by planets or\nclose stellar companions and grain growth in the region within 10 AU of the\nstar, somewhat surprising for a star this young (1 Myr).",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0605464"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0605415",
+    "title": "Title:Dust Processing in Disks around T Tauri Stars",
+    "date_publ": "17 May 2006",
+    "authors": [
+      "B. Sargent",
+      "W. J. Forrest",
+      "P. D'Alessio",
+      "A. Li",
+      "J. Najita",
+      "D. M. Watson",
+      "N. Calvet",
+      "E. Furlan",
+      "J. D. Green",
+      "K. H. Kim",
+      "G. C. Sloan",
+      "C. H. Chen",
+      "L. Hartmann",
+      "J. R. Houc"
+    ],
+    "abstract": "Abstract:  The 8-14 micron emission spectra of 12 T Tauri stars in the Taurus/Auriga\ndark clouds and in the TW Hydrae association obtained with the Infrared\nSpectrograph (IRS; The IRS is a collaborative venture between Cornell\nUniversity and Ball Aerospace Corporation funded by NASA through the Jet\nPropulsion Laboratory and the Ames Research Center.) on board Spitzer are\nanalyzed. Assuming the 10 micron features originate from silicate grains in the\noptically thin surface layers of T Tauri disks, the 8-14 micron dust emissivity\nfor each object is derived from its Spitzer spectrum. The emissivities are fit\nwith the opacities of laboratory analogs of cosmic dust. The fits include small\nnonspherical grains of amorphous silicates (pyroxene and olivine), crystalline\nsilicates (forsterite and pyroxene), and quartz, together with large fluffy\namorphous silicate grains. A wide range in the fraction of crystalline silicate\ngrains as well as large silicate grains among these stars are found. The dust\nin the transitional-disk objects CoKu Tau/4, GM Aur, and DM Tau has the\nsimplest form of silicates, with almost no hint of crystalline components and\nmodest amounts of large grains. This indicates that the dust grains in these\nobjects have been modified little from their origin in the interstellar medium.\nOther stars show various amounts of crystalline silicates, similar to the wide\ndispersion of the degree of crystallinity reported for Herbig Ae/Be stars of\nmass <2.5 solar masses. Late spectral type, low-mass stars can have significant\nfractions of crystalline silicate grains. Higher quartz mass fractions often\naccompany low amorphous olivine-to-amorphous pyroxene ratios. It is also found\nthat lower contrast of the 10 micron feature accompanies greater crystallinity.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0605415"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0512129",
+    "title": "Title:The Science, Technology and Mission Design for the Laser Astrometric Test of Relativity",
+    "date_publ": "22 Dec 2005",
+    "authors": [
+      "Slava G. Turyshe"
+    ],
+    "abstract": "Abstract:  The Laser Astrometric Test of Relativity (LATOR) is a Michelson-Morley-type\nexperiment designed to test the Einstein's general theory of relativity in the\nmost intense gravitational environment available in the solar system -- the\nclose proximity to the Sun. By using independent time-series of highly accurate\nmeasurements of the Shapiro time-delay (laser ranging accurate to 1 cm) and\ninterferometric astrometry (accurate to 0.1 picoradian), LATOR will measure\ngravitational deflection of light by the solar gravity with accuracy of 1 part\nin a billion, a factor ~30,000 better than currently available. LATOR will\nperform series of highly-accurate tests of gravitation and cosmology in its\nsearch for cosmological remnants of scalar field in the solar system. We\npresent science, technology and mission design for the LATOR mission.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0512129"
+  },
+  {
+    "url": "https://arxiv.org/abs/cs/0510081",
+    "title": "Title:Virtual Environments for multiphysics code validation on Computing Grids",
+    "date_publ": "26 Oct 2005",
+    "authors": [
+      "Toan Nguyen (INRIA Sophia Antipolis / INRIA Rh\u00f4ne-Alpes)",
+      "Lizhe Wang (INRIA Sophia Antipolis / INRIA Rh\u00f4ne-Alpes)",
+      "Vittorio Selmin (ALENIA Aeronautica"
+    ],
+    "abstract": "Abstract:  We advocate in this paper the use of grid-based infrastructures that are\ndesigned for seamless approaches to the numerical expert users, i.e., the\nmultiphysics applications designers. It relies on sophisticated computing\nenvironments based on computing grids, connecting heterogeneous computing\nresources: mainframes, PC-clusters and workstations running multiphysics codes\nand utility software, e.g., visualization tools. The approach is based on\nconcepts defined by the HEAVEN* consortium. HEAVEN is a European scientific\nconsortium including industrial partners from the aerospace, telecommunication\nand software industries, as well as academic research institutes. Currently,\nthe HEAVEN consortium works on a project that aims to create advanced services\nplatforms. It is intended to enable \"virtual private grids\" supporting various\nenvironments for users manipulating a suitable high-level interface. This will\nbecome the basis for future generalized services allowing the integration of\nvarious services without the need to deploy specific grid infrastructures.",
+    "categories": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)"
+    ],
+    "url_pdf": "/pdf/cs/0510081"
+  },
+  {
+    "url": "https://arxiv.org/abs/cond-mat/0510022",
+    "title": "Title:Reconstruction of Residual Stress in a Welded Plate Using the Variational Eigenstrain Approach",
+    "date_publ": "2 Oct 2005",
+    "authors": [
+      "Alexander M. Korsunsky",
+      "Gabriel M. Regino",
+      "David Nowel"
+    ],
+    "abstract": "Abstract:  We present the formulation for finding the distribution of eigenstrains, i.e.\nthe sources of residual stress, from a set of measurements of residual elastic\nstrain (e.g. by diffraction), or residual stress, or stress redistribution, or\ndistortion. The variational formulation employed seeks to achieve the best\nagreement between the model prediction and some measured parameters in the\nsense of a minimum of a functional given by a sum over the entire set of\nmeasurements. The advantage of this approach lies in its flexibility: different\nsets of measurements and information about different components of the\nstress-strain state can be incorporated. We demonstrate the power of the\ntechnique by analysing experimental data for welds in thin sheet of a nickel\nsuperalloy aerospace material. Very good agreement can be achieved between the\nprediction and the measurement results without the necessity of using iterative\nsolution. In practice complete characterisation of residual stress states is\noften very difficult, due to limitations of facility access, measurement time\nor specimen dimensions. Implications of the new technique for experimental\nanalysis are all the more significant, since it allows the reconstruction of\nthe entire stress state from incomplete sets of data.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/cond-mat/0510022"
+  },
+  {
+    "url": "https://arxiv.org/abs/hep-ph/0507255",
+    "title": "Title:Neutrino and graviton rest mass estimations by a phenomenological approach",
+    "date_publ": "21 Jul 2005 (v1), last revised 19 Dec 2008 (this version, v6)",
+    "authors": [
+      "Dimitar Vale"
+    ],
+    "abstract": "Abstract:  The ratio between the proton and electron masses is shown to be close to the\nratio between the strong and electromagnetic interaction coupling constants at\nExtremely Low Energy (ELE). Based on the experimental data, this relation has\nbeen extended for the weak and gravitational interactions, too. Thus, a mass\nrelation has been found, according to which the rest mass of the Lightest Free\nMassive Stable Particle (LFMSP), acted upon by a particular interaction, is\nproportional to the coupling constant of the respective interaction at ELE. On\nthe basis of this mass relation, the electron neutrino and graviton masses have\nbeen approximately estimated to 2.1x10^(-4) eV/c^2 and 2.3x10^(-34) eV/c^2,\nrespectively. The last value is of the order of the magnitude of hbar*H/c^2,\nwhere H is the Hubble constant and hbar is the reduced Planck constant. It is\nworth noting that this value has been obtained by fundamental constants only,\nwithout consideration of any cosmological models.",
+    "categories": [
+      "High Energy Physics - Phenomenology (hep-ph)",
+      " Cosmology and Nongalactic Astrophysics (astro-ph.CO)"
+    ],
+    "url_pdf": "/pdf/hep-ph/0507255"
+  },
+  {
+    "url": "https://arxiv.org/abs/cond-mat/0402654",
+    "title": "Title:Value-at-Risk and Tsallis statistics: risk analysis of the aerospace sector",
+    "date_publ": "26 Feb 2004 (v1), last revised 15 Mar 2004 (this version, v3)",
+    "authors": [
+      "Adriana P. Mattedi",
+      "Fernando M. Ramos",
+      "Reinaldo R. Rosa",
+      "Rosario N. Mantegn"
+    ],
+    "abstract": "Abstract:  In this study, we analyze the aerospace stocks prices in order to\ncharacterize the sector behavior. The data analyzed cover the period from\nJanuary 1987 to April 1999. We present a new index for the aerospace sector and\nwe investigate the statistical characteristics of this index. Our results show\nthat this index is well described by Tsallis distribution. We explore this\nresult and modify the standard Value-at-Risk (VaR), financial risk assessment\nmethodology in order to reflect an asset which obeys Tsallis non-extensive\nstatistics.",
+    "categories": [
+      "Statistical Mechanics (cond-mat.stat-mech)",
+      " Disordered Systems and Neural Networks (cond-mat.dis-nn)",
+      " Statistical Finance (q-fin.ST)"
+    ],
+    "url_pdf": "/pdf/cond-mat/0402654"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0308094",
+    "title": "Title:Deterministic Chaos Model for Self-Organized Adaptive Networks in Atmospheric Flows",
+    "date_publ": "26 Aug 2003",
+    "authors": [
+      "A. Mary Selva"
+    ],
+    "abstract": "Abstract:  The complex spatiotemporal patterns of atmospheric flows resulting from the\ncooperative existence of fluctuations ranging in size from millimeters to\nthousands of kilometers are found to exhibit long-range spatial and temporal\ncorrelations manifested as the selfsimilar fractal geometry to the global cloud\ncover pattern and the inverse power law form for the atmospheric eddy energy\nspectrum. Such long-range spatial and temporal correlations are ubiquitous to\nextended natural dynamical systems and is a signature of the strange attractor\ndesign characterizing deterministic chaos or self-organized criticality. The\nunified network of global atmospheric circulations is analogous to the neural\nnetworks of the human brain.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "#other"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0212439",
+    "title": "Title:The Fizeau Interferometer Testbed",
+    "date_publ": "19 Dec 2002",
+    "authors": [
+      "Xiaolei Zhang",
+      "Kenneth G. Carpenter",
+      "Richard G. Lyon",
+      "Hubert Huet",
+      "Joe Marzouk",
+      "Gregory Solya"
+    ],
+    "abstract": "Abstract:  The Fizeau Interferometer Testbed (FIT) is a collaborative effort between\nNASA's Goddard Space Flight Center, the Naval Research Laboratory, Sigma Space\nCorporation, and the University of Maryland. The testbed will be used to\nexplore the principles of and the requirements for the full, as well as the\npathfinder, Stellar Imager mission concept. It has a long term goal of\ndemonstrating closed-loop control of a sparse array of numerous articulated\nmirrors to keep optical beams in phase and optimize interferometric synthesis\nimaging. In this paper we present the optical and data acquisition system\ndesign of the testbed, and discuss the wavefront sensing and control algorithms\nto be used. Currently we have completed the initial design and hardware\nprocurement for the FIT. The assembly and testing of the Testbed will be\nunderway at Goddard's Instrument Development Lab in the coming months.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0212439"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0211652",
+    "title": "Title:Modelling Charge Coupled Device Readout: Simulation Overview and Early Results",
+    "date_publ": "29 Nov 2002",
+    "authors": [
+      "P. Bristow",
+      "A. Alexo"
+    ],
+    "abstract": "Abstract:  The Calibration enhancement effort for the Space Telescope Imaging\nSpectrograph (STIS) aims to improve data calibration via the application of\nphysical modelling techniques.\nWe describe here a model of the Charge Transfer process during read-out of\nmodern Charge Coupled Devices, and its application to data from STIS. The model\ndraws upon previous investigations of this process and, in particular, the\ntrapping and emission model developed by Robert Philbrick of Ball Aerospace.\nEarly comparison to calibration data is encouraging. Essentially, a physical\ndescription of the STIS CCD combined with the physics of known defects in the\nsilicon lattice expected to arise in a hostile radiation environment, is enough\nto yield results which approximately match real data. Uncertainties remain,\nhowever, in the details of the model and the physical description of STIS.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0211652"
+  },
+  {
+    "url": "https://arxiv.org/abs/cs/0201023",
+    "title": "Title:Model-Based Software Engineering and Ada: Synergy for the Development of Safety-Critical Systems",
+    "date_publ": "26 Jan 2002",
+    "authors": [
+      "Andree Blotz (1)",
+      "Franz Huber (2)",
+      "Heiko Loetzbeyer (3)",
+      "Alexander Pretschner (3)",
+      "Oscar Slotosch (2)",
+      "Hans-Peter Zaengerl (2) ((1) EADS Deutschland GmbH",
+      "(2) Validas AG",
+      "(3) TU Munich"
+    ],
+    "abstract": "Abstract:  In this paper we outline a software development process for safety-critical\nsystems that aims at combining some of the specific strengths of model-based\ndevelopment with those of programming language based development using\nsafety-critical subsets of Ada. Model-based software development and\nmodel-based test case generation techniques are combined with code generation\ntechniques and tools providing a transition from model to code both for a\nsystem itself and for its test cases. This allows developers to combine\ndomain-oriented, model-based techniques with source code based validation\ntechniques, as required for conformity with standards for the development of\nsafety-critical software, such as the avionics standard RTCA/DO-178B. We\nintroduce the AutoFocus and Validator modeling and validation toolset and\nsketch its usage for modeling, test case generation, and code generation in a\ncombined approach, which is further illustrated by a simplified leading edge\naerospace model with built-in fault tolerance.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/cs/0201023"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0109247",
+    "title": "Title:The Wide Field Imaging Interferometry Testbed",
+    "date_publ": "17 Sep 2001",
+    "authors": [
+      "Xiaolei Zhang",
+      "Lee Feinberg",
+      "Dave Leisawitz",
+      "Douglas B. Leviton",
+      "Anthony J. Martino",
+      "John C. Mathe"
+    ],
+    "abstract": "Abstract:  We are developing a Wide-Field Imaging Interferometry Testbed (WIIT) in\nsupport of design studies for NASA's future space interferometry missions, in\nparticular the SPIRIT and SPECS far-infrared/submillimeter interferometers.\nWIIT operates at optical wavelengths and uses Michelson beam combination to\nachieve both wide-field imaging and high-resolution spectroscopy. It will be\nused chiefly to test the feasibility of using a large-format detector array at\nthe image plane of the sky to obtain wide-field interferometry images through\nmosaicing techniques. In this setup each detector pixel records interferograms\ncorresponding to averaging a particular pointing range on the sky as the\noptical path length is scanned and as the baseline separation and orientation\nis varied. The final image is constructed through spatial and spectral Fourier\ntransforms of the recorded interferograms for each pixel, followed by a\nmosaic/joint-deconvolution procedure of all the pixels. In this manner the\nimage within the pointing range of each detector pixel is further resolved to\nan angular resolution corresponding to the maximum baseline separation for\nfringe measurements.\nWe present the motivation for building the testbed, show the optical,\nmechanical, control, and data system design, and describe the image processing\nrequirements and algorithms. WIIT is presently under construction at NASA's\nGoddard Space Flight Center.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0109247"
+  }
+]

@@ -1,0 +1,824 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1903.00101",
+    "title": "Title:Receiver Operating Characteristics for a Prototype Quantum Two-Mode Squeezing Radar",
+    "date_publ": "28 Feb 2019",
+    "authors": [
+      "David Luong",
+      "C. W. Sandbo Chang",
+      "A. M. Vadiraj",
+      "Anthony Damini",
+      "C. M. Wilson",
+      "Bhashyam Balaj"
+    ],
+    "abstract": "Abstract:  We have built and evaluated a prototype quantum radar, which we call a\nquantum two-mode squeezing radar (QTMS radar), in the laboratory. It operates\nsolely at microwave frequencies; there is no downconversion from optical\nfrequencies. Because the signal generation process relies on quantum mechanical\nprinciples, the system is considered to contain a quantum-enhanced radar\ntransmitter. This transmitter generates a pair of entangled microwave signals\nand transmits one of them through free space, where the signal is measured\nusing a simple and rudimentary receiver.\nAt the heart of the transmitter is a device called a Josephson parametric\namplifier (JPA), which generates a pair of entangled signals called two-mode\nsqueezed vacuum (TMSV) at 6.1445 GHz and 7.5376 GHz. These are then sent\nthrough a chain of amplifiers. The 7.5376 GHz beam passes through 0.5 m of free\nspace; the 6.1445 GHz signal is measured directly after amplification. The two\nmeasurement results are correlated in order to distinguish signal from noise.\nWe compare our QTMS radar to a classical radar setup using conventional\ncomponents, which we call a two-mode noise radar (TMN radar), and find that\nthere is a significant gain when both systems broadcast signals at -82 dBm.\nThis is shown via a comparison of receiver operator characteristic (ROC)\ncurves. In particular, we find that the quantum radar requires 8 times fewer\nintegrated samples compared to its classical counterpart to achieve the same\nperformance.",
+    "categories": [
+      "Quantum Physics (quant-ph)",
+      " Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1903.00101"
+  },
+  {
+    "url": "https://arxiv.org/abs/1902.10232",
+    "title": "Title:An Immersed Discontinuous Galerkin Method for Compressible Navier-Stokes Equations on Unstructured Meshes",
+    "date_publ": "26 Feb 2019 (v1), last revised 7 Nov 2019 (this version, v2)",
+    "authors": [
+      "Hong Xiao",
+      "Eky Febrianto",
+      "Qiaoling Zhang",
+      "Fehmi Cira"
+    ],
+    "abstract": "Abstract:  We introduce an immersed high-order discontinuous Galerkin method for solving\nthe compressible Navier-Stokes equations on non-boundary-fitted meshes. The\nflow equations are discretised with a mixed discontinuous Galerkin formulation\nand are advanced in time with an explicit time marching scheme. The\ndiscretisation meshes may contain simplicial (triangular or tetrahedral)\nelements of different sizes and need not be structured. On the discretisation\nmesh the fluid domain boundary is represented with an implicit signed distance\nfunction. The cut-elements partially covered by the solid domain are integrated\nafter tessellation with the marching triangle or tetrahedra algorithms. Two\nalternative techniques are introduced to overcome the excessive stable time\nstep restrictions imposed by cut-elements. In the first approach the cut-basis\nfunctions are replaced with the extrapolated basis functions from the nearest\nlargest element. In the second approach the cut-basis functions are simply\nscaled proportionally to the fraction of the cut-element covered by the solid.\nTo achieve high-order accuracy additional nodes are introduced on the element\nfaces abutting the solid boundary. Subsequently, the faces are curved by\nprojecting the introduced nodes to the boundary. The proposed approach is\nverified and validated with several two- and three-dimensional subsonic and\nhypersonic low Reynolds number flow applications, including the flow over a\ncylinder, a space capsule and an aerospace vehicle.",
+    "categories": [
+      "Numerical Analysis (math.NA)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1902.10232"
+  },
+  {
+    "url": "https://arxiv.org/abs/1902.02446",
+    "title": "Title:Gallium Nitride Photodetector Measurements of UV Emission from a Gaseous CH4/O2 Hybrid Rocket Igniter Plume",
+    "date_publ": "7 Feb 2019",
+    "authors": [
+      "Hannah S. Alpert",
+      "Ananth Saran Yalamarthy",
+      "Peter F. Satterthwaite",
+      "Elizabeth Jens",
+      "Jason Rabinovitch",
+      "Noah Scandrette",
+      "A.K.M. Newaz",
+      "Ashley C. Karp",
+      "Debbie G. Senesk"
+    ],
+    "abstract": "Abstract:  Owing to its wide (3.4 eV) and direct-tunable band gap, gallium nitride (GaN)\nis an excellent material platform for UV photodetectors. GaN is also stable in\nradiation-rich and high-temperature environments, which makes photodetectors\nfabricated using this material useful for in-situ flame detection and\ncombustion monitoring. In this paper, we use a GaN photodetector to measure\nultraviolet (UV) emissions from a hybrid rocket motor igniter plume. The\nnormalized photocurrent-to-dark current ratio (NPDR) is a performance metric\nwhich simultaneously captures the two desired characteristics of high\nresponsivity and low dark current. The NPDR of our device is record-high with a\nvalue of 6 x 10$^{14}$ W$^{-1}$ and the UV-to-visible rejection ratio is 4 x\n10$^6$. The photodetector shows operation at high temperatures (up to\n250\u00b0C), with the NPDR still remaining above 10$^9$ W$^{-1}$ and the peak\nwavelength shifting from 362 nm to 375 nm. The photodetector was placed at\nthree radial distances (3\", 5.5\", and 7\") from the base of the igniter plume\nand the oxidizer-to-fuel ratio (O2/CH4) was varied. The data demonstrates a\nclear trend of increasing current (and thus intensity of plume emission) with\nincreasing fuel concentration and decreasing separation between the\nphotodetector and the plume. By treating the plume as a black body, and\ncalculating a radiative configuration factor corresponding to the geometry of\nthe plume and the detector, we calculated average plume temperatures at each of\nthe three oxidizer-to-fuel ratios. The estimated plume temperatures were\nbetween 850 and 950 K for all three combustion conditions. The temperature is\nroughly invariant for a fixed fuel concentration for the three tested\ndistances. These data demonstrate the functionality of GaN as a material\nplatform for use in harsh environment flame monitoring.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/1902.02446"
+  },
+  {
+    "url": "https://arxiv.org/abs/1902.01011",
+    "title": "Title:Global Fitting of the Response Surface via Estimating Multiple Contours of a Simulator",
+    "date_publ": "4 Feb 2019",
+    "authors": [
+      "Feng Yang",
+      "C. Devon Lin",
+      "Pritam Ranja"
+    ],
+    "abstract": "Abstract:  Computer simulators are nowadays widely used to understand complex physical\nsystems in many areas such as aerospace, renewable energy, climate modeling,\nand manufacturing. One fundamental issue in the study of computer simulators is\nknown as experimental design, that is, how to select the input settings where\nthe computer simulator is run and the corresponding response is collected.\nExtra care should be taken in the selection process because computer simulators\ncan be computationally expensive to run. The selection shall acknowledge and\nachieve the goal of the analysis. This article focuses on the goal of producing\nmore accurate prediction which is important for risk assessment and decision\nmaking. We propose two new methods of design approaches that sequentially\nselect input settings to achieve this goal. The approaches make novel\napplications of simultaneous and sequential contour estimations. Numerical\nexamples are employed to demonstrate the effectiveness of the proposed\napproaches.",
+    "categories": [
+      "Methodology (stat.ME)",
+      " Applications (stat.AP)",
+      " Computation (stat.CO)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1902.01011"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.10475",
+    "title": "Title:Efficient n-to-n Collision Detection for Space Debris using 4D AABB Trees (Extended Report)",
+    "date_publ": "29 Jan 2019",
+    "authors": [
+      "Stanley Bak",
+      "Kerianne Hobb"
+    ],
+    "abstract": "Abstract:  Collision detection algorithms are used in aerospace, swarm robotics,\nautomotive, video gaming, dynamics simulation and other domains. As many\napplications of collision detection run online, timing requirements are imposed\non the algorithm runtime: algorithms must, at a minimum, keep up with the\npassage of time. In practice, this places a limit on the number of objects, n,\nthat can be tracked at the same time. In this paper, we improve the scalability\nof collision detection, effectively raising the limit n for online object\ntracking.\nThe key to our approach is the use of a four-dimensional axis-aligned\nbounding box (AABB) tree, which stores each object's three-dimensional\noccupancy region in space during a one-dimensional interval of time. This\nimproves efficiency by permitting per-object variable times steps. Further, we\ndescribe partitioning strategies that can decompose the 4D AABB tree search\ninto several smaller-dimensional problems that can be solved in parallel. We\nformalize the collision detection problem and prove our algorithm's\ncorrectness. We demonstrate the feasibility of online collision detection for\nan orbital space debris application, using publicly available data on the full\ncatalog of n=16848 objects provided by this http URL.",
+    "categories": [
+      "Data Structures and Algorithms (cs.DS)"
+    ],
+    "url_pdf": "/pdf/1901.10475"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.10281",
+    "title": "Title:Structural Material Property Tailoring Using Deep Neural Networks",
+    "date_publ": "29 Jan 2019",
+    "authors": [
+      "Oshin Olesegun",
+      "Ryan Noraas",
+      "Michael Giering",
+      "Nagendra Somanat"
+    ],
+    "abstract": "Abstract:  Advances in robotics, artificial intelligence, and machine learning are\nushering in a new age of automation, as machines match or outperform human\nperformance. Machine intelligence can enable businesses to improve performance\nby reducing errors, improving sensitivity, quality and speed, and in some cases\nachieving outcomes that go beyond current resource capabilities. Relevant\napplications include new product architecture design, rapid material\ncharacterization, and life-cycle management tied with a digital strategy that\nwill enable efficient development of products from cradle to grave. In\naddition, there are also challenges to overcome that must be addressed through\na major, sustained research effort that is based solidly on both inferential\nand computational principles applied to design tailoring of functionally\noptimized structures. Current applications of structural materials in the\naerospace industry demand the highest quality control of material\nmicrostructure, especially for advanced rotational turbomachinery in aircraft\nengines in order to have the best tailored material property. In this paper,\ndeep convolutional neural networks were developed to accurately predict\nprocessing-structure-property relations from materials microstructures images,\nsurpassing current best practices and modeling efforts. The models\nautomatically learn critical features, without the need for manual\nspecification and/or subjective and expensive image analysis. Further, in\ncombination with generative deep learning models, a framework is proposed to\nenable rapid material design space exploration and property identification and\noptimization. The implementation must take account of real-time decision cycles\nand the trade-offs between speed and accuracy.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1901.10281"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.07703",
+    "title": "Title:Micro-UAV Detection and Classification from RF Fingerprints Using Machine Learning Techniques",
+    "date_publ": "23 Jan 2019 (v1), last revised 10 Apr 2019 (this version, v2)",
+    "authors": [
+      "Martins Ezuma",
+      "Fatih Erden",
+      "Chethan Kumar Anjinappa",
+      "Ozgur Ozdemir",
+      "Ismail Guven"
+    ],
+    "abstract": "Abstract:  This paper focuses on the detection and classification of micro-unmanned\naerial vehicles (UAVs) using radio frequency (RF) fingerprints of the signals\ntransmitted from the controller to the micro-UAV. In the detection phase, raw\nsignals are split into frames and transformed into the wavelet domain. A Markov\nmodels-based naive Bayes approach is used to check for the presence of a UAV in\neach frame. In the classification phase, unlike the traditional approaches that\nrely solely on time-domain signals and corresponding features, the proposed\ntechnique uses the energy transient signal. This approach is more robust to\nnoise and can cope with different modulation techniques. First, the normalized\nenergy trajectory is generated from the energy-time-frequency distribution of\nthe raw control signal. Next, the start and end points of the energy transient\nare detected by searching for the most abrupt changes in the mean of the energy\ntrajectory. Then, a set of statistical features is extracted from the energy\ntransient. Significant features are selected by performing neighborhood\ncomponent analysis (NCA) to keep the computational cost of the algorithm low.\nFinally, selected features are fed to several machine learning algorithms for\nclassification. The algorithms are evaluated experimentally using a database\ncontaining 100 RF signals from each of 14 different UAV controllers. The\nsignals are recorded wirelessly using a high-frequency oscilloscope. The data\nset is randomly partitioned into training and test sets for validation with the\nratio 4:1. Ten Monte Carlo simulations are run and results are averaged to\nassess the performance of the methods. All the micro-UAVs are detected\ncorrectly and an average accuracy of 96.3% is achieved using the k-nearest\nneighbor (kNN) classification. Proposed methods are also tested for different\nsignal-to-noise ratio (SNR) levels and results are reported.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1901.07703"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.05188",
+    "title": "Title:High-performance dune modules for solving large-scale, strongly anisotropic elliptic problems with applications to aerospace composites",
+    "date_publ": "16 Jan 2019 (v1), last revised 29 Oct 2019 (this version, v2)",
+    "authors": [
+      "Richard Butler",
+      "Tim Dodwell",
+      "Anne Reinarz",
+      "Anhad Sandhu",
+      "Robert Scheichl",
+      "Linus Seelinge"
+    ],
+    "abstract": "Abstract:  The key innovation in this paper is an open-source, high-performance\niterative solver for high contrast, strongly anisotropic elliptic partial\ndifferential equations implemented within dune-pdelab. The iterative solver\nexploits a robust, scalable two-level additive Schwarz preconditioner, GenEO\n(Spillane et al. 2014). The development of this solver has been motivated by\nthe need to overcome the limitations of commercially available modeling tools\nfor solving structural analysis simulations in aerospace composite\napplications. Our software toolbox dune-composites encapsulates the\nmathematical complexities of the underlying packages within an efficient C++\nframework, providing an application interface to our new high-performance\nsolver. We illustrate its use on a range of industrially motivated examples,\nwhich should enable other scientists to build on and extend dune-composites and\nthe GenEO preconditioner for use in their own applications. We demonstrate the\nscalability of the solver on more than 15,000 cores of the UK national\nsupercomputer Archer, solving an aerospace composite problem with over 200\nmillion degrees of freedom in a few minutes. This scale of computation brings\ncomposites problems that would otherwise be unthinkable into the feasible\nrange. To demonstrate the wider applicability of the new solver, we also\nconfirm the robustness and scalability of the solver on SPE10, a challenging\nbenchmark in subsurface flow/reservoir simulation.",
+    "categories": [
+      "Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/1901.05188"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.04088",
+    "title": "Title:Attitude Control of Spacecraft Swarms for Visual Mapping of Planetary Bodies",
+    "date_publ": "13 Jan 2019",
+    "authors": [
+      "Ravi Teja Nallapu",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  Planetary bodies such as asteroids, comets, and planetary moons are\nhigh-value science targets as they hold important information about the\nformation and evolution of our solar system. However, due to their low-gravity,\nvariable sizes and shapes, dedicated orbiting spacecraft missions around these\ntarget bodies is difficult. Therefore, many planetary bodies are observed\nduring flyby encounters, and consequently, the mapping coverage of the target\nbody is limited. In this work, we propose the use of a spacecraft swarm to\nprovide complete surface maps of a planetary body during a close encounter\nflyby. With the advancement of low-cost spacecraft technology, such a swarm can\nbe realized by using multiple miniature spacecraft. The design of a swarm\nmission is a complex multi-disciplinary problem. To get started, we propose the\nIntegrated Design Engineering & Automation of Swarms (IDEAS) software. In this\nwork, we will introduce the development of the Automated Swarm Designer module\nof the software and apply it to total surface mapping of asteroid 433 Eros\nthrough flybys.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1901.04088"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.03468",
+    "title": "Title:Attitude Reconstruction from Inertial Measurements: QuatFIter and Its Comparison with RodFIter",
+    "date_publ": "11 Jan 2019",
+    "authors": [
+      "Yuanxin Wu",
+      "Gongmin Ya"
+    ],
+    "abstract": "Abstract:  RodFIter is a promising method of attitude reconstruction from inertial\nmeasurements based on the functional iterative integration of Rodrigues vector.\nThe Rodrigues vector is used to encode the attitude in place of the popular\nrotation vector because it has a polynomial-like rate equation and could be\ncast into theoretically sound and exact integration. This paper further applies\nthe approach of RodFIter to the unity-norm quaternion for attitude\nreconstruction, named QuatFIter, and shows that it is identical to the previous\nPicard-type quaternion method. The Chebyshev polynomial approximation and\ntruncation techniques from the RodFIter are exploited to speed up its\nimplementation. Numerical results demonstrate that the QuatFIter is comparable\nin accuracy to the RodFIter, although its convergence rate is relatively slower\nwith respect to the number of iterations. Notably, the QuatFIter has about two\ntimes better computational efficiency, thanks to the linear quaternion\nkinematic equation.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1901.03468"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.02172",
+    "title": "Title:Solar-Sail Trajectory Design for Multiple Near Earth Asteroid Exploration Based on Deep Neural Networks",
+    "date_publ": "8 Jan 2019 (v1), last revised 18 Mar 2019 (this version, v3)",
+    "authors": [
+      "Yu Song",
+      "Shengping Gon"
+    ],
+    "abstract": "Abstract:  In the preliminary trajectory design of the multi-target rendezvous problem,\na model that can quickly estimate the cost of the orbital transfer is\nessential. The estimation of the transfer time using solar sail between two\narbitrary orbits is difficult and usually requires to solve an optimal control\nproblem. Inspired by the successful applications of the deep neural network in\nnonlinear regression, this work explores the possibility and effectiveness of\nmapping the transfer time for solar sail from the orbital characteristics using\nthe deep neural network. Furthermore, the Monte Carlo Tree Search method is\ninvestigated and used to search the optimal sequence considering a\nmulti-asteroid exploration problem. The obtained sequences from preliminary\ndesign will be solved and verified by sequentially solving the optimal control\nproblem. Two examples of different application backgrounds validate the\neffectiveness of the proposed approach.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Neural and Evolutionary Computing (cs.NE)"
+    ],
+    "url_pdf": "/pdf/1901.02172"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.01968",
+    "title": "Title:A semi-structured approach to curvilinear mesh generation around streamlined bodies",
+    "date_publ": "7 Jan 2019",
+    "authors": [
+      "Julian Marcon",
+      "Joaquim Peir\u00f3",
+      "David Moxey",
+      "Nico Bergemann",
+      "Henry Bucklow",
+      "Mark Gammo"
+    ],
+    "abstract": "Abstract:  We present an approach for robust high-order mesh generation specially\ntailored to streamlined bodies. The method is based on a semi-sructured\napproach which combines the high quality of structured meshes in the near-field\nwith the flexibility of unstructured meshes in the far-field. We utilise medial\naxis technology to robustly partition the near-field into blocks which can be\nmeshed coarsely with a linear swept mesher. A high-order mesh of the near-field\nis then generated and split using an isoparametric approach which allows us to\nobtain highly stretched elements aligned with the flow field. Special treatment\nof the partition is performed on the wing root juntion and the trailing edge\n--- into the wake --- to obtain an H-type mesh configuration with anisotropic\nhexahedra ideal for the strong shear of high Reynolds number simulations. We\nthen proceed to discretise the far-field using traditional robust tetrahedral\nmeshing tools. This workflow is made possible by two sets of tools: CADfix,\nfocused on CAD system, the block partitioning of the near-field and the\ngeneration of a linear mesh; and NekMesh, focused on the curving of the\nhigh-order mesh and the generation of highly-stretched boundary layer elements.\nWe demonstrate this approach on a NACA0012 wing attached to a wall and show\nthat a gap between the wake partition and the wall can be inserted to remove\nthe dependency of the partitioning procedure on the local geometry.",
+    "categories": [
+      "Computational Geometry (cs.CG)"
+    ],
+    "url_pdf": "/pdf/1901.01968"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.01758",
+    "title": "Title:New ECCM Techniques Against Noise-like and/or Coherent Interferers",
+    "date_publ": "7 Jan 2019 (v1), last revised 27 Jun 2019 (this version, v2)",
+    "authors": [
+      "Linjie Yan",
+      "Pia Addabbo",
+      "Chengpeng Hao",
+      "Danilo Orlando",
+      "Alfonso Farin"
+    ],
+    "abstract": "Abstract:  Multiple-stage adaptive architectures are conceived to face with the problem\nof target detection buried in noise, clutter, and intentional interference.\nFirst, a scenario where the radar system is under the electronic attack of\nnoise-like interferers is considered. In this context, two sets of training\nsamples are jointly exploited to devise a novel two-step estimation procedure\nof the interference covariance matrix. Then, this estimate is plugged in the\nadaptive matched filter to mitigate the deleterious effects of the noise-like\njammers on radar sensitivity. Besides, a second scenario, which also includes\nthe presence of coherent jammers, is addressed. Specifically, the sparse nature\nof data is brought to light and the compressive sensing paradigm is applied to\nestimate target response and coherent jammers amplitudes. The likelihood ratio\ntest, where the unknown parameters are replaced by previous estimates, is\ndesigned and assessed. Remarkably, the sparse approach allows for echo\nclassification and estimation of both angles of arrival and number of the\ninterfering sources. The performance analysis, conducted resorting to simulated\ndata, highlights the effectiveness of the newly proposed architectures also in\ncomparison with suitable competing architectures (when they exist).",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1901.01758"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.00992",
+    "title": "Title:High-order curvilinear hybrid mesh generation for CFD simulations",
+    "date_publ": "4 Jan 2019",
+    "authors": [
+      "Julian Marcon",
+      "Michael Turner",
+      "Joaquim Peir\u00f3",
+      "David Moxey",
+      "Claire R. Pollard",
+      "Henry Bucklow",
+      "Mark Gammo"
+    ],
+    "abstract": "Abstract:  We describe a semi-structured method for the generation of high-order hybrid\nmeshes suited for the simulation of high Reynolds number flows. This is\nachieved through the use of highly stretched elements in the viscous boundary\nlayers near the wall surfaces. CADfix is used to first repair any possible\ndefects in the CAD geometry and then generate a medial object based\ndecomposition of the domain that wraps the wall boundaries with partitions\nsuitable for the generation of either prismatic or hexahedral elements. The\nlatter is a novel distinctive feature of the method that permits to obtain\nwell-shaped hexahedral meshes at corners or junctions in the boundary layer.\nThe medial object approach allows greater control on the \"thickness\" of the\nboundary-layer mesh than is generally achievable with advancing layer\ntechniques. CADfix subsequently generates a hybrid straight sided mesh of\nprismatic and hexahedral elements in the near-field region modelling the\nboundary layer, and tetrahedral elements in the far-field region covering the\nrest of the domain. The mesh in the near-field region provides a framework that\nfacilitates the generation, via an isoparametric technique, of layers of highly\nstretched elements with a distribution of points in the direction normal to the\nwall tailored to efficiently and accurately capture the flow in the boundary\nlayer. The final step is the generation of a high-order mesh using NekMesh, a\nhigh-order mesh generator within the Nektar++ framework. NekMesh uses the\nCADfix API as a geometry engine that handles all the geometrical queries to the\nCAD geometry required during the high-order mesh generation process. We will\ndescribe in some detail the methodology using a simple geometry, a NACA wing\ntip, for illustrative purposes. Finally, we will present two examples of\napplication to reasonably complex geometries proposed by NASA as CFD validation\ncases.",
+    "categories": [
+      "Graphics (cs.GR)",
+      " Computational Geometry (cs.CG)",
+      " Computational Physics (physics.comp-ph)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1901.00992"
+  },
+  {
+    "url": "https://arxiv.org/abs/1901.00559",
+    "title": "Title:Flow Field Characteristics of a Supersonic Jet Influenced by Downstream Microjet Fluidic Injection",
+    "date_publ": "3 Jan 2019 (v1), last revised 19 Sep 2019 (this version, v2)",
+    "authors": [
+      "Hamideh Pourhashem",
+      "Sunil Kumar",
+      "Iraj M. Kalkhora"
+    ],
+    "abstract": "Abstract:  Mixing characteristics of a supersonic jet influenced by a Downstream\nMicrojet Fluidic Injection (DMFI) system are numerically investigated. The DMFI\nsystem is built on the observation of a previous experimental study that\nutilized transverse fluidic injection from four equally spaced injection ports\nplaced on an injection tube at a distance downstream of a 1.5 Mach number\nnozzle. The measurements from these previous experiments demonstrated\nthickening and mixing enhancement of the jet shear layer as a result of fluidic\ninjection. The current numerical study examines the underlying physics of the\nflow field, as well as the effectiveness of the DMFI system at smaller mass\nflow rate ratios compared to those utilized in the previous experiments.\nResults indicate good agreement with the trend observed by the experimental\nstudy, and considerable improvement in enhancement of the jet mixing is\nobserved. The observed mixing enhancement is attributed to the presence of the\nmicrojet tube and fluidic injection and the consequent generation of streamwise\nvortices, as well as the natural separating bow shock due to the transverse\nflow injection. DMFI system is shown to enhance the early mixing, resulting in\nattenuation of the downstream turbulence production. Furthermore, the DMFI\nsystem is demonstrated to be an effective method of mixing enhancement for\nsupersonic jets with a potential for reducing the jet noise radiation.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1901.00559"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.11667",
+    "title": "Title:Modular Inflatable Composites for Space Telescopes",
+    "date_publ": "31 Dec 2018",
+    "authors": [
+      "Aman Chandra",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  There is an every-growing need to construct large space telescopes and\nstructures for observation of exo-planets, main-belt asteroids and NEOs. Space\nobservation capabilities can significant enhanced by large-aperture structures.\nStructures extending to several meters in size could potentially revolutionize\nobservation enabling technologies. These include star-shades for imaging\ndistant objects such as exo-planets and high-resolution large aperture\ntelescopes. In addition to size, such structures require controllable precision\nsurfaces and high packing efficiencies. A promising approach to achieving high\ncompaction for large surface areas is by incorporating compliant materials or\ngossamers. Gossamer structures on their own do not meet stiffness requirements\nfor controlled deployment. Supporting stiffening mechanisms are required to\nfully realize their structural potential. The accuracy of the 'active' surface\nconstructed out of a gossamer additionally also depends on the load bearing\nstructure that supports it. This paper investigates structural assemblies\nconstructed from modular inflatable membranes stiffened pneumatically using\ninflation gas. These units assembled into composites can yield desirable\ncharacteristics. We present the design of large assemblies of these modular\nelements.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1812.11667"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.11663",
+    "title": "Title:An On-Orbit CubeSat Centrifuge for Asteroid Science and Exploration",
+    "date_publ": "31 Dec 2018",
+    "authors": [
+      "Jekan Thangavelautham",
+      "Erik Asphaug",
+      "Stephen Schwart"
+    ],
+    "abstract": "Abstract:  There are thousands of asteroids in near-Earth space and millions expected in\nthe Main Belt. They are diverse in their physical properties and compositions.\nThey are also time capsules of the early Solar System making them valuable for\nplanetary science, and are strategic for resource mining, planetary\ndefense/security and as interplanetary depots. But we lack direct knowledge of\nthe geophysical behavior of an asteroid surface under milligravity conditions,\nand therefore landing on an asteroid and manipulating its surface material\nremains a daunting challenge.\nTowards this goal we are putting forth plans for a 12U CubeSat that will be\nin Low Earth Orbit and that will operate as a spinning centrifuge on-orbit. In\nthis paper, we will present an overview of the systems engineering and\ninstrumentation design on the spacecraft. Parts of this 12U CubeSat will\ncontain a laboratory that will recreate asteroid surface conditions by\ncontaining crushed meteorite. The laboratory will spin at 1 to 2 RPM during the\nprimary mission to simulate surface conditions of asteroids 2 km and smaller,\nfollowed by an extended mission where the spacecraft will spin at even higher\nRPM. The result is a bed of realistic regolith, the environment that landers\nand diggers and maybe astronauts will interact with. The CubeSat is configured\nwith cameras, lasers, actuators and small mechanical instruments to both\nobserve and manipulate the regolith at low simulated gravity conditions. A\nseries of experiments will measure the general behavior, internal friction,\nadhesion, dilatancy, coefficients of restitution and other parameters that can\nfeed into asteroid surface dynamics simulations. Effective gravity can be\nvaried, and external mechanical forces can be applied.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1812.11663"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.11662",
+    "title": "Title:A Milli-Newton Propulsion System for the Asteroid Mobile Imager and Geologic Observer (AMIGO)",
+    "date_publ": "31 Dec 2018",
+    "authors": [
+      "Greg Wilburn",
+      "Erik Asphaug",
+      "Jekan Thangavelautha"
+    ],
+    "abstract": "Abstract:  Exploration of small bodies, namely comets and asteroids remain a challenging\nendeavor due to their low gravity. The risk is so high that missions such as\nHayabusa II and OSIRIS-REx will be performing touch and go missions to obtain\nsamples. The next logical step is to perform longer-term mobility on the\nsurface of these asteroid. This can be accomplished by sending small landers of\na 1 kg or less with miniature propulsion systems that can just offset the force\nof asteroid gravity. Such a propulsion system would ideally be used to hop on\nthe surface of the asteroid. Hopping has been found to be most efficient form\nof mobility on low-gravity. Use of wheels for rolling presents substantial\nchallenges as the wheel can't gain traction to roll. The Asteroid Mobile Imager\nand Geologic Observer (AMIGO) utilizes 1 kg landers that are stowed in a 1U\nCubeSat configuration and deployed, releasing an inflatable that is 1 m in\ndiameter. The inflatable is attached to the top of the 1U lander, enabling high\nspeed communications and a means of easily tracking lander from an overhead\nmothership. Milligravity propulsion is required for the AMIGO landers to\nperform ballistic hops on the asteroid surface. The propulsion system is used\nto navigate the lander across the surface of the asteroid under the extremely\nlow gravity while taking care to not exceed escape velocity.Although the\nconcept for AMIGO missions is to use multiple landers, the more surface area\nevaluated by each lander the better. Without a propulsion system, each AMIGO\nwill have a limited range of observable area. The propulsion system also serves\nas a rough attitude control system (ACS), as it enables pointing and regulation\nover where the lander is positioned via an array of MEMS thrusters.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1812.11662"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.09724",
+    "title": "Title:Parallelized Interactive Machine Learning on Autonomous Vehicles",
+    "date_publ": "23 Dec 2018",
+    "authors": [
+      "Xi Chen",
+      "Caylin Hicke"
+    ],
+    "abstract": "Abstract:  Deep reinforcement learning (deep RL) has achieved superior performance in\ncomplex sequential tasks by learning directly from image input. A deep neural\nnetwork is used as a function approximator and requires no specific state\ninformation. However, one drawback of using only images as input is that this\napproach requires a prohibitively large amount of training time and data for\nthe model to learn the state feature representation and approach reasonable\nperformance. This is not feasible in real-world applications, especially when\nthe data are expansive and training phase could introduce disasters that affect\nhuman safety. In this work, we use a human demonstration approach to speed up\ntraining for learning features and use the resulting pre-trained model to\nreplace the neural network in the deep RL Deep Q-Network (DQN), followed by\nhuman interaction to further refine the model. We empirically evaluate our\napproach by using only a human demonstration model and modified DQN with human\ndemonstration model included in the Microsoft AirSim car simulator. Our results\nshow that (1) pre-training with human demonstration in a supervised learning\napproach is better and much faster at discovering features than DQN alone, (2)\ninitializing the DQN with a pre-trained model provides a significant\nimprovement in training time and performance even with limited human\ndemonstration, and (3) providing the ability for humans to supply suggestions\nduring DQN training can speed up the network's convergence on an optimal\npolicy, as well as allow it to learn more complex policies that are harder to\ndiscover by random exploration.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Artificial Intelligence (cs.AI)",
+      " Human-Computer Interaction (cs.HC)"
+    ],
+    "url_pdf": "/pdf/1812.09724"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.06603",
+    "title": "Title:UWB Air-to-Ground Propagation Channel Measurements and Modeling using UAVs",
+    "date_publ": "17 Dec 2018",
+    "authors": [
+      "Wahab Khawaja",
+      "Ozgur Ozdemir",
+      "Fatih Erden",
+      "Ismail Guvenc",
+      "David Matola"
+    ],
+    "abstract": "Abstract:  This paper presents an experimental study of the air-to-ground (AG)\npropagation channel through ultrawideband(UWB) measurements in an open area\nusing unmanned-aerial-vehicles (UAVs). Measurements were performed using UWB\nradios operating at a frequency range of 3.1 GHz - 4.8 GHz and UWB planar\nelliptical dipole antennas having an omni-directional pattern in the azimuth\nplane and typical donut shaped pattern in the elevation plane. Three scenarios\nwere considered for the channel measurements: (i)two receivers (RXs) at\ndifferent heights above the ground and placed close to each other in\nline-of-sight (LOS) with the transmitter (TX) on the UAV and the UAV is\nhovering; (ii) RXs are in obstructed line-of-sight (OLOS) with the UAV TX due\nto foliage, and the UAV is hovering; and, (iii) UAV is moving in a circular\npath. Different horizontal and vertical distances between the RXs and TX were\nused in the measurements. In addition, two different antenna orientations were\nused on the UAV antennas (vertical and horizontal) to analyze the effects of\nantenna radiation patterns on the UWB AG propagation. From the empirical\nresults, it was observed that the received power depends mainly on the antenna\nradiation pattern in the elevation plane when the antennas are oriented in the\nsame direction, as expected for these omni-azimuth antennas. Moreover, the\noverall antenna gain at the TX and RX can be approximated using trigonometric\nfunctions of the elevation angle.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1812.06603"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.05389",
+    "title": "Title:Safely Entering the Deep: A Review of Verification and Validation for Machine Learning and a Challenge Elicitation in the Automotive Industry",
+    "date_publ": "13 Dec 2018",
+    "authors": [
+      "Markus Borg",
+      "Cristofer Englund",
+      "Krzysztof Wnuk",
+      "Boris Duran",
+      "Christoffer Levandowski",
+      "Shenjian Gao",
+      "Yanwen Tan",
+      "Henrik Kaijser",
+      "Henrik L\u00f6nn",
+      "Jonas T\u00f6rnqvis"
+    ],
+    "abstract": "Abstract:  Deep Neural Networks (DNN) will emerge as a cornerstone in automotive\nsoftware engineering. However, developing systems with DNNs introduces novel\nchallenges for safety assessments. This paper reviews the state-of-the-art in\nverification and validation of safety-critical systems that rely on machine\nlearning. Furthermore, we report from a workshop series on DNNs for perception\nwith automotive experts in Sweden, confirming that ISO 26262 largely\ncontravenes the nature of DNNs. We recommend aerospace-to-automotive knowledge\ntransfer and systems-based safety approaches, e.g., safety cage architectures\nand simulated system test cases.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1812.05389"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.04845",
+    "title": "Title:A Tensor-based Structural Health Monitoring Approach for Aeroservoelastic Systems",
+    "date_publ": "11 Dec 2018",
+    "authors": [
+      "Prasad Cheema",
+      "Nguyen Lu Dang Khoa",
+      "Moray Kidd",
+      "Gareth A. Vi"
+    ],
+    "abstract": "Abstract:  Structural health monitoring is a condition-based field of study utilised to\nmonitor infrastructure, via sensing systems. It is therefore used in the field\nof aerospace engineering to assist in monitoring the health of aerospace\nstructures. A difficulty however is that in structural health monitoring the\ndata input is usually from sensor arrays, which results in data which are\nhighly redundant and correlated, an area in which traditional two-way matrix\napproaches have had difficulty in deconstructing and interpreting. Newer\nmethods involving tensor analysis allow us to analyse this multi-way structural\ndata in a coherent manner. In our approach, we demonstrate the usefulness of\ntensor-based learning coupled with for damage detection, on a novel $N$-DoF\nLagrangian aeroservoelastic model.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1812.04845"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.02948",
+    "title": "Title:A Survey on Artificial Intelligence Trends in Spacecraft Guidance Dynamics and Control",
+    "date_publ": "7 Dec 2018",
+    "authors": [
+      "Dario Izzo",
+      "Marcus M\u00e4rtens",
+      "Binfeng Pa"
+    ],
+    "abstract": "Abstract:  The rapid developments of Artificial Intelligence in the last decade are\ninfluencing Aerospace Engineering to a great extent and research in this\ncontext is proliferating. We share our observations on the recent developments\nin the area of Spacecraft Guidance Dynamics and Control, giving selected\nexamples on success stories that have been motivated by mission designs. Our\nfocus is on evolutionary optimisation, tree searches and machine learning,\nincluding deep learning and reinforcement learning as the key technologies and\ndrivers for current and future research in the field. From a high-level\nperspective, we survey various scenarios for which these approaches have been\nsuccessfully applied or are under strong scientific investigation. Whenever\npossible, we highlight the relations and synergies that can be obtained by\ncombining different techniques and projects towards future domains for which\nnewly emerging artificial intelligence techniques are expected to become game\nchangers.",
+    "categories": [
+      "Neural and Evolutionary Computing (cs.NE)"
+    ],
+    "url_pdf": "/pdf/1812.02948"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.02792",
+    "title": "Title:UAV Command and Control, Navigation and Surveillance: A Review of Potential 5G and Satellite Systems",
+    "date_publ": "6 Dec 2018 (v1), last revised 17 Apr 2020 (this version, v2)",
+    "authors": [
+      "Nozhan Hosseini",
+      "Hosseinali Jamal",
+      "David W. Matolak",
+      "Jamal Haque",
+      "Thomas Magesache"
+    ],
+    "abstract": "Abstract:  Drones, unmanned aerial vehicles (UAVs), or unmanned aerial systems (UAS) are\nexpected to be an important component of 5G/beyond 5G (B5G) communications.\nThis includes their use within cellular architectures (5G UAVs), in which they\ncan facilitate both wireless broadcast and point-to-point transmissions,\nusually using small UAS (sUAS). Allowing UAS to operate within airspace along\nwith commercial, cargo, and other piloted aircraft will likely require\ndedicated and protected aviation spectrum at least in the near term, while\nregulatory authorities adapt to their use. The command and control (C2), or\ncontrol and non-payload communications (CNPC) link provides safety critical\ninformation for the control of the UAV both in terrestrial-based line of sight\n(LOS) conditions and in satellite communication links for so-called beyond LOS\n(BLOS) conditions. In this paper, we provide an overview of these CNPC links as\nthey may be used in 5G and satellite systems by describing basic concepts and\nchallenges. We review new entrant technologies that might be used for UAV C2 as\nwell as for payload communication, such as millimeter wave (mmWave) systems,\nand also review navigation and surveillance challenges. A brief discussion of\nUAV-to-UAV communication and hardware issues are also provided.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1812.02792"
+  },
+  {
+    "url": "https://arxiv.org/abs/1812.01689",
+    "title": "Title:Training for 'Unstable' CNN Accelerator:A Case Study on FPGA",
+    "date_publ": "2 Dec 2018",
+    "authors": [
+      "KouZi Xin"
+    ],
+    "abstract": "Abstract:  With the great advancements of convolution neural networks(CNN), CNN\naccelerators are increasingly developed and deployed in the major computing\nthis http URL make use of the CNN accelerators, CNN models are trained via the\noff-line training systems such as Caffe, Pytorch and Tensorflow on multi-core\nCPUs and GPUs first and then compiled to the target accelerators. Although the\ntwo-step process seems to be natural and has been widely applied, it assumes\nthat the accelerators' behavior can be fully modeled on CPUs and GPUs. This\ndoes not hold true and the behavior of the CNN accelerators is un-deterministic\nwhen the circuit works at 'unstable' mode when it is overclocked or is affected\nby the environment like fault-prone aerospace. The exact behaviors of the\naccelerators are determined by both the chip fabrication and the working\nenvironment or status. In this case, applying the conventional off-line\ntraining result to the accelerators directly may lead to considerable accuracy\nloss.\nTo address this problem, we propose to train for the 'unstable' CNN\naccelerator and have the 'un-determined behavior' learned together with the\ndata in the same framework. Basically, it starts from the off-line trained\nmodel and then integrates the uncertain circuit behaviors into the CNN models\nthrough additional accelerator-specific training. The fine-tuned training makes\nthe CNN models less sensitive to the circuit uncertainty. We apply the design\nmethod to both an overclocked CNN accelerator and a faulty accelerator.\nAccording to our experiments on a subset of ImageNet, the accelerator-specific\ntraining can improve the top 5 accuracy up to 3.4% and 2.4% on average when the\nCNN accelerator is at extreme overclocking. When the accelerator is exposed to\na faulty environment, the top 5 accuracy improves up to 6.8% and 4.28% on\naverage under the most severe fault injection.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1812.01689"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.12523",
+    "title": "Title:Covariance-Based Multiple-Impulse Rendezvous Design",
+    "date_publ": "29 Nov 2018",
+    "authors": [
+      "Amir Shakouri",
+      "Maryam Kiani",
+      "Seid H. Pourtakdous"
+    ],
+    "abstract": "Abstract:  A novel trajectory design methodology is proposed in the current work to\nminimize the state uncertainty in the crucial mission of spacecraft rendezvous.\nThe trajectory is shaped under constraints utilizing a multiple-impulse\napproach. State uncertainty is characterized in terms of covariance, and the\nimpulse time as the only affective parameter in uncertainty propagation is\nselected to minimize the trace of the covariance matrix. Further, the impulse\nlocation is also adopted as the other design parameter to satisfy various\ntranslational constraints of the space mission. Efficiency and viability of the\nproposed idea have been investigated through some scenarios that include\nconstraints on final time, control effort, and maximum thruster limit addition\nto considering safe corridors. The obtained results show that proper selection\nof the impulse time and impulse position fulfils a successful feasible\nrendezvous mission with minimum uncertainty.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1811.12523"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.08361",
+    "title": "Title:DNN Transfer Learning from Diversified Micro-Doppler for Motion Classification",
+    "date_publ": "20 Nov 2018",
+    "authors": [
+      "Mehmet Saygin Seyfioglu",
+      "Baris Erol",
+      "Sevgi Zubeyde Gurbuz",
+      "Moeness G. Ami"
+    ],
+    "abstract": "Abstract:  Recently, deep neural networks (DNNs) have been the subject of intense\nresearch for the classification of radio frequency (RF) signals, such as\nsynthetic aperture radar (SAR) imagery or micro-Doppler signatures. However, a\nfundamental challenge is the typically small amount of data available due to\nthe high costs and resources required for measurements. Small datasets limit\nthe depth of DNNs implementable, and limit performance. In this work, a novel\nmethod for generating diversified radar micro-Doppler signatures using\nKinect-based motion capture simulations is proposed as a training database for\ntransfer learning with DNNs. In particular, it is shown that together with\nresidual learning, the proposed DivNet approach allows for the construction of\ndeeper neural networks and offers improved performance in comparison to\ntransfer learning from optical imagery. Furthermore, it is shown that\ninitializing the network using diversified synthetic micro-Doppler signatures\nenables not only robust performance for previously unseen target profiles, but\nalso class generalization. Results are presented for 7-class and 11-class human\nactivity recognition scenarios using a 4-GHz continuous wave (CW)\nsoftware-defined radar.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1811.08361"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.05765",
+    "title": "Title:Koopman-Based Approach to Non-intrusive Projection-Based Reduced-Order Modeling with Black-Box High-Fidelity Models. Part II: Application",
+    "date_publ": "11 Nov 2018 (v1), last revised 17 Jun 2019 (this version, v2)",
+    "authors": [
+      "S. Ashwin Renganatha"
+    ],
+    "abstract": "Abstract:  A methodology for non-intrusive, projection-based non-linear model reduction\noriginally presented by Renganathan et. al.\n(2018)~\\cite{renganathan2018koopman} is further extended towards parametric\nsystems with focus on application to aerospace design. Specifically, we extend\nthe method for static systems with parametric geometry (that deforms the mesh),\nin addition to parametric boundary conditions. The main idea is to first\nperform a transformation on the governing equations such that it is lifted to a\nhigher dimensional but linear under-determined system. This enables one to\nextract the system matrices easily compared to that of the original non-linear\nsystem. The under-determined system is closed with a set of model-dependent\nnon-linear constraints upon which the model reduction is finally performed. The\nmethodology is validated on the subsonic and transonic inviscid flow past the\nNACA0012 and the RAE2822 airfoils. We further demonstrate the utility of the\napproach by applying it to two common problems in aerospace design namely,\nderivative-free global optimization and parametric uncertainty quantification\nwith Monte Carlo sampling. Overall, the methodology is shown to achieve\naccuracy upto 5\\% and computational speed-up of 2-3 orders of magnitude as that\nof the full-order model. Comparison against another non-intrusive model\nreduction method revealed that the proposed approach is more robust, accurate\nand retains the consistency between the state variables.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1811.05765"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.05289",
+    "title": "Title:Beyond traditional coatings, a review on thermal sprayed functional and smart coatings",
+    "date_publ": "13 Nov 2018 (v1), last revised 25 Mar 2019 (this version, v2)",
+    "authors": [
+      "Daniel Tejero-Martin",
+      "Milad Rezvani Rad",
+      "Andr\u00e9 McDonald",
+      "Tanvir Hussai"
+    ],
+    "abstract": "Abstract:  Thermal spraying has been present for over a century, being greatly refined\nand optimised during this time, becoming nowadays a reliable and cost-efficient\nmethod to deposit thick coatings with a wide variety of feedstock materials and\nsubstrates. Thermal sprayed coatings have been successfully applied in fields\nsuch as aerospace or electricity production, becoming an essential component of\ntoday's industry. To overpass the traditional capabilities of those coatings,\nnew functionalities and coherent responses are being integrated, opening the\nfield of functional and smart coatings. The aim of this paper is to present a\ncomprehensive review of the current state of functional and smart coatings\nproduced using thermal spraying deposition. It will first describe the\ndifferent thermal spraying technologies, with a focus on how different\ntechniques achieve the thermal and kinetic energy required to form a coating,\nas well as the environment to which feedstock particles are exposed in terms of\ntemperature and velocity. It will then deal with the state-of-the-art\nfunctional and smart coatings applied using thermal spraying techniques, with a\ndiscussion on the fundamentals on which the coatings are designed, the\nefficiency of its performance and the industrial applications, both current and\npotential. The inherent designing flexibility of thermal sprayed functional and\nsmart coatings has been exploited to explore exciting new possibilities on many\ndifferent fields. Applications such as anti-bacterial and anti-fouling\ncoatings, superhydrophobic surfaces, electrical and heating devices for\nfunctional coatings and self-healing, self-lubricating and sensors for smart\ncoatings are here presented and discussed. All these exciting developments pave\nthe way for the numerous applications that are to come in the next decade,\nmaking the field of thermal sprayed coatings a unique opportunity for research.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/1811.05289"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.02903",
+    "title": "Title:The Effect of Thermal History on Microstructural Evolution, Cold-Work Refinement and \u03b1/\\b{eta} Growth in Ti-6Al-4V Wire + Arc AM",
+    "date_publ": "7 Nov 2018",
+    "authors": [
+      "Jan H\u00f6nnige",
+      "Paul Colegrove",
+      "Phil Prangnell",
+      "Alistair Ho",
+      "Stewart William"
+    ],
+    "abstract": "Abstract:  Wire + arc additive manufacture (WAAM) is an attractive method for\nmanufacturing large-scale aerospace components, however the microstructural\nchanges that occur and the effect of interpass rolling are poorly understood.\nTherefore two fundamental studies were conducted: the first involved\ntemperature measurement of a wrought dummy wall so that the microstructural\nchanges in the heat affected zone (HAZ) could be related to the thermal cycle.\nThis demonstrated that the white band in the microstructure corresponded to 825\nC well below the beta-transus temperature and above this boundary the bi-modal\nsubstrate material was converted to lamellar. The second involved peening WAAM\nmaterial along the side of a deposited wall before applying a typical WAAM\nthermal heat treatment. This showed that refinement occurred up to the first\nlayer band in the microstructure and the smallest grains were observed just\nabove this boundary at higher temperatures significant grain growth occurred.\nThis study has provided the foundational understanding of microstructural\nchanges that will facilitate future process developments.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/1811.02903"
+  },
+  {
+    "url": "https://arxiv.org/abs/1811.02098",
+    "title": "Title:Software Defined Radio Implementation of Carrier and Timing Synchronization for Distributed Arrays",
+    "date_publ": "6 Nov 2018",
+    "authors": [
+      "Han Yan",
+      "Samer Hanna",
+      "Kevin Balke",
+      "Riten Gupta",
+      "Danijela Cabri"
+    ],
+    "abstract": "Abstract:  The communication range of wireless networks can be greatly improved by using\ndistributed beamforming from a set of independent radio nodes. One of the key\nchallenges in establishing a beamformed communication link from separate radios\nis achieving carrier frequency and sample timing synchronization. This paper\ndescribes an implementation that addresses both carrier frequency and sample\ntiming synchronization simultaneously using RF signaling between designated\nmaster and slave nodes. By using a pilot signal transmitted by the master node,\neach slave estimates and tracks the frequency and timing offset and digitally\ncompensates for them. A real-time implementation of the proposed system was\ndeveloped in GNU Radio and tested with Ettus USRP N210 software defined radios.\nThe measurements show that the distributed array can reach a residual frequency\nerror of 5 Hz and a residual timing offset of 1/16 the sample duration for 70\npercent of the time. This performance enables distributed beamforming for range\nextension applications.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1811.02098"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.06241",
+    "title": "Title:Investigation of neutron scattering in the Multi-Blade detector with Geant4 simulations",
+    "date_publ": "15 Oct 2018 (v1), last revised 27 Nov 2018 (this version, v2)",
+    "authors": [
+      "Gabor Galgoczi",
+      "Kalliopi Kanaki",
+      "Francesco Piscitelli",
+      "Thomas Kittelmann",
+      "Dezso Varga",
+      "Richard Hall-Wilto"
+    ],
+    "abstract": "Abstract:  The European Spallation Source (ESS) is the world's next generation\nspallation-based neutron source. The research conducted at ESS will yield in\nthe discovery and development of new materials including the fields of\nmanufacturing, pharmaceuticals, aerospace, engines, plastics, energy,\ntelecommunications, transportation, information technology and biotechnology.\nThe spallation source will deliver an unprecedented neutron flux. In\nparticular, the reflectometers selected for construction, ESTIA and FREIA, have\nto fulfill challenging requirements. Local incident peak rate can reach\n10$^5$~Hz/mm$^2$. For new science to be addressed, the spatial resolution is\naimed to be less than 1 mm with a desired scattering of 10$^{-4}$ (peak-to-tail\nratio). The latter requirement is approximately two orders of magnitude better\nthan the current state-of-the-art detectors. The main aim of this work is to\nquantify the cumulative contribution of various detector components to the\nscattering of neutrons and to prove that the respective effect is within the\nrequirements set for the Multi-Blade detector by the ESS reflectometers. To\nthis end, different sets of geometry and beam parameters are investigated, with\nprimary focus on the cathode coating and the detector window thickness.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/1810.06241"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.04085",
+    "title": "Title:Optimal Post-Detection Integration Technique for the Reacquisition of Weak GNSS Signals",
+    "date_publ": "8 Oct 2018",
+    "authors": [
+      "David G\u00f3mez-Casco",
+      "Jos\u00e9 A. L\u00f3pez-Salcedo",
+      "Gonzalo Seco-Granado"
+    ],
+    "abstract": "Abstract:  This paper tackles the problem of finding the optimal non-coherent detector\nfor the reacquisition of weak Global Navigation Satellite System (GNSS) signals\nin the presence of bits and phase uncertainty. Two solutions are derived based\non using two detection frameworks: the Bayesian approach and the generalized\nlikelihood ratio test (GLRT). We also derive approximate detectors of reduced\ncomputation complexity and without noticeable performance degradation.\nSimulation results reveal a clear improvement of the detection probability for\nthe proposed techniques with respect to the conventional detectors implemented\nin high sensitivity GNSS (HS-GNSS) receivers to acquire weak GNSS signals.\nFinally, we draw conclusions on which is the best technique to reacquire weak\nGNSS signals in practice considering a trade-off between performance and\ncomplexity.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1810.04085"
+  },
+  {
+    "url": "https://arxiv.org/abs/1810.00542",
+    "title": "Title:Corrections to the higher moments of the heavy ion energy-loss distribution beyond the Born approximation. II. Beta dependence of Mott's corrections",
+    "date_publ": "1 Oct 2018 (v1), last revised 18 Dec 2018 (this version, v3)",
+    "authors": [
+      "O. Voskresenskay"
+    ],
+    "abstract": "Abstract:  The Mott corrections to the higher moments of the heavy ion energy-loss\ndistribution are calculated in a wide range of relative particle velocity on\nthe basis of the Mott exact cross section. It is shown that the relative Mott\ncorrections to the first-order Born central moments and normalized central\nmoments reach a large value over the range under consideration.",
+    "categories": [
+      "High Energy Physics - Phenomenology (hep-ph)"
+    ],
+    "url_pdf": "/pdf/1810.00542"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.07396",
+    "title": "Title:High-temperature Ultraviolet Photodetectors: A Review",
+    "date_publ": "19 Sep 2018",
+    "authors": [
+      "Ruth A. Miller",
+      "Hongyun So",
+      "Thomas A. Heuser",
+      "Debbie G. Senesk"
+    ],
+    "abstract": "Abstract:  Wide bandgap semiconductors have become the most attractive materials in\noptoelectronics in the last decade. Their wide bandgap and intrinsic properties\nhave advanced the development of reliable photodetectors to selectively detect\nshort wavelengths (i.e., ultraviolet, UV) in high temperature regions (up to\n300\u00b0C). The main driver for the development of high-temperature UV\ndetection instrumentation is in-situ monitoring of hostile environments and\nprocesses found within industrial, automotive, aerospace, and energy production\nsystems that emit UV signatures. In this review, a summary of the optical\nperformance (in terms of photocurrent-to-dark current ratio, responsivity,\nquantum efficiency, and response time) and uncooled, high-temperature\ncharacterization of III-nitride, SiC, and other wide bandgap semiconductor UV\nphotodetectors is presented.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/1809.07396"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.07238",
+    "title": "Title:Pose Estimation for Non-Cooperative Spacecraft Rendezvous Using Convolutional Neural Networks",
+    "date_publ": "19 Sep 2018",
+    "authors": [
+      "Sumant Sharma",
+      "Connor Beierle",
+      "Simone D'Amic"
+    ],
+    "abstract": "Abstract:  On-board estimation of the pose of an uncooperative target spacecraft is an\nessential task for future on-orbit servicing and close-proximity formation\nflying missions. However, two issues hinder reliable on-board monocular vision\nbased pose estimation: robustness to illumination conditions due to a lack of\nreliable visual features and scarcity of image datasets required for training\nand benchmarking. To address these two issues, this work details the design and\nvalidation of a monocular vision based pose determination architecture for\nspaceborne applications. The primary contribution to the state-of-the-art of\nthis work is the introduction of a novel pose determination method based on\nConvolutional Neural Networks (CNN) to provide an initial guess of the pose in\nreal-time on-board. The method involves discretizing the pose space and\ntraining the CNN with images corresponding to the resulting pose labels. Since\nreliable training of the CNN requires massive image datasets and computational\nresources, the parameters of the CNN must be determined prior to the mission\nwith synthetic imagery. Moreover, reliable training of the CNN requires\ndatasets that appropriately account for noise, color, and illumination\ncharacteristics expected in orbit. Therefore, the secondary contribution of\nthis work is the introduction of an image synthesis pipeline, which is tailored\nto generate high fidelity images of any spacecraft 3D model. The proposed\ntechnique is scalable to spacecraft of different structural and physical\nproperties as well as robust to the dynamic illumination conditions of space.\nThrough metrics measuring classification and pose accuracy, it is shown that\nthe presented architecture has desirable robustness and scalable properties.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1809.07238"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.06449",
+    "title": "Title:Indium Tin Oxide/Barium Strontium Titanate THz Sensor Antenna",
+    "date_publ": "17 Sep 2018",
+    "authors": [
+      "Sai Dittakavi",
+      "Ibrahim Abdel-Motale"
+    ],
+    "abstract": "Abstract:  A Bow-Tie ITO/BST and Au/BST antennas were designed and analyzed using the\nfinite element, Multiphysics COMSOL program. The study shows that the outputs\npeak at several modes and ITO antennas allow for the integration of the antenna\nwith optoelectronic devices.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/1809.06449"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.05958",
+    "title": "Title:Autonomous drone race: A computationally efficient vision-based navigation and control strategy",
+    "date_publ": "16 Sep 2018 (v1), last revised 15 Dec 2019 (this version, v2)",
+    "authors": [
+      "S.Li",
+      "M.M.O.I. Ozo",
+      "C. De Wagter",
+      "G.C.H.E. de Croo"
+    ],
+    "abstract": "Abstract:  Drone racing is becoming a popular sport where human pilots have to control\ntheir drones to fly at high speed through complex environments and pass a\nnumber of gates in a pre-defined sequence. In this paper, we develop an\nautonomous system for drones to race fully autonomously using only onboard\nresources. Instead of commonly used visual navigation methods, such as\nsimultaneous localization and mapping and visual inertial odometry, which are\ncomputationally expensive for micro aerial vehicles (MAVs), we developed the\nhighly efficient snake gate detection algorithm for visual navigation, which\ncan detect the gate at 20HZ on a Parrot Bebop drone. Then, with the gate\ndetection result, we developed a robust pose estimation algorithm which has\nbetter tolerance to detection noise than a state-of-the-art perspective-n-point\nmethod. During the race, sometimes the gates are not in the drone's field of\nview. For this case, a state prediction-based feed-forward control strategy is\ndeveloped to steer the drone to fly to the next gate. Experiments show that the\ndrone can fly a half-circle with 1.5m radius within 2 seconds with only 30cm\nerror at the end of the circle without any position feedback. Finally, the\nwhole system is tested in a complex environment (a showroom in the faculty of\nAerospace Engineering, TU Delft). The result shows that the drone can complete\nthe track of 15 gates with a speed of 1.5m/s which is faster than the speeds\nexhibited at the 2016 and 2017 IROS autonomous drone races.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1809.05958"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.04509",
+    "title": "Title:Dissipation engineering in metamaterials by localized structural dynamics",
+    "date_publ": "12 Sep 2018",
+    "authors": [
+      "Clemence L. Bacquet",
+      "Mahmoud I. Hussei"
+    ],
+    "abstract": "Abstract:  In civil, mechanical, and aerospace engineering, structural dynamics is\ncommonly understood to be a discipline concerned with the analysis and\ncharacterization of the vibratory response of structures. Key elements of the\nresponse are the amplitude, phase, and damping ratio, which are quantities that\nvary with the excitation frequency. In this paper, we extend the discipline of\nstructural dynamics to the realm of materials engineering by intrinsically\nbuilding localized substructures within, or attached to, the material domain\nitself$-$which is viewed as an extended medium without defined external\nboundaries. Our system is essentially a locally resonant elastic metamaterial,\nexcept here it is viewed from the perspective of unique dissipation\ncharacteristics rather than subwavelength effective properties or band gaps, as\nwidely done in the literature. We provide a theory, validated by experiments,\nfor substructurally synthesizing the dissipation under the conditions of\nfree-wave motion, i.e., waves not constrained to a prescribed driving\nfrequency. We use an extended elastic beam with attached pillars as an example\nof a metamaterial. When compared to an identical infinite beam with no attached\nsubstructures, we show that within certain frequency ranges the metamaterial\nexhibits either enhanced or reduced dissipation$-$which we refer to as positive\nand negative metadamping, respectively. These regimes are rigorously identified\nand characterized using the metamaterial's band structure and\nwavenumber-dependent dissipation diagram. This theory impacts applications that\nrequire a combination of high stiffness and high damping or, conversely,\napplications that benefit from a reduction in loss without the need to change\nthe backbone constituent material.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1809.04509"
+  },
+  {
+    "url": "https://arxiv.org/abs/1809.00542",
+    "title": "Title:Machine learning for predicting thermal power consumption of the Mars Express Spacecraft",
+    "date_publ": "3 Sep 2018 (v1), last revised 16 Jan 2019 (this version, v2)",
+    "authors": [
+      "Matej Petkovi\u0107",
+      "Redouane Boumghar",
+      "Martin Breskvar",
+      "Sa\u0161o D\u017eeroski",
+      "Dragi Kocev",
+      "Jurica Levati\u0107",
+      "Luke Lucas",
+      "Alja\u017e Osojnik",
+      "Bernard \u017denko",
+      "Nikola Simidjievsk"
+    ],
+    "abstract": "Abstract:  The thermal subsystem of the Mars Express (MEX) spacecraft keeps the on-board\nequipment within its pre-defined operating temperatures range. To plan and\noptimize the scientific operations of MEX, its operators need to estimate in\nadvance, as accurately as possible, the power consumption of the thermal\nsubsystem. The remaining power can then be allocated for scientific purposes.\nWe present a machine learning pipeline for efficiently constructing accurate\npredictive models for predicting the power of the thermal subsystem on board\nMEX. In particular, we employ state-of-the-art feature engineering approaches\nfor transforming raw telemetry data, in turn used for constructing accurate\nmodels with different state-of-the-art machine learning methods. We show that\nthe proposed pipeline considerably improve our previous (competition-winning)\nwork in terms of time efficiency and predictive performance. Moreover, while\nachieving superior predictive performance, the constructed models also provide\nimportant insight into the spacecraft's behavior, allowing for further analyses\nand optimal planning of MEX's operation.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1809.00542"
+  },
+  {
+    "url": "https://arxiv.org/abs/1808.08871",
+    "title": "Title:B\u00e9zierGAN: Automatic Generation of Smooth Curves from Interpretable Low-Dimensional Parameters",
+    "date_publ": "27 Aug 2018 (v1), last revised 5 Jan 2021 (this version, v2)",
+    "authors": [
+      "Wei Chen",
+      "Mark Fug"
+    ],
+    "abstract": "Abstract:  Many real-world objects are designed by smooth curves, especially in the\ndomain of aerospace and ship, where aerodynamic shapes (e.g., airfoils) and\nhydrodynamic shapes (e.g., hulls) are designed. To facilitate the design\nprocess of those objects, we propose a deep learning based generative model\nthat can synthesize smooth curves. The model maps a low-dimensional latent\nrepresentation to a sequence of discrete points sampled from a rational\nB\u00e9zier curve. We demonstrate the performance of our method in completing both\nsynthetic and real-world generative tasks. Results show that our method can\ngenerate diverse and realistic curves, while preserving consistent shape\nvariation in the latent space, which is favorable for latent space design\noptimization or design space exploration.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Artificial Intelligence (cs.AI)",
+      " Computational Geometry (cs.CG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1808.08871"
+  },
+  {
+    "url": "https://arxiv.org/abs/1808.08560",
+    "title": "Title:Convolutional Neural Networks for Aerial Vehicle Detection and Recognition",
+    "date_publ": "26 Aug 2018",
+    "authors": [
+      "Amir Soleimani",
+      "Nasser M. Nasrabadi",
+      "Elias Griffith",
+      "Jason Ralph",
+      "Simon Maskel"
+    ],
+    "abstract": "Abstract:  This paper investigates the problem of aerial vehicle recognition using a\ntext-guided deep convolutional neural network classifier. The network receives\nan aerial image and a desired class, and makes a yes or no output by matching\nthe image and the textual description of the desired class. We train and test\nour model on a synthetic aerial dataset and our desired classes consist of the\ncombination of the class types and colors of the vehicles. This strategy helps\nwhen considering more classes in testing than in training.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1808.08560"
+  },
+  {
+    "url": "https://arxiv.org/abs/1808.03972",
+    "title": "Title:A Facile Approach to Prepare Self-Assembled, Nacre-Inspired Clay/Polymer Nano-Composites",
+    "date_publ": "12 Aug 2018",
+    "authors": [
+      "Peicheng Xu",
+      "Talha Erdem",
+      "Erika Eise"
+    ],
+    "abstract": "Abstract:  Nature provides many paradigms for the design and fabrication of artificial\ncomposite materials. Inspired by the relationship between the well-ordered\narchitecture and biopolymers found in natural nacre, we present a facile\nstrategy to construct large-scale organic/inorganic nacre-mimetics with\nhierarchical structure via a water-evaporation self-assembly process. Through\nhydrogen bonding, we connect Laponite-nanoclay platelets with each other using\nnaturally abundant cellulose creating thin, flexible films with a local\nbrick-and-mortar architecture. While the aqueous solution displays liquid\ncrystalline textures, the dried films show a pronounced Young's modulus (9.09\nGPa) with a maximum strength of 298.02 MPa and toughness of 16.63 MJm-3. In\nterms of functionalities, we report excellent glass-like transparency along\nwith exceptional shape-persistent flame shielding. We also demonstrate that\nthrough metal ion-coordination we can further strengthen the interactions\nbetween the polymers and the nanoclays. These ion-treated hybrid films exhibit\nfurther enhanced mechanical, and thermal properties as well as resistance\nagainst swelling and dissolution in aqueous environments. We believe that our\nsimple pathway to fabricate such versatile polymer/clay nanocomposites can open\navenues for inexpensive production of environmentally friendly, biomimetic\nmaterials in aerospace, wearable electrical devices, artificial muscle, and\nfood packaging industry.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/1808.03972"
+  },
+  {
+    "url": "https://arxiv.org/abs/1808.03817",
+    "title": "Title:Fast RodFIter for Attitude Reconstruction from Inertial Measurements",
+    "date_publ": "11 Aug 2018",
+    "authors": [
+      "Yuanxin Wu",
+      "Qi Cai",
+      "Tnieu-Kien Truon"
+    ],
+    "abstract": "Abstract:  Attitude computation is of vital importance for a variety of applications.\nBased on the functional iteration of the Rodrigues vector integration equation,\nthe RodFIter method can be advantageously applied to analytically reconstruct\nthe attitude from discrete gyroscope measurements over the time interval of\ninterest. It is promising to produce ultra-accurate attitude reconstruction.\nHowever, the RodFIter method imposes high computational load and does not lend\nitself to onboard implementation. In this paper, a fast approach to\nsignificantly reduce RodFIter's computation complexity is presented while\nmaintaining almost the same accuracy of attitude reconstruction. It\nreformulates the Rodrigues vector iterative integration in terms of the\nChebyshev polynomial iteration. Due to the excellent property of Chebyshev\npolynomials, the fast RodFIter is achieved by means of appropriate truncation\nof Chebyshev polynomials, with provably guaranteed convergence. Moreover,\nsimulation results validate the speed and accuracy of the proposed method.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1808.03817"
+  },
+  {
+    "url": "https://arxiv.org/abs/1808.02707",
+    "title": "Title:A Method for Estimating the Probability of Extremely Rare Accidents in Complex Systems",
+    "date_publ": "8 Aug 2018",
+    "authors": [
+      "\u00cdtalo Romani de Oliveira",
+      "Jeffery Musia"
+    ],
+    "abstract": "Abstract:  Estimating the probability of failures or accidents with aerospace systems is\noften necessary when new concepts or designs are introduced, as it is being\ndone for Autonomous Aircraft. If the design is safe, as it is supposed to be,\naccident cases are hard to find. Such analysis needs some variance reduction\ntechnique and several algorithms exist for that, however specific model\nfeatures may cause difficulties in practice, such as the case of system models\nwhere independent agents have to autonomously accomplish missions within finite\ntime, and likely with the presence of human agents. For handling these\nscenarios, this paper presents a novel estimation approach, based on the\ncombination of the well-established variation reduction technique of\nInteracting Particles System (IPS) with the long-standing optimization\nalgorithm denominated DIviding RECTangles (DIRECT). When combined, these two\ntechniques yield statistically significant results for extremely low\nprobabilities. In addition, this novel approach allows the identification of\nintermediate events and simplifies the evaluation of sensitivity of the\nestimated probabilities to certain system parameters.",
+    "categories": [
+      "Applications (stat.AP)",
+      " Computational Engineering, Finance, and Science (cs.CE)",
+      " Multiagent Systems (cs.MA)"
+    ],
+    "url_pdf": "/pdf/1808.02707"
+  },
+  {
+    "url": "https://arxiv.org/abs/1808.00366",
+    "title": "Title:Pedestrian Motion Direction Estimation Using Simulated Automotive MIMO Radar",
+    "date_publ": "1 Aug 2018",
+    "authors": [
+      "Petro Khomchuk",
+      "Inna Stainvas",
+      "Igal Bili"
+    ],
+    "abstract": "Abstract:  Micro-Doppler-based target classification capabilities of the automotive\nradars can provide high reliability and short latency to the future active\nsafety automotive features. A large number of pedestrians surrounding vehicle\nin practical urban scenarios mandate prioritization of their treat level.\nClassification between relevant pedestrians that cross the street or are within\nthe vehicle path and those that are on the sidewalks and move along the vehicle\nrout can significantly minimize a number of vehicle-to-pedestrian accidents.\nThis work proposes a novel technique for a pedestrian direction of motion\nestimation which treats pedestrians as complex distributed targets and utilizes\ntheir micro-Doppler (MD) radar signatures. The MD signatures are shown to be\nindicative of pedestrian direction of motion, and the supervised regression is\nused to estimate the mapping between the directions of motion and the\ncorresponding MD signatures. In order to achieve higher regression performance,\nthe state of the art sparse dictionary learning based feature extraction\nalgorithm was adopted from the field of computer vision by drawing a parallel\nbetween the Doppler effect and the video temporal gradient.\nThe performance of the proposed approach is evaluated in a practical\nautomotive scenario simulations, where a walking pedestrian is observed by a\nmultiple-input-multiple-output (MIMO) automotive radar with a 2D rectangular\narray. The simulated data was generated using the statistical Boulic-Thalman\nhuman locomotion model. Accurate direction of motion estimation was achieved by\nusing a support vector regression (SVR) and a multilayer perceptron (MLP) based\nregression algorithms. The results show that the direction estimation error is\nless than $10^{\\circ}$ in $95\\%$ of the tested cases, for pedestrian at the\nrange of $100$m from the radar.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1808.00366"
+  },
+  {
+    "url": "https://arxiv.org/abs/1807.04387",
+    "title": "Title:Exactly Decoupled Kalman Filtering for Multitarget State Estimation with Sensor Bias",
+    "date_publ": "12 Jul 2018 (v1), last revised 15 Oct 2019 (this version, v2)",
+    "authors": [
+      "Jianxin Yi",
+      "Xianrong Wan",
+      "Deshi L"
+    ],
+    "abstract": "Abstract:  The problem of multisensor multitarget state estimation in the presence of\nconstant but unknown sensor biases is investigated. The classical approach to\nthis problem is to augment the state vector to include the states of all the\ntargets and the sensor biases, and then implement an augmented state Kalman\nfilter (ASKF). In this paper, we propose a novel decoupled Kalman filtering\nalgorithm. The decoupled Kalman filtering first processes each target in a\nseparate branch, namely the single-target Kalman filtering branch, where the\nsingle-target states and the sensor biases are estimated. Then the bias\nestimate is refined by fusing the former bias estimates across all the\nsingle-target Kalman filtering branches. Finally, the refined bias estimate is\nfed back to each single-target Kalman filtering branch to improve the target\nstate estimation. We prove that the proposed decoupled Kalman filtering is\nexactly equivalent to the ASKF in terms of the estimation results under a usual\ninitial condition. The equivalence is also confirmed via the numerical example.\nMoreover, we further validate the proposed algorithm using the field\nexperimental data of a multistatic passive radar.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1807.04387"
+  },
+  {
+    "url": "https://arxiv.org/abs/1807.03608",
+    "title": "Title:Coincident Molecular Auxeticity and Negative Order Parameter in a Liquid Crystal Elastomer",
+    "date_publ": "11 Jun 2018",
+    "authors": [
+      "Devesh Mistry",
+      "Simon D. Connell",
+      "Stuart L. Micklethwaite",
+      "Philip B. Morgan",
+      "John H. Clamp",
+      "Helen F. Gleeso"
+    ],
+    "abstract": "Abstract:  \"Auxetic\" materials have the counter-intuitive property of expanding rather\nthan contracting perpendicular to an applied stretch, formally they have\nnegative Poisson's Ratios (PRs).[1,2] This results in properties such as\nenhanced energy absorption and indentation resistance, which means that\nauxetics have potential for applications in areas from aerospace to biomedical\nindustries.[3,4] Existing synthetic auxetics are all created by carefully\nstructuring porous geometries from positive PR materials. Crucially, their\ngeometry causes the auxeticity.[3,4] The necessary porosity weakens the\nmaterial compared to the bulk and the structure must be engineered, for\nexample, by using resource-intensive additive manufacturing processes.[1,5] A\nlongstanding goal for researchers has been the development of a synthetic\nmaterial that has intrinsic auxetic behaviour. Such \"molecular auxetics\" would\navoid porosity-weakening and their very existence implies chemical\ntuneability.[1,4-9] However molecular auxeticity has never previously been\nproven for a synthetic material.[6,7] Here we present a synthetic molecular\nauxetic based on a monodomain liquid crystal elastomer (LCE). When stressed\nperpendicular to the alignment direction, the LCE becomes auxetic at strains\ngreater than approximately 0.8 with a minimum PR of -0.8. The critical strain\nfor auxeticity coincides with the occurrence of a negative liquid crystal order\nparameter (LCOP). We show the auxeticity agrees with theoretical predictions\nderived from the Warner and Terentjev theory of LCEs.[10] This demonstration of\na synthetic molecular auxetic represents the origin of a new approach to\nproducing molecular auxetics with a range of physical properties and functional\nbehaviours. Further, it demonstrates a novel feature of LCEs and a route for\nrealisation of the molecular auxetic technologies that have been proposed over\nthe years.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1807.03608"
+  },
+  {
+    "url": "https://arxiv.org/abs/1806.11285",
+    "title": "Title:Availability and Reliability of Wireless Links in 5G Systems: A Space-Time Approach",
+    "date_publ": "29 Jun 2018",
+    "authors": [
+      "Mustafa Emara",
+      "Miltiades C. Filippou",
+      "Ingolf Karl"
+    ],
+    "abstract": "Abstract:  Wireless links are characterized by fluctuating quality leading to variable\npacket error rates which are orders of magnitude higher than the ones of wired\nlinks. Therefore, it is of paramount importance to investigate the limitations\nof using 5G wireless links for internet of things (IoT) applications. 5G\nwireless links in IoT need to assure determinism of process flows via realtime\ncommunication anytime and anywhere, which is an utmost requirement for multiple\nverticals like automotive, industrial automation and aerospace. Based on a\nspace-time approach, in this work, we provide novel definitions of wireless\nlink availability and reliability, assuming a number of access points (APs) and\nend points (EPs) deployed over a fixed area. Our objective is to analyze the\navailability of a service in both domains. In the space domain, we characterize\nspatially available areas consisting of all locations that meet a performance\nrequirement with confidence. In the time domain, we propose a channel\nallocation scheme accounting for the spatial availability of a cell. To\nemphasize the incurred space-time performance trade-offs, numerical results are\npresented, also highlighting the effect of different system parameters on the\nachievable link availability and reliability.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1806.11285"
+  },
+  {
+    "url": "https://arxiv.org/abs/1806.10434",
+    "title": "Title:Quantification of Model Uncertainty in RANS Simulations: A Review",
+    "date_publ": "27 Jun 2018 (v1), last revised 27 Sep 2018 (this version, v2)",
+    "authors": [
+      "Heng Xiao",
+      "Paola Cinnell"
+    ],
+    "abstract": "Abstract:  In computational fluid dynamics simulations of industrial flows, models based\non the Reynolds-averaged Navier--Stokes (RANS) equations are expected to play\nan important role in decades to come. However, model uncertainties are still a\nmajor obstacle for the predictive capability of RANS simulations. This review\nexamines both the parametric and structural uncertainties in turbulence models.\nWe review recent literature on data-free (uncertainty propagation) and\ndata-driven (statistical inference) approaches for quantifying and reducing\nmodel uncertainties in RANS simulations. Moreover, the fundamentals of\nuncertainty propagation and Bayesian inference are introduced in the context of\nRANS model uncertainty quantification. Finally, the literature on uncertainties\nin scale-resolving simulations is briefly reviewed with particular emphasis on\nlarge eddy simulations.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1806.10434"
+  }
+]

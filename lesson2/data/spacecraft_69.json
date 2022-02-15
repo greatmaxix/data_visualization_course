@@ -1,0 +1,840 @@
+[
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0307027",
+    "title": "Title:Locations of Auroral Kilometric Radiation Bursts Inferred From Multi-Spacecraft Wideband Cluster VLBI Observations i: Description of Technique and Initial Results",
+    "date_publ": "1 Jul 2003",
+    "authors": [
+      "R.L. Mutel",
+      "D.A. Gurnett",
+      "I.W. Christopher",
+      "J. Pickett",
+      "M. Schla"
+    ],
+    "abstract": "Abstract:  The Cluster Wideband Data instrument has been used to determine the locations\nof auroral kilometric radiation (AKR) using very long baseline interferometry.\nThe technique involves cross-correlating individual AKR bursts from all six\nCluster baselines using time and frequency filtered waveforms. We report the\nlocations of over 1,700 individual AKR bursts during six observing epochs\nbetween 10 July 2002 and 22 January 2003 when the Cluster constellation was\nhigh above the southern or northern hemisphere. In general we find that the AKR\nburst locations lie along magnetic field lines which map onto the nighttime\nauroral zone as expected from previous AKR studies. The distribution of AKR\nauroral footprint locations at each epoch had a overall spatial scale between\n1000 - 2000 km, much larger than the positional uncertainty of an individual\nAKR burst location magnetic footprint, but a small fraction of the auroral\noval. For two of the six epochs, there was a significant drift in the mean\nlocation of AKR activity over a period of 1-2 hours. The drift was\npredominantly in latitude at one epoch and in longitude at the other, with\naverage drift speed V ~ 80-90 m s-1 at the AKR emission location.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0307027"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0306050",
+    "title": "Title:The solar sail and the mirror",
+    "date_publ": "5 Jun 2003",
+    "authors": [
+      "Thomas Gold (Center for Radiophysics and Space Research",
+      "Cornell University"
+    ],
+    "abstract": "Abstract:  The radiation pressure exerted by incoherent light on diverse surfaces is\nexamined. The thermodynamic rule, first given by Carnot in 1824, describes the\nlimitation to the amount of free energy that can be obtained from a source of\nthermal energy, and he gave the compelling reason for this rule, that if more\nfree energy than he had prescribed could ever be extracted, then a heat pump\ncould use that free energy and re-create all the heat energy that had been\nconsumed. A perpetual motion machine could then be constructed. Now, 179 years\nlater, it is proposed to fly a spacecraft that is expected to gain velocity\nfrom the radiation pressure the sunlight is expected to exert on solar sails,\npanels of thin plastic sheets, mirror surfaced on the side facing the sun.\nHowever a detailed examination of this proposal shows it to be in direct\nconflict with Carnot's rule, and no such pressure can be expected. Either\nCarnot's accepted rule is in error, or the solar sail proposal will not work at\nall.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "#other"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0306125",
+    "title": "Title:Operating LISA as a Sagnac interferometer",
+    "date_publ": "29 Jun 2003",
+    "authors": [
+      "Daniel A. Shaddoc"
+    ],
+    "abstract": "Abstract:  A phase-locking configuration for LISA is proposed that provides a\nsignificantly simpler mode of operation. The scheme provides one Sagnac signal\nreadout inherently insensitive to laser frequency noise and optical bench\nmotion for a non-rotating LISA array. This Sagnac output is also insensitive to\nclock noise, requires no time shifting of data, nor absolute arm length\nknowledge. As all measurements are made at one spacecraft, neither clock\nsynchronization nor exchange of phase information between spacecraft is\nrequired. The phase-locking configuration provides these advantages for only\none Sagnac variable yet retains compatibility with the baseline approach for\nobtaining the other TDI variables. The orbital motion of the LISA constellation\nis shown to produce a 14 km path length difference between the\ncounter-propagating beams in the Sagnac interferometer. With this length\ndifference a laser frequency noise spectral density of 1 Hz/$\\sqrt{\\rm Hz}$\nwould consume the entire optical path noise budget of the Sagnac variables. A\nsignificant improvement of laser frequency stability (currently at 30\nHz/$\\sqrt{\\rm Hz}$) would be needed for full-sensitivity LISA operation in the\nSagnac mode. Alternatively, an additional level of time-delay processing could\nbe applied to remove the laser frequency noise. The new time-delayed\ncombinations of the phase measurements are presented.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0306125"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0306071",
+    "title": "Title:SyZyGy: A Straight Interferometric Spacecraft System for Gravity Wave Observations",
+    "date_publ": "16 Jun 2003 (v1), last revised 25 Jul 2003 (this version, v2)",
+    "authors": [
+      "F. B. Estabrook",
+      "J. W. Armstrong",
+      "Massimo Tinto",
+      "William Folkne"
+    ],
+    "abstract": "Abstract:  We apply TDI, unfolding the general triangular configuration, to the special\ncase of a linear array of three spacecraft. We show that such an array\n(\"SyZyGy\") has, compared with an equilateral triangle GW detector of the same\nscale, degraded (but non-zero) sensitivity at low-frequencies (f<<c/(arrany\nsize)) but similar peak and high-frequency sensitivities to GWs. Sensitivity\ncurves are presented for SyZyGys having various arm-lengths. A number of\ntechnical simplifications result from the linear configuration. These include\nonly one faceted (e.g., cubical) proof mass per spacecraft, intra-spacecraft\nlaser metrology needed only at the central spacecraft, placement in a single\nappropriate orbit can reduce Doppler drifts so that no laser beam modulation is\nrequired for ultra-stable oscillator noise calibration, and little or no\ntime-dependent articulation of the telescopes to maintain pointing. Because\nSyZyGy's sensitivity falls off more sharply at low frequency than that of an\nequilateral triangular array, it may be more useful for GW observations in the\nband between those of ground-based interferometers (10-2000 Hz) and LISA (.1\nmHz-.1 Hz). A SyZyGy with ~1 light- second scale could, for the same\ninstrumental assumptions as LISA, make obseervations in this intermediate\nfrequency GW band with 5 sigma sensitivity to sinusoidal waves of ~2.5 x 10^-23\nin a year's integration.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0306071"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0306024",
+    "title": "Title:Pioneer Anomaly and the Helicity-Rotation Coupling",
+    "date_publ": "5 Jun 2003 (v1), last revised 15 Jul 2003 (this version, v2)",
+    "authors": [
+      "John D. Anderson (Jet Propulsion Laboratory",
+      "California Institute of Technology)",
+      "Bahram Mashhoon (University of Missouri-Columbia"
+    ],
+    "abstract": "Abstract:  The modification of the Doppler effect due to the coupling of the helicity of\nthe radiation with the rotation of the source/receiver is considered in the\ncase of the Pioneer 10/11 spacecraft. We explain why the Pioneer anomaly is not\ninfluenced by the helicity-rotation coupling.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0306024"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0306087",
+    "title": "Title:Timing Detection of Eclipsing Binary Planets and Transiting Extrasolar Moons",
+    "date_publ": "4 Jun 2003",
+    "authors": [
+      "L.R. Doyle",
+      "H.J. Dee"
+    ],
+    "abstract": "Abstract:  We investigate the improved detection of extrasolar planets around eclipsing\nbinaries using eclipse minima timing, and extrasolar moons around transiting\nplanets using transit timing, offered by the upcoming COROT (ESA, 2005), Kepler\n(NASA, 2007), and Eddington (ESA 2008) spacecraft missions. Hundreds of\ncircum-binary planets should be discovered, and a thorough survey of moons\naround transiting planets will be accomplished by these missions.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0306087"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0305458",
+    "title": "Title:Motivation and possibilities of affordable low-frequency radio interferometry in space",
+    "date_publ": "23 May 2003",
+    "authors": [
+      "P. Janhunen",
+      "A. Olsson",
+      "R. Karlsson",
+      "J.-M. Griessmeie"
+    ],
+    "abstract": "Abstract:  The motivation to build spaceborne interferometric arrays for low-frequency\nradio astronomy is widely recognised because frequencies below the ionospheric\ncutoff are inaccessible for ground-based radio telescopes. We discuss the\ntheoretical possibilities to use low-frequency spacecraft arrays to detect\nsignals from magnetized extrasolar planets, including earthlike ones. A major\nuncertainty that prohibits us from knowing if it is possible to detect\nexoplanet cyclotron maser signals is the incomplete knowledge of the properties\nof the interstellar plasma.\nWe also present some ideas of how to construct efficient and affordable\nspace-based radio telescopes. We discuss two possibilities, a log-periodic\nantenna in the spin plane and a two-spacecraft concept where one spacecraft\nholds a large parabolic wire mesh reflector and the other one contains the\nreceiver. In the latter case, the effective area could be of the order of 1\nkm$^2$. The purpose of the paper is to stress once more the importance of\nspaceborne low-frequency measurements by bringing in the intriguing possibility\nof detecting earthlike exoplanet radio emissions and to demonstrate that\nbuilding even very large low-frequency antennas in space is not necessarily too\nexpensive.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0305458"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0305453",
+    "title": "Title:Multiscaling of galactic cosmic ray flux",
+    "date_publ": "23 May 2003",
+    "authors": [
+      "A. Bershadski"
+    ],
+    "abstract": "Abstract:  Multiscaling analysis of differential flux dissipation rate of galactic\ncosmic rays (Carbon nuclei) is performed in the energy ranges: 56.3-73.4\nMev/nucleon and 183.1-198.7 MeV/nucleon, using the data collected by ACE/CRIS\nspacecraft instrument for 2000 year. The analysis reveals strong\n(turbulence-like) intermittency of the flux dissipation rate for the short-term\nintervals: 1-30 hours. It is also found that type of the intermittency can be\ndifferent in different energy ranges.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0305453"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0305420",
+    "title": "Title:Probing the Edge of the Solar System: Formation of an Unstable Jet-Sheet",
+    "date_publ": "22 May 2003",
+    "authors": [
+      "M. Opher",
+      "P. C. Liewer",
+      "T. I. Gombosi",
+      "W. Manchester",
+      "D. L. DeZeeuw",
+      "I. Sokolov",
+      "G. Tot"
+    ],
+    "abstract": "Abstract:  The Voyager spacecraft is now approaching the edge of the solar system. Near\nthe boundary between the solar system and the interstellar medium we find that\nan unstable ``jet-sheet'' forms. The jet-sheet oscillates up and down due to a\nvelocity shear instability. This result is due to a novel application of a\nstate-of-art 3D Magnetohydrodynamic (MHD) code with a highly refined grid. We\nassume as a first approximation that the solar magnetic and rotation axes are\naligned. The effect of a tilt of the magnetic axis with respect to the rotation\naxis remains to be seen. We include in the model self-consistently magnetic\nfield effects in the interaction between the solar and interstellar winds.\nPrevious studies of this interaction had poorer spatial resolution and did not\ninclude the solar magnetic field. This instability can affect the entry of\nenergetic particles into the solar system and the intermixing of solar and\ninterstellar material. The same effect found here is predicted for the\ninteraction of rotating magnetized stars possessing supersonic winds and moving\nwith respect to the interstellar medium, such as O stars.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0305420"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0305388",
+    "title": "Title:Using globular clusters to test gravity in the weak acceleration regime",
+    "date_publ": "21 May 2003",
+    "authors": [
+      "Riccardo Scarpa",
+      "Gianni Marconi",
+      "Roberto Gilmozz"
+    ],
+    "abstract": "Abstract:  We have carried out a study of the velocity dispersion of the stars in the\noutskirts of the globular cluster Omega Centauri, finding that the velocity\ndispersion remains constant at large radii rather than decrease monotonically.\nThe dispersion starts to be constant for an acceleration of gravity of a =\n2.1e-8 cm/s/s. A similar result is obtained reanalyzing existing data for the\nglobular cluster M15 where the profile flattens out for a = 1.7e-8 cm/s/s. In\nboth cases the acceleration is comparable to that at which the effect of dark\nmatter becomes relevant in galaxies. Explanations for this result within\nNewtonian dynamics exist (e.g. cluster evaporation, tidal effects, presence of\ndark matter) but require ad hoc tuning of the relevant parameters in order to\nmake in both clusters the dispersion profile flat starting exactly at the same\nacceleration. We suggest that this result, together with a similar one for\nPalomar 13 and the anomalous behavior of spacecrafts outside the solar system,\nmay indicate a breakdown of Newton's law in the weak acceleration regime.\nAlthough not conclusive, these data prompt for the accurate determination of\nthe internal dynamics of as many GCs as possible.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0305388"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0305152",
+    "title": "Title:Trade-off between angular resolution and straylight contamination in CMB anisotropy experiments. I. Pattern simulations",
+    "date_publ": "9 May 2003",
+    "authors": [
+      "M. Sandri",
+      "F. Villa",
+      "R. Nesti",
+      "C. Burigana",
+      "M. Bersanelli",
+      "N. Mandoles"
+    ],
+    "abstract": "Abstract:  The study of Cosmic Microwave Background (CMB) anisotropies represents one of\nthe most powerful Cosmological tools. After the great success of the two NASA's\nsatellite missions COBE and WMAP, Planck represents the third generation of\nmm-wave instruments designed for space observations of CMB anisotropies within\nthe new Cosmic Vision 2020 ESA Science Programme. The Planck survey will cover\nthe whole sky with unprecedented sensitivity, angular resolution and frequency\ncoverage, using two instruments that share the focal region of a 1.5 m off-axis\ndual reflector telescope: the Low Frequency Instrument (LFI) and the High\nFrequency Instrument (HFI). Within the LFI optical interfaces optimisation\nactivity, two concurrent demands have to be satisfied: the best angular\nresolution (which impacts the ability to reconstruct the anisotropy power\nspectrum of the CMB anisotropies at high multipoles) and the lowest level of\nstraylight contamination (that may be one of the most critical sources of\nsystematic effects). We present the results of the optical simulations aimed to\nestablish the trade-off between angular resolution and straylight rejection,\ncarried out for the 100 GHz channel of Planck Low Frequency Instrument. Antenna\npattern of different models of dual profiled corrugated conical feed horns have\nbeen simulated using advanced simulation techniques, considering the whole\nspacecraft geometry in order to obtain truthful sidelobe predictions. Optical\ncomputation accuracy necessary to provide strong straylight evaluation in\nreasonable computational time is shown and the inadequacy of a Gaussian feed\nmodel in realistic far pattern predictions is demonstrated. This paper is based\non LFI activities.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0305152"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0304381",
+    "title": "Title:Impact-Generated Dust Clouds Surrounding the Galilean Moons",
+    "date_publ": "22 Apr 2003",
+    "authors": [
+      "HaraldKr\u00fcger",
+      "Alexander V. Krivov",
+      "Miodrag Srem\u010devi\u0107",
+      "Eberhard Gr\u00fc"
+    ],
+    "abstract": "Abstract:  Tenuous dust clouds of Jupiter's Galilean moons Io, Europa, Ganymede and\nCallisto have been detected with the in-situ dust detector on board the Galileo\nspacecraft. The majority of the dust particles have been sensed at altitudes\nbelow five radii of these lunar-sized satellites. We identify the particles in\nthe dust clouds surrounding the moons by their impact direction, impact\nvelocity, and mass distribution. Average particle sizes are 0.5 to $\\rm 1 \\mu\nm$, just above the detector threshold, indicating a size distribution with\ndecreasing numbers towards bigger particles. Our results imply that the\nparticles have been kicked up by hypervelocity impacts of micrometeoroids onto\nthe satellites' surfaces. The measured radial dust density profiles are\nconsistent with predictions by dynamical modeling for satellite ejecta produced\nby interplanetary impactors (Krivov et al., PSS, 2003, 51, 251--269), assuming\nyield, mass and velocity distributions of the ejecta from laboratory\nmeasurements. The dust clouds of the three outer Galilean moons have very\nsimilar properties and are in good agreement with the model predictions for\nsolid ice-silicate surfaces. The dust density in the vicinity of Io, however,\nis more than an order of magnitude lower than expected from theory. This may be\ndue to a softer, fluffier surface of Io (volcanic deposits) as compared to the\nother moons. The log-log slope of the dust number density in the clouds vs.\ndistance from the satellite center ranges between --1.6 and --2.8. Appreciable\nvariations of number densities obtained from individual flybys with varying\ngeometry, especially at Callisto, might be indicative of leading-trailing\nasymmetries of the clouds due to the motion of the moons with respect to the\nfield of impactors.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0304381"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0303108",
+    "title": "Title:A Gedanken spacecraft that operates using the quantum vacuum (Dynamic Casimir effect)",
+    "date_publ": "26 Mar 2003",
+    "authors": [
+      "G. Jordan Maclay (Quantum Fields LLC)",
+      "Robert L. Forward (Forward Unlimited LLC"
+    ],
+    "abstract": "Abstract:  Conventional rockets are not a suitable technology for deep space missions.\nChemical rockets require a very large weight of propellant, travel very slowly\ncompared to light speed, and require significant energy to maintain operation\nover periods of years. For example, the 722 kg Voyager spacecraft required\n13,600 kg of propellant to launch and would take about 80,000 years to reach\nthe nearest star, Proxima Centauri, about 4.3 light years away. There have been\nvarious attempts at developing ideas on which one might base a spacecraft that\nwould permit deep space travel, such as spacewarps. In this paper we consider\nanother suggestion from science fiction and explore how the quantum vacuum\nmight be utilized in the creation of a novel spacecraft. The spacecraft is\nbased on the dynamic Casimir effect, in which electromagnetic radiation is\nemitted when an uncharged mirror is properly accelerated in the vacuum. The\nradiative reaction produces a dissipative force on the mirror that tends to\nresist the acceleration of the mirror. This force can be used to accelerate a\nspacecraft attached to the mirror. We also show that, in principal, one could\nobtain the power to operate the accelerated mirror in such a spacecraft using\nenergy extracted from the quantum vacuum using the standard Casimir effect\nwitha parallel plate geometry. Unfortunately the method as currently conceived\ngenerates a miniscule thrust, and is no more practical than a spacewarp, yet it\ndoes provide an interesting demonstration of our current understanding of the\nphysics of the quantized electromagnetic field in vacuum.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0303108"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0302088",
+    "title": "Title:The derivation of the coupling constant in the new Self Creation Cosmology",
+    "date_publ": "21 Feb 2003 (v1), last revised 15 Dec 2005 (this version, v3)",
+    "authors": [
+      "Garth A Barbe"
+    ],
+    "abstract": "Abstract:  It has been shown that the new Self Creation Cosmology theory predicts a\nuniverse with a total density parameter of one third yet spatially flat, which\nwould appear to accelerate in its expansion. Although requiring a moderate\namount of 'cold dark matter' the theory does not have to invoke the hypotheses\nof inflation, 'dark energy', 'quintessence' or a cosmological constant\n(dynamical or otherwise) to explain observed cosmological features. The theory\nalso offers an explanation for the observed anomalous Pioneer spacecraft\nacceleration, an observed spin-up of the Earth and an problematic variation of\nG observed from analysis of the evolution of planetary longitudes. It predicts\nidentical results as General Relativity in standard experimental tests but\nthree definitive experiments do exist to falsify the theory. In order to match\nthe predictions of General Relativity, and observations in the standard tests,\nthe new theory requires the Brans Dicke omega parameter that couples the scalar\nfield to matter to be -3/2 . Here it is shown how this value for the coupling\nparameter is determined by the theory's basic assumptions and therefore it is\nan inherent property of the principles upon which the theory is based.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Theory (hep-th)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0302088"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0302563",
+    "title": "Title:On the loss of telemetry data in full-sky surveys from space",
+    "date_publ": "27 Feb 2003",
+    "authors": [
+      "D. Maino",
+      "C. Burigana",
+      "F. Pasia"
+    ],
+    "abstract": "Abstract:  In this paper we discuss the issue of loosing telemetry (TM) data due to\ndifferent reasons (e.g. spacecraft-ground transmissions) while performing a\nfull-sky survey with space-borne instrumentation. This is a particularly\nimportant issue considering the current and future space missions (like Planck\nfrom ESA and WMAP from NASA) operating from an orbit far from Earth with short\nperiods of visibility from ground stations. We consider, as a working case, the\nLow Frequency Instrument (LFI) on-board the Planck satellite albeit the\napproach developed here can be easily applied to any kind of experiment that\nmakes use of an observing (scanning) strategy which assumes repeated pointings\nof the same region of the sky on different time scales. The issue is addressed\nby means of a Monte Carlo approach. Our analysis clearly shows that, under\nquite general conditions, it is better to cover the sky more times with a lower\nfraction of TM retained than less times with a higher guaranteed TM fraction.\nIn the case of Planck, an extension of mission time to allow a third sky\ncoverage with 95% of the total TM guaranteed provides a significant reduction\nof the probability to loose scientific information with respect to an increase\nof the total guaranteed TM to 98% with the two nominal sky coverages.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0302563"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0302139",
+    "title": "Title:Gamma-Ray Burst Detection with INTEGRAL/SPI",
+    "date_publ": "7 Feb 2003",
+    "authors": [
+      "Andreas von Kienlin",
+      "Nikolas Arend",
+      "Giselher G. Lichti",
+      "Andrew Strong",
+      "Paul Connel"
+    ],
+    "abstract": "Abstract:  The spectrometer SPI, one of the two main instruments of the INTEGRAL\nspacecraft, has strong capabilities in the Field of Gamma-Ray Burst (GRB)\ndetections. In its 16 degree Field of view (FoV) SPI is able to trigger and to\nlocalize GRBs. With its large anticoincidence shield (ACS) of 512 kg of BGO\ncrystals SPI is able to detect GRBs quasi omnidirectionally with a very high\nsensitivity. The ACS GRB alerts will provide GRB arrival times with high\naccuracy but with no or very rough positional information. The expected GRB\ndetection rate in SPI's FoV will be one per month and for the ACS around 300\nper year. At MPE two SPI software contributions to the real-time INTEGRAL\nburst-alert system (IBAS) at the INTEGRAL science data centre ISDC have been\ndeveloped. The SPI-ACS branch of IBAS will produce burst alerts and\nlight-curves with 50 ms resolution. It is planned to use ACS burst alerts in\nthe 3rd interplanetary network. The SPI-FoV branch of IBAS is currently under\ndevelopment at MPE. The system is using the energy and timing information of\nsingle and multiple events detected by the Germanium-camera of SPI. Using the\nimaging algorithm developed at the University of Birmingham the system is\nexpected to locate strong bursts with an accuracy of better than 1 degree.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0302139"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0302100",
+    "title": "Title:Mirax: A Brazilian X-Ray Astronomy Satellite Mission",
+    "date_publ": "5 Feb 2003 (v1), last revised 6 Mar 2003 (this version, v2)",
+    "authors": [
+      "J. Braga (1)",
+      "R. Rothschild (2)",
+      "J. Heise (3)",
+      "R. Staubert (4)",
+      "R. Remillard (5)",
+      "F. D'Amico (1)",
+      "F. Jablonski (1)",
+      "W. Heindl (2)",
+      "J. Matteson (2)",
+      "E. Kuulkers (6)",
+      "J. Wilms (4)",
+      "E. Kendziorra (4) ((1) INPE",
+      "Brazil",
+      "(2) CASS/UCSD",
+      "(3) SRON",
+      "The Netherlands",
+      "(4) IAAT Tuebingen",
+      "(5) MIT",
+      "(6) ESTEC/ESA"
+    ],
+    "abstract": "Abstract:  We describe the ``Monitor e Imageador de Raios-X'' (MIRAX), an X-ray\nastronomy satellite mission proposed by the high energy astrophysics group at\nthe National Institute for Space Research (INPE) in Brazil to the Brazilian\nSpace Agency. MIRAX is an international collaboration that includes, besides\nINPE, the University of California San Diego, the University of Tuebingen in\nGermany, the Massachusetts Institute of Technology and the Space Research\nOrganization Netherlands. The payload of MIRAX will consist in two identical\nhard X-ray cameras (10 -200 keV) and one soft X-ray camera (2-28 keV), both\nwith angular resolution of ~ 5-6 arcmin. The basic objective of MIRAX is to\ncarry out continuous broadband imaging spectroscopy observations of a large\nsource sample (~ 9 months/yr) in the central Galactic plane region. This will\nallow the detection, localization, possible identification, and\nspectral/temporal study of the entire history of transient phenomena to be\ncarried out in one single mission. MIRAX will have sensitivities of ~ 5\nmCrab/day in the 2-10 keV band (~2 times better than the All Sky Monitor on\nRossi X-ray Timing Explorer) and 2.6 mCrab/day in the 10-100 keV band (~40\ntimes better than the Earth Occultation technique of the Burst and Transient\nSource Experiment on the Compton Gamma-Ray Observatory). The MIRAX spacecraft\nwill weigh about 200 kg and is expected to be launched in a low-altitude (~ 600\nkm) circular equatorial orbit around 2007/2008.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0302100"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0301100",
+    "title": "Title:Dynamics of Gravitomagnetic Charge",
+    "date_publ": "24 Jan 2003 (v1), last revised 26 Jan 2003 (this version, v2)",
+    "authors": [
+      "Jian-Qi She"
+    ],
+    "abstract": "Abstract:  The physically interesting gravitational analogue of magnetic monopole in\nelectrodynamics is considered in the present paper. The author investigates the\nfield equation of gravitomagnetic matter, and the exact static cylindrically\nsymmetric solution of field equation as well as the motion of gravitomagnetic\ncharge in gravitational fields. Use is made of the mechanism of gravitational\nMeissner effect, a potential interpretation of anomalous, constant,\nacceleration acting on the Pioneer 10/11, Galileo and Ulysses spacecrafts is\nalso suggested.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0301100"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0301067",
+    "title": "Title:Gravitational Analogues, Geometric Effects and Gravitomagnetic Charge",
+    "date_publ": "20 Jan 2003 (v1), last revised 15 Feb 2003 (this version, v2)",
+    "authors": [
+      "Jian Qi She"
+    ],
+    "abstract": "Abstract:  This essay discusses some geometric effects associated with gravitomagnetic\nfields and gravitomagnetic charge as well as the gravity theory of the latter.\nGravitomagnetic charge is the duality of gravitoelectric charge (mass) and is\ntherefore also termed the dual mass which represents the topological property\nof gravitation. The field equation of gravitomagnetic matter is suggested and a\nstatic spherically symmetric solution of this equation is offered. A possible\nexplanation of the anomalous acceleration acting on Pioneer spacecrafts are\nbriefly proposed.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0301067"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0301031",
+    "title": "Title:Motion of the mass centers in a scalar theory of gravitation: the point particle limit",
+    "date_publ": "9 Jan 2003 (v1), last revised 18 Aug 2004 (this version, v3)",
+    "authors": [
+      "Mayeul Arminjo"
+    ],
+    "abstract": "Abstract:  We investigate the point-particle limit of the equations of motion valid for\na system of extended bodies in a scalar alternative theory of gravitation: the\nsize of one of the bodies being a small parameter xi, we calculate the limit,\nas xi tends towards 0, of the post-Newtonian (PN) acceleration of this small\nbody. We use the asymptotic scheme of PN approximation, that expands all\nfields. We find that the PN acceleration A of the small body keeps a\nstructure-dependent part at this limit. In particular, if the only massive body\nis static and spherical, then A differs from the PN acceleration of a test\nparticle in a Schwarzschild field only by this structure-dependent part. The\npresence of the latter is due to the fact that the PN metric depends on the\nfirst spatial derivatives of the Newtonian potential. Since just the same form\nof PN metric is valid for the standard form of Schwarzschild's solution, the\nacceleration of a small body might keep a structure-dependent part at the point\nlimit in general relativity also, depending on the gauge. The magnitude of the\nstructure-dependent acceleration is already challenging on Earth. For the\nPioneer spacecrafts, it is likely to discard the current version of the scalar\ntheory. A modified version has been outlined in a quoted reference.\nKeywords: Weak equivalence principle violation, Asymptotic post-Newtonian\nscheme",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0301031"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0301577",
+    "title": "Title:An Extended Burst Tail from SGR 1900+14 with a Thermal X-ray Spectrum",
+    "date_publ": "29 Jan 2003 (v1), last revised 18 Feb 2003 (this version, v2)",
+    "authors": [
+      "G. T. Lenters",
+      "P. M. Woods",
+      "J. E. Goupell",
+      "C. Kouveliotou",
+      "E. Gogus",
+      "K. Hurley",
+      "D. Frederiks",
+      "S. Golenetskii",
+      "J. Swan"
+    ],
+    "abstract": "Abstract:  The Soft Gamma Repeater, SGR 1900+14, entered a new phase of activity in\nApril 2001 initiated by the intermediate flare recorded on April 18. Ten days\nfollowing this flare, we discovered an abrupt increase in the source flux\nbetween consecutive RXTE orbits. This X-ray flux excess decayed over the next\nseveral minutes and was subsequently linked to a high fluence burst from SGR\n1900+14 recorded by other spacecraft (Ulysses and KONUS) while the SGR was\nEarth-occulted for RXTE. We present here spectral and temporal analysis of both\nthe burst of 28 April and the long X-ray tail following it. We find strong\nevidence of an exclusively thermal X-ray tail in this event and bring this\nevidence to bear on other bursts and flares from SGR 1900+14 which have shown\nextended X-ray excesses (e.g. 1998 August 29). We include in this comparison a\ndiscussion of the physical origins of SGR bursts and extended X-ray tails.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0301577"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0301450",
+    "title": "Title:Propagation of secondary antiprotons and cosmic rays in the Galaxy",
+    "date_publ": "22 Jan 2003",
+    "authors": [
+      "I. V. Moskalenko (NASA/GSFC)",
+      "A. W. Strong (MPE",
+      "Garching)",
+      "J. F. Ormes (NASA/GSFC)",
+      "S. G. Mashnik (LANL"
+    ],
+    "abstract": "Abstract:  Recent measurements of the cosmic ray (CR) antiproton flux have been shown to\nchallenge existing CR propagation models. It was shown that the reacceleration\nmodels designed to match secondary to primary nuclei ratios (e.g., B/C) produce\ntoo few antiprotons. In the present paper we discuss one possibility to\novercome these difficulties. Using the measured antiproton flux AND B/C ratio\nto fix the diffusion coefficient, we show that the spectra of primary nuclei as\nmeasured in the heliosphere may contain a fresh local \"unprocessed\" component\nat low energies perhaps associated with the Local Bubble, thus decreasing the\nmeasured secondary to primary nuclei ratio. The independent evidence for SN\nactivity in the solar vicinity in the last few Myr supports this idea. The\nmodel reproduces antiprotons, B/C ratio, and elemental abundances up to Ni\n(Z<=28). Calculated isotopic distributions of Be and B are in perfect agreement\nwith CR data. The abundances of three \"radioactive clock\" isotopes in CR, 10Be,\n26Al, 36Cl, are all consistent and indicate a halo size z_h~4 kpc based on the\nmost accurate data taken by the ACE spacecraft.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0301450"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0212107",
+    "title": "Title:The Interplanetary Magnetic Field and Solar Wind Driven Magnetospheric Reconfiguration",
+    "date_publ": "30 Dec 2002 (v1), last revised 2 Jan 2003 (this version, v2)",
+    "authors": [
+      "Eugene Savo"
+    ],
+    "abstract": "Abstract:  The magnetic disturbances are associated with electric currents as it is well\nchecked at laboratory room scales and described by the Maxwell's equations of\nelectromagnetic field. The analysis of spacecraft observations for more than a\nquarter of a century failed to provide a self-consistent three-dimensional\npicture of the solar wind-magnetosphere dynamo generated magnetospheric and\nionospheric current systems. The proposed solar wind and the interplanetary\nmagnetic field (IMF) driven reconfiguration of the earth's magnetosphere\ndirectly accounts for the observed magnetic disturbances. So role of the\nmagnetospheric currents in creation of the magnetic disturbances is\nreconsidered in accordance with some poorly understood observations. A\nquantitative agreement with observations is demonstrated and a laboratory\nexperiment to test the suggested model of the solar wind/IMF-magnetosphere\ninteraction is described.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0212107"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0212111",
+    "title": "Title:The Principles of Self Creation Cosmology and its Comparison with General Relativity",
+    "date_publ": "27 Dec 2002 (v1), last revised 22 Dec 2005 (this version, v8)",
+    "authors": [
+      "G.A.Barbe"
+    ],
+    "abstract": "Abstract:  There are, at present, several gravitational and cosmological anomalies; the\ndark energy problem, the lambda problem, accelerating cosmological expansion,\nthe anomalous Pioneer spacecraft acceleration, a spin-up of the Earth and an\napparent variation of G observed from analysis of the evolution of planetary\nlongitudes. These conundrums may be resolved in the theory of Self Creation\nCosmology, in which the Principle of Mutual Interaction subsumes both Mach's\nPrinciple and the Local Conservation of Energy. The theory is conformally\nequivalent to General Relativity in vacuo with the consequence that predictions\nof the theory are identical with General Relativity in the standard solar\nsystem experiments. Other observable local and cosmological consequences offer\nan explanation for the anomalies above. The SCC universe expands linearly in\nits Einstein Frame and it is static in its Jordan Frame; hence, as there are no\ndensity, smoothness or horizon problems, there is no requirement for Inflation.\nThe theory determines the total density parameter to be one third, and the cold\ndark matter density parameter to be two ninths, yet in the Jordan frame the\nuniverse is similar to Einstein's original static cylindrical model and\nspatially flat. Therefore there is no need for a 'Dark Energy' hypothesis. As\nthe field equations determine the false vacuum energy density to be a specific,\nand feasibly small, value there is no 'Lambda Problem'. Finally certain\nobservations in SCC would detect cosmic acceleration.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " High Energy Physics - Theory (hep-th)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0212111"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0212069",
+    "title": "Title:Covariant Calculation of General Relativistic Effects in an Orbiting Gyroscope Experiment",
+    "date_publ": "16 Dec 2002",
+    "authors": [
+      "Clifford M. Wil"
+    ],
+    "abstract": "Abstract:  We carry out a covariant calculation of the measurable relativistic effects\nin an orbiting gyroscope experiment. The experiment, currently known as Gravity\nProbe B, compares the spin directions of an array of spinning gyroscopes with\nthe optical axis of a telescope, all housed in a spacecraft that rolls about\nthe optical axis. The spacecraft is steered so that the telescope always points\ntoward a known guide star. We calculate the variation in the spin directions\nrelative to readout loops rigidly fixed in the spacecraft, and express the\nvariations in terms of quantities that can be measured, to sufficient accuracy,\nusing an Earth-centered coordinate system. The measurable effects include the\naberration of starlight, the geodetic precession caused by space curvature, the\nframe-dragging effect caused by the rotation of the Earth and the deflection of\nlight by the Sun.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0212069"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0212019",
+    "title": "Title:The Pioneer's acceleration anomaly and Hubble's constant",
+    "date_publ": "4 Dec 2002 (v1), last revised 10 Dec 2002 (this version, v2)",
+    "authors": [
+      "J.L. Rosale"
+    ],
+    "abstract": "Abstract:  The reported anomalous acceleration acting on the Pioneers spacecrafts could\nbe seen as a consequence of the existence of some local curvature in light\ngeodesics when using the coordinate speed of light in an expanding space-time.\nThe effect is related with the non synchronous character of the underlying\nmetric and therefore, planets closed orbits can not reveal it. It is shown that\nthe cosmic expansion rate -the Hubble parameter H- has been indeed detected.\nAdditionally, a relation for an existing annual term is obtained which depends\non the cosine of the ecliptic latitude of the spacecraft, suggestingan\nheuristic analogy between the effect and Foucault's experiment - light rays\nplaying a similar role in the expanding space than Foucault's Pendulum does\nwhile determining Earth's rotation. This statement could be seen as a benchmark\nfor future experiments.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0212019"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0212336",
+    "title": "Title:Captain Cook, the Terrestrial Planet Finder and the Search for Extraterrestrial Intelligence",
+    "date_publ": "14 Dec 2002",
+    "authors": [
+      "Charles Beichma"
+    ],
+    "abstract": "Abstract:  Over two hundred years ago Capt. James Cook sailed up Whitsunday Passage,\njust a few miles where we now sit, on a voyage of astronomical observation and\ndiscovery that remains an inspiration to us all. Since the prospects of our\nvisiting planets beyond our solar system are slim, we will have to content\nourselves with searching for life using remote sensing, not sailing ships.\nFortunately, a recently completed NASA study has concluded that a Terrestrial\nPlanet Finder could be launched within a decade to detect terrestrial planets\naround nearby stars. A visible light coronagraph using an 8-10 m telescope, or\nan infrared nulling interferometer, operated on either a $\\sim40$ m structure\nor separated spacecraft, could survey over 150 stars, looking for habitable\nplanets and signs of primitive life. Such a mission, complemented by projects\n(Kepler and Eddington) that will provide statistical information on the\nfrequency of Earth-sized planets in the habitable zone, will determine key\nterms in the ``Drake equation'' that describes the number of intelligent\ncivilizations in the Universe.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0212336"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0211080",
+    "title": "Title:Intermittency, scaling and the Fokker-Planck approach to fluctuations of the solar wind bulk plasma parameters as seen by the WIND spacecraft",
+    "date_publ": "18 Nov 2002 (v1), last revised 7 Apr 2003 (this version, v2)",
+    "authors": [
+      "Bogdan Hnat",
+      "Sandra C. Chapman",
+      "George Rowland"
+    ],
+    "abstract": "Abstract:  The solar wind provides a natural laboratory for observations of MHD\nturbulence over extended temporal scales. Here, we apply a model independent\nmethod of differencing and rescaling to identify self-similarity in the\nProbability Density Functions (PDF) of fluctuations in solar wind bulk plasma\nparameters as seen by the WIND spacecraft. Whereas the fluctuations of speed v\nand IMF magnitude B are multi-fractal, we find that the fluctuations in the ion\ndensity rho, energy densities B^2 and rho v^2 as well as MHD-approximated\nPoynting flux vB^2 are mono-scaling on the timescales up to ~26 hours. The\nsingle curve, which we find to describe the fluctuations PDF of all these\nquantities up to this timescale, is non-Gaussian. We model this PDF with two\napproaches-- Fokker-Planck, for which we derive the transport coefficients and\nassociated Langevin equation, and the Castaing distribution that arises from a\nmodel for the intermittent turbulent cascade.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Data Analysis, Statistics and Probability (physics.data-an)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0211080"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0211067",
+    "title": "Title:Mirror matter in the solar system: New evidence for mirror matter from Eros",
+    "date_publ": "4 Nov 2002 (v1), last revised 12 Nov 2002 (this version, v2)",
+    "authors": [
+      "R. Foot",
+      "S. Mitr"
+    ],
+    "abstract": "Abstract:  Mirror matter is an entirely new form of matter predicted to exist if mirror\nsymmetry is a fundamental symmetry of nature. Mirror matter has the right broad\nproperties to explain the inferred dark matter of the Universe and might also\nbe responsible for a variety of other puzzles in particle physics,\nastrophysics, meteoritics and planetary science. It is known that mirror matter\ncan interact with ordinary matter non-gravitationally via photon-mirror photon\nkinetic mixing. The strength of this possibly fundamental interaction depends\non the (theoretically) free parameter $\\epsilon$. We consider various proposed\nmanifestations of mirror matter in our solar system examining in particular how\nthe physics changes for different possible values of $\\epsilon$. We find new\nevidence for mirror matter in the solar system coming from the observed sharp\nreduction in crater rates (for craters less than about 100 meters in diameter)\non the asteroid 433 Eros. We also re-examine various existing ideas including\nthe mirror matter explanation for the anomalous meteorite events, anomalous\nslow-down of Pioneer spacecraft etc.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0211067"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0211061",
+    "title": "Title:Jovian dust streams: Probes of the Io plasma torus",
+    "date_publ": "4 Nov 2002",
+    "authors": [
+      "Harald Krueger",
+      "Mihaly Horanyi",
+      "Eberhard Grue"
+    ],
+    "abstract": "Abstract:  Jupiter was discovered to be a source of high speed dust particles by the\nUlysses spacecraft in 1992. These dust particles originate from the volcanic\nplumes on Io. They collect electrostatic charges from the plasma environment,\ngain energy from the co-rotating electric field of the magnetosphere, and leave\nJupiter with escape speeds over $\\rm 200 km s^{-1}$. The dust streams were also\nobserved by the Galileo and Cassini spacecraft. While Ulysses and Cassini only\nhad a single encounter with Jupiter, Galileo has continuously monitored the\ndust streams in the Jovian magnetosphere since 1996. The observed dust fluxes\nexhibit large orbit-to-orbit variability due to both systematic and stochastic\nchanges. By combining the entire data set, the variability due to stochatic\nprocesses can be approximately removed and a strong variation with Jovian local\ntime is found. This result is consistent with theoretical expectations and\nconfirms that the majority of the Jovian dust stream particles originate from\nIo rather than other potential sources.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0211061"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0210068",
+    "title": "Title:Study of a formalism modeling massive particles at the speed of light on a Machian basis",
+    "date_publ": "19 Oct 2002 (v1), last revised 22 Jan 2003 (this version, v2)",
+    "authors": [
+      "Burc Gokde"
+    ],
+    "abstract": "Abstract:  In this paper we develop a formalism which models all massive particles as\ntravelling at the speed of light(c). This is done by completing the 3-velocity\nv of a test particle to the speed of light by adding an auxiliary 3-velocity\ncomponent z for the particle. According to the observations and laws of physics\ndefined in our spacetime these vectors are generalized to domains and then two\nmethods are developed to define c domain in terms of our spacetime(v domain).\nBy using these methods the formalism is applied on relativistic quantum theory\nand general theory of relativity. From these, the relation between the\nformalism and Mach's principle is investigated. The ideas and formulae\ndeveloped from application of the formalism on general relativity are compared\nwith the characteristics of anomalous accelerations detected on Pioneer 10/11,\nUlysses and Galileo spacecrafts and an explanation according to the formalism\nis suggested. Possible relationships between Mach's principle and the\nnondeterministic nature of the universe are also explored. In this study Mach's\nprinciple, on which current debate still continues, is expressed from an\nunconventional point of view, as a naturally arising consequence of the\nformalism, and the approaches are simplified accordingly.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0210068"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0210030",
+    "title": "Title:On the Possibility of Measuring the Gravitomagnetic Clock Effect in an Earth Space-Based Experiment",
+    "date_publ": "10 Oct 2002 (v1), last revised 1 Nov 2004 (this version, v4)",
+    "authors": [
+      "Lorenzo Iorio",
+      "Herbert I.M. Lichtenegge"
+    ],
+    "abstract": "Abstract:  In this paper the effect of the post-Newtonian gravitomagnetic force on the\nmean longitudes $l$ of a pair of counter-rotating Earth artificial satellites\nfollowing almost identical circular equatorial orbits is investigated. The\npossibility of measuring it is examined. The observable is the difference of\nthe times required to $l$ in passing from 0 to 2$\\pi$ for both senses of\nmotion. Such gravitomagnetic time shift, which is independent of the orbital\nparameters of the satellites, amounts to 5$\\times 10^{-7}$ s for Earth; it is\ncumulative and should be measured after a sufficiently high number of\nrevolutions. The major limiting factors are the unavoidable imperfect\ncancellation of the Keplerian periods, which yields a constraint of 10$^{-2}$\ncm in knowing the difference between the semimajor axes $a$ of the satellites,\nand the difference $I$ of the inclinations $i$ of the orbital planes which, for\n$i\\sim 0.01^\\circ$, should be less than $0.006^\\circ$. A pair of spacecrafts\nendowed with a sophisticated intersatellite tracking apparatus and drag-free\ncontrol down to 10$^{-9}$ cm s$^{-2}$ Hz$^{-{1/2}}$ level might allow to meet\nthe stringent requirements posed by such a mission.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0210030"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0210480",
+    "title": "Title:Challenging cosmic ray propagation with antiprotons. Evidence for a \"fresh\" nuclei component?",
+    "date_publ": "22 Oct 2002 (v1), last revised 5 Dec 2002 (this version, v2)",
+    "authors": [
+      "I. V. Moskalenko (NASA/GSFC)",
+      "A. W. Strong (MPE",
+      "Garching)",
+      "S. G. Mashnik (LANL)",
+      "J. F. Ormes (NASA/GSFC"
+    ],
+    "abstract": "Abstract:  Recent measurements of the cosmic ray (CR) antiproton flux have been shown to\nchallenge existing CR propagation models. It was shown that the reacceleration\nmodels designed to match secondary to primary nuclei ratios (e.g.,\nboron/carbon) produce too few antiprotons. Matching both the secondary to\nprimary nuclei ratio and the antiproton flux requires artificial breaks in the\ndiffusion coefficient and the primary injection spectrum suggesting the need\nfor other approaches.\nIn the present paper we discuss one possibility to overcome these\ndifficulties. Using the measured antiproton flux AND B/C ratio to fix the\ndiffusion coefficient, we show that the spectra of primary nuclei as measured\nin the heliosphere may contain a fresh local \"unprocessed\" component at low\nenergies perhaps associated with the Local Bubble, thus decreasing the measured\nsecondary to primary nuclei ratio. The independent evidence for SN activity in\nthe solar vicinity in the last few Myr supports this idea. The model reproduces\nantiprotons, B/C ratio, and elemental abundances up to Ni (Z<=28). Calculated\nisotopic distributions of Be and B are in perfect agreement with CR data. The\nabundances of three \"radioactive clock\" isotopes in CR, 10Be, 26Al, 36Cl, are\nall consistent and indicate a halo size z_h~4 kpc based on the most accurate\ndata taken by the ACE spacecraft.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " Nuclear Experiment (nucl-ex)",
+      " Nuclear Theory (nucl-th)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0210480"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0210427",
+    "title": "Title:Astrometric Calibration and Estimate of the Systematic Error in WXM Localizations Obtained by the Chicago Bayesian Method",
+    "date_publ": "18 Oct 2002",
+    "authors": [
+      "C. Graziani",
+      "Y. Shirasaki",
+      "T. Donaghy",
+      "E. Fenimore",
+      "M. Galassi",
+      "N. Kawai",
+      "D. Q. Lamb",
+      "T. Sakamoto",
+      "D. Takahashi",
+      "T. Tamagawa",
+      "T. Tavenner",
+      "K. Torii",
+      "A. Yoshida",
+      "R. Vanderspe"
+    ],
+    "abstract": "Abstract:  WXM gives GRB localizations in instrument coordinates. WXM localizations must\nbe converted to celestial coordinates using spacecraft aspect information\nobtained by the optical cameras on HETE. We must therefore accurately determine\nthe alignment of the WXM boresight with respect to that of the optical cameras,\nin order to accurately determine the celestial coordinates of WXM burst\nlocations. We use a seven-parameter model that treats as free parameters the\nthree Euler angles of a pure rotation, two horizontal shifts of the\ncoded-aperture masks with respect to the detectors, and the heights of the\nmasks above the two detectors. We determine the alignment by fitting the model\nto a set of 252 WXM localizations of Sco X-1 obtained between 23 April and 28\nJune 2001. We estimate the systematic error in WXM GRB locations by comparing\nthe actual and the calculated locations of Sco X-1. We find that the systematic\nerror corresponding to a 68.3% confidence region is 1.7$'$, and the systematic\nerror corresponding to a 90% confidence region is 2.4$'$. We find that this\nastrometric solution also provides a satisfactory fit to an independent sample\nof SGR and XRB events. These results are consistent with the astrometric\ncalibration and the systematic error in WXM localizations derived independently\nusing the RIKEN localization method.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0210427"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0210229",
+    "title": "Title:SIMBOL-X, an X-ray telescope for the 0.5-70 keV range",
+    "date_publ": "10 Oct 2002",
+    "authors": [
+      "Philippe Ferrando (Service d'Astrophysique",
+      "CEA/Saclay",
+      "France"
+    ],
+    "abstract": "Abstract:  SIMBOL-X is a high energy \"mini\" satellite class mission that is proposed by\na European collaboration for a launch in 2009. SIMBOL-X is making use of a\nclassical X-ray mirror, of ~600 cm2 maximum effective area, with a 30 m focal\nlength in order to cover energies up to several tens of keV. This focal length\nwill be achieved through the use of two spacecrafts in a formation flying\nconfiguration. This will give to SIMBOL-X unprecedented spatial resolution (20\narcsec HEW) and sensitivity in the hard X-ray range. By its coverage, from 0.5\nto 70 keV, and sensitivity, SIMBOL-X will be an excellent instrument for the\nstudy of high energy processes in a large number of sources, both compact and\nextended.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0210229"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0210110",
+    "title": "Title:An improvement of the BeppoSAX LECS and MECS positioning accuracy",
+    "date_publ": "4 Oct 2002",
+    "authors": [
+      "M. Perri",
+      "M. Capalb"
+    ],
+    "abstract": "Abstract:  We present a study of the source positioning accuracy of the LECS and MECS\ninstruments on-board BeppoSAX. From the analysis of a sample of archival images\nwe find that a systematic error, which depends on the spacecraft roll angle and\nhas an amplitude of ~17'' for the LECS and ~27'' for the MECS, affects the sky\ncoordinates derived from both instruments. The error is due to a residual\nmisalignment of the two instruments with respect to the spacecraft Z axis\narisen from the presence of attitude inaccuracies in the observations used to\ncalibrate the pointing direction of LECS and MECS optical axes. Analytical\nformulae to correct LECS and MECS sky coordinates are derived. After the\ncoordinate correction the 90% confidence level error radii are 16'' and 17''\nfor LECS and MECS respectively, improving by a factor of ~2 the source location\naccuracy of the two instruments. The positioning accuracy improvement presented\nhere can significantly enhance the follow-up studies at other wavelengths of\nthe X-ray sources observed with LECS and MECS instruments.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0210110"
+  },
+  {
+    "url": "https://arxiv.org/abs/physics/0209023",
+    "title": "Title:Evaluation of an Impulse Gravity Generator Based Beamed Propulsion Concept",
+    "date_publ": "5 Sep 2002",
+    "authors": [
+      "Giovanni Modanese",
+      "Chris Y. Taylo"
+    ],
+    "abstract": "Abstract:  This paper analyzes the suitability of a beamed propulsion concept having\nproperties consistent with the impulse gravity generator described by\nPodkletnov et al. [physics/0108005]. The use of this propulsion concept for\norbital maneuver, Earth-to-orbit, interplanetary, and interstellar applications\nbased on presently available experimental results and theory is considered, and\nareas for future research needed to better characterize this phenomenon are\ndiscussed. A beam of radiation or particles with the properties described for\nthe impulse gravity generator would appear to be an excellent candidate for use\nin beamed spacecraft propulsion. Besides the usual benefits of beamed\npropulsion, it would not need sails or other special spacecraft components to\nfunction, could safely provide high accelerations to delicate components, and\nmight operate at higher efficiencies than other beamed propulsion concepts.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/physics/0209023"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0209079",
+    "title": "Title:Modification of the Doppler Effect due to the Helicity-Rotation Coupling",
+    "date_publ": "22 Sep 2002 (v1), last revised 20 Oct 2002 (this version, v2)",
+    "authors": [
+      "Bahram Mashhoo"
+    ],
+    "abstract": "Abstract:  The helicity-rotation coupling and its current empirical basis are examined.\nThe modification of the Doppler effect due to the coupling of photon spin with\nthe rotation of the observer is considered in detail in connection with its\napplications in the Doppler tracking of spacecraft. Further implications of\nthis coupling and the possibility of searching for it in the intensity response\nof a rotating detector are briefly discussed.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0209079"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0209062",
+    "title": "Title:SIMBOL-X, a new generation X-ray telescope for the 0.5-70 keV range",
+    "date_publ": "4 Sep 2002",
+    "authors": [
+      "Philippe Ferrando (Service d'Astrophysique",
+      "CEA/Saclay",
+      "France"
+    ],
+    "abstract": "Abstract:  SIMBOL-X is a high energy \"mini\" satellite class mission that is proposed by\na French-Italian-English collaboration for a launch in 2009. SIMBOL-X is making\nuse of a classical X-ray mirror, of ~ 600 cm2 maximum effective area, with a 30\nm focal length in order to cover energies up to several tens of keV. This focal\nlength will be achieved through the use of two spacecrafts in a formation\nflying configuration. This will give to SIMBOL-X unprecedented spatial\nresolution (20\" HEW) and sensitivity in the hard X-ray range. By its coverage,\nfrom 0.5 to 70 keV, and sensitivity, SIMBOL-X will be an excellent instrument\nfor the study of high energy processes in a large number of sources, as in\nparticular accreting black-holes, extragalactic jets and AGNs.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0209062"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0208046",
+    "title": "Title:Independent Confirmation of the Pioneer 10 Anomalous Acceleration",
+    "date_publ": "16 Aug 2002",
+    "authors": [
+      "Craig B. Markward"
+    ],
+    "abstract": "Abstract:  I perform an independent analysis of radio Doppler tracking data from the\nPioneer 10 spacecraft for the time period 1987-1994. All of the tracking data\nwere taken from public archive sources, and the analysis tools were developed\nindependently by myself. I confirm that an apparent anomalous acceleration is\nacting on the Pioneer 10 spacecraft, which is not accounted for by present\nphysical models of spacecraft navigation. My best fit value for the\nacceleration, including corrections for systematic biases and uncertainties, is\n(8.60 +/- 1.34) x 10^{-8} cm s^{-2}, directed towards the Sun. This value\ncompares favorably to previous results. I examine the robustness of my result\nto various perturbations of the analysis method, and find agreement to within\n+/- 5%. The anomalous acceleration is reasonably constant with time, with a\ncharacteristic variation time scale of > 70 yr. Such a variation timescale is\nstill too short to rule out on-board thermal radiation effects, based on this\nparticular Pioneer 10 data set.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0208046"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0208558",
+    "title": "Title:Interpretation of Pioneer 10 Lyman alpha based on heliospheric interface models: methodology and first results",
+    "date_publ": "30 Aug 2002",
+    "authors": [
+      "Pradip Gangopadhyay",
+      "Vlad Izmodenov",
+      "Mike Gruntman",
+      "Darrell Judg"
+    ],
+    "abstract": "Abstract:  The Very Local Interstellar Medium (VLISM) neutral hydrogen and proton\ndensities are still not precisely known even after three decades of deep space\nresearch and the existence of the EUV and other diagnostic data obtained by\nPioneer 10/11, Voyager 1/2 and other spacecraft. The EUV data interpretation,\nin particular, has suffered because of inadequate neutral hydrogen-plasma\nmodels, difficulty of calculating the multiply scattered Lyman alpha glow and\ncalibration uncertainties. Recently, all these difficulties have been\nsignificantly reduced. In the present work we have used the latest state of the\nart supersonic VLISM neutral hydrogen-plasma and Monte Carlo radiative transfer\nmodel, incorporating neutral density, temperature, and velocity variations,\nactual solar line shape, realistic redistribution function, Doppler and\naberration effects. This work presents the methodology of the radiative\ntransfer code and the first results of the comparison of the model predictions\nwith the Pioneer 10 data. Monte Carlo radiative transfer calculations were\ncarried out for five neutral hydrogen- plasma models and compared with Pioneer\ndata. The first results are quite encouraging. We found that the VLISM\nionization ratio is between 0.2 and 0.5 and that the VLISM neutral hydrogen\ndensity is less than 0.25 cm^{-3}. The present calculation suggests that the\nPioneer 10 photometer derived intensities (Rayleighs) need to be increased by a\nfactor of 2. If this model- derived calibration is used then the difference\nbetween Pioneer 10 and Voyager 2 intensity values is reduced to about 2.2. The\nmodel, neutral hydrogen density = 0.15 cm${-3} and proton density = 0.07\ncm^{-3}, is found to best fit the Pioneer 10 data.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0208558"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0208489",
+    "title": "Title:Complex rotation with internal dissipation. Applications to cosmic-dust alignment and to wobbling comets and asteroids",
+    "date_publ": "28 Aug 2002",
+    "authors": [
+      "Michael Efroimsky",
+      "A. Lazarian",
+      "Vladislav Sidorenk"
+    ],
+    "abstract": "Abstract:  Neutron stars, asteroids, comets, cosmic-dust granules, spacecraft, as well\nas whatever other freely spinning body dissipate energy when they rotate about\nany axis different from principal. We discuss the internal-dissipation-caused\nrelaxation of a freely precessing rotator towards its minimal-energy mode (mode\nthat corresponds to the spin about the maximal-inertia axis). While the body\nnutates at some rate, the internal stresses and strains within the body\noscillate at frequencies both higher and lower than this rate. The internal\ndissipation takes place mostly the second and higher harmonics. We discuss the\napplication of our findings to asteroids. Regarding the comets, estimates show\nthat the currently available angular resolution of spacecraft-based instruments\nmakes it possible to observe wobble damping within year- or maybe even\nmonth-long spans of time. We also discuss cosmic-dust astrophysics; in\nparticular, the role played by precession damping in the dust alignment. We\nshow that this damping provides coupling of the grain's rotational and\nvibrational degrees of freedom; this entails occasional flipping of dust grains\ndue to thermal fluctuations. During such a flip, grain preserves its angular\nmomentum, but the direction of torques arising from H2 formation reverses. As a\nresult, flipping grain will not rotate fast in spite of the action of\nuncompensated H2 formation torques. The grains get ``thermally trapped,'' and\ntheir alignment is marginal.",
+    "categories": [
+      "Astrophysics (astro-ph)",
+      " Mathematical Physics (math-ph)",
+      " Chaotic Dynamics (nlin.CD)",
+      " Classical Physics (physics.class-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0208489"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0208061",
+    "title": "Title:A Test of Newton's Law of Gravity in the Weak Acceleration Regime",
+    "date_publ": "2 Aug 2002",
+    "authors": [
+      "Riccardo Scarpa",
+      "Gianni Marconi",
+      "Roberto Gilmozz"
+    ],
+    "abstract": "Abstract:  A pilot experiment suitable to test Newton's law of gravity down to the\nregime of acceleration typical of galaxies has been carried out in Omega\nCentauri. Stars in the extreme periphery of this globular cluster are used as\ntest particles immersed in such weak gravitational field. The stellar velocity\ndispersion is found to remain constant at large radii, rather than decrease\nmonotonically, starting at acceleration a=10e-7 cm/s2. This is comparable to\nthe acceleration at which the effect of dark matter becomes relevant in\ngalaxies. Explanations for this result within Newtonian dynamics exist (e.g.\ncluster evaporation, tidal effects, presence of dark matter) but require fine\ntuning of the relevant parameters in order to make the dispersion profile flat.\nAn interesting alternative is that this result, together with a similar one for\nPalomar 13 and the anomalous behavior of spacecrafts outside the solar system,\nsuggests a breakdown of Newton's law in the weak acceleration regime.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0208061"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0207123",
+    "title": "Title:Hypothetical Gravity Control and Implications for Spacecraft Propulsion",
+    "date_publ": "31 Jul 2002",
+    "authors": [
+      "O. Bertolami",
+      "M. Tajma"
+    ],
+    "abstract": "Abstract:  A scientific analysis of the conditions under which gravity could be\ncontrolled and the implications that an hypothetical manipulation of gravity\nwould have for known schemes of space propulsion have been the scope of a\nrecent study carried out for the European Space Agency. The underlying\nfundamental physical principles of known theories of gravity were analysed and\nshown that even if gravity could be modified it would bring somewhat modest\ngains in terms of launching of spacecraft and no breakthrough for space\npropulsion.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0207123"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0207283",
+    "title": "Title:The XEUS Mission",
+    "date_publ": "12 Jul 2002",
+    "authors": [
+      "Johan Bleeker",
+      "Mariano Mendez (SRON"
+    ],
+    "abstract": "Abstract:  XEUS, the X-ray Evolving Universe Spectroscopy mission, is at present an\nESA-ISAS initiative for the study of the evolution of the hot Universe in the\npost-Chandra/XMM-Newton era. The key science objectives of XEUS are: Search for\nthe origin, and subsequent study of growth, of the first massive black holes in\nthe early Universe; assessment of the formation of the first gravitationally\nbound dark matter dominated systems and their evolution; study of the evolution\nof metal synthesis up till the present epoch; characterization of the true\nintergalactic medium.\nTo reach these ambitious science goals the two salient characteristics of the\nXEUS observatory entail: (1) Its effective spectroscopic grasp, combining a\nsensitive area > 20 m^2 below 2 keV with a spectral resolution better than 2\neV. This allows significant detection of the most prominent X-ray emission\nlines (e.g. O-VII, Si-XIII and Fe-XXV) in cosmologically distant sources\nagainst the sky background; (2) Its angular resolving power, between 2 and 5\narc seconds, to minimize source confusion as well as noise due to the galactic\nX-ray foreground emission.\nTo accommodate these instrument requirements a mission concept has been\ndeveloped featuring an X-ray telescope of 50-m focal length, comprising two\nlaser-locked (separate) mirror and detector spacecraft's. The telescope is\ninjected in a low earth orbit with an inclination commensurate with the ISS. At\npresent an on-orbit growth of the mirror spacecraft is foreseen with the aid of\nthe ISS, raising the mirror diameter from 4.5 to 10 m. The detector spacecraft\nwill be replaced at 5 year intervals after run-out of consumables with an\nassociated upgrade of the focal plane package.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0207283"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0207008",
+    "title": "Title:On the intensity contrast of solar photospheric faculae and network elements",
+    "date_publ": "29 Jun 2002",
+    "authors": [
+      "A. Ortiz (1)",
+      "S. K. Solanki (2)",
+      "V. Domingo (1)",
+      "M. Fligge (3)",
+      "B. Sanahuja (1) ((1) Universitat de Barcelona",
+      "(2) Max-Planck Institut fur Aeronomie",
+      "(3) Institute for Astronomy ETHZ"
+    ],
+    "abstract": "Abstract:  Sunspots, faculae and the magnetic network contribute to solar irradiance\nvariations. The contribution due to faculae and the network is of basic\nimportance, but suffers from considerable uncertainty. We determine the\ncontrasts of active region faculae and the network, both as a function of\nheliocentric angle and magnetogram signal. To achieve this, we analyze\nnear-simultaneous full disk images of photospheric continuum intensity and\nline-of-sight magnetic field provided by the Michelson Doppler Interferometer\n(MDI) on board the SOHO spacecraft. Starting from the surface distribution of\nthe solar magnetic field we first construct a mask, which is then used to\ndetermine the brightness of magnetic features, and the relatively field-free\npart of the photosphere separately. By sorting the magnetogram signal into\ndifferent bins we are able to distinguish between the contrasts of different\nconcentrations of magnetic field. We find that the contrasts of active region\nfaculae (large magnetogram signal) and the network (small signal) exhibit a\nvery different CLV, showing that the populations of magnetic flux tubes are\ndifferent. This implies that these elements need to be treated separately when\nreconstructing variations of the total solar irradiance with high precision. We\nhave obtained an analytical expression for the contrast of photospheric\nmagnetic features as a function of both position on the disk and magnetic field\nstrength, by performing a 2-dimensional fit to the observations.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0207008"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0206081",
+    "title": "Title:Unequal arm space-borne gravitational wave detectors",
+    "date_publ": "26 Jun 2002",
+    "authors": [
+      "Shane L. Larson",
+      "Ronald W. Hellings",
+      "William A. Hiscoc"
+    ],
+    "abstract": "Abstract:  Unlike ground-based interferometric gravitational wave detectors, large\nspace-based systems will not be rigid structures. When the end-stations of the\nlaser interferometer are freely flying spacecraft, the armlengths will change\ndue to variations in the spacecraft positions along their orbital trajectories,\nso the precise equality of the arms that is required in a laboratory\ninterferometer to cancel laser phase noise is not possible. However, using a\nmethod discovered by Tinto and Armstrong, a signal can be constructed in which\nlaser phase noise exactly cancels out, even in an unequal arm interferometer.\nWe examine the case where the ratio of the armlengths is a variable parameter,\nand compute the averaged gravitational wave transfer function as a function of\nthat parameter. Example sensitivity curve calculations are presented for the\nexpected design parameters of the proposed LISA interferometer, comparing it to\na similar instrument with one arm shortened by a factor of 100, showing how the\nratio of the armlengths will affect the overall sensitivity of the instrument.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0206081"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0206151",
+    "title": "Title:HETE-2 Localization and Observations of the Short, Hard Gamma-Ray Burst GRB020531",
+    "date_publ": "10 Jun 2002 (v1), last revised 11 Jun 2002 (this version, v2)",
+    "authors": [
+      "D. Q. Lamb",
+      "G. R. Ricker",
+      "J.-L. Atteia",
+      "K. Hurley",
+      "N. Kawai",
+      "Y. Shirasaki",
+      "T. Sakamoto",
+      "T. Tamagawa",
+      "C. Graziani",
+      "J.-F. Olive",
+      "A. Yoshida",
+      "M. Matsuoka",
+      "K. Torii",
+      "E. E. Fenimore",
+      "M. Galassi",
+      "T. Tavenner",
+      "T. Q. Donaghy",
+      "M. Boer",
+      "J.-P. Dezalay",
+      "R. Vanderspek",
+      "G. Crew",
+      "J. Doty",
+      "G. Monnelly",
+      "J. Villasenor",
+      "N. Butler",
+      "J. G. Jernigan",
+      "A. Levine",
+      "F. Martel",
+      "E. Morgan",
+      "G. Prigozhin",
+      "S. E. Woosley",
+      "T. Cline",
+      "I. Mitrofanov",
+      "D. Anfimov",
+      "A. Kozyrev",
+      "M. Litvak",
+      "A. Sanin",
+      "W. Boynton",
+      "C. Fellows",
+      "K. Harshman",
+      "C. Shinohara",
+      "R. Starr",
+      "J. Braga",
+      "R. Manchanda",
+      "G. Pizzichini",
+      "K. Takagishi",
+      "M. Yamauch"
+    ],
+    "abstract": "Abstract:  The {\\it HETE-2} (hereafter \\HETE) French Gamma Telescope (FREGATE) and the\nWide-field X-ray Monitor (WXM) instruments detected a short ($t_{50} = 360$\nmsec in the FREGATE 85-300 keV energy band), hard gamma-ray burst (GRB) that\noccurred at 1578.72 SOD (00:26:18.72 UT) on 31 May 2002. The WXM flight\nlocalization software produced a valid location in spacecraft (relative)\ncoordinates. However, since no on-board real-time star camera aspect was\navailable, an absolute localization could not be disseminated. A preliminary\nlocalization was reported as a GCN Position Notice at 01:54:22 UT, 88 min after\nthe burst. Further ground analysis produced a refined localization, which can\nbe expressed as a 90% confidence rectangle that is 67 arcminutes in RA and 43\narcminutes in Dec (90% confidence region), centered at RA = +15$^{\\rm h}$\n14$^{\\rm m}$ 45$^{\\rm s}$, Dec = -19$^\\circ$ 21\\arcmin 35\\arcsec (J2000). An\nIPN localization of the burst was disseminated 18 hours after the GRB (Hurley\net al. 2002b). A refined IPN localization was disseminated $\\approx$ 5 days\nafter the burst. This hexagonal-shaped localization error region is centered on\nRA = 15$^{\\rm h}$ 15$^{\\rm m}$ 03.57$^{\\rm s}$, -19$^\\circ$ 24\\arcmin\n51.00\\arcsec (J2000), and has an area of $\\approx$ 22 square arcminutes (99.7%\nconfidence region). The prompt localization of this short, hard GRB by \\HETE\nand the anti-Sun pointing of the \\HETE instruments, coupled with the refinement\nof the localization by the IPN, has made possible rapid follow-up observations\nof the burst at radio, optical, and X-ray wavelengths.",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0206151"
+  },
+  {
+    "url": "https://arxiv.org/abs/astro-ph/0206059",
+    "title": "Title:Io revealed in the Jovian dust streams",
+    "date_publ": "4 Jun 2002",
+    "authors": [
+      "Amara Lynn Graps (1)",
+      "Eberhard Gr\u00fcn (1)",
+      "Harald Kr\u00fcger (1)",
+      "Mih\u00e1\u0142y Hor\u00e1nyi (2)",
+      "H\u00e5kan Svedhem (3) ((1) Max-Planck-Institut f\u00fcr Kernphysik Heidelberg Germany",
+      "(2) LASP Boulder USA",
+      "(3) ESTEC Noordwijk Netherlands"
+    ],
+    "abstract": "Abstract:  The Jovian dust streams are high-speed bursts of submicron-sized particles\ntraveling in the same direction from a source in the Jovian system. Since their\ndiscovery in 1992, they have been observed by three spacecraft: Ulysses,\nGalileo and Cassini. The source of the Jovian dust streams is dust from Io's\nvolcanoes. The charged and traveling dust stream particles have particular\nsignatures in frequency space and in real space. The frequency-transformed\nGalileo dust stream measurements show different signatures, varying\norbit-to-orbit during Galileo's first 29 orbits around Jupiter. Time-frequency\nanalysis demonstrates that Io is a localized source of charged dust particles.\nAspects of the particles' dynamics can be seen in the December-2000 joint\nGalileo-Cassini dust stream measurements. To match the travel times, the\nsmallest dust particles could have the following range of parameters: radius:\n6nm, density: 1.35-1.75gr/cm$^3$, sulfur charging conditions, which produce\ndust stream speeds: 220|450km/sec (Galileo|Cassini) and charge potentials:\n5.5|6.3Volt (Galileo|Cassini).",
+    "categories": [
+      "Astrophysics (astro-ph)"
+    ],
+    "url_pdf": "/pdf/astro-ph/0206059"
+  },
+  {
+    "url": "https://arxiv.org/abs/gr-qc/0205126",
+    "title": "Title:The 550 AU Mission: A Critical Discussion",
+    "date_publ": "30 May 2002",
+    "authors": [
+      "Slava G. Turyshev",
+      "B-G Andersso"
+    ],
+    "abstract": "Abstract:  We have studied the science rationale, goals and requirements for a mission\naimed at using the gravitational lensing from the Sun as a way of achieving\nhigh angular resolution and high signal amplification. We find that such a\nmission concept is plagued by several practical problems. Most severe are the\neffects due to the plasma in the solar atmosphere which cause refraction and\nscattering of the propagating rays. These effects limit the frequencies that\ncan be observed to those above $\\sim$100-200 GHz and moves the optical point\noutwards beyond the vacuum value of $\\geq$ 550 AU. Density fluctuations in the\ninner solar atmosphere will further cause random pathlength differences for\ndifferent rays. The corrections for the radiation from the Sun itself will also\nbe a major challenge at any wavelength used. Given reasonable constraints on\nthe spacecraft (particularly in terms of size and propulsion) source selection\nas well as severe navigational constraints further add to the difficulties for\na potential mission.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/gr-qc/0205126"
+  }
+]

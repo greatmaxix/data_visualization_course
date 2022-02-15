@@ -1,0 +1,881 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1806.06916",
+    "title": "Title:On sound insulation of pyramidal lattice sandwich structure",
+    "date_publ": "6 Jun 2018",
+    "authors": [
+      "Jie Liu",
+      "Tingting Chen",
+      "Guilin Wen",
+      "Qixiang Qing",
+      "Ramin Sedaghati",
+      "Yi Min Xi"
+    ],
+    "abstract": "Abstract:  Pyramidal lattice sandwich structure (PLSS) exhibits high stiffness and\nstrength-to-weight ratio which can be effectively utilized for designing\nlight-weight load bearing structures for ranging from ground to aerospace\nvehicles. While these structures provide superior strength to weigh ratio,\ntheir sound insulation capacity has not been well understood. The aim of this\nstudy is to develop numerical and experimental methods to fundamentally\ninvestigate the sound insulation property of the pyramidal lattice sandwich\nstructure with solid trusses (PLSSST). A finite element model has been\ndeveloped to predict the sound transmission loss (STL) of PLSSST and simulation\nresults have been compared with those obtained experimentally. Parametric\nstudies is then performed using the validated finite element model to\ninvestigate the effect of different parameters in pyramidal lattice sandwich\nstructure with hollow trusses (PLSSHT), revealing that the pitching angle, the\nuniform thickness and the length of the hollow truss and the lattice constant\nhave considerable effects on the sound transmission loss. Finally a design\noptimization strategy has been formulated to optimize PLSSHT in order to\nmaximize STL while meeting mechanical property requirements. It has been shown\nthat STL of the optimal PLSSHT can be increased by almost 10% at the\nlow-frequency band. The work reported here provides useful information for the\nnoise reduction design of periodic lattice structures.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Sound (cs.SD)"
+    ],
+    "url_pdf": "/pdf/1806.06916"
+  },
+  {
+    "url": "https://arxiv.org/abs/1806.05904",
+    "title": "Title:Machine learning methods for turbulence modeling in subsonic flows over airfoils",
+    "date_publ": "15 Jun 2018 (v1), last revised 4 Jul 2018 (this version, v2)",
+    "authors": [
+      "Weiwei Zhang",
+      "Linyang Zhu",
+      "Yilang Liu",
+      "Jiaqing Ko"
+    ],
+    "abstract": "Abstract:  Reynolds-Averaged Navier-Stokes(RANS) method will still play a vital role in\nthe following several decade in aerospace engineering. Although RANS models are\nwidely used, empiricism and large discrepancies between models reduce the\nreliability of simulating complex flows. Therefore, in recent years,\ndata-driven turbulence model has aroused widespread concern in fluid mechanics.\nBased on the experimental/numerical simulation results, this approach aims to\nmodify or construct the turbulence model for specific purposes by machine\nlearning technologies. In this paper, we take the results calculated by SA\nmodel as training data. Different from low Reynolds number turbulent flows, the\ndata from high Reynolds number flows shows an apparent scaling effect, thus\nleading to difficulties in the data-driven modeling. In order to improve the\nfitting accuracy, we divided the flow field into near-wall region, wake region,\nand far-field region, and built individual model for every region. In this\npaper, we adopted the radial basis function neural network (RBFNN) and some\nauxiliary optimization algorithms to reconstruct a mapping function between\nmean variables and the eddy viscosity. Since this model reflects the\nrelationship between local flow characteristics and turbulent eddy viscosity,\nit is independent on the airfoil shape and flow condition. The training data in\nthis paper is generated from only three subsonic flow calculations of NACA0012\nairfoil. By coupling the proposed approach with N-S equations, we calculated\nvarious flow cases as well as two different airfoils and showed the eddy\nviscosity contours, velocity profiles along the normal direction of wall and\nskin friction coefficient distributions, etc. Compared with the SA model, the\nresults show a reasonable accuracy and better efficiency, which indicates the\npositive prospect of data-driven methods in turbulence modeling.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1806.05904"
+  },
+  {
+    "url": "https://arxiv.org/abs/1806.03975",
+    "title": "Title:Efficient global optimization of constrained mixed variable problems",
+    "date_publ": "11 Jun 2018",
+    "authors": [
+      "Julien Pelamatti",
+      "Lo\u00efc Brevault",
+      "Mathieu Balesdent",
+      "El-Ghazali Talbi",
+      "Yannick Gueri"
+    ],
+    "abstract": "Abstract:  Due to the increasing demand for high performance and cost reduction within\nthe framework of complex system design, numerical optimization of\ncomputationally costly problems is an increasingly popular topic in most\nengineering fields. In this paper, several variants of the Efficient Global\nOptimization algorithm for costly constrained problems depending simultaneously\non continuous decision variables as well as on quantitative and/or qualitative\ndiscrete design parameters are proposed. The adaptation that is considered is\nbased on a redefinition of the Gaussian Process kernel as a product between the\nstandard continuous kernel and a second kernel representing the covariance\nbetween the discrete variable values. Several parameterizations of this\ndiscrete kernel, with their respective strengths and weaknesses, are discussed\nin this paper. The novel algorithms are tested on a number of analytical\ntest-cases and an aerospace related design problem, and it is shown that they\nrequire fewer function evaluations in order to converge towards the\nneighborhoods of the problem optima when compared to more commonly used\noptimization algorithms.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1806.03975"
+  },
+  {
+    "url": "https://arxiv.org/abs/1806.01791",
+    "title": "Title:Inter-Satellite Communication System based on Visible Light",
+    "date_publ": "2 Jun 2018",
+    "authors": [
+      "David Amanor",
+      "William Edmonson",
+      "Fatemeh Afgha"
+    ],
+    "abstract": "Abstract:  Future space missions will be driven by factors such as the need for reduced\ncost of spacecraft without diminished performance, new services and\ncapabilities including reconfigurability, autonomous operations, target\nobservation with improved resolution and servicing (or proximity) operations.\nSmall satellites, deployed as a sensor network in space, can through\ninter-satellite communication (ISC) enable the realization of these future\ngoals. Developing the communication subsystem that can facilitate ISC within\nthis distributed network of small satellites require a complex range of design\ntrade-offs. For small satellites, the general design parameters that are to be\noptimized for ISC are size, mass, and power, as well as cost (SMaP-C). Novel\nand efficient design techniques for implementing the communication subsystem\nare crucial for building multiple small satellite networks with capability for\nachieving significant data-rates along the inter-satellite links (ISLs). In\nthis paper, we propose an alternative approach to RF and laser ISLs for ISC\namong small satellites deployed as a sensor network in low Earth orbit (LEO).\nFor short to medium range ISLs, we present an LED-based visible light\ncommunication (VLC) system that addresses the SMaP constraints, including\ncapability for achieving significant data rates. Our research is focused on the\ndevelopment of the physical layer for pico-/nano class of satellites with prime\nconsideration for the impact of solar background illumination on link\nperformance. We develop an analytical model of the inter-satellite link (ISL)\nin MATLAB and evaluate its feasibility and performance for different intensity\nmodulation and direct detection (IM/DD) schemes.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1806.01791"
+  },
+  {
+    "url": "https://arxiv.org/abs/1805.12209",
+    "title": "Title:Design of a Non-vacuum-cooling Compact Scientific CCD Camera",
+    "date_publ": "28 May 2018",
+    "authors": [
+      "Yi Feng",
+      "Hong-fei Zhang",
+      "Yi-ling Xu",
+      "Jin-ting Chen",
+      "Dong-xu Yang",
+      "Yi Zhang",
+      "Cheng Chen",
+      "Guang-yu Zhang",
+      "Jian-min Wang",
+      "Jian Wan"
+    ],
+    "abstract": "Abstract:  CCD was born in Bell Laboratories in 1969 and has been widely used in various\nfields. Its ultra-low noise and high quantum efficiency make it work well in\nparticle physics, high energy physics, nuclear physics and astrophysics.\nNowadays, more and more CCD cameras have been developed for medical diagnosis,\nscientific experiments, aerospace, military exploration and other fields. For\nthe wide range of CCD cameras, a Non-vacuum-cooling compact (NVCC) scientific\nCCD camera has been developed, including FPGA-based low noise clock and bias\ndriver circuit, data acquisition circuit, STM32-based temperature control\ndesign. At the same time, the readout noise of the imaging system is studied\nemphatically. The scheme to generate the CCD clock and the bias driving circuit\nthrough ultralow noise LDOs is proposed. The camera was tested in a variety of\nenvironments, and the test results show that the system can run at a maximum\nrate of 5M pixels/s and readout noise is as low as 9.29e^- when the CCD readout\nspeed is 500K pixels/s. Finally, a series of stability tests were carried out\non the camera system.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)",
+      " Image and Video Processing (eess.IV)"
+    ],
+    "url_pdf": "/pdf/1805.12209"
+  },
+  {
+    "url": "https://arxiv.org/abs/1805.09111",
+    "title": "Title:Complex System Design with Design Languages: Method, Applications and Design Principles",
+    "date_publ": "22 May 2018",
+    "authors": [
+      "Samuel Vogel",
+      "Stephan Rudolp"
+    ],
+    "abstract": "Abstract:  Graph-based design languages in UML (Unified Modeling Language) are presented\nas a method to encode and automate the complete design process and the final\noptimization of the product or complex system. A design language consists of a\nvocabulary (digital building blocks) and a set of rules (digital composition\nknowledge) along with an executable sequence of the rules (digital encoding of\nthe design process). The rule-based mechanism instantiates a central and\nconsistent global product data structure (the so-called design graph). Upon the\ngeneration of the abstract central model, the domain-specific engineering\nmodels are automatically generated, remotely executed and their results are\nfed-back into the central design model for subsequent design decisions or\noptimizations. The design languages are manually modeled and automatically\nexecuted in a so-called design compiler. Up to now, a variety of product\ndesigns in the areas of aerospace, automotive, machinery and consumer products\nhave been successfully accelerated and automated using graph-based design\nlanguages. Different design strategies and mechanisms have been identified and\napplied in the automation of the design processes. Approaches ranging from the\nautomated and declarative processing of constraints, through fractal nested\ndesign patterns, to mathematical dimension-based derivation of the sequence of\ndesign actions are used. The existing knowledge for a design determines the\nglobal design strategy (top-down vs. bottom-up). Similarity-mechanics in the\nform of dimensionless invariants are used for evaluation to downsize the\nsolution for an overall complexity reduction. Design patterns, design paradigms\n(form follows function) and design strategies (divide and conquer) from\ninformation science are heavily used to structure, manage and handle\ncomplexity.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1805.09111"
+  },
+  {
+    "url": "https://arxiv.org/abs/1805.02961",
+    "title": "Title:The effect of inner swirl on confined co-axial flow",
+    "date_publ": "8 May 2018 (v1), last revised 16 Oct 2018 (this version, v2)",
+    "authors": [
+      "GP Benham",
+      "IJ Hewitt",
+      "CP Please",
+      "P Bir"
+    ],
+    "abstract": "Abstract:  We study the problem of mixing between core and annular flow in a pipe,\nexamining the effect of a swirling core flow. Such flows are important across a\nrange of applications, including jet pumps, combustion chambers and aerospace\nengineering. Previous studies show that swirl can increase shear layer growth\nrates and, in the case of confining walls, reduce flow separation. However, the\neffect of swirl on pressure loss in a confined flow is uncertain. To address\nthis, we develop a simplified model that approximates the axial flow profile as\na linear shear layer separating uniform-velocity core and annular streams. The\nazimuthal flow profile is approximated as a solid body rotation within the core\nregion, and a parabolic mixing profile within the shear layer. This model shows\ngood agreement with computational turbulence modelling, whilst its simplicity\nand low computational cost make it ideal for benchmark predictions and design\npurposes. Using this model, we confirm that a swirling core is useful for\nincreasing shear layer growth rates, but find that it is detrimental to\npressure recovery. This has important implications for the design of diffusers\nthat incorporate swirling flows. We use the model to describe the slow\nrecirculation region that can form along the pipe axis for sufficiently large\nswirl, by approximating it as a stagnant zone with zero velocity. The criteria\nfor the development of such a region are established in terms of the pipe\nexpansion angle and inflow velocity profile.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1805.02961"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.11325",
+    "title": "Title:The Influence of Yaw on the Unsteady Surface Pressures over a Two-Wheeled Landing-Gear Model",
+    "date_publ": "30 Apr 2018 (v1), last revised 22 Sep 2020 (this version, v3)",
+    "authors": [
+      "A Gatto",
+      "W R Graha"
+    ],
+    "abstract": "Abstract:  Landing-gear noise is an increasing issue for transport aircraft. A key\ndeterminant of the phenomenon is the surface pressure field. Previous studies\nhave described this field when the oncoming flow is perfectly aligned with the\ngear. In practice, there may be a cross-flow component; here its influence is\ninvestigated experimentally for a generic, two-wheel, landing-gear model. It is\nfound that yaw angles as small as 5\u00b0 cause significant changes in both\noverall flow topology and unsteady surface pressures. Most notably, on the\noutboard face of the leeward wheel, large-scale separation replaces\npredominantly attached flow behind a leading-edge separation bubble. The effect\non unsteady surface pressures includes marked shifts in the content at\nfrequencies in the audible range, implying that yaw is an important parameter\nfor landing-gear noise, and that purely unyawed studies may not be fully\nrepresentative of the problem.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1804.11325"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.09498",
+    "title": "Title:Fault Detection and Isolation of Satellite Gyroscopes Using Relative Positions in Formation Flying",
+    "date_publ": "25 Apr 2018 (v1), last revised 30 Apr 2018 (this version, v2)",
+    "authors": [
+      "Amir Shakouri",
+      "Nima Assadia"
+    ],
+    "abstract": "Abstract:  A fault detection and isolation method for satellite rate gyros is proposed\nbased on using the satellite-to-satellite measurements such as relative\nposition beside orbit parameters of the primary satellite. By finding a\nconstant of motion, it is shown that the dynamic states in a relative motion\nare restricted in such a way that the angular velocity vector of primary\nsatellite lies on a quadratic surface. This constant of motion is then used to\ndetect the gyroscope faults and estimate the corresponding scale factor or bias\nvalues of the rate gyros of the primary satellite. The proposed algorithm works\neven in time variant fault situations as well, and does not impose any\nadditional subsystems to formation flying satellites. Monte-Carlo simulations\nare used to ensure that the algorithm retains its performance in the presence\nof uncertainties. In presence of only measurement noise, the isolation process\nperforms well by selecting a proper threshold. However, the isolation\nperformance degrades as the scale factor approaches unity or bias approaches\nzero. Finally, the effect of orbital perturbations on isolation process is\ninvestigated by including the effect of zonal harmonics as well as drag and\nwithout loss of generality, it is shown that the perturbation effects are\nnegligible.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1804.09498"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.06246",
+    "title": "Title:Investigating the Composite/Metal Interface and its Influence on the Electrical Resistance Measurement",
+    "date_publ": "14 Apr 2018",
+    "authors": [
+      "Pedram Gharghabi",
+      "Juhyeong Lee",
+      "Tinsley Colmer",
+      "Michael S. Mazzola",
+      "Thomas E. Lacy",
+      "Joni Klus"
+    ],
+    "abstract": "Abstract:  The advantages introduced by carbon fiber reinforced polymer (CFRP)\ncomposites has made them an appropriate choice in many applications and an\nideal replacement for conventional materials. The benefits using CFRP\ncomposites are due to their lightweight, high stiffness, as well as corrosion\nresistance. For this reason, there is a fast growing trend in using CFRP\ncomposites for aircraft and wind turbine structural applications. The\nreplacement of the conventional aerospace-grade metal alloys (aluminum,\ntitanium, magnesium, etc.) with CFRP composites results in new challenges. For\nexample, an aircraft during flight is prone to be struck by lightning. To\nwithstand the injection of such massive amount of energy, adequate electrical\nproperties, mainly electrical conductivity, is required. In fact, electrical\nconductance (or its reciprocal, resistance) is a critical parameter\nrepresenting any material change and it can be considered an index for health\nmonitoring. In this paper, AS4/8552 carbon/epoxy laminated composites were\ninjected with two types of electrical currents, impulse current and direct\ncurrent. The change in measured electrical resistance was recorded. A\nsignificant resistance drop occurred after electrical current injections.\nFurthermore, four-point flexural tests were performed on these composites to\ncorrelate an electrical resistance change with a potential flexural property\nchange. There was no clear trend between a resistance change and flexural\nstrength/modulus change of the test coupons, regardless of current injection.\nHowever, it was observed that the injection of the current affects the contact\nresistance such that its resistance decreases.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/1804.06246"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.05656",
+    "title": "Title:Assurance Benefits of ISO 26262 compliant Microcontrollers for safety-critical Avionics",
+    "date_publ": "26 Mar 2018",
+    "authors": [
+      "Andreas Schwierz",
+      "H\u00e5kan Forsber"
+    ],
+    "abstract": "Abstract:  The usage of complex Microcontroller Units (MCUs) in avionic systems\nconstitutes a challenge in assuring their safety. They are not developed\naccording to the development requirements accepted by the aerospace industry.\nThese Commercial off-the-shelf (COTS) hardware components usually target other\ndomains like the telecommunication branch. In the last years MCUs developed in\ncompliance to the ISO 26262 have been released on the market for safety-related\nautomotive applications. The avionic assurance process could profit from these\nsafety MCUs. In this paper we present evaluation results based on the current\nassurance practice that demonstrates expected assurance activities benefit from\nISO 26262 compliant MCUs.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1804.05656"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.04349",
+    "title": "Title:On the Application of ISO 26262 in Control Design for Automated Vehicles",
+    "date_publ": "12 Apr 2018",
+    "authors": [
+      "Georg Schildbach (University of Luebeck"
+    ],
+    "abstract": "Abstract:  Research on automated vehicles has experienced an explosive growth over the\npast decade. A main obstacle to their practical realization, however, is a\nconvincing safety concept. This question becomes ever more important as more\nsophisticated algorithms are used and the vehicle automation level increases.\nThe field of functional safety offers a systematic approach to identify\npossible sources of risk and to improve the safety of a vehicle. It is based on\npractical experience across the aerospace, process and other industries over\nmultiple decades. This experience is compiled in the functional safety standard\nfor the automotive domain, ISO 26262, which is widely adopted throughout the\nautomotive industry. However, its applicability and relevance for highly\nautomated vehicles is subject to a controversial debate. This paper takes a\ncritical look at the discussion and summarizes the main steps of ISO 26262 for\na safe control design for automated vehicles.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Robotics (cs.RO)",
+      " Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1804.04349"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.04317",
+    "title": "Title:Cooperative Localisation of a GPS-Denied UAV using Direction of Arrival Measurements",
+    "date_publ": "12 Apr 2018 (v1), last revised 20 Nov 2018 (this version, v3)",
+    "authors": [
+      "James S. Russell",
+      "Mengbin Ye",
+      "Brian D.O. Anderson",
+      "Hatem Hmam",
+      "Peter Saruni"
+    ],
+    "abstract": "Abstract:  A GPS-denied UAV (Agent B) is localised through INS alignment with the aid of\na nearby GPS-equipped UAV (Agent A), which broadcasts its position at several\ntime instants. Agent B measures the signals' direction of arrival with respect\nto Agent B's inertial navigation frame. Semidefinite programming and the\nOrthogonal Procrustes algorithm are employed, and accuracy is improved through\nmaximum likelihood estimation. The method is validated using flight data and\nsimulations. A three-agent extension is explored.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1804.04317"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.03734",
+    "title": "Title:Asteroid Ryugu Before the Hayabusa2 Encounter",
+    "date_publ": "10 Apr 2018",
+    "authors": [
+      "Koji Wada",
+      "Matthias Grott",
+      "Patrick Michel",
+      "Kevin J. Walsh",
+      "Antonella M. Barucci",
+      "Jens Biele",
+      "J\u00fcrgen Blum",
+      "Carolyn M. Ernst",
+      "Jan T. Grundmann",
+      "Bastian Gundlach",
+      "Axel Hagermann",
+      "Maximilian Hamm",
+      "Martin Jutzi",
+      "Myung-Jin Kim",
+      "Ekkehard K\u00fchrt",
+      "Lucille Le Corre",
+      "Guy Libourel",
+      "Roy Lichtenheldt",
+      "Alessandro Maturilli",
+      "Scott R. Messenger",
+      "Tatsuhiro Michikami",
+      "Hideaki Miyamoto",
+      "Stefano Mottola",
+      "Akiko M. Nakamura",
+      "Thomas M\u00fcller",
+      "Larry R. Nittler",
+      "Kazunori Ogawa",
+      "Tatsuaki Okada",
+      "Ernesto Palomba",
+      "Naoya Sakatani",
+      "Stefan Schr\u00f6der",
+      "Hiroki Senshu",
+      "Driss Takir",
+      "Michael E. Zolensky (International Regolith Science Group (IRSG) in Hayabusa2 project"
+    ],
+    "abstract": "Abstract:  Asteroid (162173) Ryugu is the target object of Hayabusa2, an asteroid\nexploration and sample return mission led by Japan Aerospace Exploration Agency\n(JAXA). Ground-based observations indicate that Ryugu is a C-type near-Earth\nasteroid with a diameter of less than 1 km, but the knowledge of its detailed\nproperties is still very limited. This paper summarizes our best understanding\nof the physical and dynamical properties of Ryugu based on remote sensing and\ntheoretical modeling. This information is used to construct a design reference\nmodel of the asteroid that is used for formulation of mission operations plans\nin advance of asteroid arrival. Particular attention is given to the surface\nproperties of Ryugu that are relevant to sample acquisition. This reference\nmodel helps readers to appropriately interpret the data that will be directly\nobtained by Hayabusa2 and promotes scientific studies not only for Ryugu itself\nand other small bodies but also for the Solar System evolution that small\nbodies shed light on.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1804.03734"
+  },
+  {
+    "url": "https://arxiv.org/abs/1804.03036",
+    "title": "Title:Image Moment Models for Extended Object Tracking",
+    "date_publ": "9 Apr 2018",
+    "authors": [
+      "Gang Yao",
+      "Ashwin Dan"
+    ],
+    "abstract": "Abstract:  In this paper, a novel image moments based model for shape estimation and\ntracking of an object moving with a complex trajectory is presented. The camera\nis assumed to be stationary looking at a moving object. Point features inside\nthe object are sampled as measurements. An ellipsoidal approximation of the\nshape is assumed as a primitive shape. The shape of an ellipse is estimated\nusing a combination of image moments. Dynamic model of image moments when the\nobject moves under the constant velocity or coordinated turn motion model is\nderived as a function for the shape estimation of the object. An Unscented\nKalman Filter-Interacting Multiple Model (UKF-IMM) filter algorithm is applied\nto estimate the shape of the object (approximated as an ellipse) and track its\nposition and velocity. A likelihood function based on average log-likelihood is\nderived for the IMM filter. Simulation results of the proposed UKF-IMM\nalgorithm with the image moments based models are presented that show the\nestimations of the shape of the object moving in complex trajectories.\nComparison results, using intersection over union (IOU), and position and\nvelocity root mean square errors (RMSE) as metrics, with a benchmark algorithm\nfrom literature are presented. Results on real image data captured from the\nquadcopter are also presented.",
+    "categories": [
+      "Image and Video Processing (eess.IV)",
+      " Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1804.03036"
+  },
+  {
+    "url": "https://arxiv.org/abs/1803.04564",
+    "title": "Title:NASA's Asteroid Grand Challenge: Strategy, Results and Lessons Learned",
+    "date_publ": "12 Mar 2018",
+    "authors": [
+      "Jennifer L Gustetic",
+      "Victoria Friedensen",
+      "Jason L Kessler",
+      "Shanessa Jackson",
+      "James Par"
+    ],
+    "abstract": "Abstract:  Beginning in 2012, NASA utilized a strategic process to identify broad\nsocietal questions, or grand challenges, that are well suited to the aerospace\nsector and align with national priorities. This effort generated NASA's first\ngrand challenge, the Asteroid Grand Challenge, a large scale effort using\nmultidisciplinary collaborations and innovative engagement mechanisms focused\non finding and addressing asteroid threats to human populations. In April 2010,\nPresident Barack Obama announced a mission to send humans to an asteroid by\n2025. This resulted in the agency's Asteroid Redirect Mission to leverage and\nmaximize existing robotic and human efforts to capture and reroute an asteroid,\nwith the goal of eventual human exploration. The AGC, initiated in 2013,\ncomplemented ARM by expanding public participation, partnerships, and other\napproaches to find, understand, and overcome these potentially harmful\nasteroids. This paper describes a selection of AGC activities implemented from\n2013 to 2017 and their results, excluding those conducted by NASA's Near Earth\nObject Observations Program and other organizations. The strategic development\nof the initiative is outlined as well as initial successes, strengths, and\nweaknesses resulting from the first four years of AGC activities and\napproaches. Finally, we describe lesson learned and areas for continued work\nand study. The AGC lessons learned and strategies could inform the work of\nother agencies and organizations seeking to conduct a global scientific\ninvestigation with matrixed organizational support, multiple strategic\npartners, and numerous internal and external open innovation approaches and\naudiences.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1803.04564"
+  },
+  {
+    "url": "https://arxiv.org/abs/1803.02549",
+    "title": "Title:An iALM-ICA-based Anti-Jamming DS-CDMA Receiver for LMS Systems",
+    "date_publ": "7 Mar 2018",
+    "authors": [
+      "Hyoyoung Jung",
+      "Jaewook Kang",
+      "Tae Seok Lee",
+      "Suil Kim",
+      "Kiseon Ki"
+    ],
+    "abstract": "Abstract:  We consider a land mobile satellite communication system using spread\nspectrum techniques where the uplink is exposed to MT jamming attacks, and the\ndownlink is corrupted by multi-path fading channels. We proposes an\nanti-jamming receiver, which exploits inherent low-dimensionality of the\nreceived signal model, by formulating a robust principal component analysis\n(Robust PCA)-based recovery problem. Simulation results verify that the\nproposed receiver outperforms the conventional receiver for a reasonable rank\nof the jamming signal.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1803.02549"
+  },
+  {
+    "url": "https://arxiv.org/abs/1803.01511",
+    "title": "Title:Science Objectives of the Ganymede Laser Altimeter (GALA) for the JUICE Mission",
+    "date_publ": "5 Mar 2018 (v1), last revised 15 Mar 2018 (this version, v2)",
+    "authors": [
+      "Jun Kimura",
+      "Hauke Hussmann",
+      "Shunichi Kamata",
+      "Koji Matsumoto",
+      "Jurgen Oberst",
+      "Gregor Steinbrugge",
+      "Alexander Stark",
+      "Klaus Gwinner",
+      "Shoko Oshigami",
+      "Noriyuki Namiki",
+      "Kay Lingenauber",
+      "Keigo Enya",
+      "Kiyoshi Kuramoto",
+      "Sho Sasak"
+    ],
+    "abstract": "Abstract:  Laser altimetry is a powerful tool for addressing the major objectives of\nplanetary physics and geodesy, and have been applied in planetary explorations\nof the Moon, Mars, Mercury, and the asteroids Eros, and Itokawa. The JUpiter\nIcy Moons Explorer (JUICE), led by European Space Agency (ESA), has started\ndevelopment to explore the emergence of habitable worlds around gas giants. The\nGanymede Laser Altimeter (GALA) will be the first laser altimeter for icy\nbodies, and will measure the shape and topography of the large icy moons of\nJupiter, (globally for Ganymede, and using flyby ground-tracks for Europa and\nCallisto). Such information is crucial for understanding the formation of\nsurface features and can tremendously improve our understanding of the icy\ntectonics. In addition, the GALA will infer the presence or absence of a\nsubsurface ocean by measuring the tidal and rotational responses. Furthermore,\nit also improves the accuracy of gravity field measurements reflecting the\ninterior structure, collaborating with the radio science experiment. In\naddition to range measurements, the signal strength and the waveform of the\nlaser pulses reflected from the moon's surface contain information about\nsurface reflectance at the laser wavelength and small scale roughness.\nTherefore we can infer the degrees of chemical and physical alterations, e.g.,\nerosion, space weathering, compaction and deposition of exogenous materials,\nthrough GALA measurements without being affected by illumination conditions.\nJUICE spacecraft carries ten science payloads including GALA. They work closely\ntogether in a synergistic way with GALA being one of the key instruments for\nunderstanding the evolution of the icy satellites Ganymede, Europa, and\nCallisto.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1803.01511"
+  },
+  {
+    "url": "https://arxiv.org/abs/1803.00725",
+    "title": "Title:An uncertainty estimation module for turbulence model predictions in SU2",
+    "date_publ": "2 Mar 2018",
+    "authors": [
+      "Aashwin Ananda Mishra",
+      "Jayant Mukhopadhaya",
+      "Gianluca Iaccarino",
+      "Juan Alons"
+    ],
+    "abstract": "Abstract:  With the advent of improved computational resources, aerospace design has\ntesting-based process to a simulation-driven procedure, wherein uncertainties\nin design and operating conditions are explicitly accounted for in the design\nunder uncertainty methodology. A key source of such uncertainties in design are\nthe closure models used to account for fluid turbulence. In spite of their\nimportance, no reliable and extensively tested modules are available to\nestimate this epistemic uncertainty. In this article, we outline the EQUiPS\nuncertainty estimation module developed for the SU2 CFD suite that focuses on\nuncertainty due to turbulence models. The theoretical foundations underlying\nthis uncertainty estimation and its computational implementation are detailed.\nThence, the performance of this module is presented for a range of test cases,\nincluding both benchmark problems and flows relevant to aerospace design.\nAcross the range of test cases, the uncertainty estimates of the module were\nable to account for a significant portion of the discrepancy between RANS\npredictions and high fidelity data.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1803.00725"
+  },
+  {
+    "url": "https://arxiv.org/abs/1802.07346",
+    "title": "Title:Cooperative Robot Localization Using Event-triggered Estimation",
+    "date_publ": "20 Feb 2018",
+    "authors": [
+      "Michael Ouimet",
+      "David Iglesias",
+      "Nisar Ahmed",
+      "Sonia Martine"
+    ],
+    "abstract": "Abstract:  This paper describes a novel communication-spare cooperative localization\nalgorithm for a team of mobile unmanned robotic vehicles. Exploiting an\nevent-based estimation paradigm, robots only send measurements to neighbors\nwhen the expected innovation for state estimation is high. Since agents know\nthe event-triggering condition for measurements to be sent, the lack of a\nmeasurement is thus also informative and fused into state estimates. The robots\nuse a Covariance Intersection (CI) mechanism to occasionally synchronize their\nlocal estimates of the full network state. In addition, heuristic balancing\ndynamics on the robots' CI-triggering thresholds ensure that, in large diameter\nnetworks, the local error covariances remains below desired bounds across the\nnetwork. Simulations on both linear and nonlinear dynamics/measurement models\nshow that the event-triggering approach achieves nearly optimal state\nestimation performance in a wide range of operating conditions, even when using\nonly a fraction of the communication cost required by conventional full data\nsharing. The robustness of the proposed approach to lossy communications, as\nwell as the relationship between network topology and CI-based synchronization\nrequirements, are also examined.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Signal Processing (eess.SP)",
+      " Systems and Control (eess.SY)",
+      " Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/1802.07346"
+  },
+  {
+    "url": "https://arxiv.org/abs/1802.06220",
+    "title": "Title:Fusion of finite set distributions: Pointwise consistency and global cardinality",
+    "date_publ": "17 Feb 2018 (v1), last revised 3 Dec 2018 (this version, v2)",
+    "authors": [
+      "Murat \u00dcney",
+      "J\u00e9r\u00e9mie Houssineau",
+      "Emmanuel Delande",
+      "Simon J. Julier",
+      "Daniel E. Clar"
+    ],
+    "abstract": "Abstract:  A recent trend in distributed multi-sensor fusion is to use random finite set\nfilters at the sensor nodes and fuse the filtered distributions algorithmically\nusing their exponential mixture densities (EMDs). Fusion algorithms which\nextend the celebrated covariance intersection and consensus based approaches\nare such examples. In this article, we analyse the variational principle\nunderlying EMDs and show that the EMDs of finite set distributions do not\nnecessarily lead to consistent fusion of cardinality distributions. Indeed, we\ndemonstrate that these inconsistencies may occur with overwhelming probability\nin practice, through examples with Bernoulli, Poisson and independent\nidentically distributed (IID) cluster processes. We prove that pointwise\nconsistency of EMDs does not imply consistency in global cardinality and vice\nversa. Then, we redefine the variational problems underlying fusion and provide\niterative solutions thereby establishing a framework that guarantees\ncardinality consistent fusion.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Information Theory (cs.IT)",
+      " Multiagent Systems (cs.MA)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1802.06220"
+  },
+  {
+    "url": "https://arxiv.org/abs/1802.04718",
+    "title": "Title:The random walk of cars and their collision probabilities with planets",
+    "date_publ": "13 Feb 2018 (v1), last revised 5 Mar 2018 (this version, v2)",
+    "authors": [
+      "Hanno Rein",
+      "Daniel Tamayo",
+      "David Vokrouhlick"
+    ],
+    "abstract": "Abstract:  On February 6th, 2018 SpaceX launched a Tesla Roadster on a Mars-crossing\norbit. We perform N-body simulations to determine the fate of the object over\nthe next 15 Myr. The orbital evolution is initially dominated by close\nencounters with the Earth. While a precise orbit can not be predicted beyond\nthe next several centuries due to these repeated chaotic scatterings, one can\nreliably predict the long-term outcomes by statistically analyzing a large\nsuite of possible trajectories with slightly perturbed initial conditions.\nRepeated gravitational scatterings with Earth lead to a random walk. Collisions\nwith the Earth, Venus and the Sun represent primary sinks for the Roadster's\norbital evolution. Collisions with Mercury and Mars, or ejections from the\nSolar System by Jupiter, are highly unlikely. We calculate a dynamical\nhalf-life of the Tesla of approximately 15 Myr, with some 22%, 12% and 12% of\nRoadster orbit realizations impacting the Earth, Venus, and the Sun within one\nhalf-life, respectively. Because the eccentricities and inclinations in our\nensemble increase over time due to mean-motion and secular resonances, the\nimpact rates with the terrestrial planets decrease beyond a few million years,\nwhereas the impact rate on the Sun remains roughly constant.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1802.04718"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.07478",
+    "title": "Title:Why and How to Avoid the Flipped Quaternion Multiplication",
+    "date_publ": "23 Jan 2018 (v1), last revised 5 Feb 2018 (this version, v2)",
+    "authors": [
+      "Hannes Sommer",
+      "Igor Gilitschenski",
+      "Michael Bloesch",
+      "Stephan Weiss",
+      "Roland Siegwart",
+      "Juan Niet"
+    ],
+    "abstract": "Abstract:  Over the last decades quaternions have become a crucial and very successful\ntool for attitude representation in robotics and aerospace. However, there is a\nmajor problem that is continuously causing trouble in practice when it comes to\nexchanging formulas or implementations: there are two quaternion\nmultiplications in common use, Hamilton's original multiplication and its\nflipped version, which is often associated with NASA's Jet Propulsion\nLaboratory. We believe that this particular issue is completely avoidable and\nonly exists today due to a lack of understanding. This paper explains the\nunderlying problem for the popular passive world to body usage of rotation\nquaternions, and derives an alternative solution compatible with Hamilton's\nmultiplication. Furthermore, it argues for entirely discontinuing the flipped\nmultiplication. Additionally, it provides recipes for efficiently detecting\nrelevant conventions and migrating formulas or algorithms between them.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1801.07478"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.06257",
+    "title": "Title:Mechanical Properties of Ultralow Density Graphene Oxide/Polydimethylsiloxane Foams",
+    "date_publ": "19 Jan 2018",
+    "authors": [
+      "Cristiano F. Woellner",
+      "Peter S. Owuor",
+      "Tong Li",
+      "Soumya Vinod",
+      "Sehmus Ozden",
+      "Suppanat Kosolwattana",
+      "Sanjit Bhowmick",
+      "Luong X. Duy",
+      "Rodrigo V. Salvatierra",
+      "Bingqing Wei",
+      "Syed A. S. Asif",
+      "James M. Tour",
+      "Robert Vajtai",
+      "Jun Lou",
+      "Douglas S. Galvao",
+      "Chandra S. Tiwary",
+      "Pulickel. M. Ajaya"
+    ],
+    "abstract": "Abstract:  Low-density, highly porous graphene/graphene oxide (GO) based-foams have\nshown high performance in energy absorption applications, even under high\ncompressive deformations. In general, foams are very effective as energy\ndissipative materials and have been widely used in many areas such as\nautomotive, aerospace and biomedical industries. In the case of graphene-based\nfoams, the good mechanical properties are mainly attributed to the intrinsic\ngraphene and/or GO electronic and mechanical properties. Despite the attractive\nphysical properties of graphene/GO based-foams, their structural and thermal\nstabilities are still a problem for some applications. For instance, they are\neasily degraded when placed in flowing solutions, either by the collapsing of\ntheir layers or just by structural disintegration into small pieces. Recently,\na new and scalable synthetic approach to produce low-density 3D macroscopic GO\nstructure interconnected with polydimethylsiloxane (PDMS) polymeric chains\n(pGO) was proposed. A controlled amount of PDMS is infused into the\nfreeze-dried foam resulting into a very rigid structure with improved\nmechanical properties, such as tensile plasticity and toughness. The PDMS wets\nthe graphene oxide sheets and acts like a glue bonding PDMS and GO sheets. In\norder to obtain further insights on mechanisms behind the enhanced mechanical\npGO response we carried out fully atomistic molecular dynamics (MD)\nsimulations. Based on MD results, we build up a structural model that can\nexplain the experimentally observed mechanical behavior.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+    ],
+    "url_pdf": "/pdf/1801.06257"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.06147",
+    "title": "Title:Upgrading from Gaussian Processes to Student's-T Processes",
+    "date_publ": "18 Jan 2018",
+    "authors": [
+      "Brendan D. Tracey",
+      "David H. Wolper"
+    ],
+    "abstract": "Abstract:  Gaussian process priors are commonly used in aerospace design for performing\nBayesian optimization. Nonetheless, Gaussian processes suffer two significant\ndrawbacks: outliers are a priori assumed unlikely, and the posterior variance\nconditioned on observed data depends only on the locations of those data, not\nthe associated sample values. Student's-T processes are a generalization of\nGaussian processes, founded on the Student's-T distribution instead of the\nGaussian distribution. Student's-T processes maintain the primary advantages of\nGaussian processes (kernel function, analytic update rule) with additional\nbenefits beyond Gaussian processes. The Student's-T distribution has higher\nKurtosis than a Gaussian distribution and so outliers are much more likely, and\nthe posterior variance increases or decreases depending on the variance of\nobserved data sample values. Here, we describe Student's-T processes, and\ndiscuss their advantages in the context of aerospace optimization. We show how\nto construct a Student's-T process using a kernel function and how to update\nthe process given new samples. We provide a clear derivation of\noptimization-relevant quantities such as expected improvement, and contrast\nwith the related computations for Gaussian processes. Finally, we compare the\nperformance of Student's-T processes against Gaussian process on canonical test\nproblems in Bayesian optimization, and apply the Student's-T process to the\noptimization of an aerostructural design problem.",
+    "categories": [
+      "Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1801.06147"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.04886",
+    "title": "Title:Dependability modeling and optimization of triple modular redundancy partitioning for SRAM-based FPGAs",
+    "date_publ": "11 Jan 2018 (v1), last revised 8 Oct 2019 (this version, v3)",
+    "authors": [
+      "Khaza Anuarul Hoque",
+      "Otmane Ait Mohamed",
+      "Yvon Savari"
+    ],
+    "abstract": "Abstract:  SRAM-based FPGAs are popular in the aerospace industry for their field\nprogrammability and low cost. However, they suffer from cosmic\nradiation-induced Single Event Upsets (SEUs). Triple Modular Redundancy (TMR)\nis a well-known technique to mitigate SEUs in FPGAs that is often used with\nanother SEU mitigation technique known as configuration scrubbing. Traditional\nTMR provides protection against a single fault at a time, while partitioned TMR\nprovides improved reliability and availability. In this paper, we present a\nmethodology to analyze TMR partitioning at early design stage using\nprobabilistic model checking. The proposed formal model can capture both single\nand multiple-cell upset scenarios, regardless of any assumption of equal\npartition sizes. Starting with a high-level description of a design, a Markov\nmodel is constructed from the Data Flow Graph (DFG) using a specified number of\npartitions, a component characterization library and a user defined scrub rate.\nSuch a model and exhaustive analysis captures all the considered failures and\nrepairs possible in the system within the radiation environment. Various\nreliability and availability properties are then verified automatically using\nthe PRISM model checker exploring the relationship between the scrub frequency\nand the number of TMR partitions required to meet the design requirements.\nAlso, the reported results show that based on a known voter failure rate, it is\npossible to find an optimal number of partitions at early design stages using\nour proposed method.",
+    "categories": [
+      "Distributed, Parallel, and Cluster Computing (cs.DC)",
+      " Hardware Architecture (cs.AR)",
+      " Logic in Computer Science (cs.LO)"
+    ],
+    "url_pdf": "/pdf/1801.04886"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.04495",
+    "title": "Title:Model Predictive Control in Spacecraft Rendezvous and Soft Docking",
+    "date_publ": "14 Jan 2018",
+    "authors": [
+      "Yaguang Yan"
+    ],
+    "abstract": "Abstract:  This paper discusses translation and attitude control in spacecraft\nrendezvous and soft docking. The target spacecraft orbit can be either circular\nor elliptic. The high fidelity model for this problem is intrinsically a\nnonlinear system but can be viewed as a linear time varying system (LTV).\nTherefore, a model predictive control (MPC) based design is proposed to deal\nwith the time-varying feature of the problem. A robust pole assignment method\nis used in the MPC-based design because of the following merits and/or\nconsiderations: (a) no overshoot of the relative position and attitude between\nthe target and the chaser to achieve soft docking by placing all closed-loop\npoles in the negative real axis of the complex plan, which avoids oscillation\nof the relative position and attitude, in particular, in the final stage, (b)\nfast on-line computation, (c) modeling error tolerance, and (d) disturbance\nrejection. We will discuss these considerations and merits, and use a design\nsimulation to demonstrate that the desired performance is indeed achieved.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1801.04495"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.03648",
+    "title": "Title:The Wireless Technology Landscape in the Manufacturing Industry: A Reality Check",
+    "date_publ": "11 Jan 2018",
+    "authors": [
+      "Xavier Vilajosana",
+      "Cristina Cano",
+      "Borja Martinez",
+      "Pere Tuset",
+      "Joan Meli\u00e0",
+      "Ferran Adelantad"
+    ],
+    "abstract": "Abstract:  An upcoming industrial IoT revolution, supposedly led by the introduction of\nembedded sensing and computing, seamless communication and massive data\nanalytics within industrial processes [1], seems unquestionable today. Multiple\ntechnologies are being developed, and huge marketing efforts are being made to\nposition solutions in this industrial landscape. However, we have observed that\nindustrial wireless technologies are hardly being adopted by the manufacturing\nindustry. In this article, we try to understand the reasons behind this current\nlack of wireless technologies adoption by means of conducting visits to the\nmanufacturing industry and interviews with the maintenance and engineering\nteams in these industries. The manufacturing industry is very diverse and\nspecialized, so we have tried to cover some of the most representative cases:\nthe automotive sector, the pharmaceutical sector (blistering), machine-tool\nindustries (both consumer and aerospace sectors) and robotics. We have analyzed\nthe technology of their machinery, their application requirements and\nrestrictions, and identified a list of obstacles for wireless technology\nadoption. The most immediate obstacles we have found are the need to strictly\nfollow standards and certifications processes, as well as their prudence. But\nthe less obvious and perhaps even more limiting obstacles are their apparent\nlack of concern regarding low energy consumption or cost which, in contrast,\nare believed to be of utmost importance by wireless researchers and\npractitioners. In this reality-check article, we analyze the causes of this\ndifferent perception, we identify these obstacles and devise complementary\npaths to make wireless adoption by the industrial manufacturing sector a\nreality in the coming years.",
+    "categories": [
+      "Computers and Society (cs.CY)",
+      " Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1801.03648"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.03046",
+    "title": "Title:Lyapunov exponent and Wasserstein metric as validation tools for assessing short-time dynamics and quantitative model evaluation of large-eddy simulation",
+    "date_publ": "9 Jan 2018",
+    "authors": [
+      "Hao Wu",
+      "Peter C. Ma",
+      "Yu Lv",
+      "Matthias Ihm"
+    ],
+    "abstract": "Abstract:  In this work, methods for the evaluation of LES-quality and LES-accuracy are\npresented, which include the Lyapunov exponent for the analysis of short-time\npredictability of LES-calculation and the Wasserstein metric for the\nquantitative assessment of simulation results. Both methods are derived and\nevaluated in application to the Volvo test case. Both the non-reacting and\nreacting cases are calculated. For the non- reacting cases, good agreement with\nthe experimental data is achieved by solvers at high numerical resolution. The\nreacting cases are more challenging due to the small length scale of the flame\nand the suppression of sinuous mode of absolute instability by the density\nratio. The analysis of the turbulent simulation data using the concept of the\nLyapunov exponent and the Wasserstein metric provides a more quantitative\napproach to assess the mesh dependency of the simulation results. The\nconvergence of the Lyapunov exponent is shown to be a more sensitive and\nstronger indication of mesh-independence. Though grid convergence for the\nreacting cases cannot be reached with the chosen resolutions, the Lyapunov\nexponents and the Wasserstein metric are shown to be capable of identifying\nquantity-specific sensitivities with respect to the numerical resolution, while\nrequiring significantly less computational resources than acquiring profiles of\nconventional turbulent statistics.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1801.03046"
+  },
+  {
+    "url": "https://arxiv.org/abs/1712.09478",
+    "title": "Title:A comprehensive high-order solver verification methodology for free fluid flows",
+    "date_publ": "27 Dec 2017",
+    "authors": [
+      "Farshad Navah",
+      "Siva Nadaraja"
+    ],
+    "abstract": "Abstract:  The aim of this article is to present a comprehensive methodology for the\nverification of computational fluid dynamics (CFD) solvers with a special\nattention to aspects pertinent to discretizations with orders of accuracy\n(OOAs) higher than two. The method of manufactured solutions (MMS) is adopted\nand a series of manufactured solutions (MSs) is introduced that examines\nvarious components of CFD solvers for free flows (not bounded by walls),\nincluding inviscid, laminar and turbulent problems when the latter are modelled\nby the Reynolds-averaged Navier-Stokes (RANS) equations. The treatment of\ncurved elements is also examined. These MSs are furthermore conceived with\ndemonstrated suitability for the verification of OOAs up to the sixth. Each MS\nis as well utilized to discuss salient aspects useful to the code verification\nmethodology such as the relative qualities of the most useful norms in\nmeasuring the discretization error, the sensitivity analysis of the\nverification process to forcing function terms, the relation between residual\nminimization and discretization error convergence in iterative solutions and\nfinally the sensitivity of high-order discretizations to grid stretching and\nself-similarity. Furthermore, scripts and code are provided as accompanying\nmaterial to assist the interested reader in reproducing the verification\nresults of each manufactured solution (MS).",
+    "categories": [
+      "Computational Physics (physics.comp-ph)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1712.09478"
+  },
+  {
+    "url": "https://arxiv.org/abs/1712.08925",
+    "title": "Title:High performance position-sensitive-detector based on graphene-silicon heterojunction",
+    "date_publ": "24 Dec 2017",
+    "authors": [
+      "Wenhui Wang",
+      "Zhenzhong Yan",
+      "Jinfeng Zhang",
+      "Junpeng Lu",
+      "Hua Qin",
+      "Zhenhua N"
+    ],
+    "abstract": "Abstract:  Position-sensitive-detectors (PSDs) based on lateral photoeffect have been\nwidely used in diverse applications, including optical engineering, aerospace\nand military fields. With increasing demands in long working distance, low\nenergy consumption, and weak signal sensing systems, the poor responsivity of\nconventional Silicon-based PSDs has become a bottleneck limiting their\napplications. Herein, we propose a high-performance passive PSD based on\ngraphene-Si heterostructure. The graphene is adapted as a photon absorbing and\ncharge separation layer working together with Si as a junction, while the high\nmobility provides promising ultra-long carrier diffusion length and facilitates\nlarge active area of the device. A PSD with working area of 8 mm x 8 mm is\ndemonstrated to present excellent position sensitivity to weak light at nWs\nlevel (much better than the limit of ~{\\mu}Ws of Si p-i-n PSDs). More\nimportantly, it shows very fast response and low degree of non-linearity of\n~3%, and extends the operating wavelength to the near infrared (IR) region\n(1319 and 1550 nm). This work therefore provides a new strategy for high\nperformance and broadband PSDs.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1712.08925"
+  },
+  {
+    "url": "https://arxiv.org/abs/1712.06195",
+    "title": "Title:Processing and Mechanical Property Characterization of Aligned Carbon Nanotube Carbon Matrix Nanocomposites",
+    "date_publ": "17 Dec 2017",
+    "authors": [
+      "Itai Y. Stein",
+      "Hanna M. Vincent",
+      "Stephen A. Steiner III",
+      "Elena Colombini",
+      "Brian L. Wardl"
+    ],
+    "abstract": "Abstract:  Materials comprising carbon nanotube (CNT) aligned nanowire (NW) polymer\nnanocomposites (A-PNCs) are emerging as next-generation materials for use in\naerospace structures. Enhanced operating regimes, such as operating\ntemperatures, motivate the study of CNT aligned NW ceramic matrix\nnanocomposites (A-CMNCs). Here we report the synthesis of CNT A-CMNCs through\nthe pyrolysis of CNT A-PNC precursors, thereby creating carbon matrix CNT\nA-CMNCs. Characterization reveals that the fabrication of high strength, high\ntemperature, lightweight next-generation aerospace materials is possible using\nthis method. Additional characterization and modeling are planned.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1712.06195"
+  },
+  {
+    "url": "https://arxiv.org/abs/1712.04501",
+    "title": "Title:Maximum-Likelihood Power-Distortion Monitoring for GNSS Signal Authentication",
+    "date_publ": "12 Dec 2017 (v1), last revised 14 May 2018 (this version, v3)",
+    "authors": [
+      "Jason N. Gross",
+      "Cagri Kilic",
+      "Todd E. Humphrey"
+    ],
+    "abstract": "Abstract:  We propose an extension to the so-called PD detector. The PD detector jointly\nmonitors received power and correlation profile distortion to detect the\npresence of GNSS carry-off-type spoofing, jamming, or multipath. We show that\nclassification performance can be significantly improved by replacing the PD\ndetector's symmetric-difference-based distortion measurement with one based on\nthe post-fit residuals of the maximum-likelihood estimate of a single-signal\ncorrelation function model. We call the improved technique the PD-ML detector.\nIn direct comparison with the PD detector, the PD-ML detector exhibits improved\nclassification accuracy when tested against an extensive library of recorded\nfield data. In particular, it is (1) significantly more accurate at\ndistinguishing a spoofing attack from a jamming attack, (2) better at\ndistinguishing multipath-afflicted data from interference-free data, and (3)\nless likely to issue a false alarm by classifying multipath as spoofing. The\nPD-ML detector achieves this improved performance at the expense of additional\ncomputational complexity.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/1712.04501"
+  },
+  {
+    "url": "https://arxiv.org/abs/1712.01379",
+    "title": "Title:Influence of Bi addition on the property of Ag-Bi nano-composite coatings",
+    "date_publ": "4 Dec 2017",
+    "authors": [
+      "Yuxin Wang",
+      "See Leng Tay",
+      "Xiaowei Zhou",
+      "Caizhen Yao",
+      "Wei Gao",
+      "Guang Chen"
+    ],
+    "abstract": "Abstract:  Silver (Ag) coatings have been widely used in many industry areas due to\ntheir excellent conductivity. However, wider applications of Ag coatings have\nbeen hindered by their poor mechanical properties. In this research, to improve\nthe mechanical performance, Ag-Bi nano-composite coatings were prepared by a\nnovel ionic co-discharge method. A systematic study of the microstructure,\nmechanical properties, electrical conductivity and antibacterial behavior of\nthe resulting coating was performed. The results indicated that after adding an\nappropriate amount of Bi containing solution into the Ag plating solution,\nAg-Bi nano-particles were in-situ formed and distributed uniformly throughout\nthe coating matrix, resulting in a significant improvement in the mechanical\nproperties. The hardness of Ag-Bi coating was increased by 60% compared to that\nof the pure Ag coating. The corrosion resistance of Ag-Bi coatings was also\nenhanced. The outcome of this research may find a broader application in\nelectronics, jewelry, aerospace and other industries.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/1712.01379"
+  },
+  {
+    "url": "https://arxiv.org/abs/1712.00590",
+    "title": "Title:Performance Improvement of Time-Balance Radar Schedulers Through Decision Policies (Extended Version)",
+    "date_publ": "2 Dec 2017",
+    "authors": [
+      "\u00d6mer \u00c7ay\u0131r",
+      "\u00c7a\u011fatay Canda"
+    ],
+    "abstract": "Abstract:  The resource management of a phase array system capable of multiple target\ntracking and surveillance is critical for the realization of its full\npotential. Present work aims to improve the performance of an existing method,\ntime-balance scheduling, by establishing an analogy with a well-known\nstochastic control problem, the machine replacement problem. With the suggested\npolicy, the scheduler can adapt to the operational scenario without a\nsignificant sacrifice from the practicality of the time-balance schedulers.\nMore specifically, the numerical experiments indicate that the schedulers\ndirected with the suggested policy can successfully trade the unnecessary track\nupdates, say of non-maneuvering targets, with the updates of targets with\ndeteriorating tracks, say of rapidly maneuvering targets, yielding an overall\nimprovement in the tracking performance.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1712.00590"
+  },
+  {
+    "url": "https://arxiv.org/abs/1711.10783",
+    "title": "Title:Partial Consensus and Conservative Fusion of Gaussian Mixtures for Distributed PHD Fusion",
+    "date_publ": "29 Nov 2017",
+    "authors": [
+      "Tiancheng Li",
+      "Juan M Corchado",
+      "Shudong Su"
+    ],
+    "abstract": "Abstract:  We propose a novel consensus notion, called \"partial consensus\", for\ndistributed GM-PHD (Gaussian mixture probability hypothesis density) fusion\nbased on a peer-to-peer (P2P) sensor network, in which only highly-weighted\nposterior Gaussian components (GCs) are disseminated in the P2P communication\nfor fusion while the insignificant GCs are not involved. The partial consensus\ndoes not only enjoy high efficiency in both network communication and local\nfusion computation, but also significantly reduces the affect of potential\nfalse data (clutter) to the filter, leading to increased signal-to-noise ratio\nat local sensors. Two \"conservative\" mixture reduction schemes are advocated\nfor fusing the shared GCs in a fully distributed manner. One is given by\npairwise averaging GCs between sensors based on Hungarian assignment and the\nother is merging close GCs based a new GM merging scheme. The proposed\napproaches have a close connection to the conservative fusion approaches known\nas covariance union and arithmetic mean density. In parallel, average consensus\nis sought on the cardinality distribution (namely the GM weight sum) among\nsensors. Simulations for tracking either a single target or multiple targets\nthat simultaneously appear are presented based on a sensor network where each\nsensor operates a GM-PHD filter, in order to compare our approaches with the\nbenchmark generalized covariance intersection approach. The results demonstrate\nthat the partial, arithmetic average, consensus outperforms the complete,\ngeometric average, consensus.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Distributed, Parallel, and Cluster Computing (cs.DC)",
+      " Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1711.10783"
+  },
+  {
+    "url": "https://arxiv.org/abs/1711.10007",
+    "title": "Title:Optimal Input Design for Autonomous Aircraft",
+    "date_publ": "27 Nov 2017",
+    "authors": [
+      "Giovanni Licitra",
+      "Adrian B\u00fcrger",
+      "Paul Williams",
+      "Richard Ruiterkamp",
+      "Moritz Dieh"
+    ],
+    "abstract": "Abstract:  Accurate mathematical models of aerodynamic properties play an important role\nin the aerospace field. In some cases, system parameters of an aircraft can be\nestimated reliably only via flight tests. In order to obtain meaningful\nexperimental data, the aircraft dynamics need to be excited via suitable\nmaneuvers. In this paper, optimal maneuvers are obtained for an autonomous\naircraft by solving a time domain model-based optimum experimental design\nproblem that aims to obtain more accurate parameter estimates while enforcing\nsafety constraints.The optimized inputs are compared with respect to\nconventional maneuvers widely used in the aerospace field and tested within\nreal experiments.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1711.10007"
+  },
+  {
+    "url": "https://arxiv.org/abs/1711.06208",
+    "title": "Title:Three-dimensional high speed drop impact onto solid surfaces at arbitrary angles",
+    "date_publ": "16 Nov 2017 (v1), last revised 3 Apr 2018 (this version, v2)",
+    "authors": [
+      "Radu Cimpeanu",
+      "Demetrios T. Papageorgio"
+    ],
+    "abstract": "Abstract:  The rich structures arising from the impingement dynamics of water drops onto\nsolid substrates at high velocities are investigated numerically. Current\nmethodologies in the aircraft industry estimating water collection on aircraft\nsurfaces are based on particle trajectory calculations and empirical extensions\nthereof in order to approximate the complex fluid-structure interactions. We\nperform direct numerical simulations (DNS) using the volume-of-fluid method in\nthree dimensions, for a collection of drop sizes and impingement angles. The\nhigh speed background air flow is coupled with the motion of the liquid in the\nframework of oblique stagnation-point flow. Qualitative and quantitative\nfeatures are studied in both pre- and post-impact stages. One-to-one\ncomparisons are made with experimental data available from the investigations\nof Sor et al. (Journal of Aircraft 52 (6), pp. 1838-1846, 2015), while the main\nbody of results is created using parameters relevant to flight conditions with\ndroplet sizes in the ranges from tens to several hundreds of microns, as\npresented by Papadakis et al. (AIAA Aerospace Sciences Meeting and Exhibit\n0565, pp. 1-40, 2004). Drop deformation, collision, coalescence and microdrop\nejection and dynamics, all typically neglected or empirically modelled, are\naccurately accounted for. In particular, we identify new morphological features\nin regimes below the splashing threshold in the modelled conditions. We then\nexpand on the variation in the number and distribution of ejected microdrops as\na function of the impacting drop size beyond this threshold. The presented\nmodel of drop impact addresses key questions at a fundamental level, however\nthe conclusions of the study extend towards the advancement of understanding of\nwater dynamics on aircraft surfaces, which has important implications in terms\nof compliance to aircraft safety regulations.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1711.06208"
+  },
+  {
+    "url": "https://arxiv.org/abs/1711.04224",
+    "title": "Title:Near Time-Optimal Feedback Instantaneous Impact Point (IIP) Guidance Law for Rocket",
+    "date_publ": "12 Nov 2017",
+    "authors": [
+      "Byeong-Un Jo",
+      "Jaemyung Ah"
+    ],
+    "abstract": "Abstract:  This paper proposes a feedback guidance law to move the instantaneous impact\npoint (IIP) of a rocket to a desired location. Analytic expressions relating\nthe time derivatives of an IIP with the external acceleration of the rocket are\nintroduced. A near time-optimal feedback-form guidance law to determine the\ndirection of the acceleration for guiding the IIP is developed using the\nde-rivative expressions. The effectiveness of the proposed guidance law, in\ncomparison with the results of open-loop trajectory optimization, was\ndemonstrated through IIP pointing case studies.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1711.04224"
+  },
+  {
+    "url": "https://arxiv.org/abs/1711.00793",
+    "title": "Title:3D Mobile Localization Using Distance-only Measurements",
+    "date_publ": "2 Nov 2017",
+    "authors": [
+      "Bomin Jiang",
+      "Brian D. O. Anderson",
+      "Hatem Hma"
+    ],
+    "abstract": "Abstract:  For a group of cooperating UAVs, localizing each other is often a key task.\nThis paper studies the localization problem for a group of UAVs flying in 3D\nspace with very limited information, i.e., when noisy distance measurements are\nthe only type of inter-agent sensing that is available, and when only one UAV\nknows a global coordinate basis, the others being GPS-denied. Initially for a\ntwo-agent problem, but easily generalized to some multi-agent problems,\nconstraints are established on the minimum number of required distance\nmeasurements required to achieve the localization. The paper also proposes an\nalgorithm based on semidefinite programming (SDP), followed by maximum\nlikelihood estimation using a gradient descent initialized from the SDP\ncalculation. The efficacy of the algorithm is verified with experimental noisy\nflight data.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Multiagent Systems (cs.MA)"
+    ],
+    "url_pdf": "/pdf/1711.00793"
+  },
+  {
+    "url": "https://arxiv.org/abs/1710.10397",
+    "title": "Title:Geometric Decomposition-Based Formulation for Time Derivatives of Instantaneous Impact Point",
+    "date_publ": "28 Oct 2017",
+    "authors": [
+      "Byeong-Un Jo",
+      "Jaemyung Ah"
+    ],
+    "abstract": "Abstract:  A new analytic formulation to express the time derivatives of the\ninstantaneous impact point (IIP) of a rocket is proposed. The geometric\nrelationship on a plane tangential to the IIP is utilized to decompose the\ninertial IIP rate vector into the downrange and crossrange components, and a\nsystematic procedure to determine the component values is presented. The new\nformulation shows significant advantages over the existing formulation such\nthat the procedure and final expressions for the IIP derivatives are easy to\nunderstand and more compact. The validity of the proposed formulation was\ndemonstrated through numerical simulation.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1710.10397"
+  },
+  {
+    "url": "https://arxiv.org/abs/1710.08485",
+    "title": "Title:Making Faces: Universal Inverse Design of Surfaces with Thin Nematic Elastomer Sheets",
+    "date_publ": "23 Oct 2017 (v1), last revised 22 Nov 2017 (this version, v2)",
+    "authors": [
+      "Hillel Aharoni",
+      "Yu Xia",
+      "Xinyue Zhang",
+      "Randall D. Kamien",
+      "Shu Yan"
+    ],
+    "abstract": "Abstract:  Programmable shape-shifting materials can take different physical forms to\nachieve multifunctionality in a dynamic and controllable manner. Although\nmorphing a shape from 2D to 3D via programmed inhomogeneous local deformations\nhas been demonstrated in various ways, the inverse problem -- programming a\nsheet to take an arbitrary desired 3D shape -- is much harder yet critical to\nrealize specific functions. Here, we address this inverse problem in thin\nliquid crystal elastomer (LCE) sheets, where the shape is preprogrammed by\nprecise and local control of the molecular orientation of the liquid crystal\nmonomers. We show how blueprints for arbitrary surface geometries as well as\nlocal extrinsic curvatures can be generated using approximate numerical\nmethods. Backed by faithfully alignable and rapidly lockable LCE chemistry, we\nprecisely embed our designs in LCE sheets using advanced top-down\nmicrofabrication techniques. We thus successfully produce flat sheets that,\nupon thermal activation, take an arbitrary desired shape, such as a face. The\ngeneral design principles presented here for creating an arbitrary 3D shape\nwill allow for exploration of unmet needs in flexible electronics,\nmetamaterials, aerospace and medical devices, and more.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/1710.08485"
+  },
+  {
+    "url": "https://arxiv.org/abs/1710.07311",
+    "title": "Title:Limitations in Predicting the Space Radiation Health Risk for Exploration Astronauts",
+    "date_publ": "19 Oct 2017 (v1), last revised 17 Feb 2018 (this version, v4)",
+    "authors": [
+      "Jeffery C. Chancellor",
+      "Rebecca S. Blue",
+      "Keith A. Cengel",
+      "Serena M. Au\u00f1\u00f3n-Chancellor",
+      "Kathleen H. Rubins",
+      "Helmut G. Katzgraber",
+      "Ann R. Kenned"
+    ],
+    "abstract": "Abstract:  Despite years of research, understanding of the space radiation environment\nand the risk it poses to long-duration astronauts remains limited. There is a\ndisparity between research results and observed empirical effects seen in human\nastronaut crews, likely due to the numerous factors that limit terrestrial\nsimulation of the complex space environment and extrapolation of human clinical\nconsequences from varied animal models. Given the intended future of human\nspaceflight, with efforts now to rapidly expand capabilities for human missions\nto the moon and Mars, there is a pressing need to improve upon the\nunderstanding of the space radiation risk, predict likely clinical outcomes of\ninterplanetary radiation exposure, and develop appropriate and effective\nmitigation strategies for future missions. To achieve this goal, the space\nradiation and aerospace community must recognize the historical limitations of\nradiation research and how such limitations could be addressed in future\nresearch endeavors. We have sought to highlight the numerous factors that limit\nunderstanding of the risk of space radiation for human crews and to identify\nways in which these limitations could be addressed for improved understanding\nand appropriate risk posture regarding future human spaceflight.",
+    "categories": [
+      "Medical Physics (physics.med-ph)",
+      " Biological Physics (physics.bio-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1710.07311"
+  },
+  {
+    "url": "https://arxiv.org/abs/1710.03828",
+    "title": "Title:Multiple scattering theory for polycrystalline materials with strong grain anisotropy: theoretical fundamentals and applications",
+    "date_publ": "10 Oct 2017",
+    "authors": [
+      "Huijing H"
+    ],
+    "abstract": "Abstract:  This work is a natural extension of the authors previous work, Multiple\nscattering theory for heterogeneous elastic continua with strong property\nfluctuation, theoretical fundamentals and applications, which established the\nfoundation for developing multiple scattering model for strongly scattering\nheterogeneous elastic continua. In this work, the corresponding multiple\nscattering theory for polycrystalline materials with randomly oriented\nanisotropic crystallites is developed. As applications in ultrasonic\nnondestructive evaluation, we calculated the dispersion and attenuation\ncoefficient of one of the most important polycrystalline materials in\naeronautics engineering, high temperature titanium alloys. The effects of grain\nsymmetry, grain size, and alloying elements on the dispersion and attenuation\nbehaviors are examined. Key information is obtained which has significant\nimplications for quantitatively evaluating the average grain size, monitoring\nthe phase transition, and even estimating gradual change in chemical\ncomposition of titanium components in gas turbine engines. For applications in\nseismology, the velocities and Q-factors for both hexagonal and cubic\npolycrystalline iron models for the Earth uppermost inner core are obtained in\nthe whole frequency range. This work provides a universal, quantitative model\nfor characterization of a large variety of polycrystalline materials. It also\ncan be extended to incorporate more complicated microstructures, including\nellipsoidal grains with or without textures, and even multiphase\npolycrystalline materials. The new model demonstrates great potential of\napplications in ultrasonic nondestructive evaluation and inspection of\naerospace and aeronautic structures. It also provides a theoretical framework\nfor quantitative seismic data explanation and inversion for the material\ncomposition and structural formations of the Earth inner core.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Geophysics (physics.geo-ph)"
+    ],
+    "url_pdf": "/pdf/1710.03828"
+  },
+  {
+    "url": "https://arxiv.org/abs/1710.02911",
+    "title": "Title:Extremely broadband ultralight thermally emissive metasurfaces",
+    "date_publ": "9 Oct 2017",
+    "authors": [
+      "Ali Naqavi",
+      "Samuel P. Loke",
+      "Michael D. Kelzenberg",
+      "Dennis M. Callahan",
+      "Emily C. Warmann",
+      "Pilar Espinet-Gonz\u00e1lez",
+      "Nina Vaidya",
+      "Tatiana A. Roy",
+      "Jing-Shun Huang",
+      "Tatiana G. Vinogradova",
+      "Alexander J. Messer",
+      "Harry A. Atwate"
+    ],
+    "abstract": "Abstract:  We report the design, fabrication and characterization of ultralight highly\nemissive metaphotonic structures with record-low mass/area that emit thermal\nradiation efficiently over a broad spectral (2 to 35 microns) and angular (0-60\ndegrees) range. The structures comprise one to three pairs of alternating\nnanometer-scale metallic and dielectric layers, and have measured effective 300\nK hemispherical emissivities of 0.7 to 0.9. To our knowledge, these structures,\nwhich are all subwavelength in thickness are the lightest reported metasurfaces\nwith comparable infrared emissivity. The superior optical properties, together\nwith their mechanical flexibility, low outgassing, and low areal mass, suggest\nthat these metasurfaces are candidates for thermal management in applications\ndemanding of ultralight flexible structures, including aerospace applications,\nultralight photovoltaics, lightweight flexible electronics, and textiles for\nthermal insulation.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/1710.02911"
+  },
+  {
+    "url": "https://arxiv.org/abs/1710.01254",
+    "title": "Title:Quantifying Operational Constraints of Low-Latency Telerobotics for Planetary Surface Operations",
+    "date_publ": "29 Sep 2017 (v1), last revised 16 Jan 2018 (this version, v2)",
+    "authors": [
+      "Benjamin J. Mellinkoff",
+      "Matthew M. Spydell",
+      "Wendy Bailey",
+      "Jack O. Burn"
+    ],
+    "abstract": "Abstract:  NASA's SLS and Orion crew vehicle will launch humans to cislunar space to\nbegin the new era of space exploration. NASA plans to use the Orion crew\nvehicle to transport humans between Earth and cislunar space where there will\nbe a stationed habitat known as the Deep Space Gateway (DSG). The proximity to\nthe lunar surface allows for direct communication between the DSG and surface\nassets, which enables low-latency telerobotic exploration. The operational\nconstraints for telerobotics must be fully explored on Earth before being\nutilized on space exploration missions. We identified two constraints on space\nexploration using low-latency surface telerobotics and attempts to quantify\nthese constraints. A constraint associated with low-latency surface\ntelerobotics is the bandwidth available between the orbiting command station\nand the ground assets. The bandwidth available will vary during operation. As a\nresult, it is critical to quantify the operational video conditions required\nfor effective exploration. We designed an experiment to quantify the threshold\nframe rate required for effective exploration. The experiment simulated\ngeological exploration via low-latency surface telerobotics using a COTS rover\nin a lunar analog environment. The results from this experiment indicate that\nhumans should operate above a threshold frame rate of 5 frames per second. In a\nseparate, but similar experiment, we introduced a 2.6 second delay in the video\nsystem. This delay recreated the latency conditions present when operating\nrovers on the lunar farside from an Earth-based command station. This time\ndelay was compared to low-latency conditions for teleoperation at the DSG\n($\\leq$0.4 seconds). The results from this experiment show a 150% increase in\nexploration time when the latency is increased to 2.6 seconds. This indicates\nthat such a delay significantly complicates real-time exploration strategies.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1710.01254"
+  },
+  {
+    "url": "https://arxiv.org/abs/1709.09997",
+    "title": "Title:Designing Disordered Hyperuniform Two-Phase Materials with Novel Physical Properties",
+    "date_publ": "28 Sep 2017 (v1), last revised 7 Oct 2017 (this version, v2)",
+    "authors": [
+      "Duyu Chen",
+      "Salvatore Torquat"
+    ],
+    "abstract": "Abstract:  Heterogeneous materials consisting of different phases are ideally suited to\nachieve a broad spectrum of desirable bulk physical properties by combining the\nbest features of the constituents through the strategic spatial arrangement of\nthe different phases. Disordered hyperuniform heterogeneous materials are new,\nexotic amorphous matter that behave like crystals in the manner in which they\nsuppress volume-fraction fluctuations at large length scales, and yet are\nisotropic with no Bragg peaks. In this paper, we formulate for the first time a\nFourier-space numerical construction procedure to design at will a wide class\nof disordered hyperuniform two-phase materials with prescribed spectral\ndensities, which enables one to tune the degree and length scales at which this\nsuppression occurs. We demonstrate that the anomalous suppression of\nvolume-fraction fluctuations in such two-phase materials endow them with novel\nand often optimal transport and electromagnetic properties. Specifically, we\nconstruct a family of phase-inversion-symmetric materials with variable\ntopological connectedness properties that remarkably achieves a well-known\nexplicit formula for the effective electrical (thermal) conductivity. Moreover,\nwe design disordered stealthy hyperuniform dispersion that possesses nearly\noptimal effective conductivity while being statistically isotropic.\nInterestingly, all of our designed materials are transparent to electromagnetic\nradiation for certain wavelengths, which is a common attribute of all\nhyperuniform materials. Our constructed materials can be readily realized by 3D\nprinting and lithographic technologies. We expect that our designs will be\npotentially useful for energy-saving materials, batteries and aerospace\napplications.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/1709.09997"
+  },
+  {
+    "url": "https://arxiv.org/abs/1709.07071",
+    "title": "Title:A Global Enhanced Vibrational Kinetic Model for Radio-Frequency Hydrogen Discharges and Application to the Simulation of a High Current Negative Hydrogen Ion Source",
+    "date_publ": "20 Sep 2017",
+    "authors": [
+      "Sergey N. Averki"
+    ],
+    "abstract": "Abstract:  A Global Enhanced Vibrational Kinetic (GEVKM) model is presented for a new\nHigh Current Negative Hydrogen Ion Source (HCNHIS) developed by Busek Co. Inc.\nand Worcester Polytechnic Institute. The HCNHIS consists of a high-pressure\nradio-frequency discharge (RFD) chamber where high-lying vibrational states of\nthe hydrogen molecules are produced, a bypass system, a nozzle, and a\nlow-pressure negative hydrogen ion production region where $\\text{H}^-$ are\ngenerated by the dissociative attachment of low energy electrons to\nrovibrationally excited hydrogen molecules. The GEVKM is developed from moment\nequations for multi-temperature chemically reacting plasmas derived from the\nWang Chang-Uhlenbeck equations for a cylindrical geometry of an inductively\ncoupled RFD chamber. The species included into the model are $\\text{H}(n),\nn=0-3, \\text{H}_2(v), v=0-14, \\text{H}^+, \\text{H}_2^+, \\text{H}_3^+,\n\\text{H}^-$, and $e$. The volume-averaged steady-state continuity equations\ncoupled with the electron energy equation, the total energy equation and heat\ntransfer to the chamber walls are solved simultaneously to obtain the\nvolume-averaged number densities of the plasma components, the electron,\nheavy-particle and wall temperatures. The GEVKM is supplemented by a\ncomprehensive set of surface and volumetric chemical processes governing\nvibrational and ionization kinetics of hydrogen plasmas. Analytic boundary\nconditions developed for the flow in the bypass tubes and in the nozzle take\ninto account rarefaction effects and are validated by comparing pressures\npredictions in the RFD chamber with the pressure measurements. The GEVKM is\nverified and validated in the wide range of pressures and absorbed powers of\ndifferent plasma reactors and is used in a parametric investigation of the RFD\nchamber of the HCNHIS with hydrogen inlet flow rates 5-1000 sccm and absorbed\npowers 200-1000 W.",
+    "categories": [
+      "Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1709.07071"
+  },
+  {
+    "url": "https://arxiv.org/abs/1709.06362",
+    "title": "Title:An Improved Primal-Dual Interior Point Solver for Model Predictive Control",
+    "date_publ": "19 Sep 2017",
+    "authors": [
+      "X. Zhang",
+      "L. Ferranti",
+      "T. Keviczk"
+    ],
+    "abstract": "Abstract:  We propose a primal-dual interior-point (PDIP) method for solving quadratic\nprogramming problems with linear inequality constraints that typically arise\nform MPC applications. We show that the solver converges (locally)\nquadratically to a suboptimal solution of the MPC problem. PDIP solvers rely on\ntwo phases: the damped and the pure Newton phases. Compared to state-of-the-art\nPDIP methods, our solver replaces the initial damped Newton phase (usually used\nto compute a medium-accuracy solution) with a dual solver based on Nesterov's\nfast gradient scheme (DFG) that converges with a sublinear convergence rate of\norder O(1/k^2) to a medium-accuracy solution. The switching strategy to the\npure Newton phase, compared to the state of the art, is computed in the dual\nspace to exploit the dual information provided by the DFG in the first phase.\nRemoving the damped Newton phase has the additional advantage that our solver\nsaves the computational effort required by backtracking line search. The\neffectiveness of the proposed solver is demonstrated on a 2-dimensional\ndiscrete-time unstable system and on an aerospace application.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1709.06362"
+  },
+  {
+    "url": "https://arxiv.org/abs/1709.01105",
+    "title": "Title:Good Code Sets from Complementary Pairs via Discrete Frequency Chips",
+    "date_publ": "4 Sep 2017",
+    "authors": [
+      "Ravi Kadlimatti",
+      "Adly T. Fa"
+    ],
+    "abstract": "Abstract:  It is shown that replacing the sinusoidal chip in Golay complementary code\npairs by special classes of waveforms that satisfy two conditions,\nsymmetry/anti-symmetry and quazi-orthogonality in the convolution sense,\nrenders the complementary codes immune to frequency selective fading and also\nallows for concatenating them in time using one frequency band/channel. This\nresults in a zero-sidelobe region around the mainlobe and an adjacent region of\nsmall cross-correlation sidelobes. The symmetry/anti-symmetry property results\nin the zero-sidelobe region on either side of the mainlobe, while\nquasi-orthogonality of the two chips keeps the adjacent region of\ncross-correlations small. Such codes are constructed using discrete\nfrequency-coding waveforms (DFCW) based on linear frequency modulation (LFM)\nand piecewise LFM (PLFM) waveforms as chips for the complementary code pair, as\nthey satisfy both the symmetry/anti-symmetry and quasi-orthogonality\nconditions. It is also shown that changing the slopes/chirp rates of the DFCW\nwaveforms (based on LFM and PLFM waveforms) used as chips with the same\ncomplementary code pair results in good code sets with a zero-sidelobe region.\nIt is also shown that a second good code set with a zero-sidelobe region could\nbe constructed from the mates of the complementary code pair, while using the\nsame DFCW waveforms as their chips. The cross-correlation between the two sets\nis shown to contain a zero-sidelobe region and an adjacent region of small\ncross-correlation sidelobes. Thus, the two sets are quasi-orthogonal and could\nbe combined to form a good code set with twice the number of codes without\naffecting their cross-correlation properties. Or a better good code set with\nthe same number codes could be constructed by choosing the best candidates form\nthe two sets. Such code sets find utility in multiple input-multiple output\n(MIMO) radar applications.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1709.01105"
+  }
+]

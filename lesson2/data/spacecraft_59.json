@@ -1,0 +1,945 @@
+[
+  {
+    "url": "https://arxiv.org/abs/0911.0525",
+    "title": "Title:Cosmological test of gravity with polarizations of stochastic gravitational waves around 0.1-1 Hz",
+    "date_publ": "3 Nov 2009 (v1), last revised 28 May 2010 (this version, v2)",
+    "authors": [
+      "Atsushi Nishizawa",
+      "Atsushi Taruya",
+      "Seiji Kawamur"
+    ],
+    "abstract": "Abstract:  In general relativity, a gravitational wave has two polarization modes\n(tensor mode), but it could have additional polarizations (scalar and vector\nmodes) in the early stage of the universe, where the general relativity may not\nstrictly hold and/or the effect of higher-dimensional gravity may become\nsignificant. In this paper, we discuss how to detect extra-polarization modes\nof stochastic gravitational wave background (GWB), and study the separability\nof each polarization using future space-based detectors such as BBO and DECIGO.\nWe specifically consider two plausible setups of the spacecraft constellations\nconsisting of two and four clusters, and estimate the sensitivity to each\npolarization mode of GWBs. We find that a separate detection of each\npolarization mode is rather sensitive to the geometric configuration and\ndistance between clusters and that the clusters should be, in general,\nseparated by an appropriate distance. This seriously degrades the signal\nsensitivity, however, for suitable conditions, space-based detector can\nseparately detect scalar, vector and tensor modes of GWBs with energy density\nas low as ~10^-15.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0911.0525"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.5818",
+    "title": "Title:Light-time computations for the BepiColombo radioscience experiment",
+    "date_publ": "30 Oct 2009 (v1), last revised 3 Nov 2009 (this version, v2)",
+    "authors": [
+      "G. Tommei",
+      "A. Milani",
+      "D. Vokrouhlick"
+    ],
+    "abstract": "Abstract:  The radioscience experiment is one of the on board experiment of the Mercury\nESA mission BepiColombo that will be launched in 2014. The goals of the\nexperiment are to determine the gravity field of Mercury and its rotation\nstate, to determine the orbit of Mercury, to constrain the possible theories of\ngravitation (for example by determining the post-Newtonian (PN) parameters), to\nprovide the spacecraft position for geodesy experiments and to contribute to\nplanetary ephemerides improvement. This is possible thanks to a new technology\nwhich allows to reach great accuracies in the observables range and range rate;\nit is well known that a similar level of accuracy requires studying a suitable\nmodel taking into account numerous relativistic effects. In this paper we deal\nwith the modelling of the space-time coordinate transformations needed for the\nlight-time computations and the numerical methods adopted to avoid rounding-off\nerrors in such computations.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0910.5818"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.4372",
+    "title": "Title:Alternative derivation of the response of interferometric gravitational wave detectors",
+    "date_publ": "22 Oct 2009",
+    "authors": [
+      "Neil J. Cornis"
+    ],
+    "abstract": "Abstract:  It has recently been pointed out by Finn that the long-standing derivation of\nthe response of an interferometric gravitational wave detector contains several\nerrors. Here I point out that a contemporaneous derivation of the gravitational\nwave response for spacecraft doppler tracking and pulsar timing avoids these\npitfalls, and when adapted to describe interferometers, recovers a simplified\nversion of Finn's derivation. This simplified derivation may be useful for\npedagogical purposes.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0910.4372"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.3605",
+    "title": "Title:The SXI telescope on board EXIST: scientific performances",
+    "date_publ": "19 Oct 2009",
+    "authors": [
+      "L. Natalucci",
+      "A. Bazzano",
+      "S. Campana",
+      "P. Caraveo",
+      "R. Della Ceca",
+      "J.E. Grindlay",
+      "F. Panessa",
+      "G. Pareschi",
+      "B. Ramsey",
+      "G. Tagliaferri",
+      "P. Ubertini",
+      "G. Vill"
+    ],
+    "abstract": "Abstract:  The SXI telescope is one of the three instruments on board EXIST, a\nmultiwavelength observatory in charge of performing a global survey of the sky\nin hard X-rays searching for Supermassive Black Holes. One of the primary\nobjectives of EXIST is also to study with unprecedented sensitivity the most\nunknown high energy sources in the Universe, like high redshift GRBs, which\nwill be pointed promptly by the Spacecraft by autonomous trigger based on hard\nX-ray localization on board. The recent addition of a soft X-ray telescope to\nthe EXIST payload complement, with an effective area of ~950 cm2 in the energy\nband 0.2-3 keV and extended response up to 10 keV will allow to make broadband\nstudies from 0.1 to 600 keV. In particular, investigations of the spectra\ncomponents and states of AGNs and monitoring of variability of sources, study\nof the prompt and afterglow emission of GRBs since the early phases, which will\nhelp to constrain the emission models and finally, help the identification of\nsources in the EXIST hard X-ray survey and the characterization of the\ntransient events detected. SXI will also perform surveys: a scanning survey\nwith sky coverage of about 2pi and limiting flux of 5x10^{-14}cgs plus other\nserendipitous. We give an overview of the SXI scientific performance and also\ndescribe the status of its design emphasizing how it has been derived by the\nscientific requirements.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " High Energy Astrophysical Phenomena (astro-ph.HE)"
+    ],
+    "url_pdf": "/pdf/0910.3605"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.3244",
+    "title": "Title:NASA's satellite orbit anomaly problem can be solved precisely in the frame of Einstein's special theory of relativity. Anomaly confirms that gravity fields propagate with velocity of light as Einstein predicted",
+    "date_publ": "17 Oct 2009",
+    "authors": [
+      "Victor M. Bogda"
+    ],
+    "abstract": "Abstract:  NASA's Jet Propulsion Laboratory put on You Tube a problem that has been\nbaffling the scientists for sometime. It involves an unexpected force acting on\nthe space probes. The author proves that NASA'S satellite orbit anomaly problem\ncan be solved in the frame of Einstein's Special Theory of Relativity. The\nanomaly confirms that gravity fields propagate with velocity of light as\nEinstein predicted. The proof is based on the authors discovery of the\nrelativistic version of Newton's gravity field. The author provides formulas\nfor relativistic equation of motion for a spacecraft in the joint gravitational\nfield of the Earth and the Sun in a Lorentzian frame attached to the Earth. The\nformulas are suitable for digital computers and can be easily implemented. He\nalso shows how to find solutions of the relativistic equations of motion for\nthe spacecraft.",
+    "categories": [
+      "General Physics (physics.gen-ph)",
+      " Classical Physics (physics.class-ph)"
+    ],
+    "url_pdf": "/pdf/0910.3244"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.2452",
+    "title": "Title:Observing Episodic Coronal Heating Events Rooted in Chromospheric Activity",
+    "date_publ": "13 Oct 2009",
+    "authors": [
+      "Scott W. McIntosh",
+      "Bart De Pontie"
+    ],
+    "abstract": "Abstract:  We present results of a multi-wavelength study of episodic plasma injection\ninto the corona of AR 10942. We exploit long-exposure images of the Hinode and\nTransition Region and Coronal Explorer (TRACE) spacecraft to study the\nproperties of faint, episodic, \"blobs\" of plasma that are propelled upward\nalong coronal loops that are rooted in the AR plage. We find that the source\nlocation and characteristic velocities of these episodic upflow events match\nthose expected from recent spectroscopic observations of faint coronal upflows\nthat are associated with upper chromospheric activity, in the form of highly\ndynamic spicules. The analysis presented ties together observations from\ncoronal and chromospheric spectrographs and imagers, providing more evidence of\nthe connection of discrete coronal mass heating and injection events with their\nsource, dynamic spicules, in the chromosphere.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/0910.2452"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.1641",
+    "title": "Title:Curious numerical coincidence to the Pioneer anomaly",
+    "date_publ": "9 Oct 2009 (v1), last revised 28 Sep 2016 (this version, v2)",
+    "authors": [
+      "Liviu Ivanesc"
+    ],
+    "abstract": "Abstract:  One noticed a numerical coincidence between the Pioneer spacecrafts\ndeceleration anomaly and $(\\gamma-1)$, with $\\gamma$ the Lorentz factor. The\nmatch is not only for distances larger than 20 AU, but even for the observed\nslop between 10 and 20 AU. Such numerical link may eventually lead to a\nscientific hypothesis for future theoretical investigations.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/0910.1641"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.1564",
+    "title": "Title:Spacecraft calorimetry as a test of the dark matter scattering model for flyby anomalies",
+    "date_publ": "8 Oct 2009 (v1), last revised 20 Dec 2010 (this version, v2)",
+    "authors": [
+      "Stephen L. Adle"
+    ],
+    "abstract": "Abstract:  In previous papers we have shown that scattering of spacecraft nucleons from\ndark matter gravitationally bound to the earth gives a possible explanation of\nthe flyby velocity anomalies. In addition to flyby velocity changes arising\nfrom the average over the scattering cross section of the collision-induced\nnucleon velocity change, there will be spacecraft temperature increases arising\nfrom the mean squared fluctuation of the collision-induced velocity change. We\ngive here a quantitative treatment of this effect, and suggest that careful\ncalorimetry on spacecraft traversing the region below 70,000 km where the flyby\nvelocity changes take place could verify, or at a minimum place significant\nconstraints, on the dark matter scattering model.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/0910.1564"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.1188",
+    "title": "Title:Linking remote imagery of a coronal mass ejection to its in situ signatures at 1 AU",
+    "date_publ": "7 Oct 2009",
+    "authors": [
+      "Christian M\u00f6stl (1 and 2)",
+      "Charles J. Farrugia (3)",
+      "Manuela Temmer (2)",
+      "Christiane Miklenic (1 and 2)",
+      "Astrid M. Veronig (2)",
+      "Antoinette B. Galvin (3)",
+      "Martin Leitner (4)",
+      "Helfried K. Biernat (1 and 2) ((1) Space Research Institute",
+      "Austrian Academy of Sciences",
+      "Graz",
+      "Austria (2) Institute for Physics",
+      "University of Graz",
+      "Austria (3) University of New Hampshire",
+      "Durham",
+      "USA (4) Institute for Astro- and Particle Physics",
+      "University of Innsbruck",
+      "Austria"
+    ],
+    "abstract": "Abstract:  In a case study (June 6-7, 2008) we report on how the internal structure of a\ncoronal mass ejection (CME) at 1 AU can be anticipated from remote observations\nof white-light images of the heliosphere. Favorable circumstances are the\nabsence of fast equatorial solar wind streams and a low CME velocity which\nallow us to relate the imaging and in-situ data in a straightforward way. The\nSTEREO-B spacecraft encountered typical signatures of a magnetic flux rope\ninside an interplanetary CME (ICME) whose axis was inclined at 45 degree to the\nsolar equatorial plane. Various CME direction-finding techniques yield\nconsistent results to within 15 degree. Further, remote images from STEREO-A\nshow that (1) the CME is unambiguously connected to the ICME and can be tracked\nall the way to 1 AU, (2) the particular arc-like morphology of the CME points\nto an inclined axis, and (3) the three-part structure of the CME may be\nplausibly related to the in situ data. This is a first step in predicting both\nthe direction of travel and the internal structure of CMEs from complete remote\nobservations between the Sun and 1 AU, which is one of the main requirements\nfor forecasting the geo-effectiveness of CMEs.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0910.1188"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.1084",
+    "title": "Title:Test of relativistic gravity for propulsion at the Large Hadron Collider",
+    "date_publ": "6 Oct 2009 (v1), last revised 10 Nov 2009 (this version, v2)",
+    "authors": [
+      "Franklin Felbe"
+    ],
+    "abstract": "Abstract:  A design is presented of a laboratory experiment that could test the\nsuitability of relativistic gravity for propulsion of spacecraft to\nrelativistic speeds. An exact time-dependent solution of Einstein's\ngravitational field equation confirms that even the weak field of a mass moving\nat relativistic speeds could serve as a driver to accelerate a much lighter\npayload from rest to a good fraction of the speed of light. The time-dependent\nfield of ultrarelativistic particles in a collider ring is calculated. An\nexperiment is proposed as the first test of the predictions of general\nrelativity in the ultrarelativistic limit by measuring the repulsive\ngravitational field of bunches of protons in the Large Hadron Collider (LHC).\nThe estimated 'antigravity beam' signal strength at a resonant detector of each\nproton bunch is 3 nm/s^2 for 2 ns during each revolution of the LHC. This\nexperiment can be performed off-line, without interfering with the normal\noperations of the LHC.",
+    "categories": [
+      "General Physics (physics.gen-ph)",
+      " General Relativity and Quantum Cosmology (gr-qc)",
+      " High Energy Physics - Experiment (hep-ex)"
+    ],
+    "url_pdf": "/pdf/0910.1084"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.0786",
+    "title": "Title:3D evolution of a filament disappearance event observed by STEREO",
+    "date_publ": "5 Oct 2009",
+    "authors": [
+      "S. Gosain",
+      "B. Schmieder",
+      "P. Venkatakrishnan",
+      "R. Chandra",
+      "G. Artzne"
+    ],
+    "abstract": "Abstract:  A filament disappearance event was observed on 22 May 2008 during our recent\ncampaign JOP 178. The filament, situated in the southern hemisphere, showed\nsinistral chirality consistent with the hemispheric rule. The event was well\nobserved by several observatories in particular by THEMIS. One day before the\ndisappearance, H$\\alpha$ observations showed up and down flows in adjacent\nlocations along the filament, which suggest plasma motions along twisted flux\nrope. THEMIS and GONG observations show shearing photospheric motions leading\nto magnetic flux canceling around barbs. STEREO A, B spacecraft with separation\nangle 52.4 degrees, showed quite different views of this untwisting flux rope\nin He II 304 \u00c5 images. Here, we reconstruct the 3D geometry of the filament\nduring its eruption phase using STEREO EUV He II 304 \u00c5 images and find that\nthe filament was highly inclined to the solar normal. The He II 304 \u00c5 movies\nshow individual threads, which oscillate and rise to an altitude of about 120\nMm with apparent velocities of about 100 km s$^{-1}$, during the rapid\nevolution phase. Finally, as the flux rope expands into the corona, the\nfilament disappears by becoming optically thin to undetectable levels. No CME\nwas detected by STEREO, only a faint CME was recorded by LASCO at the beginning\nof the disappearance phase at 02:00 UT, which could be due to partial filament\neruption. Further, STEREO Fe XII 195 \u00c5 images showed bright loops beneath\nthe filament prior to the disappearance phase, suggesting magnetic reconnection\nbelow the flux rope.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0910.0786"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.0116",
+    "title": "Title:Spitzer observations of the asteroid-comet transition object and potential spacecraft target 107P (4015) Wilson-Harrington",
+    "date_publ": "1 Oct 2009",
+    "authors": [
+      "J. Licandro",
+      "H. Campins",
+      "M. Kelley",
+      "Y. Fernandez",
+      "M. Delbo",
+      "W. T. Reach",
+      "O. Groussin",
+      "P. L. Lamy",
+      "I. Toth",
+      "M. F. A'Hearn",
+      "J. M. Bauer",
+      "S. C. Lowry",
+      "A. Fitzsimmons",
+      "C. M. Lisse",
+      "K. J. Meech",
+      "J. Pittichova",
+      "C. Snodgrass",
+      "H. A. Weave"
+    ],
+    "abstract": "Abstract:  Context. Near-Earth asteroid-comet transition object 107P/ (4015)\nWilson-Harrington is a possible target of the joint European Space Agency (ESA)\nand Japanese Aerospace Exploration Agency (JAXA) Marco Polo sample return\nmission. Physical studies of this object are relevant to this mission, and also\nto understanding its asteroidal or cometary nature. Aims. Our aim is to obtain\nsignificant new constraints on the surface thermal properties of this object.\nMethods. We present mid-infrared photometry in two filters (16 and 22 microns)\nobtained with NASA's Spitzer Space Telescope on February 12, 2007, and results\nfrom the application of the Near Earth Asteroid Thermal Model (NEATM).We\nobtained high S/N in two mid-IR bands allowing accurate measurements of its\nthermal emission. Results. We obtain a well constrained beaming parameter (eta\n= 1.39 +/- 0.26) and obtain a diameter and geometric albedo of D = 3.46 +/-\n0.32 km, and pV = 0.059 +/- 0.011. We also obtain similar results when we apply\nthis best-fitting thermal model to single-band mid-IR photometry reported by\nCampins et al. (1995), Kraemer et al. (2005) and Reach et al. (2007).\nConclusions. The albedo of 4015 Wilson-Harrington is low, consistent with those\nof comet nuclei and primitive C-, P-, D-type asteorids. We establish a rough\nlower limit for the thermal inertia of W-H of 60 Jm^-2s^(-0.5)K^-1 when it is\nat r=1AU, which is slightly over the limit of 30 Jm^-2s^(-0.5)K-1 derived by\nGroussin et al. (2009) for the thermal inertia of the nucleus of comet\n22P/Kopff.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0910.0116"
+  },
+  {
+    "url": "https://arxiv.org/abs/0910.0094",
+    "title": "Title:Numerical and Experimental Study for a Beam System with Local Unilateral Contact Modeling Satellite Solar Arrays",
+    "date_publ": "1 Oct 2009 (v1), last revised 12 Oct 2009 (this version, v2)",
+    "authors": [
+      "Hamad Hazim (JAD)",
+      "B. Rousselet (JAD)",
+      "Neil Ferguso"
+    ],
+    "abstract": "Abstract:  The mass reduction of satellite solar arrays results in significant panel\nflexibility, so possibly striking one another dynamically leading ultimately to\nstructural damage. To prevent this, rubber snubbers are mounted at well chosen\npoints of the structure and they act as one sided linear spring; as a negative\nconsequence, the dynamic of these panels becomes nonlinear. The finite element\napproximation is used to solve partial differential equations governing the\nstructural dynamic. The models are validated and adjusted with experiments done\nin the ISVR laboratory, Southampton university.",
+    "categories": [
+      "Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/0910.0094"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.5338",
+    "title": "Title:Vainu Bappu Memorial Lecture: What is a sunspot?",
+    "date_publ": "29 Sep 2009 (v1), last revised 5 Oct 2009 (this version, v3)",
+    "authors": [
+      "D. O. Goug"
+    ],
+    "abstract": "Abstract:  Sunspots have been known in the West since Galileo Galilei and Thomas Harriot\nfirst used telescopes to observe the Sun nearly four centuries ago; they have\nbeen known to the Chinese for more than two thousand years. They appear as\nrelatively dark patches on the surface of the Sun, and are caused by\nconcentrations of magnetism which impede the flow of heat from deep inside the\nSun up to its othewise brilliant surface. The spots are not permanent: the\ntotal number of spots on the Sun varies cyclically in time, with a period of\nabout eleven years, associated with which there appear to be variations in our\nclimate. When there are many spots, it is more dangerous for spacecraft to\noperate. The cause of the spots is not well understood; nor is it known for\nsure how they die. Their structure beneath the surface of the Sun is in some\ndispute, although much is known about their properties at the surface,\nincluding an outward material flow which was discovered by John Evershed\nobserving the Sun from Kodaikanal a hundred years ago. I shall give you a\nglimpse of how we are striving to deepen our understanding of these fascinating\nfeatures, and of some of the phenomena that appear to be associated with them.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0909.5338"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.5150",
+    "title": "Title:Non-Prefered Reference Frames and Anomalous Earth Flybys",
+    "date_publ": "28 Sep 2009 (v1), last revised 3 May 2010 (this version, v2)",
+    "authors": [
+      "Walter Petr"
+    ],
+    "abstract": "Abstract:  Let us consider a reference frame Sigma prime in which the pseudo-Euclidean\ngeometry holds. Einstein assumed that the principle of special relativity is\nvalid, i.e. the reference frame of any uniformly moving observer is also\ndescribed by the pseudo-Euclidean geometry. The transformation formulae from\none reference frame to the other one are therefore given by the well-known\nLorentz-transformations. But Einsteins assumption contradicts the observed\ndipole anisotropy of the cosmic microwave background (CMB) in the universe. The\ntransformation formulae of the prefered reference frame Sigma prime in which\nthe pseudo-Euclidean geometry is valid to a uniformly moving observer in a\nnon-prefered reference frame Sigma are stated. The geomerty in Sigma is\nanisotropic. The Doppler shift of objects moving in a non-prefered reference\nframe is calculated. This result is applied to spacecrafts which fly near the\nEarth. The observed anomalous frequency shift of several spacecrafts during\nnear Earth flybys does not arise in the non-prefered reference frame Sigma",
+    "categories": [
+      "General Physics (physics.gen-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/0909.5150"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.3095",
+    "title": "Title:Numerical Simulation of an EUV Coronal Wave Based on the February 13, 2009 CME Event Observed by STEREO",
+    "date_publ": "16 Sep 2009",
+    "authors": [
+      "Ofer Cohen",
+      "Gemma D.R. Attrill",
+      "Ward B. Manchester IV",
+      "Meredith J. Wills-Dave"
+    ],
+    "abstract": "Abstract:  On 13 February 2009, a coronal wave -- CME -- dimming event was observed in\nquadrature by the STEREO spacecraft. We analyze this event using a\nthree-dimensional, global magnetohydrodynamic (MHD) model for the solar corona.\nThe numerical simulation is driven and constrained by the observations, and\nindicates where magnetic reconnection occurs between the expanding CME core and\nsurrounding environment. We focus primarily on the lower corona, extending out\nto $3R_{\\odot}$; this range allows simultaneous comparison with both EUVI and\nCOR1 data. Our simulation produces a diffuse coronal bright front remarkably\nsimilar to that observed by STEREO/EUVI at 195 \u00c5. It is made up of \\emph{two}\ncomponents, and is the result of a combination of both wave and non-wave\nmechanisms.\nThe CME becomes large-scale quite low ($<$ 200 Mm) in the corona. It is not,\nhowever, an inherently large-scale event; rather, the expansion is facilitated\nby magnetic reconnection between the expanding CME core and the surrounding\nmagnetic environment. In support of this, we also find numerous secondary\ndimmings, many far from the initial CME source region. Relating such dimmings\nto reconnecting field lines within the simulation provides further evidence\nthat CME expansion leads to the \"opening\" of coronal field lines on a global\nscale. Throughout the CME expansion, the coronal wave maps directly to the CME\nfootprint.\nOur results suggest that the ongoing debate over the \"true\" nature of diffuse\ncoronal waves may be mischaracterized. It appears that \\emph{both} wave and\nnon-wave models are required to explain the observations and understand the\ncomplex nature of these events.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0909.3095"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.2115",
+    "title": "Title:On-disk counterparts of type II spicules in the Ca II 854.2 nm and Halpha lines",
+    "date_publ": "11 Sep 2009",
+    "authors": [
+      "L. Rouppe van der Voort",
+      "J. Leenaarts",
+      "B. de Pontieu",
+      "M. Carlsson",
+      "G. Visser"
+    ],
+    "abstract": "Abstract:  Recently a second type of spicules was discovered at the solar limb with the\nSolar Optical Telescope (SOT) onboard the Japanese Hinode spacecraft. These\npreviously unrecognized type II spicules are thin chromospheric jets that are\nshorter-lived (10-60 s) and that show much higher apparent upward velocities\n(of order 50-100 km/s) than the classical spicules. Since they have been\nimplicated in providing hot plasma to coronal loops, their formation, evolution\nand properties are important ingredients for a better understanding of the mass\nand energy balance of the low solar atmosphere. Here we report on the discovery\nof the disk counterparts of type II spicules using spectral imaging data in the\nCa II 854.2 nm and Halpha lines with the CRisp Imaging SpectroPolarimeter\n(CRISP) at the Swedish Solar Telescope (SST) in La Palma. We find rapid\nblueward excursions in the line profiles of both chromospheric lines that\ncorrespond to thin, jet-like features that show apparent velocities of order 50\nkm/s. These blueward excursions seem to form a separate absorbing component\nwith Doppler shifts of order 20 and 50 km/s for the Ca II 854.2 nm and Halpha\nline respectively. We show that the appearance, lifetimes, longitudinal and\ntransverse velocities and occurrence rate of these rapid blue excursions on the\ndisk are very similar to those of the type II spicules at the limb. A detailed\nstudy of the spectral line profiles in these events suggests that plasma is\naccelerated along the jet, and plasma is being heated throughout the short\nlifetime of the event.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0909.2115"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.1167",
+    "title": "Title:Testing GRB models with the afterglow of GRB 090102",
+    "date_publ": "7 Sep 2009 (v1), last revised 4 Mar 2010 (this version, v2)",
+    "authors": [
+      "B. Gendre (1)",
+      "A. Klotz (2",
+      "3)",
+      "E. Palazzi (4)",
+      "T. Kruhler (5",
+      "6)",
+      "S. Covino (7)",
+      "P. Afonso (5)",
+      "L.A. Antonelli (8)",
+      "J.L. Atteia (9)",
+      "P. D'Avanzo (7",
+      "10)",
+      "M. Boer (2)",
+      "J. Greiner (5)",
+      "S. Klose (11) ((1) LAM",
+      "(2) OHP",
+      "(3) CESR",
+      "(4) IASF-Bologna/INAF",
+      "(5) MPE",
+      "(6) Technische Universitat Munchen",
+      "(7) Osservatorio Astronomico di Brera/INAF",
+      "(8) Osservatorio Astronomico di Roma/INAF",
+      "(9) LATT",
+      "(10) Universita dell'Insubria",
+      "(11) Thuringer Landessternwarte Tautenburg"
+    ],
+    "abstract": "Abstract:  We present the observations of the afterglow of gamma-ray burst GRB 090102.\nOptical data taken by the TAROT, REM, GROND, together with publicly available\ndata from Palomar, IAC and NOT telescopes, and X-ray data taken by the XRT\ninstrument on board the Swift spacecraft were used. This event features an\nunusual light curve. In X-rays, it presents a constant decrease with no hint of\ntemporal break from 0.005 to 6 days after the burst. In the optical, the light\ncurve presents a flattening after 1 ks. Before this break, the optical light\ncurve is steeper than that of the X-ray. In the optical, no further break is\nobserved up to 10 days after the burst. We failed to explain these observations\nin light of the standard fireball model. Several other models, including the\ncannonball model were investigated. The explanation of the broad band data by\nany model requires some fine tuning when taking into account both optical and\nX-ray bands.",
+    "categories": [
+      "High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Cosmology and Nongalactic Astrophysics (astro-ph.CO)"
+    ],
+    "url_pdf": "/pdf/0909.1167"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.0534",
+    "title": "Title:Deriving the radial distances of wide coronal mass ejections from elongation measurements in the heliosphere - Application to CME-CME interaction",
+    "date_publ": "2 Sep 2009",
+    "authors": [
+      "N. Lugaz",
+      "A. Vourlidas",
+      "I. I. Rousse"
+    ],
+    "abstract": "Abstract:  We present general considerations regarding the derivation of the radial\ndistances of coronal mass ejections (CMEs) from elongation angle measurements\nsuch as those provided by SECCHI and SMEI, focusing on measurements in the\nHeliospheric Imager 2 (HI-2) field of view (i.e. past 0.3 AU). This study is\nbased on a three-dimensional (3-D) magneto-hydrodynamics (MHD) simulation of\ntwo CMEs observed by SECCHI on January 24-27, 2007. Having a 3-D simulation\nwith synthetic HI images, we are able to compare the two basic methods used to\nderive CME positions from elongation angles, the so-called \"Point-P\" and\n\"Fixed-Phi\" approximations.\nWe confirm, following similar works, that both methods, while valid in the\nmost inner heliosphere, yield increasingly large errors in HI-2 field of view\nfor fast and wide CMEs. Using a simple model of a CME as an expanding\nself-similar sphere, we derive an analytical relationship between elongation\nangles and radial distances for wide CMEs. This relationship is simply the\nharmonic mean of the \"Point-P\" and \"Fixed-Phi'' approximations and it is aimed\nat complementing 3-D fitting of CMEs by cone models or flux rope shapes. It\nproves better at getting the kinematics of the simulated CME right when we\ncompare the results of our line-of-sights to the MHD simulation. Based on this\napproximation, we re-analyze the J-maps (time-elongation maps) in January\n26-27, 2007 and present the first observational evidence that the merging of\nCMEs is associated with a momentum exchange from the faster ejection to the\nslower one due to the propagation of the shock wave associated with the fast\neruption through the slow eruption.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0909.0534"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.0484",
+    "title": "Title:Determination of Spacecraft Attitude and Source Position Using Non-aligned Detectors in Spin-stabilized Satellites",
+    "date_publ": "2 Sep 2009 (v1), last revised 21 Sep 2009 (this version, v2)",
+    "authors": [
+      "Srikanta Sinh"
+    ],
+    "abstract": "Abstract:  The modulation of high-energy transients' (or steadily emitting sources')\nlight curves due to the imperfect alignment of the detector's view axis with\nthe spin axis in a spin-stabilized satellite is derived. It is shown how the\norientation of the detector's view axis with respect to the satellite's spin\naxis may be estimated using observed light curves. The effects of statistical\nfluctuations are considered. Conversely, it is shown how the attitude of a\nspin-axis stabilized satellite as well as the unknown position of a celestial\nsource of high-energy photons may be determined using a detector whose\nview-axis is intentionally kept inclined and is known accurately beforehand.\nThe case of three-axes stabilized satellites is also discussed.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/0909.0484"
+  },
+  {
+    "url": "https://arxiv.org/abs/0909.0027",
+    "title": "Title:Limb Spicules from the Ground and from Space",
+    "date_publ": "31 Aug 2009",
+    "authors": [
+      "Jay M. Pasachoff",
+      "William A. Jacobson",
+      "Alphonse C. Sterlin"
+    ],
+    "abstract": "Abstract:  We amassed statistics for quiet-sun chromosphere spicules at the limb using\nground-based observations from the Swedish 1-m Solar Telescope on La Palma and\nsimultaneously from NASA's Transition Region and Coronal Explorer (TRACE)\nspacecraft. The observations were obtained in July 2006. With the 0.2 arcsecond\nresolution obtained after maximizing the ground-based resolution with the\nMulti-Object Multi-Frame Blind Deconvolution (MOMFBD) program, we obtained\nspecific statistics for sizes and motions of over two dozen individual\nspicules, based on movies compiled at 50-second cadence for the series of five\nwavelengths observed in a very narrow band at H-alpha, on-band and in the red\nand blue wings at 0.035 nm and 0.070 nm (10 s at each wavelength) using the\nSOUP filter, and had simultaneous observations in the 160 nm EUV continuum from\nTRACE. The MOMFBD restoration also automatically aligned the images,\nfacilitating the making of Dopplergrams at each off-band pair. We studied 40\nH-alpha spicules, and 14 EUV spicules that overlapped H-alpha spicules; we\nfound that their dynamical and morphological properties fit into the framework\nof several previous studies. From a preliminary comparison with spicule\ntheories, our observations are consistent with a reconnection mechanism for\nspicule generation, and with UV spicules being a sheath region surrounding the\nH-alpha spicules.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0909.0027"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.4564",
+    "title": "Title:Theory and modeling of the magnetic field measurement in LISA PathFinder",
+    "date_publ": "31 Aug 2009",
+    "authors": [
+      "M Diaz-Aguilo",
+      "E Garcia-Berro",
+      "A Lob"
+    ],
+    "abstract": "Abstract:  The magnetic diagnostics subsystem of the LISA Technology Package (LTP) on\nboard the LISA PathFinder (LPF) spacecraft includes a set of four tri-axial\nfluxgate magnetometers, intended to measure with high precision the magnetic\nfield at their respective positions. However, their readouts do not provide a\ndirect measurement of the magnetic field at the positions of the test masses,\nand hence an interpolation method must be designed and implemented to obtain\nthe values of the magnetic field at these positions. However, such\ninterpolation process faces serious difficulties. Indeed, the size of the\ninterpolation region is excessive for a linear interpolation to be reliable\nwhile, on the other hand, the number of magnetometer channels does not provide\nsufficient data to go beyond the linear approximation. We describe an\nalternative method to address this issue, by means of neural network\nalgorithms. The key point in this approach is the ability of neural networks to\nlearn from suitable training data representing the behavior of the magnetic\nfield. Despite the relatively large distance between the test masses and the\nmagnetometers, and the insufficient number of data channels, we find that our\nartificial neural network algorithm is able to reduce the estimation errors of\nthe field and gradient down to levels below 10%, a quite satisfactory result.\nLearning efficiency can be best improved by making use of data obtained in\non-ground measurements prior to mission launch in all relevant satellite\nlocations and in real operation conditions. Reliable information on that\nappears to be essential for a meaningful assessment of magnetic noise in the\nLTP.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0908.4564"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.4087",
+    "title": "Title:Discovery of fog at the south pole of Titan",
+    "date_publ": "27 Aug 2009",
+    "authors": [
+      "M.E. Brown",
+      "A.L. Smith",
+      "C. Chen",
+      "M. Adamkovic"
+    ],
+    "abstract": "Abstract:  While Saturn's moon Titan appears to support an active methane hydrological\ncycle, no direct evidence for surface-atmosphere exchange has yet appeared. It\nis possible that the identified lake-features could be filled with ethane, an\ninvolatile long term residue of atmospheric photolysis; the apparent stream and\nchannel features could be ancient from a previous climate; and the tropospheric\nmethane clouds, while frequent, could cause no rain to reach the surface. We\nreport here the detection of fog at the south pole of Titan during late summer\nusing observations from the VIMS instrument on board the Cassini spacecraft.\nWhile terrestrial fog can form from a variety of causes, most of these\nprocesses are inoperable on Titan. Fog on Titan can only be caused by\nevaporation of liquid methane; the detection of fog provides the first direct\nlink between surface and atmospheric methane. Based on the detections presented\nhere, liquid methane appears widespread at the south pole of Titan in late\nsouthern summer, and the hydrolgical cycle on Titan is current active.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0908.4087"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.3005",
+    "title": "Title:The JANUS X-Ray Flash Monitor",
+    "date_publ": "21 Aug 2009",
+    "authors": [
+      "A. D. Falcone",
+      "D. N. Burrows",
+      "S. Barthelmy",
+      "W. Chang",
+      "J. Fredley",
+      "M. Kelly",
+      "R. Klar",
+      "D. Palmer",
+      "S. Persyn",
+      "K. Reichard",
+      "P. Roming",
+      "E. Seifert",
+      "R. W. M. Smith",
+      "P. Wood",
+      "M. Zugge"
+    ],
+    "abstract": "Abstract:  JANUS is a NASA small explorer class mission which just completed phase A and\nwas intended for a 2013 launch date. The primary science goals of JANUS are to\nuse high redshift (6<z<12) gamma ray bursts and quasars to explore the\nformation history of the first stars in the early universe and to study\ncontributions to reionization. The X-Ray Flash Monitor (XRFM) and the Near-IR\nTelescope (NIRT) are the two primary instruments on JANUS. XRFM has been\ndesigned to detect bright X-ray flashes (XRFs) and gamma ray bursts (GRBs) in\nthe 1-20 keV energy band over a wide field of view (4 steradians), thus\nfacilitating the detection of z>6 XRFs/GRBs, which can be further studied by\nother instruments. XRFM would use a coded mask aperture design with hybrid CMOS\nSi detectors. It would be sensitive to XRFs/GRBs with flux in excess of\napproximately 240 mCrab. The spacecraft is designed to rapidly slew to source\npositions following a GRB trigger from XRFM. XRFM instrument design parameters\nand science goals are presented in this paper.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Cosmology and Nongalactic Astrophysics (astro-ph.CO)",
+      " High Energy Astrophysical Phenomena (astro-ph.HE)"
+    ],
+    "url_pdf": "/pdf/0908.3005"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.2775",
+    "title": "Title:Spectral features of solar wind turbulent plasma",
+    "date_publ": "19 Aug 2009",
+    "authors": [
+      "Dastgeer Shaikh",
+      "G. P. Zan"
+    ],
+    "abstract": "Abstract:  Spectral properties of a fully compressible solar wind Hall\nMagnetohydrodynamic plasma are investigated by means of time dependent three\ndimensional Hall MHD simulations. Our simulations, in agreement with spacecraft\ndata, identify a spectral break in turbulence spectra at characteristic\nlength-scales associated with electromagnetic fluctuations that are smaller\nthan the ion gyroradius. In this regime, our 3D simulations show that turbulent\nspectral cascades in the presence of a mean magnetic field follow an\nomnidirectional anisotropic inertial range spectrum close to $k^{-7/3}$. The\nonset of the spectral break in our simulations can be ascribed to the presence\nof nonlinear Hall interactions that modify the spectral cascades. Our\nsimulations further show that the underlying charachteristic turbulent\nfluctuations are spectrally anisotropic, the extent of which depends critically\non the local wavenumber. The fluctuations associated with length scales smaller\nthan the ion gyroradius are highly compressible and tend to exhibit a near\nequipartition in the velocity and magnetic fields. Finally, we find that the\norientation of velocity and magnetic field fluctuations critically determine\nthe character of nonlinear interactions that predominantly govern a Hall MHD\nplasma, like the solar wind.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/0908.2775"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.2433",
+    "title": "Title:RHESSI Tests of Quasi-Thermal Gamma-Ray Burst Spectral Models",
+    "date_publ": "17 Aug 2009",
+    "authors": [
+      "Eric C. Bell"
+    ],
+    "abstract": "Abstract:  Prompt gamma-ray burst spectra evolve on short time scales, suggesting that\ntime-resolved spectral fits may help diagnose the still unknown prompt emission\nmechanism. We use broad-band gamma-ray data from the RHESSI spacecraft to test\nquasi-thermal models with high signal-to-noise time-resolved spectra of nine\nbright gamma-ray bursts. In contrast to results reported in more narrow energy\nbands, the quality of the fits of quasi-thermal models is poor in relation to\nfits of the phenomenological Band function. Moreover, the best-fit parameters\nfor the simplest quasi-thermal model, a black body plus a nonthermal power law,\nshow significant dependence on the fit band. Models that replace the power law\nwith more complicated nonthermal functions are not robust for the data\nconsidered here and decrease the physical relevance of the fit black body.",
+    "categories": [
+      "High Energy Astrophysical Phenomena (astro-ph.HE)"
+    ],
+    "url_pdf": "/pdf/0908.2433"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.2414",
+    "title": "Title:Modeling the flyby anomalies with dark matter scattering",
+    "date_publ": "17 Aug 2009 (v1), last revised 8 Sep 2009 (this version, v2)",
+    "authors": [
+      "Stephen L. Adle"
+    ],
+    "abstract": "Abstract:  We continue our exploration of whether the flyby anomalies can be explained\nby scattering of spacecraft nucleons from dark matter gravitationally bound to\nthe earth. We formulate and analyze a simple model in which inelastic and\nelastic scatterers populate shells generated by the precession of circular\norbits with normals tilted with respect to the earth's axis. Good fits to the\ndata published by Anderson et al. are obtained.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " General Relativity and Quantum Cosmology (gr-qc)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/0908.2414"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.2365",
+    "title": "Title:Stereoscopic Polar Plume Reconstructions from Stereo/Secchi Images",
+    "date_publ": "17 Aug 2009",
+    "authors": [
+      "L. Feng",
+      "B. Inhester",
+      "S. K. Solanki",
+      "K. Wilhelm",
+      "T. Wiegelmann",
+      "B. Podlipnik",
+      "R. A. Howard",
+      "S. P. Plunkett",
+      "J. P. Wuelser",
+      "W. Q. Ga"
+    ],
+    "abstract": "Abstract:  We present stereoscopic reconstructions of the location and inclination of\npolar plumes of two data sets based on the two simultaneously recorded images\ntaken by the EUVI telescopes in the SECCHI instrument package onboard the\n\\emph{STEREO (Solar TErrestrial RElations Observatory)} spacecraft. The ten\nplumes investigated show a superradial expansion in the coronal hole in 3D\nwhich is consistent with the 2D results. Their deviations from the local\nmeridian planes are rather small with an average of $6.47^{\\circ}$. By\ncomparing the reconstructed plumes with a dipole field with its axis along the\nsolar rotation axis, it is found that plumes are inclined more horizontally\nthan the dipole field. The lower the latitude is, the larger is the deviation\nfrom the dipole field. The relationship between plumes and bright points has\nbeen investigated and they are not always associated. For the first data set,\nbased on the 3D height of plumes and the electron density derived from\nSUMER/\\emph{SOHO} Si {\\sc viii} line pair, we found that electron densities\nalong the plumes decrease with height above the solar surface. The temperature\nobtained from the density scale height is 1.6 to 1.8 times larger than the\ntemperature obtained from Mg {\\sc ix} line ratios. We attribute this\ndiscrepancy to a deviation of the electron and the ion temperatures. Finally,\nwe have found that the outflow speeds studied in the O {\\sc vi} line in the\nplumes corrected by the angle between the line of sight and the plume\norientation are quite small with a maximum of 10 $\\mathrm{km s^{-1}}$. It is\nunlikely that plumes are a dominant contributor to the fast solar wind.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0908.2365"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.1654",
+    "title": "Title:A Relativistic Motion Integrator: Numerical accuracy and illustration with BepiColombo and Mars-NEXT",
+    "date_publ": "12 Aug 2009",
+    "authors": [
+      "A. Hees",
+      "S. Pireau"
+    ],
+    "abstract": "Abstract:  Today, the motion of spacecraft is still described by the classical Newtonian\nequations of motion plus some relativistic corrections. This approach might\nbecome cumbersome due to the increasing precision required. We use the\nRelativistic Motion Integrator (RMI) approach to numerically integrate the\nnative relativistic equations of motion for a spacecraft. The principle of RMI\nis presented. We compare the results obtained with the RMI method with those\nfrom the usual Newton plus correction approach for the orbit of the BepiColombo\n(around Mercury) and Mars-NEXT (around Mars) orbiters. Finally, we present a\nnumerical study of RMI and we show that the RMI approach is relevant to study\nthe orbit of spacecraft.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/0908.1654"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.1352",
+    "title": "Title:Evidence for Primordial Black Hole Final Evaporation: Swift, BATSE and KONUS and Comparisons of VSGRBs and Observations of VSB That Have PBH Time Signatures",
+    "date_publ": "10 Aug 2009",
+    "authors": [
+      "David B. Cline",
+      "Stan Otwinowsk"
+    ],
+    "abstract": "Abstract:  More than a decade ago we identified a class of VSGRB (T90 < 100 ms) as\nhaving unusual properties: (1) galactic position asymmetry, (2) very hard gamma\nspectrum, (3) possible evidence for galactic origin of these events. We now\nstudy the recent Swift data and show that a VSGRB enhancement consistent BATSE\nand KONUS exists. We estimate that this is now a total 4.5sigma observation. We\nthen study the VSB for evidence of the time structure expected for PBH\nevaporation. Several of the events show the general time structure expected for\nPBH evaporation. If correct, then PBH must exist in this galaxy. Since even\nlarge detectors like BATSE record only a few VSB per year the density of PBH\ncan still be very small and it is hard to predict a rate for the Fermi\nspacecraft LAT.",
+    "categories": [
+      "Cosmology and Nongalactic Astrophysics (astro-ph.CO)"
+    ],
+    "url_pdf": "/pdf/0908.1352"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.1279",
+    "title": "Title:Three years of Ulysses dust data: 2005 to 2007",
+    "date_publ": "10 Aug 2009",
+    "authors": [
+      "Harald Kr\u00fcger",
+      "V. Dikarev",
+      "B. Anweiler",
+      "S. F. Dermott",
+      "A. L. Graps",
+      "E. Gruen",
+      "B. A. Gustafson",
+      "D. P. Hamilton",
+      "M. S. Hanner",
+      "M. Horanyi",
+      "J. Kissel",
+      "D. Linkert",
+      "G. Linkert",
+      "I. Mann",
+      "J. A. M. McDonnell",
+      "G. E. Morfill",
+      "C. Polanskey",
+      "G. Schwehm",
+      "R. Sram"
+    ],
+    "abstract": "Abstract:  The Ulysses spacecraft has been orbiting the Sun on a highly inclined ellipse\nsince it encountered Jupiter in February 1992. Since then it made almost three\nrevolutions about the Sun. Here we report on the final three years of data\ntaken by the on-board dust detector. During this time, the dust detector\nrecorded 609 dust impacts of particles with masses 10^-16 g <= m <= 10^-7 g,\nbringing the mission total to 6719 dust data sets. The impact rate varied from\na low value of 0.3 per day at high ecliptic latitudes to 1.5 per day in the\ninner solar system. The impact direction of the majority of impacts between\n2005 and 2007 is compatible with particles of interstellar origin, the rest are\nmost likely interplanetary particles. We compare the interstellar dust\nmeasurements from 2005/2006 with the data obtained during earlier periods\n(1993/1994) and (1999/2000) when Ulysses was traversing the same spatial region\nat southern ecliptic latitudes but the solar cycle was at a different phase.\nDuring these three intervals the impact rate of interstellar grains varied by\nmore than a factor of two. Furthermore, in the two earlier periods the grain\nimpact direction was in agreement with the flow direction of the interstellar\nhelium while in 2005/2006 we observed a shift in the approach direction of the\ngrains by approximately 30 deg away from the ecliptic plane. The reason for\nthis shift remains unclear but may be connected with the configuration of the\ninterplanetary magnetic field during solar maximum. We also find that the dust\nmeasurements are in agreement with the interplanetary flux model of Staubach et\nal. (1997) which was developed to fit a 5-year span of Ulysses data.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0908.1279"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.1226",
+    "title": "Title:\"Imprinting\" in General Relativity Tests?",
+    "date_publ": "9 Aug 2009 (v1), last revised 30 Dec 2009 (this version, v4)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  We investigate possible a-priori \"imprinting\" of general relativity itself on\nspaceraft-based tests of it. We deal with some performed or proposed time-delay\nranging experiments in the Sun's gravitational field. The \"imprint\" of general\nrelativity on the Astronomical Unit and the solar gravitational constant\nGM_\\odot, not solved for in the so far performed spacecraft-based time-delay\ntests, may induce an a-priori bias of the order of 10^-6 in typical solar\nsystem ranging experiments aimed to measuring the space curvature PPN parameter\n\\gamma. It is too small by one order of magnitude to be of concern for the\nperformed Cassini experiment, but it would affect future planned or proposed\ntests aiming to reach a 10^-7-10^-9 accuracy in determining \\gamma.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " High Energy Physics - Phenomenology (hep-ph)",
+      " Geophysics (physics.geo-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/0908.1226"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.1051",
+    "title": "Title:Galileo dust data from the jovian system: 2000 to 2003",
+    "date_publ": "7 Aug 2009",
+    "authors": [
+      "Harald Kr\u00fcger",
+      "D. Bindschadler",
+      "S. F. Dermott",
+      "A. L. Graps",
+      "E. Gruen",
+      "B. A. Gustafson",
+      "D. P. Hamilton",
+      "M. S. Hanner",
+      "M. Horanyi",
+      "J. Kissel",
+      "D. Linkert",
+      "G. Linkert",
+      "I. Mann",
+      "J. A. M. McDonnell",
+      "R. Moissl",
+      "G. E. Morfill",
+      "C. Polanskey",
+      "M. Roy",
+      "G. Schwehm",
+      "R. Sram"
+    ],
+    "abstract": "Abstract:  The Galileo spacecraft was orbiting Jupiter between Dec 1995 and Sep 2003.\nThe Galileo dust detector monitored the jovian dust environment between about 2\nand 370 R_J (jovian radius R_J = 71492 km). We present data from the Galileo\ndust instrument for the period January 2000 to September 2003. We report on the\ndata of 5389 particles measured between 2000 and the end of the mission in\n2003. The majority of the 21250 particles for which the full set of measured\nimpact parameters (impact time, impact direction, charge rise times, charge\namplitudes, etc.) was transmitted to Earth were tiny grains (about 10 nm in\nradius), most of them originating from Jupiter's innermost Galilean moon Io.\nTheir impact rates frequently exceeded 10 min^-1. Surprisingly large impact\nrates up to 100 min^-1 occurred in Aug/Sep 2000 when Galileo was at about 280\nR_J from Jupiter. This peak in dust emission appears to coincide with strong\nchanges in the release of neutral gas from the Io torus. Strong variability in\nthe Io dust flux was measured on timescales of days to weeks, indicating large\nvariations in the dust release from Io or the Io torus or both on such short\ntimescales. Galileo has detected a large number of bigger micron-sized\nparticles mostly in the region between the Galilean moons. A surprisingly large\nnumber of such bigger grains was measured in March 2003 within a 4-day interval\nwhen Galileo was outside Jupiter's magnetosphere at approximately 350 R_J\njovicentric distance. Two passages of Jupiter's gossamer rings in 2002 and 2003\nprovided the first actual comparison of in-situ dust data from a planetary ring\nwith the results inferred from inverting optical images.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0908.1051"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.0796",
+    "title": "Title:Spitzer Observations of Spacecraft Target 162173 (1999 JU3)",
+    "date_publ": "6 Aug 2009",
+    "authors": [
+      "H. Campins",
+      "J. P. Emery",
+      "M. Kelley",
+      "Y. Fernandez",
+      "J. Licandro",
+      "M. Delbo",
+      "A. Barucci",
+      "E. Dott"
+    ],
+    "abstract": "Abstract:  Near-Earth asteroid 162173 (1999 JU3) is the primary target of the Hayabusa-2\nsample return mission, and a potential target of the Marco Polo sample return\nmission. Earth-based studies of this object are fundamental to these missions.\nWe present a mid-infrared spectrum (5-38 microns) of 1999 JU3 obtained with\nNASA's Spitzer Space Telescope in May 2008. These observations place new\nconstraints on the surface properties of this asteroid. To fit our spectrum we\nused the near-Earth asteroid thermal model (NEATM) and the more complex\nthermophysical model (TPM). However, the position of the spin-pole, which is\nuncertain, is a crucial input parameter for constraining the thermal inertia\nwith the TPM; hence, we consider two pole orientations. In the extreme case of\nan equatorial retrograde geometry we derive a lower limit to the thermal\ninertia of 150 J/m^2/K/s^0.5. If we adopt the pole orientation of Abe et al.\n(2008a) our best-fit thermal model yields a value for the thermal inertia of\n700+/-200 J/m^2/K/s^0.5 and even higher values are allowed by the uncertainty\nin the spectral shape due to the absolute flux calibration. The lower limit to\nthe thermal inertia, which is unlikely but possible, would be consistent with a\nfine regolith similar to wthat is found for asteroid 433 Eros. However, the\nthermal inertia is expected to be higher, possibly similar to or greater than\nthat on asteroid 25143 Itokawa. Accurately determining the spin-pole of\nasteroid 162173 will narrow the range of possible values for its thermal\ninertia.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0908.0796"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.0450",
+    "title": "Title:The Fermi Gamma-Ray Burst Monitor",
+    "date_publ": "4 Aug 2009",
+    "authors": [
+      "Charles Meegan",
+      "Giselher Lichti",
+      "P. N. Bhat",
+      "Elisabetta Bissaldi",
+      "Michael S. Briggs",
+      "Valerie Connaughton",
+      "Roland Diehl",
+      "Gerald Fishman",
+      "Jochen Greiner",
+      "Andrew S. Hoover",
+      "Alexander J. van der Horst",
+      "Andreas von Kienlin",
+      "R. Marc Kippen",
+      "Chryssa Kouveliotou",
+      "Sheila McBreen",
+      "W. S. Paciesas",
+      "Robert Preece",
+      "Helmut Steinle",
+      "Mark S. Wallace",
+      "Robert B. Wilson",
+      "Colleen Wilson-Hodg"
+    ],
+    "abstract": "Abstract:  The Gamma-Ray Burst Monitor (GBM) will significantly augment the science\nreturn from the Fermi Observatory in the study of Gamma-Ray Bursts (GRBs). The\nprimary objective of GBM is to extend the energy range over which bursts are\nobserved downward from the energy range of the Large Area Telescope (LAT) on\nFermi into the hard X-ray range where extensive previous data exist. A\nsecondary objective is to compute burst locations on-board to allow\nre-orientiong the spacecraft so that the LAT can observe delayed emission from\nbright bursts. GBM uses an array of twelve sodium iodide scintillators and two\nbismuth germanate scintillators to detect gamma rays from ~8 keV to ~40 MeV\nover the full unocculted sky. The on-board trigger threshold is ~0.7\nphotons/cm2/s (50-300 keV, 1 s peak). GBM generates on-board triggers for ~250\nGRBs per year.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/0908.0450"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.0290",
+    "title": "Title:The performance of arm locking in LISA",
+    "date_publ": "3 Aug 2009 (v1), last revised 4 Aug 2009 (this version, v2)",
+    "authors": [
+      "Kirk McKenzie",
+      "Robert E. Spero",
+      "Daniel A. Shaddoc"
+    ],
+    "abstract": "Abstract:  For the laser interferometer space antenna (LISA) to reach it's design\nsensitivity, the coupling of the free running laser frequency noise to the\nsignal readout must be reduced by more than 14 orders of magnitude. One\ntechnique employed to reduce the laser frequency noise will be arm locking,\nwhere the laser frequency is locked to the LISA arm length. This paper details\nan implementation of arm locking, studies orbital effects, the impact of errors\nin the Doppler knowledge, and noise limits. The noise performance of arm\nlocking is calculated with the inclusion of the dominant expected noise\nsources: ultra stable oscillator (clock) noise, spacecraft motion, and shot\nnoise. Studying these issues reveals that although dual arm locking [A. Sutton\n& D. A Shaddock, Phys. Rev. D 78, 082001 (2008).] has advantages over single\n(or common) arm locking in terms of allowing high gain, it has disadvantages in\nboth laser frequency pulling and noise performance. We address this by\nproposing a hybrid sensor, retaining the benefits of common and dual arm\nlocking sensors. We present a detailed design of an arm locking controller and\nperform an analysis of the expected performance when used with and without\nlaser pre-stabilization. We observe that the sensor phase changes beneficially\nnear unity-gain frequencies of the arm-locking controller, allowing a factor of\n10 more gain than previously believed, without degrading stability. We show\nthat the LISA frequency noise goal can be realized with arm locking and\nTime-Delay Interferometry only, without any form of pre-stabilization.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0908.0290"
+  },
+  {
+    "url": "https://arxiv.org/abs/0908.0249",
+    "title": "Title:Empirical evidences in favor of a varying-speed-of-light",
+    "date_publ": "3 Aug 2009 (v1), last revised 6 Dec 2009 (this version, v4)",
+    "authors": [
+      "Yves-Henri Sanejouan"
+    ],
+    "abstract": "Abstract:  The empirical evidences in favor of the hypothesis that the speed of light\ndecreases by a few centimeters per second each year are examined. Lunar laser\nranging data are found to be consistent with this hypothesis, which also\nprovides a straightforward explanation for the so-called Pioneer anomaly, that\nis, a time-dependent blue-shift observed when analyzing radio tracking data\nfrom distant spacecrafts, as well as an alternative explanation for both the\napparent time-dilation of remote events and the apparent acceleration of the\nUniverse. The main argument against this hypothesis, namely, the constancy of\nfine-structure and Rydberg constants, is discussed. Both of them being\ncombinations of several physical constants, their constancy imply that, if the\nspeed of light is indeed time-dependent, then at least two other \"fundamental\nconstants\" have to vary as well. This defines strong constraints which will\nhave to be fulfilled by future varying-speed-of-light theories.",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/0908.0249"
+  },
+  {
+    "url": "https://arxiv.org/abs/0907.5001",
+    "title": "Title:Space-Time Distribution of G-Band and Ca II H-Line Intensity Oscillations in Hinode/SOT-FG Observations",
+    "date_publ": "28 Jul 2009 (v1), last revised 29 Oct 2009 (this version, v2)",
+    "authors": [
+      "J. K. Lawrence",
+      "A. C. Cadavid (Department of Physics and Astronomy California State University",
+      "Northridge"
+    ],
+    "abstract": "Abstract:  We study the space-time distributions of intensity fluctuations in 2 - 3 hour\nsequences of multi-spectral, high-resolution, high-cadence broad-band\nfiltergram images (BFI) made by the SOT-FG system aboard the Hinode spacecraft.\nIn the frequency range 5.5 < f < 8.0 mHz both G-band and Ca II H-line\noscillations are suppressed in the presence of magnetic fields, but the\nsuppression disappears for f > 10 mHz. By looking at G-band frequencies above\n10 mHz we find that the oscillatory power, both at these frequencies and at\nlower frequencies too, lies in a mesh pattern with cell scale 2 - 3 Mm, clearly\nlarger than normal granulation, and with correlation times on the order of\nhours. The mesh pattern lies in the dark lanes between stable cells found in\ntime-integrated G-band intensity images. It also underlies part of the bright\npattern in time-integrated H-line emission. This discovery may reflect\ndynamical constraints on the sizes of rising granular convection cells together\nwith the turbulence created in strong intercellular downflows.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0907.5001"
+  },
+  {
+    "url": "https://arxiv.org/abs/0907.4514",
+    "title": "Title:The perihelion precession of Saturn, planet X/Nemesis and MOND",
+    "date_publ": "27 Jul 2009 (v1), last revised 12 Jan 2011 (this version, v6)",
+    "authors": [
+      "Lorenzo Iori"
+    ],
+    "abstract": "Abstract:  We show that the retrograde perihelion precession of Saturn \\Delta\\dot\\varpi,\nrecently estimated by different teams of astronomers by processing ranging data\nfrom the Cassini spacecraft and amounting to some milliarcseconds per century,\ncan be explained in terms of a localized, distant body X, not yet directly\ndiscovered. From the determination of its tidal parameter K = GM_X/r_X^3 as a\nfunction of its ecliptic longitude \\lambda_X and latitude \\beta_X, we calculate\nthe distance at which X may exist for different values of its mass, ranging\nfrom the size of Mars to that of the Sun. The minimum distance would occur for\nX located perpendicularly to the ecliptic, while the maximum distance is for X\nlying in the ecliptic. We find for rock-ice planets of the size of Mars and the\nEarth that they would be at about 80-150 au, respectively, while a\nJupiter-sized gaseous giant would be at approximately 1 kau. A typical brown\ndwarf would be located at about 4 kau, while an object with the mass of the Sun\nwould be at approximately 10 kau, so that it could not be Nemesis for which a\nsolar mass and a heliocentric distance of about 88 kau are predicted. If X was\ndirected towards a specific direction, i.e. that of the Galactic Center, it\nwould mimick the action of a recently proposed form of the External Field\nEffect (EFE) in the framework of the MOdified Newtonian Dynamics (MOND).",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/0907.4514"
+  },
+  {
+    "url": "https://arxiv.org/abs/0907.4184",
+    "title": "Title:The Puzzle of the Flyby Anomaly",
+    "date_publ": "23 Jul 2009",
+    "authors": [
+      "Slava G. Turyshev",
+      "Viktor T. Tot"
+    ],
+    "abstract": "Abstract:  Close planetary flybys are frequently employed as a technique to place\nspacecraft on extreme solar system trajectories that would otherwise require\nmuch larger booster vehicles or may not even be feasible when relying solely on\nchemical propulsion. The theoretical description of the flybys, referred to as\ngravity assists, is well established. However, there seems to be a lack of\nunderstanding of the physical processes occurring during these dynamical\nevents. Radio-metric tracking data received from a number of spacecraft that\nexperienced an Earth gravity assist indicate the presence of an unexpected\nenergy change that happened during the flyby and cannot be explained by the\nstandard methods of modern astrodynamics. This puzzling behavior of several\nspacecraft has become known as the flyby anomaly. We present the summary of the\nrecent anomalous observations and discuss possible ways to resolve this puzzle.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0907.4184"
+  },
+  {
+    "url": "https://arxiv.org/abs/0907.3744",
+    "title": "Title:Gravity in Brans-Dicke theory with Born-Infeld scalar field and the Pioneer anomaly",
+    "date_publ": "21 Jul 2009 (v1), last revised 13 Dec 2009 (this version, v2)",
+    "authors": [
+      "Mikhail N. Smolyako"
+    ],
+    "abstract": "Abstract:  In this paper we discuss a model which can be considered as a generalization\nof the well-known scalar-tensor Brans-Dicke theory. This model possesses an\ninteresting feature: due to Born-Infeld type non-linearity of the scalar field\nthe properties of the interaction between two test bodies depend significantly\non their masses. It is shown that the model can be interesting in view of the\nPioneer 10, 11 spacecraft anomaly.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0907.3744"
+  },
+  {
+    "url": "https://arxiv.org/abs/0907.2709",
+    "title": "Title:The Interplanetary Network Supplement to the HETE-2 Gamma-Ray Burst Catalog",
+    "date_publ": "15 Jul 2009 (v1), last revised 22 Sep 2010 (this version, v2)",
+    "authors": [
+      "K. Hurley",
+      "J.-L. Atteia",
+      "C. Barraud",
+      "A. Pelangeon",
+      "M. Boer",
+      "R. Vanderspek",
+      "G. Ricker",
+      "E. Mazets",
+      "S. Golenetskii",
+      "D. D. Frederiks",
+      "V. D. Pal'shin",
+      "R. L. Aptekar",
+      "D.M. Smith",
+      "C. Wigger",
+      "W. Hajdas",
+      "A. Rau",
+      "A. von Kienlin",
+      "I. G. Mitrofanov",
+      "D. V. Golovin",
+      "A. S. Kozyrev",
+      "M. L. Litvak",
+      "A. B. Sanin",
+      "W. Boynton",
+      "C. Fellows",
+      "K. Harshman S. Barthelmy",
+      "T. Cline",
+      "J. Cummings",
+      "N. Gehrels",
+      "H. Krimm",
+      "K. Yamaoka",
+      "M. Ohno",
+      "Y. Fukazawa",
+      "Y. Hanabata",
+      "T. Takahashi",
+      "M. Tashiro",
+      "Y. Terada",
+      "T. Murakami",
+      "K. Makishima",
+      "C. Guidorzi",
+      "F. Frontera",
+      "C. E. Montanari",
+      "F. Rossi",
+      "J. Trombka",
+      "T. McClanahan",
+      "R. Starr J. Goldsten",
+      "R. Gol"
+    ],
+    "abstract": "Abstract:  Between 2000 November and 2006 May, one or more spacecraft of the\ninterplanetary network (IPN) detected 226 cosmic gamma-ray bursts that were\nalso detected by the FREGATE experiment aboard the HETE-II spacecraft. During\nthis period, the IPN consisted of up to nine spacecraft, and using\ntriangulation, the localizations of 157 bursts were obtained. We present the\nIPN localization data on these events.",
+    "categories": [
+      "High Energy Astrophysical Phenomena (astro-ph.HE)"
+    ],
+    "url_pdf": "/pdf/0907.2709"
+  },
+  {
+    "url": "https://arxiv.org/abs/0907.2469",
+    "title": "Title:Astrometric Solar-System Anomalies",
+    "date_publ": "14 Jul 2009 (v1), last revised 6 Aug 2009 (this version, v2)",
+    "authors": [
+      "John D. Anderson",
+      "Michael Martin Niet"
+    ],
+    "abstract": "Abstract:  There are at least four unexplained anomalies connected with astrometric\ndata. Perhaps the most disturbing is the fact that when a spacecraft on a flyby\ntrajectory approaches the Earth within 2000 km or less, it often experiences a\nchange in total orbital energy per unit mass. Next, a secular change in the\nastronomical unit AU is definitely a concern. It is increasing by about 15 cm\nyr$^{-1}$. The other two anomalies are perhaps less disturbing because of known\nsources of nongravitational acceleration. The first is an apparent slowing of\nthe two Pioneer spacecraft as they exit the solar system in opposite\ndirections. Some astronomers and physicists are convinced this effect is of\nconcern, but many others are convinced it is produced by a nearly identical\nthermal emission from both spacecraft, in a direction away from the Sun,\nthereby producing acceleration toward the Sun. The fourth anomaly is a measured\nincrease in the eccentricity of the Moon's orbit. Here again, an increase is\nexpected from tidal friction in both the Earth and Moon. However, there is a\nreported unexplained increase that is significant at the three-sigma level. It\nis prudent to suspect that all four anomalies have mundane explanations, or\nthat one or more anomalies are a result of systematic error. Yet they might\neventually be explained by new physics. For example, a slightly modified theory\nof gravitation is not ruled out, perhaps analogous to Einstein's 1916\nexplanation for the excess precession of Mercury's perihelion.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0907.2469"
+  },
+  {
+    "url": "https://arxiv.org/abs/0907.0101",
+    "title": "Title:Pulsar Simulations for the Fermi Large Area Telescope",
+    "date_publ": "1 Jul 2009",
+    "authors": [
+      "M. Razzano",
+      "A.K. Harding",
+      "L. Baldini",
+      "R. Bellazzini",
+      "J. Bregeon",
+      "T. Burnett",
+      "J. Chiang",
+      "S.W. Digel",
+      "R. Dubois",
+      "M.W. Kuss",
+      "L. Latronico",
+      "J.E. McEnery",
+      "N. Omodei",
+      "M. Pesce-Rollins",
+      "C. Sgro'",
+      "G. Spandre",
+      "D.J. Thompso"
+    ],
+    "abstract": "Abstract:  Pulsars are among the prime targets for the Large Area Telescope (LAT) aboard\nthe recently launched Fermi observatory. The LAT will study the gamma-ray\nUniverse between 20 MeV and 300 GeV with unprecedented detail. Increasing\nnumbers of gamma-ray pulsars are being firmly identified, yet their emission\nmechanisms are far from being understood. To better investigate and exploit the\nLAT capabilities for pulsar science, a set of new detailed pulsar simulation\ntools have been developed within the LAT collaboration. The structure of the\npulsar simulator package PulsarSpectrum is presented here. Starting from photon\ndistributions in energy and phase obtained from theoretical calculations or\nphenomenological considerations, gamma rays are generated and their arrival\ntimes at the spacecraft are determined by taking into account effects such as\nbarycentric effects and timing noise. Pulsars in binary systems also can be\nsimulated given orbital parameters. We present how simulations can be used for\ngenerating a realistic set of gamma rays as observed by the LAT, focusing on\nsome case studies that show the performance of the LAT for pulsar observations.",
+    "categories": [
+      "High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/0907.0101"
+  },
+  {
+    "url": "https://arxiv.org/abs/0906.5476",
+    "title": "Title:Cassini/VIMS hyperspectral observations of the HUYGENS landing site on Titan",
+    "date_publ": "30 Jun 2009 (v1), last revised 1 Jul 2009 (this version, v2)",
+    "authors": [
+      "S. Rodriguez (AIM)",
+      "S. Le Mou\u00e9lic (LPGN)",
+      "C. Sotin (LPGN)",
+      "H. Cl\u00e9net (DTP)",
+      "R. N. Clark",
+      "B. Buratti (JPL)",
+      "R. H. Brown (LPL)",
+      "T. B. Mccord",
+      "P. D. Nicholson",
+      "K. H. Baines (JPL"
+    ],
+    "abstract": "Abstract:  Titan is one of the primary scientific objectives of the NASA ESA ASI Cassini\nHuygens mission. Scattering by haze particles in Titan's atmosphere and\nnumerous methane absorptions dramatically veil Titan's surface in the visible\nrange, though it can be studied more easily in some narrow infrared windows.\nThe Visual and Infrared Mapping Spectrometer (VIMS) instrument onboard the\nCassini spacecraft successfully imaged its surface in the atmospheric windows,\ntaking hyperspectral images in the range 0.4 5.2 ?m. On 26 October (TA flyby)\nand 13 December 2004 (TB flyby), the Cassini Huygens mission flew over Titan at\nan altitude lower than 1200 km at closest approach. We report here on the\nanalysis of VIMS images of the Huygens landing site acquired at TA and TB, with\na spatial resolution ranging from 16 to14.4 km/pixel. The pure atmospheric\nbackscattering component is corrected by using both an empirical method and a\nfirst-order theoretical model. Both approaches provide consistent results.\nAfter the removal of scattering, ratio images reveal subtle surface\nheterogeneities. A particularly contrasted structure appears in ratio images\ninvolving the 1.59 and 2.03 ?m images north of the Huygens landing site.\nAlthough pure water ice cannot be the only component exposed at Titan's\nsurface, this area is consistent with a local enrichment in exposed water ice\nand seems to be consistent with DISR/Huygens images and spectra\ninterpretations. The images show also a morphological structure that can be\ninterpreted as a 150 km diameter impact crater with a central peak.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/0906.5476"
+  },
+  {
+    "url": "https://arxiv.org/abs/0906.5404",
+    "title": "Title:Combining NASA/JPL One-Way Optical-Fiber Light-Speed Data with Spacecraft Earth-Flyby Doppler-Shift Data to Characterise 3-Space Flow",
+    "date_publ": "30 Jun 2009 (v1), last revised 22 Jul 2009 (this version, v2)",
+    "authors": [
+      "Reginald T Cahill (Flinders University"
+    ],
+    "abstract": "Abstract:  We combine data from two high precision NASA/JPL experiments: (i) the one-way\nspeed of light experiment using optical fibers: Krisher T.P., Maleki L., Lutes\nG.F., Primas L.E., Logan R.T., Anderson J.D. and Will C.M., Phys. Rev. D, vol\n42, 731-734, 1990, and (ii) the spacecraft earth-flyby doppler shift data:\nAnderson J.D., Campbell J.K., Ekelund J.E., Ellis J. and Jordan J.F., Phys.\nRev. Lett., vol 100, 091102, 2008, to give the solar-system galactic 3-space\naverage speed of 486km/s in the direction RA=4.29hrs, Dec=-75.0deg. Turbulence\neffects (gravitational waves) are also evident. Data also reveals the 30km/s\norbital speed of the earth and the sun inflow component at 1AU of 42km/s and\nalso 615km/s near the sun, and for the first time, experimental measurement of\nthe 3-space 11.2km/s inflow of the earth. The NASA/JPL data is in remarkable\nagreement with that determined in other light speed anisotropy experiments,\nsuch as Michelson-Morley (1887), Miller (1933), Torr and Kolen (1981), DeWitte\n(1991), Cahill (2006), Munera (2007), Cahill and Stokes (2008) and Cahill\n(2009).",
+    "categories": [
+      "General Physics (physics.gen-ph)"
+    ],
+    "url_pdf": "/pdf/0906.5404"
+  },
+  {
+    "url": "https://arxiv.org/abs/0906.4817",
+    "title": "Title:MOND effects in the inner solar system",
+    "date_publ": "25 Jun 2009 (v1), last revised 24 Aug 2009 (this version, v2)",
+    "authors": [
+      "Mordehai Milgrom (Weizmann Institute"
+    ],
+    "abstract": "Abstract:  I pinpoint a previously unrecognized MOND effect that may act in the inner\nsolar system, and is due to the galactic acceleration, g_g=eta*a0: a byproduct\nof the MOND external-field effect. Predictions of the effect are not generic to\nthe MOND paradigm, but depend on the particular MOND formulation at hand.\nHowever, the modified-Poisson formulation, on which I concentrate, uniquely\npredicts a subtle anomaly that may be detected in planetary and spacecraft\nmotions (and perhaps in other precision systems, such as binary pulsars),\ndespite their very high accelerations, and even if the MOND interpolating\nfunction is arbitrarily close to unity at high accelerations. Near the sun,\nthis anomaly appears as a quadrupole field, with the acceleration at position u\nfrom the sun being g_i(u)=-q_{ij}u^j, with q_{ij} diagonal, axisymmetric, and\ntraceless: -2q_{xx}=-2q_{yy}=q_{zz}=q(eta)*(a0/R_M), where\nR_M=(MG/a0)^{1/2}=8*10^3 au is the MOND radius of the sun. The anomaly is\ndescribed and analyzed as the Newtonian field of the fictitious cloud of\n``phantom matter'' that hovers around the sun. I find, for the relevant range\nof eta values, and for a range of interpolating functions, mu(x), values of\n10^{-2}<-q< 0.3, which turn out to be sensitive to the form of mu(x) around the\nMOND-to-Newtonian transition. This range verges on the present bounds from\nsolar system measurements. There might thus exist favorable prospects for\neither measuring the effect, or constraining the theory and the relevant\nparameters.",
+    "categories": [
+      "Cosmology and Nongalactic Astrophysics (astro-ph.CO)",
+      " General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/0906.4817"
+  },
+  {
+    "url": "https://arxiv.org/abs/0906.4601",
+    "title": "Title:Casimir energy and the possibility of higher dimensional manipulation",
+    "date_publ": "25 Jun 2009",
+    "authors": [
+      "R.K. Obousy",
+      "A.A. Saharia"
+    ],
+    "abstract": "Abstract:  It is well known that the Casimir effect is an excellent candidate for the\nstabilization of the extra dimensions. It has also been suggested that the\nCasimir effect in higher dimensions may be the underlying phenomenon that is\nresponsible for the dark energy which is currently driving the accelerated\nexpansion of the universe. In this paper we suggest that, in principle, it may\nbe possible to directly manipulate the size of an extra dimension locally using\nStandard Model fields in the next generation of particle accelerators. This\nadjustment of the size of the higher dimension could serve as a technological\nmechanism to locally adjust the dark energy density and change the local\nexpansion of spacetime. This idea holds tantalizing possibilities in the\ncontext of exotic spacecraft propulsion.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " High Energy Physics - Theory (hep-th)"
+    ],
+    "url_pdf": "/pdf/0906.4601"
+  },
+  {
+    "url": "https://arxiv.org/abs/0906.4407",
+    "title": "Title:Characteristics of EUV coronal jets observed with STEREO/SECCHI",
+    "date_publ": "24 Jun 2009",
+    "authors": [
+      "G.Nistico",
+      "V. Bothmer",
+      "S. Patsourakos",
+      "G. Zimbard"
+    ],
+    "abstract": "Abstract:  In this paper we present the first comprehensive statistical study of EUV\ncoronal jets observed with the SECCHI imaging suites of the two STEREO\nspacecraft. A catalogue of 79 polar jets is presented, identified from\nsimultaneous EUV and white-light coronagraph observations, taken during the\ntime period March 2007 to April 2008. The appearances of the coronal jets were\nalways correlated with underlying small-scale chromospheric bright points. A\nbasic characterisation of the morphology and identification of the presence of\nhelical structure were established with respect to recently proposed models for\ntheir origin and temporal evolution. A classification of the events with\nrespect to previous jet studies shows that amongst the 79 events there were 37\nEiffel tower-type jet events commonly interpreted as a small-scale (about 35\narcsec) magnetic bipole reconnecting with the ambient unipolar open coronal\nmagnetic fields at its looptops, and 12 lambda-type jet events commonly\ninterpreted as reconnection with the ambient field happening at the bipoles\nfootpoints. Five events were termed micro-CME type jet events because they\nresembled the classical coronal mass ejections (CMEs) but on much smaller\nscales. A few jets are also found in equatorial coronal holes. The typical\nlifetimes in the SECCHI/EUVI (Extreme UltraViolet Imager) field of view between\n1.0 to 1.7 solar radius and in SECCHI/COR1 field of view between 1.4 to 4 solar\nradius are obtained, and the derived speed are roughly estimated. In summary,\nthe observations support the assumption of continuous small-scale reconnection\nas an intrinsic feature of the solar corona, with its role for the heating of\nthe corona, particle acceleration, structuring and acceleration of the solar\nwind remaining to be explored in more details in further studies.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/0906.4407"
+  },
+  {
+    "url": "https://arxiv.org/abs/0906.3884",
+    "title": "Title:Spacecraft Charging and Hazards to Electronics in Space",
+    "date_publ": "21 Jun 2009",
+    "authors": [
+      "Tsoline Mikaelia"
+    ],
+    "abstract": "Abstract:  The interaction of a space system with its orbital environment is a major\nconsideration in the design of any space system, since a variety of hazards are\nassociated with the operation of spacecraft in the harsh space environment. In\nthis brief review, two types of hazards to Earth-orbiting spacecraft are\ndiscussed: spacecraft charging and radiation hazards to spacecraft electronics,\nwith emphasis on the natural environmental factors and interactions which\ncontribute to these hazards. Following a summary of the historical eras of\nspacecraft charging and some observations from experimental satellites: SCATHA,\nCRRES and DMSP, environmental factors significant to spacecraft charging are\ndiscussed, including plasma interactions, electric and magnetic fields and\nsolar radiation. Spacecraft charging depends on the spacecraft geometry, as\nwell as on the characteristics of its orbit, since the natural environment may\ndiffer for each type of orbit. Low altitude orbiting satellites (LEO) usually\nexperience less charging effects than high altitude geosynchronous (GEO)\nsatellites, except for low altitude polar orbiting satellites which cross the\nauroral oval. Basic mechanisms of surface charging, differential charging and\ninternal charging are described. Environmental factors including trapped and\ntransient radiation, solar and galactic cosmic rays, which can profoundly\ndamage spacecraft electronics are presented. Some effects such as ionization\nand atomic displacement damages to semiconductors and single event phenomena\nare also briefly mentioned.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/0906.3884"
+  }
+]

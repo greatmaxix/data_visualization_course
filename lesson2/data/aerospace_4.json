@@ -1,0 +1,872 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2006.00337",
+    "title": "Title:Statistical Mechanical Analysis of the Electromechanical Coupling in an Electrically-Responsive Polymer Chain",
+    "date_publ": "30 May 2020",
+    "authors": [
+      "Matthew Grasinger",
+      "Kaushik Daya"
+    ],
+    "abstract": "Abstract:  Polymeric materials that couple deformation and electrostatics have the\npotential for use in soft sensors and actuators with potential applications\nranging from robotic, biomedical, energy, aerospace and automotive\ntechnologies. In contrast to the mechanics of polymers that has been studied\nusing statistical mechanics approaches for decades, the coupled response under\ndeformation and electrical field has largely been modeled only\nphenomenologically at the continuum scale. In this work, we examine the physics\nof the coupled deformation and electrical response of an\nelectrically-responsive polymer chain using statistical mechanics. We begin\nwith a simple anisotropic model for the electrostatic dipole response to\nelectric field of a single monomer, and use a separation of energy scales\nbetween the electrostatic field energy and the induced dipole field energy to\nreduce the nonlocal and infinite-dimensional statistical averaging to a simpler\nlocal finite-dimensional averaging. In this simplified setting, we derive the\nequations of the most likely monomer orientation density using the maximum term\napproximation, and a chain free energy is derived using this approximation.\nThese equations are investigated numerically and the results provide insight\ninto the physics of electro-mechanically coupled elastomer chains. Closed-form\napproximations are also developed in the limit of small electrical energy with\nrespect to thermal energy; in the limit of small mechanical tension force\nacting on the chain; and using asymptotic matching for general chain\nconditions.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)",
+      " Statistical Mechanics (cond-mat.stat-mech)"
+    ],
+    "url_pdf": "/pdf/2006.00337"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.00057",
+    "title": "Title:Simulation Framework for Mobile Robots in Planetary-Like Environments",
+    "date_publ": "29 May 2020 (v1), last revised 17 Jun 2020 (this version, v2)",
+    "authors": [
+      "Riccardo Giubilato",
+      "Andrea Masili",
+      "Sebastiano Chiodini",
+      "Marco Pertile",
+      "Stefano Debe"
+    ],
+    "abstract": "Abstract:  In this paper we present a simulation framework for the evaluation of the\nnavigation and localization metrological performances of a robotic platform.\nThe simulator, based on ROS (Robot Operating System) Gazebo, is targeted to a\nplanetary-like research vehicle which allows to test various perception and\nnavigation approaches for specific environment conditions. The possibility of\nsimulating arbitrary sensor setups comprising cameras, LiDARs (Light Detection\nand Ranging) and IMUs makes Gazebo an excellent resource for rapid prototyping.\nIn this work we evaluate a variety of open-source visual and LiDAR SLAM\n(Simultaneous Localization and Mapping) algorithms in a simulated Martian\nenvironment. Datasets are captured by driving the rover and recording sensors\noutputs as well as the ground truth for a precise performance evaluation.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2006.00057"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.13600",
+    "title": "Title:Eye Gaze Controlled Interfaces for Head Mounted and Multi-Functional Displays in Military Aviation Environment",
+    "date_publ": "27 May 2020",
+    "authors": [
+      "LRD Murthy",
+      "Abhishek Mukhopadhyay",
+      "Varshit Yellheti",
+      "Somnath Arjun",
+      "Peter Thomas",
+      "M Dilli Babu",
+      "Kamal Preet Singh Saluja",
+      "JeevithaShree DV",
+      "Pradipta Biswa"
+    ],
+    "abstract": "Abstract:  Eye gaze controlled interfaces allow us to directly manipulate a graphical\nuser interface just by looking at it. This technology has great potential in\nmilitary aviation, in particular, operating different displays in situations\nwhere pilots hands are occupied with flying the aircraft. This paper reports\nstudies on analyzing accuracy of eye gaze controlled interface inside aircraft\nundertaking representative flying missions. We reported that pilots can\nundertake representative pointing and selection tasks at less than 2 secs on\naverage. Further, we evaluated the accuracy of eye gaze tracking glass under\nvarious G-conditions and analyzed its failure modes. We observed that the\naccuracy of an eye tracker is less than 5 degree of visual angle up to +3G,\nalthough it is less accurate at minus 1G and plus 5G. We observed that eye\ntracker may fail to track under higher external illumination. We also infer\nthat an eye tracker to be used in military aviation need to have larger\nvertical field of view than the present available systems. We used this\nanalysis to develop eye gaze trackers for Multi-Functional displays and Head\nMounted Display System. We obtained significant reduction in pointing and\nselection times using our proposed HMDS system compared to traditional TDS.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)",
+      " Image and Video Processing (eess.IV)"
+    ],
+    "url_pdf": "/pdf/2005.13600"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.12588",
+    "title": "Title:Verification and Validation of Convex Optimization Algorithms for Model Predictive Control",
+    "date_publ": "26 May 2020",
+    "authors": [
+      "Rapha\u00ebl Cohen",
+      "Eric F\u00e9ron",
+      "Pierre-Lo\u00efc Garoche (ENAC"
+    ],
+    "abstract": "Abstract:  Advanced embedded algorithms are growing in complexity and they are an\nessential contributor to the growth of autonomy in many areas. However, the\npromise held by these algorithms cannot be kept without proper attention to the\nconsiderably stronger design constraints that arise when the applications of\ninterest, such as aerospace systems, are safety-critical. Formal verification\nis the process of proving or disproving the ''correctness'' of an algorithm\nwith respect to a certain mathematical description of it by means of a\ncomputer. This article discusses the formal verification of the Ellipsoid\nmethod, a convex optimization algorithm, and its code implementation as it\napplies to receding horizon control. Options for encoding code properties and\ntheir proofs are detailed. The applicability and limitations of those code\nproperties and proofs are presented as well. Finally, floating-point errors are\ntaken into account in a numerical analysis of the Ellipsoid algorithm.\nModifications to the algorithm are presented which can be used to control its\nnumerical stability.",
+    "categories": [
+      "Computation and Language (cs.CL)",
+      " Formal Languages and Automata Theory (cs.FL)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2005.12588"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.09541",
+    "title": "Title:Cooperative Navigation Using Pairwise Communication with Ranging and Magnetic Anomaly Measurements",
+    "date_publ": "19 May 2020 (v1), last revised 9 Jun 2020 (this version, v2)",
+    "authors": [
+      "Chizhao Yang",
+      "Jared Strader",
+      "Yu Gu",
+      "Aaron Canciani",
+      "Kevin Brin"
+    ],
+    "abstract": "Abstract:  The problem of cooperative localization for a small group of Unmanned Aerial\nVehicles (UAVs) in a GNSS denied environment is addressed in this paper. The\npresented approach contains two sequential steps: first, an algorithm called\ncooperative ranging localization, formulated as an Extended Kalman Filter\n(EKF), estimates each UAV's relative pose inside the group using inter-vehicle\nranging measurements; second, an algorithm named cooperative magnetic\nlocalization, formulated as a particle filter, estimates each UAV's global pose\nthrough matching the group's magnetic anomaly measurements to a given magnetic\nanomaly map. In this study, each UAV is assumed to only perform a ranging\nmeasurement and data exchange with one other UAV at any point in time. A\nsimulator is developed to evaluate the algorithms with magnetic anomaly maps\nacquired from airborne geophysical survey. The simulation results show that the\naverage estimated position error of a group of 16 UAVs is approximately 20\nmeters after flying about 180 kilometers in 1 hour. Sensitivity analysis shows\nthat the algorithms can tolerate large variations of velocity, yaw rate, and\nmagnetic anomaly measurement noises. Additionally, the UAV group shows improved\nposition estimation robustness with both high and low resolution maps as more\nUAVs are added into the group.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2005.09541"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.08256",
+    "title": "Title:Latency Analysis of Multiple Classes of AVB Traffic in TSN with Standard Credit Behavior using Network Calculus",
+    "date_publ": "17 May 2020 (v1), last revised 26 May 2020 (this version, v2)",
+    "authors": [
+      "Luxi Zhao",
+      "Paul Pop",
+      "Zhong Zheng",
+      "Hugo Daigmorte",
+      "Marc Boye"
+    ],
+    "abstract": "Abstract:  Time-Sensitive Networking (TSN) is a set of amendments that extend Ethernet\nto support distributed safety-critical and real-time applications in the\nindustrial automation, aerospace and automotive areas. TSN integrates multiple\ntraffic types and supports interactions in several combinations. In this paper\nwe consider the configuration supporting Scheduled Traffic (ST) traffic\nscheduled based on Gate-Control-Lists (GCLs), Audio-Video-Bridging (AVB)\ntraffic according to IEEE 802.1BA that has bounded latencies, and Best-Effort\n(BE) traffic, for which no guarantees are provided. The paper extends the\ntiming analysis method to multiple AVB classes and proofs the credit bounds for\nmultiple classes of AVB traffic, respectively under frozen and non-frozen\nbehaviors of credit during guard band (GB). They are prerequisites for\nnon-overflow credits of Credit-Based Shaper (CBS) and preventing starvation of\nAVB traffic. Moreover, this paper proposes an improved timing analysis method\nreducing the pessimism for the worst-case end-to-end delays of AVB traffic by\nconsidering the limitations from the physical link rate and the output of CBS.\nFinally, we evaluate the improved analysis method on both synthetic and\nreal-world test cases, showing the significant reduction of pessimism on\nlatency bounds compared to related work, and presenting the correctness\nvalidation compared with simulation results. We also compare the AVB latency\nbounds in the case of frozen and non-frozen credit during GB. Additionally, we\nevaluate the scalability of our method with variation of the load of ST flows\nand of the bandwidth reservation for AVB traffic.",
+    "categories": [
+      "Performance (cs.PF)"
+    ],
+    "url_pdf": "/pdf/2005.08256"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.08120",
+    "title": "Title:A Methodology to Assess the Human Factors Associated with Lunar Teleoperated Assembly Tasks",
+    "date_publ": "16 May 2020",
+    "authors": [
+      "Arun Kumar",
+      "Mason Bell",
+      "Benjamin Mellinkoff",
+      "Alex Sandoval",
+      "Wendy Bailey Martin",
+      "Jack Burn"
+    ],
+    "abstract": "Abstract:  Low-latency telerobotics can enable more intricate surface tasks on\nextraterrestrial planetary bodies than has ever been attempted. For humanity to\ncreate a sustainable lunar presence, well-developed collaboration between\nhumans and robots is necessary to perform complex tasks. This paper presents a\nmethodology to assess the human factors, situational awareness (SA) and\ncognitive load (CL), associated with teleoperated assembly tasks. Currently,\ntelerobotic assembly on an extraterrestrial body has never been attempted, and\na valid methodology to assess the associated human factors has not been\ndeveloped. The Telerobotics Laboratory at the University of Colorado-Boulder\ncreated the Telerobotic Simulation System (TSS) which enables remote operation\nof a rover and a robotic arm. The TSS was used in a laboratory experiment\ndesigned as an analog to a lunar mission. The operator's task was to assemble a\nradio interferometer. Each participant completed this task under two\nconditions, remote teleoperation (limited SA) and local operation (optimal SA).\nThe goal of the experiment was to establish a methodology to accurately measure\nthe operator's SA and CL while performing teleoperated assembly tasks. A\nsuccessful methodology would yield results showing greater SA and lower CL\nwhile operating locally. Performance metrics showed greater SA and lower CL in\nthe local environment, supported by a 27% increase in the mean time to\ncompletion of the assembly task when operating remotely. Subjective\nmeasurements of SA and CL did not align with the performance metrics. Results\nfrom this experiment will guide future work attempting to accurately quantify\nthe human factors associated with telerobotic assembly. Once an accurate\nmethodology has been developed, we will be able to measure how new variables\naffect an operator's SA and CL to optimize the efficiency and effectiveness of\ntelerobotic assembly tasks.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2005.08120"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.07892",
+    "title": "Title:Prediction of shock wave configurations in compression ramp flows",
+    "date_publ": "16 May 2020",
+    "authors": [
+      "Yan-Chao Hu",
+      "Wen-Feng Zhou",
+      "Yan-Guang Yang",
+      "Zhi-Gong Tang",
+      "Zhao-Hu Qi"
+    ],
+    "abstract": "Abstract:  Here, we provide a theoretical framework revealing that a steady compression\nramp flow must have the minimal dissipation of kinetic energy, and can be\ndemonstrated using the least action principle. For a given inflow Mach number\n$M_{0}$ and ramp angle $\\alpha$, the separation angle $\\theta_{s}$ manifesting\nflow system states can be determined based on this theory. Thus, both the\nshapes of shock wave configurations and pressure peak $p_{peak}$ behind\nreattachment shock waves are predictable. These theoretical predictions agree\nexcellently with both experimental data and numerical simulations, covering a\nwide range of $M_{0}$ and $\\alpha$. In addition, for a large separation, the\ntheory indicates that $\\theta_{s}$ only depends on $M_{0}$ and $\\alpha$, but is\nindependent of the Reynolds number $Re$ and wall temperature $T_{w}$. These\nfacts suggest that the proposed theoretical framework can be applied to other\nflow systems dominated by shock waves, which are ubiquitous in aerospace\nengineering.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2005.07892"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.07753",
+    "title": "Title:A Scientific Information Extraction Dataset for Nature Inspired Engineering",
+    "date_publ": "15 May 2020 (v1), last revised 26 May 2020 (this version, v2)",
+    "authors": [
+      "Ruben Kruiper",
+      "Julian F.V. Vincent",
+      "Jessica Chen-Burger",
+      "Marc P.Y. Desmulliez",
+      "Ioannis Konsta"
+    ],
+    "abstract": "Abstract:  Nature has inspired various ground-breaking technological developments in\napplications ranging from robotics to aerospace engineering and the\nmanufacturing of medical devices. However, accessing the information captured\nin scientific biology texts is a time-consuming and hard task that requires\ndomain-specific knowledge. Improving access for outsiders can help\ninterdisciplinary research like Nature Inspired Engineering. This paper\ndescribes a dataset of 1,500 manually-annotated sentences that express\ndomain-independent relations between central concepts in a scientific biology\ntext, such as trade-offs and correlations. The arguments of these relations can\nbe Multi Word Expressions and have been annotated with modifying phrases to\nform non-projective graphs. The dataset allows for training and evaluating\nRelation Extraction algorithms that aim for coarse-grained typing of scientific\nbiological documents, enabling a high-level filter for engineers.",
+    "categories": [
+      "Computation and Language (cs.CL)"
+    ],
+    "url_pdf": "/pdf/2005.07753"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.05862",
+    "title": "Title:Machine learning based digital twin for dynamical systems with multiple time-scales",
+    "date_publ": "12 May 2020 (v1), last revised 14 Jun 2020 (this version, v2)",
+    "authors": [
+      "Souvik Chakraborty",
+      "Sondipon Adhikar"
+    ],
+    "abstract": "Abstract:  Digital twin technology has a huge potential for widespread applications in\ndifferent industrial sectors such as infrastructure, aerospace, and automotive.\nHowever, practical adoptions of this technology have been slower, mainly due to\na lack of application-specific details. Here we focus on a digital twin\nframework for linear single-degree-of-freedom structural dynamic systems\nevolving in two different operational time scales in addition to its intrinsic\ndynamic time-scale. Our approach strategically separates into two components --\n(a) a physics-based nominal model for data processing and response predictions,\nand (b) a data-driven machine learning model for the time-evolution of the\nsystem parameters. The physics-based nominal model is system-specific and\nselected based on the problem under consideration. On the other hand, the\ndata-driven machine learning model is generic. For tracking the multi-scale\nevolution of the system parameters, we propose to exploit a mixture of experts\nas the data-driven model. Within the mixture of experts model, Gaussian Process\n(GP) is used as the expert model. The primary idea is to let each expert track\nthe evolution of the system parameters at a single time-scale. For learning the\nhyperparameters of the `mixture of experts using GP', an efficient framework\nthe exploits expectation-maximization and sequential Monte Carlo sampler is\nused. Performance of the digital twin is illustrated on a multi-timescale\ndynamical system with stiffness and/or mass variations. The digital twin is\nfound to be robust and yields reasonably accurate results. One exciting feature\nof the proposed digital twin is its capability to provide reasonable\npredictions at future time-steps. Aspects related to the data quality and data\nquantity are also investigated.",
+    "categories": [
+      "Machine Learning (stat.ML)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2005.05862"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.02493",
+    "title": "Title:A Framework for Designing and Evaluating Solar Flare Forecasting Systems",
+    "date_publ": "5 May 2020",
+    "authors": [
+      "T. Cinto (1 and 2)",
+      "A. L. S. Gradvohl (1)",
+      "G. P. Coelho (1)",
+      "A. E. A. da Silva (1) ((1) School of Technology - FT",
+      "University of Campinas - UNICAMP",
+      "Limeira",
+      "SP",
+      "Brazil",
+      "(2) Federal Institute of Education",
+      "Science and Technology of Rio Grande do Sul - IFRS",
+      "Campus Feliz",
+      "RS",
+      "Brazil"
+    ],
+    "abstract": "Abstract:  Disturbances in space weather can negatively affect several fields, including\naviation and aerospace, satellites, oil and gas industries, and electrical\nsystems, leading to economic and commercial losses. Solar flares are the most\nsignificant events that can affect the Earth's atmosphere, thus leading\nresearchers to drive efforts on their forecasting. The related literature is\ncomprehensive and holds several systems proposed for flare forecasting.\nHowever, most techniques are tailor-made and designed for specific purposes,\nnot allowing researchers to customize them in case of changes in data input or\nin the prediction algorithm. This paper proposes a framework to design, train,\nand evaluate flare prediction systems which present promising results. Our\nproposed framework involves model and feature selection, randomized\nhyper-parameters optimization, data resampling, and evaluation under\noperational settings. Compared to baseline predictions, our framework generated\nsome proof-of-concept models with positive recalls between 0.70 and 0.75 for\nforecasting $\\geq M$ class flares up to 96 hours ahead while keeping the area\nunder the ROC curve score at high levels.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2005.02493"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.02307",
+    "title": "Title:Modeling Self-Healing Behavior of Vitrimers using Molecular Dynamics with Dynamic Cross-Linking Capability",
+    "date_publ": "5 May 2020 (v1), last revised 24 Dec 2020 (this version, v2)",
+    "authors": [
+      "Gurmeet Singh",
+      "Veera Sundararaghava"
+    ],
+    "abstract": "Abstract:  Vitrimers are a special class of polymers that undergo dynamic cross-linking\nunder thermal stimuli. Their ability to exchange covalent bonds can be\nharnessed to mitigate damage in a composite or to achieve recyclable aerospace\ncomposites. This work addresses the primary challenge of modeling dynamic\ncross-linking reactions in vitrimers during thermomechanical loading. Dynamic\nbond exchange reaction probability change during heating and its effect on\ndilatometric and mechanical response are simulated for the first time in large\nscale molecular dynamics simulations. Healing of damage under thermal cycling\nis computed with mechanical properties predicted before and after\nself--healing.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2005.02307"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.00844",
+    "title": "Title:Derivation of a Constant Velocity Motion Model for Visual Tracking",
+    "date_publ": "2 May 2020 (v1), last revised 20 Oct 2020 (this version, v4)",
+    "authors": [
+      "Nathanael L. Bais"
+    ],
+    "abstract": "Abstract:  Motion models play a great role in visual tracking applications for\npredicting the possible locations of objects in the next frame. Unlike target\ntracking in radar or aerospace domain which considers only points, object\ntracking in computer vision involves sizes of objects. Constant velocity motion\nmodel is the most widely used motion model for visual tracking, however, there\nis no clear and understandable derivation involving sizes of objects specially\nfor new researchers joining this research field. In this document, we derive\nthe constant velocity motion model that incorporates sizes of objects that, we\nthink, can help the new researchers to adapt to it very quickly.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/2005.00844"
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.13900",
+    "title": "Title:A GPS spoofing detection and classification correlator-based technique using the LASSO",
+    "date_publ": "29 Apr 2020",
+    "authors": [
+      "Erick Schmidt",
+      "Nikolaos Gatsis",
+      "David Akopia"
+    ],
+    "abstract": "Abstract:  This work proposes a global navigation satellite system (GNSS) spoofing\ndetection and classification technique for single antenna receivers. We\nformulate an optimization problem at the baseband correlator domain by using\nthe Least Absolute Shrinkage and Selection Operator (LASSO). We model\ncorrelator tap outputs of the received signal to form a dictionary of\ntriangle-shaped functions and leverage sparse signal processing to choose a\ndecomposition of shifted matching triangles from said dictionary. The optimal\nsolution of this minimization problem discriminates the presence of a potential\nspoofing attack peak by observing a decomposition of two different code-phase\nvalues (authentic and spoofed) in a sparse vector output. We use a threshold to\nmitigate false alarms. Furthermore, we present a variation of the minimization\nproblem by enhancing the dictionary to a higher-resolution of shifted\ntriangles. The proposed technique can be implemented as an advanced\nfine-acquisition monitoring tool to aid in the tracking loops for spoofing\nmitigation. In our experiments, we are able to distinguish authentic and\nspoofer peaks from synthetic data simulations and from a real dataset, namely,\nthe Texas Spoofing Test Battery (TEXBAT). The proposed method achieves 0.3%\ndetection error rate (DER) for a spoofer attack in nominal signal-to-noise\nratio (SNR) conditions for an authentic-over-spoofer power of 3 dB.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2004.13900"
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.13112",
+    "title": "Title:Enhancements to the DIDO Optimal Control Toolbox",
+    "date_publ": "27 Apr 2020 (v1), last revised 14 Jun 2020 (this version, v2)",
+    "authors": [
+      "I. M. Ros"
+    ],
+    "abstract": "Abstract:  In 2020, DIDO$^\u00a9$ turned 20! The software package emerged in 2001 as\na basic, user-friendly MATLAB$^\\circledR$ teaching-tool to illustrate the\nvarious nuances of Pontryagin's Principle but quickly rose to prominence in\n2007 after NASA announced it had executed a globally optimal maneuver using\nDIDO. Since then, the toolbox has grown in applications well beyond its\naerospace roots: from solving problems in quantum control to ushering rapid,\nnonlinear sensitivity-analysis in designing high-performance automobiles. Most\nrecently, it has been used to solve continuous-time traveling-salesman\nproblems. Over the last two decades, DIDO's algorithms have evolved from their\nsimple use of generic nonlinear programming solvers to a multifaceted\nengagement of fast spectral Hamiltonian programming techniques. A description\nof the internal enhancements to DIDO that define its mathematics and algorithms\nare described in this paper. A challenge example problem from robotics is\nincluded to showcase how the latest version of DIDO is capable of escaping the\ntrappings of a ``local minimum'' that ensnare many other trajectory\noptimization methods.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Mathematical Software (cs.MS)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2004.13112"
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.11122",
+    "title": "Title:Optimizing the reliability of a bank with Logistic Regression and Particle Swarm Optimization",
+    "date_publ": "31 Mar 2020",
+    "authors": [
+      "Vadlamani Ravi",
+      "Vadlamani Madha"
+    ],
+    "abstract": "Abstract:  It is well-known that disciplines such as mechanical engineering, electrical\nengineering, civil engineering, aerospace engineering, chemical engineering and\nsoftware engineering witnessed successful applications of reliability\nengineering concepts. However, the concept of reliability in its strict sense\nis missing in financial services. Therefore, in order to fill this gap, in a\nfirst-of-its-kind-study, we define the reliability of a bank/firm in terms of\nthe financial ratios connoting the financial health of the bank to withstand\nthe likelihood of insolvency or bankruptcy. For the purpose of estimating the\nreliability of a bank, we invoke a statistical and machine learning algorithm\nnamely, logistic regression (LR). Once, the parameters are estimated in the 1st\nstage, we fix them and treat the financial ratios as decision variables. Thus,\nin the 1st stage, we accomplish the hitherto unknown way of estimating the\nreliability of a bank. Subsequently, in the 2nd stage, in order to maximize the\nreliability of the bank, we formulate an unconstrained optimization problem in\na single-objective environment and solve it using the well-known particle swarm\noptimization (PSO) algorithm. Thus, in essence, these two stages correspond to\npredictive and prescriptive analytics respectively. The proposed 2-stage\nstrategy of using them in tandem is beneficial to the decision-makers within a\nbank who can try to achieve the optimal or near-optimal values of the financial\nratios in order to maximize the reliability which is tantamount to safeguarding\ntheir bank against solvency or bankruptcy.",
+    "categories": [
+      "General Finance (q-fin.GN)"
+    ],
+    "url_pdf": "/pdf/2004.11122"
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.09791",
+    "title": "Title:A Neural Process Approach for Probabilistic Reconstruction of No-Data Gaps in Lunar Digital Elevation Maps",
+    "date_publ": "21 Apr 2020",
+    "authors": [
+      "Young-Jin Park",
+      "Han-Lim Cho"
+    ],
+    "abstract": "Abstract:  With the advent of NASA's lunar reconnaissance orbiter (LRO), a large amount\nof high-resolution digital elevation maps (DEMs) have been constructed by using\nnarrow-angle cameras (NACs) to characterize the Moon's surface. However, NAC\nDEMs commonly contain no-data gaps (voids), which makes the map less reliable.\nTo resolve the issue, this paper provides a deep-learning-based framework for\nthe probabilistic reconstruction of no-data gaps in NAC DEMs. The framework is\nbuilt upon a state of the art stochastic process model, attentive neural\nprocesses (ANP), and predicts the conditional distribution of elevation on the\ntarget coordinates (latitude and longitude) conditioned on the observed\nelevation data in nearby regions. Furthermore, this paper proposes sparse\nattentive neural processes (SANPs) that not only reduces the linear\ncomputational complexity of the ANP O(N) to the constant complexity O(K) but\nenhance the reconstruction performance by preventing overfitting and\nover-smoothing problems. The proposed method is evaluated on the Apollo 17\nlanding site (20.0\u00b0N and 30.4\u00b0E), demonstrating that the suggested\napproach successfully reconstructs no-data gaps with uncertainty analysis while\npreserving the high resolution of original NAC DEMs.",
+    "categories": [
+      "Applications (stat.AP)",
+      " Image and Video Processing (eess.IV)"
+    ],
+    "url_pdf": "/pdf/2004.09791"
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.02516",
+    "title": "Title:Security Analysis and Design for TAGA: a Touch and Go Assistant in the Aerospace Domain",
+    "date_publ": "6 Apr 2020",
+    "authors": [
+      "Sibylle Fr\u00f6schle",
+      "Martin Kubisch",
+      "Marlon Gr\u00e4fin"
+    ],
+    "abstract": "Abstract:  There is currently a drive in the aerospace domain to introduce machine to\nmachine communication over wireless networks to improve ground processes at\nairports such as refuelling and air conditiong. To this end a session key has\nto be established between the aircraft and the respective ground unit such as a\nfuel truck or a pre-conditiong unit. This is to be provided by a `touch and go\nassistant in the aerospace domain' (TAGA), which allows an operator to pair up\na ground unit and an aircraft present at a parking slot with the help of a NFC\nsystem. In this paper, we present the results of our security analysis and\nco-development of requirements, security concepts, and modular verification\nthereof. We show that by, and only by, a combination of advanced security\nprotocols and local process measures we obtain secure and resilient designs for\nTAGA. In particular, the design of choice is fully resilient against long-term\nkey compromises and parallel escalation of attacks.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/2004.02516"
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.00749",
+    "title": "Title:Learned and Controlled Autonomous Robotic Exploration in an Extreme, Unknown Environment",
+    "date_publ": "2 Apr 2020",
+    "authors": [
+      "Frances Zhu",
+      "D. Sawyer Elliott",
+      "ZhiDi Yang",
+      "Haoyuan Zhen"
+    ],
+    "abstract": "Abstract:  Exploring and traversing extreme terrain with surface robots is difficult,\nbut highly desirable for many applications, including exploration of planetary\nsurfaces, search and rescue, among others. For these applications, to ensure\nthe robot can predictably locomote, the interaction between the terrain and\nvehicle, terramechanics, must be incorporated into the model of the robot's\nlocomotion. Modeling terramechanic effects is difficult and may be impossible\nin situations where the terrain is not known a priori. For these reasons,\nlearning a terramechanics model online is desirable to increase the\npredictability of the robot's motion. A problem with previous implementations\nof learning algorithms is that the terramechanics model and corresponding\ngenerated control policies are not easily interpretable or extensible. If the\nmodels were of interpretable form, designers could use the learned models to\ninform vehicle and/or control design changes to refine the robot architecture\nfor future applications. This paper explores a new method for learning a\nterramechanics model and a control policy using a model-based genetic\nalgorithm. The proposed method yields an interpretable model, which can be\nanalyzed using preexisting analysis methods. The paper provides simulation\nresults that show for a practical application, the genetic algorithm\nperformance is approximately equal to the performance of a state-of-the-art\nneural network approach, which does not provide an easily interpretable model.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2004.00749"
+  },
+  {
+    "url": "https://arxiv.org/abs/2003.11292",
+    "title": "Title:Measures and LMIs for Lateral F-16 MRAC Validation",
+    "date_publ": "25 Mar 2020",
+    "authors": [
+      "Daniel Wagner",
+      "Didier Henrion (LAAS-MAC)",
+      "Martin Hrom\u010d\u00ed"
+    ],
+    "abstract": "Abstract:  Occupation measures and linear matrix inequality (LMI) relax-ations (called\nthe moment sums of squares or Lasserre hierarchy) are state-of-the-art methods\nfor verification and validation (VV) in aerospace. In this document, we extend\nthese results to a full F-16 closed-loop nonlinear dutch roll polynomial model\ncomplete with model reference adaptive control (MRAC). This is done through a\nnew technique of approximating the reference trajectory by exploiting sparse\nordinary differential equations (ODEs) with parsimony. The VV problem is then\nsolved directly using moment LMI relaxations and off-the-shelf-software. The\nmain results are then compared to their numerical counterparts obtained using\ntraditional Monte-Carlo simulations.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2003.11292"
+  },
+  {
+    "url": "https://arxiv.org/abs/2003.09491",
+    "title": "Title:Intelligent multiscale simulation based on process-guided composite database",
+    "date_publ": "20 Mar 2020",
+    "authors": [
+      "Zeliang Liu",
+      "Haoyan Wei",
+      "Tianyu Huang",
+      "C.T. W"
+    ],
+    "abstract": "Abstract:  In the paper, we present an integrated data-driven modeling framework based\non process modeling, material homogenization, mechanistic machine learning, and\nconcurrent multiscale simulation. We are interested in the injection-molded\nshort fiber reinforced composites, which have been identified as key material\nsystems in automotive, aerospace, and electronics industries. The molding\nprocess induces spatially varying microstructures across various length scales,\nwhile the resulting strongly anisotropic and nonlinear material properties are\nstill challenging to be captured by conventional modeling approaches. To\nprepare the linear elastic training data for our machine learning tasks,\nRepresentative Volume Elements (RVE) with different fiber orientations and\nvolume fractions are generated through stochastic reconstruction. More\nimportantly, we utilize the recently proposed Deep Material Network (DMN) to\nlearn the hidden microscale morphologies from data. With essential physics\nembedded in its building blocks, this data-driven material model can be\nextrapolated to predict nonlinear material behaviors efficiently and\naccurately. Through the transfer learning of DMN, we create a unified\nprocess-guided material database that covers a full range of geometric\ndescriptors for short fiber reinforced composites. Finally, this unified DMN\ndatabase is implemented and coupled with macroscale finite element model to\nenable concurrent multiscale simulations. From our perspective, the proposed\nframework is also promising in many other emergent multiscale engineering\nsystems, such as additive manufacturing and compressive molding.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Machine Learning (cs.LG)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/2003.09491"
+  },
+  {
+    "url": "https://arxiv.org/abs/2003.07007",
+    "title": "Title:Modeling and Experimental Validation of a Fractal Tetrahedron UAS Assembly",
+    "date_publ": "16 Mar 2020",
+    "authors": [
+      "K\u00e9vin Garanger",
+      "Jeremy Epps",
+      "Eric Fero"
+    ],
+    "abstract": "Abstract:  This paper presents the foundation of a modular robotic system comprised of\nseveral novel modules in the shape of a tetrahedron. Four single-propeller\nsubmodules are assembled to create the Tetracopter, a tetrahedron-shaped\nquad-rotorcraft used as the elementary module of a modular flying system. This\nmodular flying system is built by assembling the different elementary modules\nin a fractal shape. The fractal tetrahedron structure of the modular flying\nassembly grants the vehicle more rigidity than a conventional two-dimensional\nmodular robotic flight system while maintaining the relative efficiency of a\ntwo-dimensional modular robotic flight system. A prototype of the Tetracopter\nhas been modeled, fabricated, and successfully flight-tested by the Decision\nand Control Laboratory at the Georgia Institute of Technology. The results of\nthis research set the foundation for the development of Tetrahedron rotorcraft\nthat can maintain controllable flight and assemble in flight to create a\nFractal Tetrahedron Assembly.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Multiagent Systems (cs.MA)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2003.07007"
+  },
+  {
+    "url": "https://arxiv.org/abs/2003.06786",
+    "title": "Title:On the Computation and Approximation of Outage Probability in Satellite Networks with Smart Gateway Diversity",
+    "date_publ": "15 Mar 2020 (v1), last revised 10 Sep 2020 (this version, v2)",
+    "authors": [
+      "Christos N. Efrem",
+      "Athanasios D. Panagopoulo"
+    ],
+    "abstract": "Abstract:  The utilization of extremely high frequency (EHF) bands can achieve very high\nthroughput in satellite networks (SatNets). Nevertheless, the severe rain\nattenuation at EHF bands imposes strict limitations on the system availability.\nSmart gateway diversity (SGD) is considered indispensable in order to guarantee\nthe required availability with reasonable cost. In this context, we examine a\nload-sharing SGD (LS-SGD) architecture, which has been recently proposed in the\nliterature. For this diversity scheme, we define the system outage probability\n(SOP) using a rigorous probabilistic analysis based on the Poisson binomial\ndistribution (PBD), and taking into consideration the traffic demand as well as\nthe gateway (GW) capacity. Furthermore, we provide several methods for the\nexact and approximate calculation of SOP. As concerns the exact computation of\nSOP, a closed-form expression and an efficient algorithm based on a recursive\nformula are given, both with quadratic worst-case complexity in the number of\nGWs. Finally, the proposed approximation methods include well-known probability\ndistributions (binomial, Poisson, normal) and a Chernoff bound. According to\nthe numerical results, binomial and Poisson distributions are by far the most\naccurate approximation methods.",
+    "categories": [
+      "Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/2003.06786"
+  },
+  {
+    "url": "https://arxiv.org/abs/2003.05013",
+    "title": "Title:An Introduction to Pursuit-evasion Differential Games",
+    "date_publ": "10 Mar 2020",
+    "authors": [
+      "Isaac E. Weintraub",
+      "Meir Pachter",
+      "Eloy Garci"
+    ],
+    "abstract": "Abstract:  Pursuit and evasion conflicts represent challenging problems with important\napplications in aerospace and robotics. In pursuit-evasion problems, synthesis\nof intelligent actions must consider the adversary's potential strategies.\nDifferential game theory provides an adequate framework to analyze possible\noutcomes of the conflict without assuming particular behaviors by the opponent.\nThis article presents an organized introduction of pursuit-evasion differential\ngames with an overview of recent advances in the area. First, a summary of the\nseminal work is outlined, highlighting important contributions. Next, more\nrecent results are described by employing a classification based on the number\nof players: one-pursuer-one-evader, N-pursuers-one-evader,\none-pursuer-M-evaders, and N-pursuer-M-evader games. In each scenario, a brief\nsummary of the literature is presented. Finally, two representative\npursuit-evasion differential games are studied in detail: the two-cutters and\nfugitive ship differential game and the active target defense differential\ngame. These problems provide two important applications and, more importantly,\nthey give great insight into the realization of cooperation between friendly\nagents in order to form a team and defeat the adversary.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2003.05013"
+  },
+  {
+    "url": "https://arxiv.org/abs/2003.03729",
+    "title": "Title:Formal Verification of Cyber-Physical Systems using Theorem Proving (Invited Paper)",
+    "date_publ": "8 Mar 2020",
+    "authors": [
+      "Adnan Rashid",
+      "Umair Siddique",
+      "Sofiene Taha"
+    ],
+    "abstract": "Abstract:  Due to major breakthroughs in software and engineering technologies, embedded\nsystems are increasingly being utilized in areas ranging from aerospace and\nnext-generation transportation systems, to smart grid and smart cities, to\nhealth care systems, and broadly speaking to what is known as Cyber-Physical\nSystems (CPS). A CPS is primarily composed of several electronic, communication\nand controller modules and some actuators and sensors. The mix of heterogeneous\nunderlying smart technologies poses a number of technical challenges to the\ndesign and more severely to the verification of such complex infrastructure. In\nfact, a CPS shall adhere to strict safety, reliability, performance and\nsecurity requirements, where one needs to capture both physical and random\naspects of the various CPS modules and then analyze their interrelationship\nacross interlinked continuous and discrete dynamics. Often times however,\nsystem bugs remain uncaught during the analysis and in turn cause unwanted\nscenarios that may have serious consequences in safety-critical applications.\nIn this paper, we introduce some of the challenges surrounding the design and\nverification of contemporary CPS with the advent of smart technologies. In\nparticular, we survey recent developments in the use of theorem proving, a\nformal method, for the modeling, analysis and verification of CPS, and overview\nsome real world CPS case studies from the automotive, avionics and healthtech\ndomains from system level to physical components.",
+    "categories": [
+      "Logic in Computer Science (cs.LO)"
+    ],
+    "url_pdf": "/pdf/2003.03729"
+  },
+  {
+    "url": "https://arxiv.org/abs/2003.03241",
+    "title": "Title:Automated detection of corrosion in used nuclear fuel dry storage canisters using residual neural networks",
+    "date_publ": "6 Mar 2020 (v1), last revised 13 Jul 2020 (this version, v3)",
+    "authors": [
+      "Theodore Papamarkou",
+      "Hayley Guy",
+      "Bryce Kroencke",
+      "Jordan Miller",
+      "Preston Robinette",
+      "Daniel Schultz",
+      "Jacob Hinkle",
+      "Laura Pullum",
+      "Catherine Schuman",
+      "Jeremy Renshaw",
+      "Stylianos Chatzidaki"
+    ],
+    "abstract": "Abstract:  Nondestructive evaluation methods play an important role in ensuring\ncomponent integrity and safety in many industries. Operator fatigue can play a\ncritical role in the reliability of such methods. This is important for\ninspecting high value assets or assets with a high consequence of failure, such\nas aerospace and nuclear components. Recent advances in convolution neural\nnetworks can support and automate these inspection efforts. This paper proposes\nusing residual neural networks (ResNets) for real-time detection of corrosion,\nincluding iron oxide discoloration, pitting and stress corrosion cracking, in\ndry storage stainless steel canisters housing used nuclear fuel. The proposed\napproach crops nuclear canister images into smaller tiles, trains a ResNet on\nthese tiles, and classifies images as corroded or intact using the per-image\ncount of tiles predicted as corroded by the ResNet. The results demonstrate\nthat such a deep learning approach allows to detect the locus of corrosion via\nsmaller tiles, and at the same time to infer with high accuracy whether an\nimage comes from a corroded canister. Thereby, the proposed approach holds\npromise to automate and speed up nuclear fuel canister inspections, to minimize\ninspection costs, and to partially replace human-conducted onsite inspections,\nthus reducing radiation doses to personnel.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Applications (stat.AP)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/2003.03241"
+  },
+  {
+    "url": "https://arxiv.org/abs/2002.12201",
+    "title": "Title:Non-destructive testing and evaluation of composite materials/structures: A state-of-the-art review",
+    "date_publ": "27 Feb 2020 (v1), last revised 4 Mar 2020 (this version, v2)",
+    "authors": [
+      "Bing Wang",
+      "Shuncong Zhong",
+      "Tung-Lik Lee",
+      "Kevin S Fancey",
+      "Jiawei M"
+    ],
+    "abstract": "Abstract:  Composite materials/structures are advancing in product efficiency,\ncost-effectiveness and the development of superior specific properties. There\nare increasing demands in their applications to load-carrying structures in\naerospace, wind turbines, transportation, and medical equipment, etc. Thus\nrobust and reliable non-destructive testing (NDT) of composites is essential to\nreduce safety concerns and maintenance costs. There have been various NDT\nmethods built upon different principles for quality assurance during the whole\nlifecycle of a composite product. This paper reviews the most established NDT\ntechniques for detection and evaluation of defects/damage evolution in\ncomposites. These include acoustic emission, ultrasonic testing, infrared\nthermography, terahertz testing, shearography, digital image correlation, as\nwell as X-ray and neutron imaging. For each NDT technique, we cover a brief\nhistorical background, principles, standard practices, equipment and facilities\nused for composite research. We also compare and discuss their benefits and\nlimitations, and further summarise their capabilities and applications to\ncomposite structures. Each NDT technique has its own potential and rarely\nachieves a full-scale diagnosis of structural integrity. Future development of\nNDT techniques for composites will be directed towards intelligent and\nautomated inspection systems with high accuracy and efficient data processing\ncapabilities.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2002.12201"
+  },
+  {
+    "url": "https://arxiv.org/abs/2002.11871",
+    "title": "Title:Direct Multipixel Imaging and Spectroscopy of an Exoplanet with a Solar Gravity Lens Mission",
+    "date_publ": "27 Feb 2020 (v1), last revised 19 Mar 2020 (this version, v2)",
+    "authors": [
+      "Slava G. Turyshev",
+      "Michael Shao",
+      "Viktor T. Toth",
+      "Louis D. Friedman",
+      "Leon Alkalai",
+      "Dmitri Mawet",
+      "Janice Shen",
+      "Mark R. Swain",
+      "Hanying Zhou",
+      "Henry Helvajian",
+      "Tom Heinsheimer",
+      "Siegfried Janson",
+      "Zigmond Leszczynski",
+      "John McVey",
+      "Darren Garber",
+      "Artur Davoyan",
+      "Seth Redfield",
+      "Jared R. Male"
+    ],
+    "abstract": "Abstract:  We examined the solar gravitational lens (SGL) as the means to produce direct\nhigh-resolution, multipixel images of exoplanets. The properties of the SGL are\nremarkable: it offers maximum light amplification of ~1e11 and angular\nresolution of ~1e-10 arcsec. A probe with a 1-m telescope in the SGL focal\nregion can image an exoplanet at 30 pc with 10-kilometer resolution on its\nsurface, sufficient to observe seasonal changes, oceans, continents, surface\ntopography. We reached and exceeded all objectives set for our study: We\ndeveloped a new wave-optical approach to study the imaging of exoplanets while\ntreating them as extended, resolved, faint sources at large but finite\ndistances. We properly accounted for the solar corona brightness. We developed\ndeconvolution algorithms and demonstrated the feasibility of high-quality image\nreconstruction under realistic conditions. We have proven that multipixel\nimaging and spectroscopy of exoplanets with the SGL are feasible. We have\ndeveloped a new mission concept that delivers an array of optical telescopes to\nthe SGL focal region relying on three innovations: i) a new way to enable\ndirect exoplanet imaging, ii) use of smallsats solar sails fast transit through\nthe solar system and beyond, iii) an open architecture to take advantage of\nswarm technology. This approach enables entirely new missions, providing a\ngreat leap in capabilities for NASA and the greater aerospace community. Our\nresults are encouraging as they lead to a realistic design for a mission that\nwill be able to make direct resolved images of exoplanets in our stellar\nneighborhood. It could allow exploration of exoplanets relying on the SGL\ncapabilities decades, if not centuries, earlier than possible with other extant\ntechnologies. The architecture and mission concepts for a mission to the strong\ninterference region of the SGL are promising and should be explored further.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " General Relativity and Quantum Cosmology (gr-qc)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/2002.11871"
+  },
+  {
+    "url": "https://arxiv.org/abs/2002.10159",
+    "title": "Title:Adaptive Transmit Waveform Design using Multi-Tone Sinusoidal Frequency Modulation",
+    "date_publ": "24 Feb 2020 (v1), last revised 21 Aug 2020 (this version, v3)",
+    "authors": [
+      "David A. Hagu"
+    ],
+    "abstract": "Abstract:  This paper presents an adaptive waveform design method using Multi-Tone\nSinusoidal Frequency Modulation (MTSFM). The MTSFM waveform's modulation\nfunction is represented as a finite Fourier series expansion. The Fourier\ncoefficients are utilized as a discrete set of design parameters that may be\nmodified to adapt the waveform's properties. The MTSFM's design parameters are\nadjusted to shape the spectrum, Auto-Correlation Function (ACF), and Ambiguity\nFunction (AF) shapes of the waveform. The MTSFM waveform model naturally\npossesses the constant envelope and spectrally compact waveforms that make it\nwell suited for transmission on practical radar/sonar transmitters which\nutilize high power amplifiers. The MTSFM has an exact mathematical definition\nfor its time-series using Generalized Bessel Functions which allow for deriving\nclosed-form analytical expressions for its spectrum, AF, and ACF. These\nexpressions allow for establishing well-defined optimization problems that\nfinely tune the MTSFM's properties. This adaptive waveform design model is\ndemonstrated by optimizing MTSFM waveforms that initially possess a\n\"thumbtack-like\" AF shape. The resulting optimized designs possess\nsubstantially improved sidelobe levels over specified regions in the\nrange-Doppler plane without increasing the Time-Bandwidth Product (TBP) that\nthe initialized waveforms possessed. Simulations additionally demonstrate that\nthe optimized thumbtack-like MTSFM waveforms are competitive with\nthumbtack-like phase-coded waveforms derived from design algorithms available\nin the published literature.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2002.10159"
+  },
+  {
+    "url": "https://arxiv.org/abs/2002.03139",
+    "title": "Title:Data-driven nonlinear aeroelastic models of morphing wings for control",
+    "date_publ": "8 Feb 2020",
+    "authors": [
+      "Nicola Fonzi",
+      "Steven L. Brunton",
+      "Urban Fase"
+    ],
+    "abstract": "Abstract:  Accurate and efficient aeroelastic models are critically important for\nenabling the optimization and control of highly flexible aerospace structures,\nwhich are expected to become pervasive in future transportation and energy\nsystems. Advanced materials and morphing wing technologies are resulting in\nnext-generation aeroelastic systems that are characterized by highly-coupled\nand nonlinear interactions between the aerodynamic and structural dynamics. In\nthis work, we leverage emerging data-driven modeling techniques to develop\nhighly accurate and tractable reduced-order aeroelastic models that are valid\nover a wide range of operating conditions and are suitable for control. In\nparticular, we develop two extensions to the recent dynamic mode decomposition\nwith control (DMDc) algorithm to make it suitable for flexible aeroelastic\nsystems: 1) we introduce a formulation to handle algebraic equations, and 2) we\ndevelop an interpolation scheme to smoothly connect several linear DMDc models\ndeveloped in different operating regimes. Thus, the innovation lies in\naccurately modeling the nonlinearities of the coupled aerostructural dynamics\nover multiple operating regimes, not restricting the validity of the model to a\nnarrow region around a linearization point. We demonstrate this approach on a\nhigh-fidelity, three-dimensional numerical model of an airborne wind energy\n(AWE) system, although the methods are generally applicable to any highly\ncoupled aeroelastic system or dynamical system operating over multiple\noperating regimes. Our proposed modeling framework results in real-time\nprediction of nonlinear unsteady aeroelastic responses of flexible aerospace\nstructures, and we demonstrate the enhanced model performance for model\npredictive control. Thus, the proposed architecture may help enable the\nwidespread adoption of next-generation morphing wing technologies.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2002.03139"
+  },
+  {
+    "url": "https://arxiv.org/abs/2002.02524",
+    "title": "Title:High-Accuracy Multi-Node Ranging For Coherent Distributed Antenna Arrays",
+    "date_publ": "6 Feb 2020",
+    "authors": [
+      "Sean Ellison",
+      "Jeffrey Nanze"
+    ],
+    "abstract": "Abstract:  The design and experimental implementation of a waveform for high-accuracy\ninter-node ranging in a coherent distributed antenna array is presented. Based\non a spectrally-sparse high-accuracy ranging waveform, the presented\nmulti-frequency waveform enables high-accuracy ranging between multiple nodes\nin an array simultaneously, without interference. The waveform is based on a\nunique time-frequency duplexing approach combining a stepped-frequency waveform\nwith different step cycles per node pair. The waveform also inherently includes\nbeneficial disambiguation properties. The ambiguity function of the waveform is\nderived, and theoretical bounds on the ranging accuracy are obtained.\nMeasurements were conducted in software-defined radio-based nodes in a\nthree-element distributed array, demonstrating high-accuracy unambiguous\nranging between two slave nodes and one master node.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2002.02524"
+  },
+  {
+    "url": "https://arxiv.org/abs/2002.01409",
+    "title": "Title:Non-contact, non-destructive mapping of thermal diffusivity and surface acoustic wave speed using transient grating spectroscopy",
+    "date_publ": "4 Feb 2020",
+    "authors": [
+      "Abdallah Reza",
+      "Cody A. Dennett",
+      "Michael P. Short",
+      "John Waite",
+      "Yevhen Zayachuk",
+      "Christopher M. Magazzeni",
+      "Simon Hills",
+      "Felix Hofman"
+    ],
+    "abstract": "Abstract:  We present new developments of the laser-induced transient grating\nspectroscopy (TGS) technique that enable the measurement of large area 2D maps\nof thermal diffusivity and surface acoustic wave speed. Additional capabilities\ninclude targeted measurements and the ability to accommodate samples with\nincreased surface roughness. These new capabilities are demonstrated by\nrecording large TGS maps of deuterium implanted tungsten, linear friction\nwelded aerospace alloys and high entropy alloys with a range of grain sizes.\nThe results illustrate the ability to view grain microstructure in elastically\nanisotropic samples, and to detect anomalies in samples, for example due to\nirradiation and previous measurements. They also point to the possibility of\nusing TGS to quantify grain size at the surface of polycrystalline materials.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2002.01409"
+  },
+  {
+    "url": "https://arxiv.org/abs/2002.00468",
+    "title": "Title:Zeolite-inspired 3d printed structures with enhanced mechanical properties",
+    "date_publ": "2 Feb 2020 (v1), last revised 12 Feb 2020 (this version, v2)",
+    "authors": [
+      "Rushikesh S. Ambekar",
+      "Eliezer F. Oliveira",
+      "Brijesh Kushwaha",
+      "Leonardo D. Machado",
+      "Mohammad Sajadi",
+      "Ray H. Baughman",
+      "Pulickel M. Ajayan",
+      "Ajit K. Roy",
+      "Douglas S. Galvao",
+      "Chandra S. Tiwar"
+    ],
+    "abstract": "Abstract:  Specific strength (strength/density) is a crucial factor while designing high\nload bearing architecture in areas of aerospace and defence. Strength of the\nmaterial can be enhanced by blending with high strength component or, by\ncompositing with high strength fillers but both the options has limitations\nsuch as at certain load, materials fail due to poor filler and matrix\ninteractions. Therefore, researchers are interested in enhancing strength of\nmaterials by playing with topology/geometry and therefore nature is best option\nto mimic for structures whereas, complexity limits nature mimicked structures.\nIn this paper, we have explored Zeolite-inspired structures for load bearing\ncapacity. Zeolite-inspired structure were obtained from molecular dynamics\nsimulation and then fabricated via Fused deposition Modeling. The atomic scale\ncomplex topology from simulation is experimentally synthesized using 3D\nprinting. Compressibility of as-fabricated structures was tested in different\ndirection and compared with simulation results. Such complex architecture can\nbe used for ultralight aerospace and automotive parts.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2002.00468"
+  },
+  {
+    "url": "https://arxiv.org/abs/2001.09292",
+    "title": "Title:The role of surrogate models in the development of digital twins of dynamic systems",
+    "date_publ": "25 Jan 2020 (v1), last revised 15 Jun 2020 (this version, v2)",
+    "authors": [
+      "Souvik Chakraborty",
+      "Sondipon Adhikari",
+      "Ranjan Gangul"
+    ],
+    "abstract": "Abstract:  Digital twin technology has significant promise, relevance and potential of\nwidespread applicability in various industrial sectors such as aerospace,\ninfrastructure and automotive. However, the adoption of this technology has\nbeen slower due to the lack of clarity for specific applications. A discrete\ndamped dynamic system is used in this paper to explore the concept of a digital\ntwin. As digital twins are also expected to exploit data and computational\nmethods, there is a compelling case for the use of surrogate models in this\ncontext. Motivated by this synergy, we have explored the possibility of using\nsurrogate models within the digital twin technology. In particular, the use of\nGaussian process (GP) emulator within the digital twin technology is explored.\nGP has the inherent capability of addressing noise and sparse data and hence,\nmakes a compelling case to be used within the digital twin framework. Cases\ninvolving stiffness variation and mass variation are considered, individually\nand jointly along with different levels of noise and sparsity in data. Our\nnumerical simulation results clearly demonstrate that surrogate models such as\nGP emulators have the potential to be an effective tool for the development of\ndigital twins. Aspects related to data quality and sampling rate are analysed.\nKey concepts introduced in this paper are summarised and ideas for urgent\nfuture research needs are proposed.",
+    "categories": [
+      "Machine Learning (stat.ML)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2001.09292"
+  },
+  {
+    "url": "https://arxiv.org/abs/2001.05793",
+    "title": "Title:Dynamic state-space modeling and model-based control design for loop heat pipes",
+    "date_publ": "16 Jan 2020",
+    "authors": [
+      "Thomas Gellrich",
+      "Clara Sester",
+      "Max Okraschevski",
+      "Stefan Schwab",
+      "Hans-Joerg Bauer",
+      "Soeren Hohman"
+    ],
+    "abstract": "Abstract:  For the thermal control of electronic components in aerospace, automotive or\nserver systems, the heat sink is often located far from the heat sources.\nTherefore, heat transport systems are necessary to cool the electronic\ncomponents effectively. Loop heat pipes (LHPs) are such heat transport systems,\nwhich use evaporation and condensation to reach a higher heat transfer\ncoefficient than with sole heat conduction. The operating temperature of the\nLHP governs the temperature of the electronic components, but depends on the\namount of dissipated heat and the temperature of the heat sink. For this\nreason, a control heater on the LHP provides the ability to control the\noperating temperature at a fixed setpoint temperature. For the model-based\ncontrol design of the control heater controller, the current LHP state-space\nmodel in the literature focuses on the setpoint response without modeling the\nfluid's dynamics. However, the fluid's dynamics determine the disturbance\nbehavior of the LHP. Therefore, the fluid's dynamics are incorporated into a\nnew LHP state-space model, which is not only able to simulate the LHP behavior\nunder disturbance changes, but is also used for the model-based design of a\nrobust nonlinear controller, which achieves an improved control performance\ncompared to the nonlinear controller based on the previous LHP state-space\nmodel.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2001.05793"
+  },
+  {
+    "url": "https://arxiv.org/abs/2001.03645",
+    "title": "Title:Extreme Software Defined Radio -- GHz in Real Time",
+    "date_publ": "10 Jan 2020",
+    "authors": [
+      "Eugene Grayver",
+      "Alexander Utte"
+    ],
+    "abstract": "Abstract:  Software defined radio is a widely accepted paradigm for design of\nreconfigurable modems. The continuing march of Moore's law makes real-time\nsignal processing on general purpose processors feasible for a large set of\nwaveforms. Data rates in the low Mbps can be processed on low-power ARM\nprocessors, and much higher data rates can be supported on large x86\nprocessors. The advantages of all-software development (vs. FPGA/DSP/GPU) are\ncompelling: much wider pool of talent, lower development time and cost, and\neasier maintenance and porting. However, very high-rate systems (above 100\nMbps) are still firmly in the domain of custom and semi-custom hardware (mostly\nFPGAs). In this paper we describe an architecture and testbed for an SDR that\ncan be easily scaled to support over 3 GHz of bandwidth and data rate up to 10\nGbps. The paper covers a novel technique to parallelize typically serial\nalgorithms for phase and symbol tracking, followed by a discussion of data\ndistribution for a massively parallel architecture. We provide a brief\ndescription of a mixed-signal front end and conclude with measurement results.\nTo the best of the author's knowledge, the system described in this paper is an\norder of magnitude faster than any prior published result.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/2001.03645"
+  },
+  {
+    "url": "https://arxiv.org/abs/2001.00672",
+    "title": "Title:A Two-Stage Batch Algorithm for Nonlinear Static Parameter Estimation",
+    "date_publ": "3 Jan 2020",
+    "authors": [
+      "Kerry Sun",
+      "Demoz Gebre-Egziabhe"
+    ],
+    "abstract": "Abstract:  A two-stage batch estimation algorithm for solving a class of nonlinear,\nstatic parameter estimation problems that appear in aerospace engineering\napplications is proposed. It is shown how these problems can be recast into a\nform suitable for the proposed two-stage estimation process. In the first\nstage, linear least squares is used to obtain a subset of the unknown\nparameters (set 1), while a residual sampling procedure is used for selecting\ninitial values for the rest of the parameters (set 2). In the second stage,\ndepending on the uniqueness of the local minimum, either only the parameters in\nthe second set need to be re-estimated, or all the parameters will have to be\nre-estimated simultaneously, by a nonlinear constrained optimization. The\nestimates from the first stage are used as initial conditions for the second\nstage optimizer. It is shown that this approach alleviates the sensitivity to\ninitial conditions and minimizes the likelihood of converging to an incorrect\nlocal minimum of the nonlinear cost function. An error bound analysis is\npresented to show that the first stage can be solved in such a way that the\ntotal cost function will be driven to the optimal cost, and the difference has\nan upper bound. Two tutorial examples are used to show how to implement this\nestimator and compare its performance to other similar nonlinear estimators.\nFinally, the estimator is used on a 5-hole Pitot tube calibration problem using\nflight test data collected from a small Unmanned Aerial Vehicle (UAV) which\ncannot be easily solved with single-stage methods.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Systems and Control (eess.SY)",
+      " Methodology (stat.ME)"
+    ],
+    "url_pdf": "/pdf/2001.00672"
+  },
+  {
+    "url": "https://arxiv.org/abs/2001.00141",
+    "title": "Title:Single-Bit Consensus with Finite-Time Convergence: Theory and Applications",
+    "date_publ": "1 Jan 2020",
+    "authors": [
+      "Mohammadreza Doostmohammadia"
+    ],
+    "abstract": "Abstract:  In this brief paper, a new consensus protocol based on the sign of\ninnovations is proposed. Based on this protocol each agent only requires\nsingle-bit of information about its relative state to its neighboring agents.\nThis is significant in real-time applications, since it requires less\ncomputation and/or communication load on agents. Using Lyapunov stability\ntheorem the convergence is proved for networks having a spanning tree. Further,\nthe convergence is shown to be in finite-time, which is significant as compared\nto most asymptotic protocols in the literature. Time-variant network topologies\nare also considered in this paper, and final consensus value is derived for\nundirected networks. Applications of the proposed consensus protocol in (i)\n2D/3D rendezvous task, (ii) distributed estimation, (iii) distributed\noptimization, and (iv) formation control are considered and significance of\napplying this protocol is discussed. Numerical simulations are provided to\ncompare the protocol with the existing protocols in the literature.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Multiagent Systems (cs.MA)"
+    ],
+    "url_pdf": "/pdf/2001.00141"
+  },
+  {
+    "url": "https://arxiv.org/abs/1912.03595",
+    "title": "Title:Multifunctional Liquid Metal Lattice Materials with Recoverable and Reconfigurable Behaviors",
+    "date_publ": "8 Dec 2019",
+    "authors": [
+      "Fanghang Deng",
+      "Quang-Kha Nguyen",
+      "Pu Zhan"
+    ],
+    "abstract": "Abstract:  Multifunctional lattice materials are of great interest to modern engineering\nincluding aerospace, robotics, wave control, and sensing. In this work, we\nproposed and developed a new class of functional lattice materials called\nliquid metal lattice materials, which are composed of liquid metals and\nelastomer coatings organized in a co-axial way. This hybrid design enables the\nliquid metal lattice materials with a thermal-activated shape memory effect and\nhence a variety of intriguing functionalities including recoverable energy\nabsorption, tunable shape and rigidity, deployable and reconfigurable\nbehaviors. The fabrication of liquid metal lattice materials is realised by a\nhybrid manufacturing approach combining 3D printing, vacuum casting, and\ncoating. The mechanical properties and functionalities of these liquid metal\nlattice materials are studied via experimental testing. We expect that this new\nclass of lattice materials will greatly expand the current realm of lattice\nmaterials and lead to novel multifunctional applications.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1912.03595"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.12567",
+    "title": "Title:Weapon-Target Assignment Problem with Interference Constraints using Mixed-Integer Linear Programming",
+    "date_publ": "28 Nov 2019",
+    "authors": [
+      "Min-Kyu Shin",
+      "Daniel Lee",
+      "Han-Lim Cho"
+    ],
+    "abstract": "Abstract:  In this paper, we propose an approach to formulate the Weapon Target\nAssignment (WTA) problem with physical and seeker interference constraints\nwhich is solvable in Mixed Integer Linear Programming (MILP). To handle the\ninterference constraint which is intractable in continuous time domain, we\ndiscretize the time window and generate predicted intercept point (PIP) set.\nAlso, to handle interference constraints to the MILP formulation, the\ninterference tables that explain which pairs of assignments make interference,\nare made prematurely before the solver executed. The simulation results whether\nconsidering interference or not give different optimal solutions with different\ntargets show the effectiveness of our MILP formulation.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1911.12567"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.11995",
+    "title": "Title:BLAS: Broadcast Relative Localization and Clock Synchronization for Dynamic Dense Multi-Agent Systems",
+    "date_publ": "27 Nov 2019",
+    "authors": [
+      "Qin Shi",
+      "Xiaowei Cui",
+      "Sihao Zhao",
+      "Shuang Xu",
+      "Mingquan L"
+    ],
+    "abstract": "Abstract:  The spatiotemporal information plays crucial roles in a multi-agent system\n(MAS). However, for a highly dynamic and dense MAS in unknown environments,\nestimating its spatiotemporal states is a difficult problem. In this paper, we\npresent BLAS: a wireless broadcast relative localization and clock\nsynchronization system to address these challenges. Our BLAS system exploits a\nbroadcast architecture, under which a MAS is categorized into parent agents\nthat broadcast wireless packets and child agents that are passive receivers, to\nreduce the number of required packets among agents for relative localization\nand clock synchronization. We first propose an asynchronous broadcasting and\npassively receiving (ABPR) protocol. The protocol schedules the broadcast of\nparent agents using a distributed time division multiple access (D-TDMA) scheme\nand delivers inter-agent information used for joint relative localization and\nclock synchronization. We then present distributed state estimation approaches\nin parent and child agents that utilize the broadcast inter-agent information\nfor joint estimation of spatiotemporal states. The simulations and real-world\nexperiments based on ultra-wideband (UWB) illustrate that our proposed BLAS\ncannot only enable accurate, high-frequency and real-time estimation of\nrelative position and clock parameters but also support theoretically an\nunlimited number of agents.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/1911.11995"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.09353",
+    "title": "Title:AMBRE: A Compact Instrument to Measure Thermal Ions, Electrons and Electrostatic Charging Onboard Spacecraft",
+    "date_publ": "21 Nov 2019",
+    "authors": [
+      "B. Lavraud (IRAP)",
+      "A. Cara",
+      "D. Payan (CNES)",
+      "Y. Ballot",
+      "J.-A. Sauvaud (CESR)",
+      "R. Mathon",
+      "T. Camus (CESR)",
+      "O. Chassela (IRAP)",
+      "H.-C. Seran",
+      "H. Tap",
+      "O. Bernal",
+      "M. Berthomier (CETP)",
+      "P. Devoto",
+      "A. Fedorov (IKI)",
+      "J. Rouzaud (CESR)",
+      "J. Rubiella-Romeo",
+      "J.-D Techer",
+      "D. Zely",
+      "S. Galinier",
+      "D. Brun"
+    ],
+    "abstract": "Abstract:  The Active Monitor Box of Electrostatic Risks (AMBER) is a double-head\nthermal electron and ion electrostatic analyzer (energy range 0-30 keV) that\nwas launched onboard the Jason-3 spacecraft in 2016. The next generation AMBER\ninstrument, for which a first prototype was developed and then calibrated at\nthe end of 2017, constitutes a significant evolution that is based on a single\nhead to measure both species alternatively. The instrument developments focused\non several new subsystems (front-end electronics, high-voltage electronics,\nmechanical design) that permit to reduce instrument resources down to ~ 1 kg\nand 1.5 W. AMBER is designed as a generic radiation monitor with a twofold\npurpose: (1) measure magnetospheric thermal ion and electron populations in the\nrange 0-35 keV, with significant scientific potential (e.g., plasmasphere, ring\ncurrent, plasma sheet), and (2) monitor spacecraft electrostatic charging and\nthe plasma populations responsible for it, for electromagnetic cleanliness and\noperational purposes.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1911.09353"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.07943",
+    "title": "Title:Machine-Learning for Nonintrusive Model Order Reduction of the Parametric Inviscid Transonic Flow past an airfoil",
+    "date_publ": "18 Nov 2019 (v1), last revised 12 Jan 2020 (this version, v2)",
+    "authors": [
+      "S. Ashwin Renganathan",
+      "Romit Maulik",
+      "Vishwas Ra"
+    ],
+    "abstract": "Abstract:  Fluid flow in the transonic regime finds relevance in aerospace engineering,\nparticularly in the design of commercial air transportation vehicles.\nComputational fluid dynamics models of transonic flow for aerospace\napplications are computationally expensive to solve because of the high degrees\nof freedom as well as the coupled nature of the conservation laws. While these\nissues pose a bottleneck for the use of such models in aerospace design,\ncomputational costs can be significantly minimized by constructing special,\nstructure-preserving surrogate models called reduced-order models. Such models\nare known to incur huge off-line costs, however, which can sometimes outweigh\ntheir potential benefits. Furthermore, their prediction accuracy is known to be\npoor under transonic flow conditions. In this work, we propose a machine\nlearning method to construct reduced-order models via deep neural networks, and\nwe demonstrate its ability to preserve accuracy with significantly lower\noffline and online costs. In addition, our machine learning methodology is\nphysics-informed and constrained through the utilization of an interpretable\nencoding by way of proper orthogonal decomposition. Application to the inviscid\ntransonic flow past the RAE2822 airfoil under varying freestream Mach numbers\nand angles of attack, as well as airfoil shape parameters with a deforming\nmesh, shows that the proposed approach adapts to high-dimensional parameter\nvariation well. Notably, the proposed framework precludes knowledge of\nnumerical operators utilized in the data generation phase, thereby\ndemonstrating its potential utility in fast exploration of design space for\ndiverse engineering applications.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1911.07943"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.06304",
+    "title": "Title:Detecting Safety and Security Faults in PLC Systems with Data Provenance",
+    "date_publ": "14 Nov 2019",
+    "authors": [
+      "Abdullah Al Farooq",
+      "Jessica Marquard",
+      "Kripa George",
+      "Thomas Moye"
+    ],
+    "abstract": "Abstract:  Programmable Logic Controllers are an integral component for managing many\ndifferent industrial processes (e.g., smart building management, power\ngeneration, water and wastewater management, and traffic control systems), and\nmanufacturing and control industries (e.g., oil and natural gas, chemical,\npharmaceutical, pulp and paper, food and beverage, automotive, and aerospace).\nDespite being used widely in many critical infrastructures, PLCs use protocols\nwhich make these control systems vulnerable to many common attacks, including\nman-in-the-middle attacks, denial of service attacks, and memory corruption\nattacks (e.g., array, stack, and heap overflows, integer overflows, and pointer\ncorruption). In this paper, we propose PLC-PROV, a system for tracking the\ninputs and outputs of the control system to detect violations in the safety and\nsecurity policies of the system. We consider a smart building as an example of\na PLC-based system and show how PLC-PROV can be applied to ensure that the\ninputs and outputs are consistent with the intended safety and security\npolicies.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/1911.06304"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.05036",
+    "title": "Title:Multi-Fidelity modeling of Probabilistic Aerodynamic Databases for Use in Aerospace Engineering",
+    "date_publ": "12 Nov 2019",
+    "authors": [
+      "Jayant Mukhopadhaya",
+      "Brian T. Whitehead",
+      "John F. Quindlen",
+      "Juan J. Alons"
+    ],
+    "abstract": "Abstract:  Explicit quantification of uncertainty in engineering simulations is being\nincreasingly used to inform robust and reliable design practices. In the\naerospace industry, computationally-feasible analyses for design optimization\npurposes often introduce significant uncertainties due to deficiencies in the\nmathematical models employed. In this paper, we discuss two recent improvements\nin the quantification and combination of uncertainties from multiple sources\nthat can help generate probabilistic aerodynamic databases for use in aerospace\nengineering problems. We first discuss the eigenspace perturbation methodology\nto estimate model-form uncertainties stemming from inadequacies in the\nturbulence models used in Reynolds-Averaged Navier-Stokes Computational Fluid\nDynamics (RANS CFD) simulations. We then present a multi-fidelity Gaussian\nProcess framework that can incorporate noisy observations to generate\nintegrated surrogate models that provide mean as well as variance information\nfor Quantities of Interest (QoIs). The process noise is varied spatially across\nthe domain and across fidelity levels. Both these methodologies are\ndemonstrated through their application to a full configuration aircraft\nexample, the NASA Common Research Model (CRM) in transonic conditions. First,\nmodel-form uncertainties associated with RANS CFD simulations are estimated.\nThen, data from different sources is used to generate multi-fidelity\nprobabilistic aerodynamic databases for the NASA CRM. We discuss the\ntransformative effect that affordable and early treatment of uncertainties can\nhave in traditional aerospace engineering practices. The results are presented\nand compared to those from a Gaussian Process regression performed on a single\ndata source.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/1911.05036"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.03682",
+    "title": "Title:Optimized geometrical metrics satisfying free-stream preservation",
+    "date_publ": "9 Nov 2019 (v1), last revised 27 Nov 2019 (this version, v2)",
+    "authors": [
+      "Irving Reyna Nolasco",
+      "Lisandro Dalcin",
+      "David C. Del Rey Fernandez",
+      "Stefano Zampini",
+      "Matteo Parsan"
+    ],
+    "abstract": "Abstract:  Computational fluid dynamics and aerodynamics, which complement more\nexpensive empirical approaches, are critical for developing aerospace vehicles.\nDuring the past three decades, computational aerodynamics capability has\nimproved remarkably, following advances in computer hardware and algorithm\ndevelopment. However, for complex applications, the demands on computational\nfluid dynamics continue to increase in a quest to gain a few percent\nimprovements in accuracy. Herein, we numerically demonstrate that optimizing\nthe metric terms which arise from smoothly mapping each cell to a reference\nelement, lead to a solution whose accuracy is practically never worse and often\nnoticeably better than the one obtained using the widely adopted Thomas and\nLombard metric terms computation (Geometric conservation law and its\napplication to flow computations on moving grids, AIAA Journal, 1979). Low and\nhigh-order accurate entropy stable schemes on distorted, high-order tensor\nproduct elements are used to simulate three-dimensional inviscid and viscous\ncompressible test cases for which an analytical solution is known.",
+    "categories": [
+      "Numerical Analysis (math.NA)",
+      " Computational Physics (physics.comp-ph)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1911.03682"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.03307",
+    "title": "Title:Pushing the limits of atomistic simulations towards ultra-high temperature: a machine-learning force field for ZrB2",
+    "date_publ": "8 Nov 2019",
+    "authors": [
+      "Yanhui Zhang",
+      "Alessandro Lunghi",
+      "Stefano Sanvit"
+    ],
+    "abstract": "Abstract:  Determining thermal and physical quantities across a broad temperature\ndomain, especially up to the ultra-high temperature region, is a formidable\ntheoretical and experimental challenge. At the same time it is essential for\nunderstanding the performance of ultra-high temperature ceramic (UHTC)\nmaterials. Here we present the development of a machine-learning force field\nfor ZrB2, one of the primary members of the UHTC family with a complex bonding\nstructure. The force field exhibits chemistry accuracy for both energies and\nforces and can reproduce structural, elastic and phonon properties, including\nthermal expansion and thermal transport. A thorough comparison with available\nempirical potentials shows that our force field outperforms the competitors.\nMost importantly, its effectiveness is extended from room temperature to the\nultra-high temperature region (up to ~ 2,500 K), where measurements are very\ndifficult, costly and some time impossible. Our work demonstrates that\nmachine-learning force fields can be used for simulations of materials in a\nharsh environment, where no experimental tools are available, but crucial for a\nnumber of engineering applications, such as in aerospace, aviation and nuclear.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Quantum Physics (quant-ph)"
+    ],
+    "url_pdf": "/pdf/1911.03307"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.02924",
+    "title": "Title:Aerodynamic Data Fusion Towards the Digital Twin Paradigm",
+    "date_publ": "2 Nov 2019",
+    "authors": [
+      "S. Ashwin Renganathan",
+      "Kohei Harada",
+      "Dimitri N. Mavri"
+    ],
+    "abstract": "Abstract:  We consider the fusion of two aerodynamic data sets originating from\ndiffering fidelity physical or computer experiments. We specifically address\nthe fusion of: 1) noisy and in-complete fields from wind tunnel measurements\nand 2) deterministic but biased fields from numerical simulations. These two\ndata sources are fused in order to estimate the \\emph{true} field that best\nmatches measured quantities that serves as the ground truth. For example, two\nsources of pressure fields about an aircraft are fused based on measured forces\nand moments from a wind-tunnel experiment. A fundamental challenge in this\nproblem is that the true field is unknown and can not be estimated with 100\\%\ncertainty. We employ a Bayesian framework to infer the true fields conditioned\non measured quantities of interest; essentially we perform a \\emph{statistical\ncorrection} to the data. The fused data may then be used to construct more\naccurate surrogate models suitable for early stages of aerospace design. We\nalso introduce an extension of the Proper Orthogonal Decomposition with\nconstraints to solve the same problem. Both methods are demonstrated on fusing\nthe pressure distributions for flow past the RAE2822 airfoil and the Common\nResearch Model wing at transonic conditions. Comparison of both methods reveal\nthat the Bayesian method is more robust when data is scarce while capable of\nalso accounting for uncertainties in the data. Furthermore, given adequate\ndata, the POD based and Bayesian approaches lead to \\emph{similar} results.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Machine Learning (cs.LG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/1911.02924"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.02050",
+    "title": "Title:Satellite Pose Estimation Challenge: Dataset, Competition Design and Results",
+    "date_publ": "5 Nov 2019 (v1), last revised 24 Apr 2020 (this version, v2)",
+    "authors": [
+      "Mate Kisantal",
+      "Sumant Sharma",
+      "Tae Ha Park",
+      "Dario Izzo",
+      "Marcus M\u00e4rtens",
+      "Simone D'Amic"
+    ],
+    "abstract": "Abstract:  Reliable pose estimation of uncooperative satellites is a key technology for\nenabling future on-orbit servicing and debris removal missions. The Kelvins\nSatellite Pose Estimation Challenge aims at evaluating and comparing monocular\nvision-based approaches and pushing the state-of-the-art on this problem. This\nwork is based on the Satellite Pose Estimation Dataset, the first publicly\navailable machine learning set of synthetic and real spacecraft imageries. The\nchoice of dataset reflects one of the unique challenges associated with\nspaceborne computer vision tasks, namely the lack of spaceborne images to train\nand validate the developed algorithms. This work briefly reviews the basic\nproperties and the collection process of the dataset which was made publicly\navailable. The competition design, including the definition of performance\nmetrics and the adopted testbed, is also discussed. The main contribution of\nthis paper is the analysis of the submissions of the 48 competitors, which\ncompares the performance of different approaches and uncovers what factors make\nthe satellite pose estimation problem especially challenging.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/1911.02050"
+  },
+  {
+    "url": "https://arxiv.org/abs/1911.00110",
+    "title": "Title:Method to Characterize Potential UAS Encounters Using Open Source Data",
+    "date_publ": "31 Oct 2019 (v1), last revised 6 Nov 2020 (this version, v3)",
+    "authors": [
+      "Andrew Weiner"
+    ],
+    "abstract": "Abstract:  As unmanned aerial systems (UASs) increasingly integrate into the US national\nairspace system, there is an increasing need to characterize how commercial and\nrecreational UASs may encounter each other. To inform the development and\nevaluation of safety critical technologies, we demonstrate a methodology to\nanalytically calculate all potential relative geometries between different UAS\noperations performing inspection missions. This method is based on a previously\ndemonstrated technique that leverages open source geospatial information to\ngenerate representative unmanned aircraft trajectories. Using open source data\nand parallel processing techniques, we performed trillions of calculations to\nestimate the relative horizontal distance between geospatial points across\nsixteen locations.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Emerging Technologies (cs.ET)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1911.00110"
+  }
+]

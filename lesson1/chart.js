@@ -217,7 +217,11 @@ function dispersion () {
 
     let fuckMe = data.map(e => e.temperatureMax)
 
-    var kde = kernelDensityEstimator(kernelEpanechnikov(7), x.ticks(40))
+    var x = d3.scaleLinear()
+      .domain([-10,15])
+      .range([0, width]);
+    var kde = kernelDensityEstimator(kernelEpanechnikov(7), x.ticks(60))
+    let density1 = kde(data)
   
     // add the y Axis
     var y = d3.scaleLinear()
@@ -236,8 +240,8 @@ function dispersion () {
         .attr("stroke-linejoin", "round")
         .attr("d",  d3.line()
           .curve(d3.curveBasis)
-          .x((d) => xScale(d[0]) )
-          .y((d) => yScale(d[1]) )
+          .x((d) => (d[0]) )
+          .y((d) => y(d[1]) )
             // .x(function(d) { return xScale(xAccessor(d)) })
             // .y(function(d) { return yScale(yMaxTempAccessor(d)) })
         );
@@ -245,19 +249,21 @@ function dispersion () {
     // Plot the area
     svg.append("path")
         .attr("class", "mypath")
-        .datum(data)
+        .datum(kde(fuckMe))
         .attr("fill", "#404080")
         .attr("opacity", ".6")
         .attr("stroke", "#000")
         .attr("stroke-width", 1)
         .attr("stroke-linejoin", "round")
         .attr("d",  d3.line()
-          .curve(d3.curveBasis)
-            .x(function(d) {
-                return xScale(xAccessor(d))
+            .curve(d3.curveBasis)
+            .x((d) => {
+                console.log(d[0])
+                return d[0]
             })
-            .y(function(d) {
-                return yScale(yMinTempAccessor(d))
+            .y((d) => {
+                console.log(d[1])
+                return y(d[1])
             })
         );
 

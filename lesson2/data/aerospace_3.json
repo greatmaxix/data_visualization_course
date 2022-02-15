@@ -1,0 +1,869 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2011.11304",
+    "title": "Title:Space-based Global Maritime Surveillance. Part I: Satellite Technologies",
+    "date_publ": "23 Nov 2020",
+    "authors": [
+      "Giovanni Soldi",
+      "Domenico Gaglione",
+      "Nicola Forti",
+      "Alessio Di Simone",
+      "Filippo Cristian Daffin\u00e0",
+      "Gianfausto Bottini",
+      "Dino Quattrociocchi",
+      "Leonardo M. Millefiori",
+      "Paolo Braca",
+      "Sandro Carniel",
+      "Peter Willett",
+      "Antonio Iodice",
+      "Daniele Riccio",
+      "Alfonso Farin"
+    ],
+    "abstract": "Abstract:  Maritime surveillance (MS) is crucial for search and rescue operations,\nfishery monitoring, pollution control, law enforcement, migration monitoring,\nand national security policies. Since the early days of seafaring, MS has been\na critical task for providing security in human coexistence. Several\ngenerations of sensors providing detailed maritime information have become\navailable for large offshore areas in real time: maritime radar sensors in the\n1950s and the automatic identification system (AIS) in the 1990s among them.\nHowever, ground-based maritime radars and AIS data do not always provide a\ncomprehensive and seamless coverage of the entire maritime space. Therefore,\nthe exploitation of space-based sensor technologies installed on satellites\norbiting around the Earth, such as satellite AIS data, synthetic aperture\nradar, optical sensors, and global navigation satellite systems reflectometry,\nbecomes crucial for MS and to complement the existing terrestrial technologies.\nIn the first part of this work, we provide an overview of the main available\nspace-based sensors technologies and present the advantages and limitations of\neach technology in the scope of MS. The second part, related to artificial\nintelligence, signal processing and data fusion techniques, is provided in a\ncompanion paper, titled: \"Space-based Global Maritime Surveillance. Part II:\nArtificial Intelligence and Data Fusion Techniques\" [1].",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2011.11304"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.08011",
+    "title": "Title:Robust Analysis of Stock Price Time Series Using CNN and LSTM-Based Deep Learning Models",
+    "date_publ": "7 Nov 2020 (v1), last revised 2 Jan 2021 (this version, v2)",
+    "authors": [
+      "Sidra Mehtab",
+      "Jaydip Sen",
+      "Subhasis Dasgupt"
+    ],
+    "abstract": "Abstract:  Prediction of stock price and stock price movement patterns has always been a\ncritical area of research. While the well-known efficient market hypothesis\nrules out any possibility of accurate prediction of stock prices, there are\nformal propositions in the literature demonstrating accurate modeling of the\npredictive systems that can enable us to predict stock prices with a very high\nlevel of accuracy. In this paper, we present a suite of deep learning-based\nregression models that yields a very high level of accuracy in stock price\nprediction. To build our predictive models, we use the historical stock price\ndata of a well-known company listed in the National Stock Exchange (NSE) of\nIndia during the period December 31, 2012 to January 9, 2015. The stock prices\nare recorded at five minutes intervals of time during each working day in a\nweek. Using these extremely granular stock price data, we build four\nconvolutional neural network (CNN) and five long- and short-term memory\n(LSTM)-based deep learning models for accurate forecasting of the future stock\nprices. We provide detailed results on the forecasting accuracies of all our\nproposed models based on their execution time and their root mean square error\n(RMSE) values.",
+    "categories": [
+      "Statistical Finance (q-fin.ST)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2011.08011"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.07286",
+    "title": "Title:Analytical Inverse Kinematics for a 5-DoF Robotic Arm with a Prismatic Joint",
+    "date_publ": "14 Nov 2020",
+    "authors": [
+      "Vighnesh Vatsal",
+      "Guy Hoffma"
+    ],
+    "abstract": "Abstract:  We present an analytical solution for the inverse kinematics (IK) of a\nrobotic arm with one prismatic joint and four revolute joints. This 5-DoF\ndesign is a result of minimizing weight while preserving functionality of the\ndevice in a wearable usage context. Generally, the IK problem for a 5-DoF robot\ndoes not guarantee solutions due to the system being over-constrained. We\nobtain an analytical solution by applying geometric projections and limiting\nthe ranges of motion for each DoF. We validate this solution by reconstructing\nrandomly sampled end-effector poses, and find position errors below 2 cm and\norientation errors below 4 degrees.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2011.07286"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.03090",
+    "title": "Title:Advanced Electrical Conductors: An Overview and Prospects of Metal Nanocomposite and Nanocarbon Based Conductors",
+    "date_publ": "5 Nov 2020",
+    "authors": [
+      "Mehran Tehran"
+    ],
+    "abstract": "Abstract:  Advanced electrical conductors that outperform copper and aluminum can\nrevolutionize our lives, enabling billions of dollars in energy savings and\nfacilitating a transition to an electric mobility future. Nanocarbons (carbon\nnanotubes and graphene) present a unique opportunity for developing advanced\nconductors for electrical power, communications, electronics, and electric\nmachines for the aerospace, marine, and automotive industries. This paper\ncompiles the major research progress in the field of advanced nanocarbon-based\nand metal-nanocarbon conductors. It also elucidates the competitiveness and\nimplications of advanced conductors with respect to conventional ones and\ndescribes their materials science, properties, and characterization. Finally,\nseveral areas of future research for advanced electrical conductors are\nproposed.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2011.03090"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.02441",
+    "title": "Title:Robust Entry Vehicle Guidance with Sampling-Based Invariant Funnels",
+    "date_publ": "4 Nov 2020",
+    "authors": [
+      "Remy Derollez",
+      "Simon Le Cleac'h",
+      "Zachary Mancheste"
+    ],
+    "abstract": "Abstract:  Managing uncertainty is a fundamental and critical issue in spacecraft entry\nguidance. This paper presents a novel approach for uncertainty propagation\nduring entry, descent and landing that relies on a new sum-of-squares robust\nverification technique. Unlike risk-based and probabilistic approaches, our\ntechnique does not rely on any probabilistic assumptions. It uses a set-based\ndescription to bound uncertainties and disturbances like vehicle and\natmospheric parameters and winds. The approach leverages a recently developed\nsampling-based version of sum-of-squares programming to compute regions of\nfinite time invariance, commonly referred to as \"invariant funnels\". We apply\nthis approach to a three-degree-of-freedom entry vehicle model and test it\nusing a Mars Science Laboratory reference trajectory. We compute tight\napproximations of robust invariant funnels that are guaranteed to reach a goal\nregion with increased landing accuracy while respecting realistic thermal\nconstraints.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2011.02441"
+  },
+  {
+    "url": "https://arxiv.org/abs/2011.00655",
+    "title": "Title:Reframing the Test Pyramid for Digitally Transformed Organizations",
+    "date_publ": "2 Nov 2020",
+    "authors": [
+      "Nicole Radziwill",
+      "Graham Freema"
+    ],
+    "abstract": "Abstract:  The test pyramid is a conceptual model that describes how quality checks can\nbe organized to ensure coverage of all components of a system, at all scales.\nOriginally conceived to help aerospace engineers plan tests to determine how\nmaterial changes impact system integrity, the concept was gradually introduced\ninto software engineering. Today, the test pyramid is typically used to\nillustrate that the majority of tests should be performed at the lowest (unit\ntest) level, with fewer integration tests, and even fewer acceptance tests\n(which are the most expensive to produce, and the slowest to execute). Although\nthe value of acceptance tests and integration tests increasingly depends on the\nintegrity of the underlying data, models, and pipelines, software development\nand data management organizations have traditionally been siloed and quality\nassurance practice is not as mature in data operations as it is for software.\nCompanies that close this gap by developing cross-organizational systems will\ncreate new competitive advantage and differentiation. By taking a more holistic\nview of testing that crosses these boundaries, practitioners can help their\norganizations close the gap.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/2011.00655"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.11772",
+    "title": "Title:Computational property predictions of Ta-Nb-Hf-Zr high-entropy alloys",
+    "date_publ": "22 Oct 2020",
+    "authors": [
+      "Shashank Mishra",
+      "Soumyadipta Maiti",
+      "Beena Ra"
+    ],
+    "abstract": "Abstract:  Refractory high entropy alloys (R-HEAs) are having properties and uses as\nhigh strength and high hardness materials for ambient and high temperature,\naerospace and nuclear radiation tolerance applications, orthopedic applications\netc. The mechanical properties like yield strength and ductility of TaNbHfZr\nR-HEA depend on the local nanostructure and chemical ordering. In this study we\nhave computationally obtained various properties of the TaNbHfZr alloy like the\nrole of configurational entropy in the thermodynamic property, rate of\nevolution of nanostructure morphology in thermally annealed systems,\ndislocation simulation based quantitative prediction of yield strength, nature\nof dislocation movement through short range clustering (SRC) and qualitative\nprediction of ductile to brittle transition behavior. The simulation starts\nwith hybrid Monte Carlo/ Molecular Dynamics (MC/MD) based nanostructure\nevolution of an initial random solid solution alloy structure with BCC lattice\nstructure created with principal axes along [1 1 1], [-1 1 0] and [-1 -1 2]\ndirections suitable for simulation of 1/2[1 1 1] edge dislocations.\nThermodynamic properties are calculated from the change in enthalpy and the\nconfigurational entropy by next-neighbor bond counting statistics. The MC/MD\nevolved structures mimic the annealing treatment at 1800\u00b0C and the output\nstructures are replicated in periodic directions to make larger 384000 atom\nstructures used for dislocation simulations. Edge dislocations were utilized to\nobtain and explain for the extra strengthening observed because of the\nformations of SRCs. Lastly the MC/MD evolved structures containing dislocations\nare subjected to a high shear stress beyond CRSS to investigate the stability\nof the dislocations and the lattice structures to explain the experimentally\nobserved transition from ductile to brittle behavior for the TaNbHfZr R-HEA.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/2010.11772"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.10988",
+    "title": "Title:Adhesion mechanism of temperature effects on Sn coating on the carbon fiber reinforced polymer substrate by cold spray",
+    "date_publ": "21 Oct 2020",
+    "authors": [
+      "Jiayu Sun",
+      "Shaoyun Zhou",
+      "Kenta Yamanakab",
+      "Yuji Ichikawa",
+      "Hiroki Saito",
+      "Kazuhiro Ogawa",
+      "Akihiko Chib"
+    ],
+    "abstract": "Abstract:  Metalization of carbon fiber reinforced polymers (CFRPs) composites by the\nsurface modification method to enhance their electrical conductivity, thermal\nconductivity, electromagnetic shielding, erosion, and radiation protection, has\na significant meaning in the aerospace field. In this study, Sn coating was\nsuccessfully fabricated on the CFRP composite substrate via low-pressure cold\nspray under four gas temperatures (473K, 523K, 573K, and 623K). Their bonding\nmechanism was explored via the surface observation after peel-off adhesion\nstrength, accompanying with surface temperature distribution investigation. The\nresults indicates that we cannot obtain coating at 623 K, the epoxy matrix of\nthe CFRP substrate was gradually eroded during deposition over 523 K.\nMeanwhile, Sn particles melt under 623 K condition. Three kinds of interfaces:\nSn/epoxy, Sn/CF, and Sn/CF/epoxy are revealed as characteristics with respect\nto different gas temperatures to explore the bonding mechanisms.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2010.10988"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.10872",
+    "title": "Title:SOK: Building a Launchpad for Impactful Satellite Cyber-Security Research",
+    "date_publ": "21 Oct 2020",
+    "authors": [
+      "James Pavur",
+      "Ivan Martinovi"
+    ],
+    "abstract": "Abstract:  As the space industry approaches a period of rapid change, securing both\nemerging and legacy satellite missions will become vital. However, space\ntechnology has been largely overlooked by the systems security community. This\nsystematization of knowledge paper seeks to understand why this is the case and\nto offer a starting point for technical security researchers seeking impactful\ncontributions beyond the Earth's mesosphere.\nThe paper begins with a cross-disciplinary synthesis of relevant threat\nmodels from a diverse array of fields, ranging from legal and policy studies to\naerospace engineering. This is presented as a \"threat matrix toolbox\" which\nsecurity researchers may leverage to motivate technical research into given\nattack vectors and defenses. We subsequently apply this model to an original\nchronology of more than 100 significant satellite hacking incidents spanning\nthe previous 60 years. Together, these are used to assess the state-of-the-art\nin satellite security across four sub-domains: satellite radio-link security,\nspace hardware security, ground station security, and operational/mission\nsecurity. In each area, we note significant findings and unresolved questions\nlingering in other disciplines which the systems security community is aptly\npoised to tackle. By consolidating this research, we present the case that\nsatellite systems security researchers can build on strong, but disparate,\nacademic foundations and rise to meet an urgent need for future space missions.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/2010.10872"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.08953",
+    "title": "Title:Progress towards 3D-printing diamond for medical implants: A review",
+    "date_publ": "18 Oct 2020",
+    "authors": [
+      "Aaqil Rifai",
+      "Shadi Houshyar",
+      "Kate Fo"
+    ],
+    "abstract": "Abstract:  Additive manufacturing or 3D-printing is used to create bespoke items in many\nfields, such as defence, aerospace and medicine. Despite the progress made in\n3D-printed orthopaedic implants, significant challenges remain in terms of\ncreating a material capable of osseointegration while inhibiting bacterial\ncolonisation of the implant. Diamond is rapidly emerging as a material with an\nextensive range of biomedical applications, especially due to its excellent\nbiocompatibility. However, diamond is a difficult material to fabricate, owing\nto its extreme level of hardness and its brittleness. New methods of\nfabrication including additive manufacturing, have overcome some of these\nchallenges and given rise to an increase in the use of diamond-based implants\nin both soft and hard tissue applications. Therefore, due to the unique\nproperties of diamond, it is being considered as a facilitator of bone growth\nand subsequent tissue integration. This review outlines the recent progress in\nfabricating diamond for orthopaedic application, specifically focusing on the\ndifferent fabrication approaches and their applicability in vitro and in vivo.\nThe prospects and challenges for using diamond in medical implant technologies\nare also discussed.",
+    "categories": [
+      "Cell Behavior (q-bio.CB)"
+    ],
+    "url_pdf": "/pdf/2010.08953"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.08015",
+    "title": "Title:Applicability and Challenges of Deep Reinforcement Learning for Satellite Frequency Plan Design",
+    "date_publ": "15 Oct 2020 (v1), last revised 12 Jan 2021 (this version, v2)",
+    "authors": [
+      "Juan Jose Garau Luis",
+      "Edward Crawley",
+      "Bruce Camero"
+    ],
+    "abstract": "Abstract:  The study and benchmarking of Deep Reinforcement Learning (DRL) models has\nbecome a trend in many industries, including aerospace engineering and\ncommunications. Recent studies in these fields propose these kinds of models to\naddress certain complex real-time decision-making problems in which classic\napproaches do not meet time requirements or fail to obtain optimal solutions.\nWhile the good performance of DRL models has been proved for specific use cases\nor scenarios, most studies do not discuss the compromises and generalizability\nof such models during real operations. In this paper we explore the tradeoffs\nof different elements of DRL models and how they might impact the final\nperformance. To that end, we choose the Frequency Plan Design (FPD) problem in\nthe context of multibeam satellite constellations as our use case and propose a\nDRL model to address it. We identify 6 different core elements that have a\nmajor effect in its performance: the policy, the policy optimizer, the state,\naction, and reward representations, and the training environment. We analyze\ndifferent alternatives for each of these elements and characterize their\neffect. We also use multiple environments to account for different scenarios in\nwhich we vary the dimensionality or make the environment nonstationary. Our\nfindings show that DRL is a potential method to address the FPD problem in real\noperations, especially because of its speed in decision-making. However, no\nsingle DRL model is able to outperform the rest in all scenarios, and the best\napproach for each of the 6 core elements depends on the features of the\noperation environment. While we agree on the potential of DRL to solve future\ncomplex problems in the aerospace industry, we also reflect on the importance\nof designing appropriate models and training procedures, understanding the\napplicability of such models, and reporting the main performance tradeoffs.",
+    "categories": [
+      "Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2010.08015"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.06276",
+    "title": "Title:Applications of Successive Convexification in Autonomous VehiclePlanning and Control",
+    "date_publ": "13 Oct 2020",
+    "authors": [
+      "Ali Boyali",
+      "Simon Thompson",
+      "David Won"
+    ],
+    "abstract": "Abstract:  In this paper, we present the application of successive convexification\nmethods to autonomous driving problems borrowed from recent aerospace\nliterature. We formulate two optimization problems within the successive\nconvexification framework. Using arc-length parametrization in the vehicle\nkinematic model, we solve the speed planning and model predictive control\nproblems with a range of constraints and obstacle configurations. This paper is\nthe first systematic application of successive convexification methods from the\naerospace literature to the autonomous driving problems. In addition, we show a\nsimple application of logical state-trigger constraints in a continuous\nformulation of the optimization by including an evasion maneuver in the\nsimulations section. We give details of the problem formulation and\nimplementation and present and discuss the results.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2010.06276"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.06130",
+    "title": "Title:Single-Antenna-Based GPS Antijamming Method Exploiting Polarization Diversity",
+    "date_publ": "13 Oct 2020 (v1), last revised 18 Nov 2020 (this version, v4)",
+    "authors": [
+      "Kwansik Park",
+      "Jiwon Se"
+    ],
+    "abstract": "Abstract:  The vulnerability of Global Positioning System (GPS) receivers to jammers is\na major concern owing to the extremely weak received signal power of GPS.\nResearches have been conducted on a variety of antenna array techniques to be\nused as countermeasures to GPS jammers, and their antijamming performance is\nknown to be greater than that of single antenna methods. However, the\napplication of antenna arrays remains limited because of their size, cost, and\ncomputational complexity. This study proposes and experimentally validates a\nnovel space-time-polarization domain adaptive processing for a single-element\ndual-polarized antenna (STPAPS) by focusing on the polarization diversity of a\ndual-polarized antenna. The mathematical models of arbitrarily polarized\nsignals received by dual-polarized antenna are derived, and an appropriate\nconstraint matrix for dual-polarized-antenna-based GPS antijam is suggested. To\nreduce the computational complexity of the constraint matrix approach, the\neigenvector constraint design scheme is adopted. The performance of STPAPS is\nquantitively and qualitatively evaluated through experiments as follows. 1) The\ncarrier-to-noise-density ratio (C/N0) of STPAPS under synthetic jamming is\ndemonstrated to be higher than that of the previous minimum mean squared error\n(MMSE) or minimum variance distortionless response (MVDR) based dual-polarized\nantenna methods. 2) The strengths and weaknesses of STPAPS are qualitatively\ncompared with those of the previous single-element dual-polarized antenna\nmethods that are not based on the MMSE or MVDR algorithms. 3) The\ncharacteristics of STPAPS (in terms of the directions and polarizations of the\nGPS and jamming signals) are compared with those of the conventional\ntwo-element single-polarized antenna array method, which has the same degree of\nfreedom as that of STPAPS.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2010.06130"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.02661",
+    "title": "Title:Architected Elastomer Networks for Optimal Electromechanical Response",
+    "date_publ": "6 Oct 2020",
+    "authors": [
+      "Matthew Grasinger",
+      "Kaushik Daya"
+    ],
+    "abstract": "Abstract:  Dielectric elastomers (DEs) that couple deformation and electrostatics have\nthe potential for use in soft sensors and actuators with applications ranging\nfrom robotic, biomedical, energy, aerospace and automotive technologies.\nHowever, currently available DEs are limited by weak electromechanical coupling\nand require large electric fields for significant actuation. In this work, a\nstatistical mechanics-based model of DE chains is applied to elucidate the role\nof a polymer network architecture in the performance of the bulk material.\nGiven a polymer network composed of chains that are cross-linked, the paper\nexamines the role of cross-link density, orientational density of chains, and\nother network parameters in determining the material properties of interest\nincluding elastic modulus, electrical susceptibility, and the electromechanical\ncoupling. From this analysis, a practical strategy is presented to increase the\ndeformation and usable work derived from (anisotropic) dielectric elastomer\nactuators by as much as $75-100\\%$.",
+    "categories": [
+      "Soft Condensed Matter (cond-mat.soft)"
+    ],
+    "url_pdf": "/pdf/2010.02661"
+  },
+  {
+    "url": "https://arxiv.org/abs/2010.00489",
+    "title": "Title:A Review of Gas-Surface Interaction Models for Orbital Aerodynamics Applications",
+    "date_publ": "1 Oct 2020 (v1), last revised 22 Nov 2020 (this version, v3)",
+    "authors": [
+      "Sabrina Livadiotti",
+      "Nicholas H. Crisp",
+      "Peter C.E. Roberts",
+      "Stephen D. Worrall",
+      "Vitor T.A. Oiko",
+      "Steve Edmondson",
+      "Sarah J. Haigh",
+      "Claire Huyton",
+      "Katharine L. Smith",
+      "Luciana A. Sinpetru",
+      "Brandon E. A. Holmes",
+      "Jonathan Becedas",
+      "Rosa Mar\u00eda Dom\u00ednguez",
+      "Valent\u00edn Ca\u00f1as",
+      "Simon Christensen",
+      "Anders M\u00f8lgaard",
+      "Jens Nielsen",
+      "Morten Bisgaard",
+      "Yung-An Chan",
+      "Georg H. Herdrich",
+      "Francesco Romano",
+      "Stefanos Fasoulas",
+      "Constantin Traub",
+      "Daniel Garcia-Almi\u00f1ana",
+      "Silvia Rodriguez-Donaire",
+      "Miquel Sureda",
+      "Dhiren Kataria",
+      "Badia Belkouchi",
+      "Alexis Conte",
+      "Jose Santiago Perez",
+      "Rachel Villain",
+      "Ron Outla"
+    ],
+    "abstract": "Abstract:  Renewed interest in Very Low Earth Orbits (VLEO) - i.e. altitudes below 450\nkm - has led to an increased demand for accurate environment characterisation\nand aerodynamic force prediction. While the former requires knowledge of the\nmechanisms that drive density variations in the thermosphere, the latter also\ndepends on the interactions between the gas-particles in the residual\natmosphere and the surfaces exposed to the flow. The determination of the\naerodynamic coefficients is hindered by the numerous uncertainties that\ncharacterise the physical processes occurring at the exposed surfaces. Several\nmodels have been produced over the last 60 years with the intent of combining\naccuracy with relatively simple implementations. In this paper the most popular\nmodels have been selected and reviewed using as discriminating factors\nrelevance with regards to orbital aerodynamics applications and theoretical\nagreement with gas-beam experimental data. More sophisticated models were\nneglected, since their increased accuracy is generally accompanied by a\nsubstantial increase in computation times which is likely to be unsuitable for\nmost space engineering applications. For the sake of clarity, a distinction was\nintroduced between physical and scattering kernel theory based gas-surface\ninteraction models. The physical model category comprises the Hard Cube model,\nthe Soft Cube model and the Washboard model, while the scattering kernel family\nconsists of the Maxwell model, the Nocilla-Hurlbut-Sherman model and the\nCercignani-Lampis-Lord model. Limits and assets of each model have been\ndiscussed with regards to the context of this paper. Wherever possible,\ncomments have been provided to help the reader to identify possible future\nchallenges for gas-surface interaction science with regards to orbital\naerodynamic applications.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2010.00489"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.14645",
+    "title": "Title:Computational framework for real-time diagnostics and prognostics of aircraft actuation systems",
+    "date_publ": "30 Sep 2020",
+    "authors": [
+      "Pier Carlo Berri",
+      "Matteo D.L. Dalla Vedova",
+      "Laura Mainin"
+    ],
+    "abstract": "Abstract:  Prognostics and Health Management (PHM) are emerging approaches to product\nlife cycle that will maintain system safety and improve reliability, while\nreducing operating and maintenance costs. This is particularly relevant for\naerospace systems, where high levels of integrity and high performances are\nrequired at the same time. We propose a novel strategy for the nearly real-time\nFault Detection and Identification (FDI) of a dynamical assembly, and for the\nestimation of Remaining Useful Life (RUL) of the system. The availability of a\ntimely estimate of the health status of the system will allow for an informed\nadaptive planning of maintenance and a dynamical reconfiguration of the mission\nprofile, reducing operating costs and improving reliability. This work\naddresses the three phases of the prognostic flow - namely (1) signal\nacquisition, (2) Fault Detection and Identification, and (3) Remaining Useful\nLife estimation - and introduces a computationally efficient procedure suitable\nfor real-time, on-board execution. To achieve this goal, we propose to combine\ninformation from physical models of different fidelity with machine learning\ntechniques to obtain efficient representations (surrogate models) suitable for\nnearly real-time applications. Additionally, we propose an importance sampling\nstrategy and a novel approach to model damage propagation for dynamical\nsystems. The methodology is assessed for the FDI and RUL estimation of an\naircraft electromechanical actuator (EMA) for secondary flight controls. The\nresults show that the proposed method allows for a high precision in the\nevaluation of the system RUL, while outperforming common model-based techniques\nin terms of computational time.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Machine Learning (cs.LG)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2009.14645"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.14292",
+    "title": "Title:Investigation of Instabilities in Detumbling Algorithms",
+    "date_publ": "29 Sep 2020",
+    "authors": [
+      "Jeet Yadav",
+      "Tushar Goya"
+    ],
+    "abstract": "Abstract:  Detumbling refers to the act of dampening the angular velocity of the\nsatellite. This operation is of paramount importance since it is virtually\nimpossible to nominally perform any other operation without some degree of\nattitude control. Common methods used to detumble satellites usually involve\nmagnetic actuation, paired with different types of sensors which are used to\nprovide angular velocity feedback. This paper presents the adverse effects of\ntime-discretization on the stability of two detumbling algorithms. An extensive\nliterature review revealed that both algorithms achieve absolute stability for\nsystems involving continuous feedback and output. However, the physical\ncomponents involved impose limitations on the maximum frequency of the\nalgorithm, thereby making any such system inconceivable. This asserts the need\nto perform a discrete-time stability analysis, as it is better suited to\nreflect on the actual implementation and dynamics of these algorithms. The\npaper starts with the current theory and views on the stability of these\nalgorithms. The next sections describe the continuous and discrete-time\nstability analysis performed by the team and the conclusions derived from it.\nTheoretical investigation led to the discovery of multiple conditions on\nangular velocity and operating frequencies of the hardware, for which the\nalgorithms were unstable. These results were then verified through various\nsimulations on MATLAB and Python3.6.7. The paper concludes with a discussion on\nthe various instabilities posed by time-discretization and the conditions under\nwhich the detumbling algorithm would be infeasible.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2009.14292"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.13126",
+    "title": "Title:Rate-dependent bifurcation dodging in a thermoacoustic system driven by colored noise",
+    "date_publ": "28 Sep 2020",
+    "authors": [
+      "Xiaoyu Zhang",
+      "Yong Xu",
+      "Qi Liu",
+      "J\u00fcrgen Kurths",
+      "Celso Grebog"
+    ],
+    "abstract": "Abstract:  Tipping in multistable systems occurs usually by varying the input slightly,\nresulting in the output switching to an often unsatisfactory state. This\nphenomenon is manifested in thermoacoustic systems. This thermoacoustic\ninstability may lead to the disintegration of rocket engines, gas turbines and\naeroengines, so it is necessary to design control measures for its suppression.\nIt was speculated that such unwanted instability states may be dodged by\nchanging quickly enough the bifurcation parameters. Thus, in this work, based\non a fundamental mathematical model of thermoacoustic systems driven by colored\nnoise, the corresponding Fokker-Planck-Kolmogorov equation of the amplitude is\nderived by using a stochastic averaging method. A transient dynamical behavior\nis identified through a probability density analysis. We find that the rate of\nchange of parameters and the correlation time of the noise are helpful to dodge\nthermoacoustic instability, while a relatively large noise intensity is a\ndisadvantageous factor. In addition, power-law relationships between the\nmaximum amplitude and the noise parameters are explored, and the probability of\nsuccessfully dodging a thermoacoustic instability is calculated. These results\nserve as a guide to the design of engines and to propose an effective control\nstrategy, which is of great significance to aerospace-related fields.",
+    "categories": [
+      "Adaptation and Self-Organizing Systems (nlin.AO)"
+    ],
+    "url_pdf": "/pdf/2009.13126"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.12334",
+    "title": "Title:Fused Low-Earth-Orbit GNSS",
+    "date_publ": "25 Sep 2020 (v1), last revised 17 Oct 2021 (this version, v3)",
+    "authors": [
+      "Peter A. Iannucci",
+      "Todd E. Humphrey"
+    ],
+    "abstract": "Abstract:  Traditional Global Navigation Satellite System (GNSS) immunity to\ninterference is limited by signal power and receiver antenna directivity, and\nmay be approaching a practical performance ceiling. Greater gains are possible\noutside traditional GNSS orbits and spectrum. GNSS from low Earth orbit (LEO)\nhas long been viewed as promising but expensive, requiring large constellations\nfor rapid navigation solutions. The recent proliferation of commercial\nbroadband constellations offers the possibility of extracting a LEO\npositioning, navigation, and timing (PNT) service from existing on-orbit\nhardware. These constellations operate at shorter wavelengths than traditional\nGNSS, permitting highly directive, relatively compact receiver antennas.\nDedicated on-orbit PNT resources are not required: the transmitters, antennas,\nclocks, and spectrum of the hosting broadband network suffice for PNT.\nNon-cooperative use of LEO signals for PNT is an option, but cooperation from\nthe constellation operator (\"fusion\" with its communications mission) eases the\nburden of tracking a dense, low-altitude constellation from the ground, and\nenables a receiver to produce single-epoch stand-alone PNT solutions. This\npaper proposes and analyzes the fused LEO GNSS concept. Viability hinges on\nopportunity cost, or the burden a secondary PNT mission imposes on the\ncommunications constellation operator. An in-depth quantitative opportunity\ncost assessment is provided in terms of time-space-bandwidth product and energy\nbudget. It is shown that an assured near-instantaneous-fix PNT service over\n$\\pm60$\u00b0 latitude (covering 99.8% of the world's population) with\npositioning performance superior to traditional GNSS pseudoranging would cost\nless than 0.8% of downlink capacity for the largest of the new constellations,\nSpaceX's Starlink.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2009.12334"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.11097",
+    "title": "Title:Factor Graph-Based Smoothing Without Matrix Inversion for Highly Precise Localization",
+    "date_publ": "22 Sep 2020",
+    "authors": [
+      "Paul Chauchat (ISAE-SUPAERO)",
+      "Axel Barrau",
+      "Silv\u00e8re Bonnabel (CAOR"
+    ],
+    "abstract": "Abstract:  We consider the problem of localizing a manned, semi-autonomous, or\nautonomous vehicle in the environment using information coming from the\nvehicle's sensors, a problem known as navigation or simultaneous localization\nand mapping (SLAM) depending on the context. To infer knowledge from sensors'\nmeasurements, while drawing on a priori knowledge about the vehicle's dynamics,\nmodern approaches solve an optimization problem to compute the most likely\ntrajectory given all past observations, an approach known as smoothing.\nImproving smoothing solvers is an active field of research in the SLAM\ncommunity. Most work is focused on reducing computation load by inverting the\ninvolved linear system while preserving its sparsity. The present paper raises\nan issue which, to the knowledge of the authors, has not been addressed yet:\nstandard smoothing solvers require explicitly using the inverse of sensor noise\ncovariance matrices. This means the parameters that reflect the noise magnitude\nmust be sufficiently large for the smoother to properly function. When matrices\nare close to singular, which is the case when using high precision modern\ninertial measurement units (IMU), numerical issues necessarily arise,\nespecially with 32-bits implementation demanded by most industrial aerospace\napplications. We discuss these issues and propose a solution that builds upon\nthe Kalman filter to improve smoothing algorithms. We then leverage the results\nto devise a localization algorithm based on fusion of IMU and vision sensors.\nSuccessful real experiments using an actual car equipped with a tactical grade\nhigh performance IMU and a LiDAR illustrate the relevance of the approach to\nthe field of autonomous vehicles.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Robotics (cs.RO)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2009.11097"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.09387",
+    "title": "Title:A System-Level Engineering Approach for Preliminary Performance Analysis and Design of Global Navigation Satellite System Constellations",
+    "date_publ": "20 Sep 2020",
+    "authors": [
+      "Marco Nugnes",
+      "Camilla Colombo",
+      "Massimo Tipald"
+    ],
+    "abstract": "Abstract:  This paper presents a system-level engineering approach for the preliminary\ncoverage performance analysis and the design of a generic Global Navigation\nSatellite System (GNSS) constellation. This analysis accounts for both the\ncoverage requirements and the robustness to transient or catastrophic failures\nof the constellation. The European GNSS, Galileo, is used as reference case to\nprove the effectiveness of the proposed tool. This software suite, named GNSS\nCoverage Analysis Tool (G-CAT), requires as input the state vector of each\nsatellite of the constellation and provides the performance of the GNSS\nconstellation in terms of coverage. The tool offers an orbit propagator, an\nattitude propagator, an algorithm to identify the visibility region on the\nEarth's surface from each satellite, and a counter function to compute how many\nsatellites are in view from given locations on the Earth's surface. Thanks to\nits low computational burden, the tool can be adopted to compute the optimal\nnumber of satellites per each orbital plane by verifying if the coverage and\naccuracy requirements are fulfilled under the assumption of uniform in-plane\nangular spacing between coplanar satellites.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/2009.09387"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.08569",
+    "title": "Title:Observers Design for Inertial Navigation Systems: A Brief Tutorial",
+    "date_publ": "18 Sep 2020",
+    "authors": [
+      "Miaomiao Wang",
+      "Abdelhamid Tayeb"
+    ],
+    "abstract": "Abstract:  The design of navigation observers able to simultaneously estimate the\nposition, linear velocity and orientation of a vehicle in a three-dimensional\nspace is crucial in many robotics and aerospace applications. This problem was\nmainly dealt with using the extended Kalman filter and its variants which\nproved to be instrumental in many practical applications. Although practically\nefficient, the lack of strong stability guarantees of these algorithms\nmotivated the emergence of a new class of geometric navigation observers\nrelying on Riemannian geometry tools, leading to provable strong stability\nproperties. The objective of this brief tutorial is to provide an overview of\nthe existing estimation schemes, as well as some recently developed geometric\nnonlinear observers, for autonomous navigation systems relying on inertial\nmeasurement unit (IMU) and landmark measurements.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2009.08569"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.07937",
+    "title": "Title:Post Quantum Secure Command and Control of Mobile Agents : Inserting quantum-resistant encryption schemes in the Secure Robot Operating System",
+    "date_publ": "16 Sep 2020",
+    "authors": [
+      "Richa Varma",
+      "Chris Melville",
+      "Claudio Pinello",
+      "Tuhin Saha"
+    ],
+    "abstract": "Abstract:  The secure command and control (C&C) of mobile agents arises in various\nsettings including unmanned aerial vehicles, single pilot operations in\ncommercial settings, and mobile robots to name a few. As more and more of these\napplications get integrated into aerospace and defense use cases, the security\nof the communication channel between the ground station and the mobile agent is\nof increasing importance. The development of quantum computing devices poses a\nunique threat to secure communications due to the vulnerability of asymmetric\nciphers to Shor's algorithm. Given the active development of new quantum\nresistant encryption techniques, we report the first integration of\npost-quantum secure encryption schemes with the robot operating system (ROS)\nand C&C of mobile agents, in general. We integrate these schemes in the\napplication and network layers, and study the performance of these methods by\ncomparing them to present day security schemes such as the widely used RSA\nalgorithm.",
+    "categories": [
+      "Cryptography and Security (cs.CR)",
+      " Networking and Internet Architecture (cs.NI)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2009.07937"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.07769",
+    "title": "Title:TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks",
+    "date_publ": "16 Sep 2020 (v1), last revised 14 Nov 2020 (this version, v3)",
+    "authors": [
+      "Alexander Geiger",
+      "Dongyu Liu",
+      "Sarah Alnegheimish",
+      "Alfredo Cuesta-Infante",
+      "Kalyan Veeramachanen"
+    ],
+    "abstract": "Abstract:  Time series anomalies can offer information relevant to critical situations\nfacing various fields, from finance and aerospace to the IT, security, and\nmedical domains. However, detecting anomalies in time series data is\nparticularly challenging due to the vague definition of anomalies and said\ndata's frequent lack of labels and highly complex temporal correlations.\nCurrent state-of-the-art unsupervised machine learning methods for anomaly\ndetection suffer from scalability and portability issues, and may have high\nfalse positive rates. In this paper, we propose TadGAN, an unsupervised anomaly\ndetection approach built on Generative Adversarial Networks (GANs). To capture\nthe temporal correlations of time series distributions, we use LSTM Recurrent\nNeural Networks as base models for Generators and Critics. TadGAN is trained\nwith cycle consistency loss to allow for effective time-series data\nreconstruction. We further propose several novel methods to compute\nreconstruction errors, as well as different approaches to combine\nreconstruction errors and Critic outputs to compute anomaly scores. To\ndemonstrate the performance and generalizability of our approach, we test\nseveral anomaly scoring techniques and report the best-suited one. We compare\nour approach to 8 baseline anomaly detection methods on 11 datasets from\nmultiple reputable sources such as NASA, Yahoo, Numenta, Amazon, and Twitter.\nThe results show that our approach can effectively detect anomalies and\noutperform baseline methods in most cases (6 out of 11). Notably, our method\nhas the highest averaged F1 score across all the datasets. Our code is open\nsource and is available as a benchmarking tool.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/2009.07769"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.13221",
+    "title": "Title:Human-in-the-Loop Methods for Data-Driven and Reinforcement Learning Systems",
+    "date_publ": "30 Aug 2020",
+    "authors": [
+      "Vinicius G. Goeck"
+    ],
+    "abstract": "Abstract:  Recent successes combine reinforcement learning algorithms and deep neural\nnetworks, despite reinforcement learning not being widely applied to robotics\nand real world scenarios. This can be attributed to the fact that current\nstate-of-the-art, end-to-end reinforcement learning approaches still require\nthousands or millions of data samples to converge to a satisfactory policy and\nare subject to catastrophic failures during training. Conversely, in real world\nscenarios and after just a few data samples, humans are able to either provide\ndemonstrations of the task, intervene to prevent catastrophic actions, or\nsimply evaluate if the policy is performing correctly. This research\ninvestigates how to integrate these human interaction modalities to the\nreinforcement learning loop, increasing sample efficiency and enabling\nreal-time reinforcement learning in robotics and real world scenarios. This\nnovel theoretical foundation is called Cycle-of-Learning, a reference to how\ndifferent human interaction modalities, namely, task demonstration,\nintervention, and evaluation, are cycled and combined to reinforcement learning\nalgorithms. Results presented in this work show that the reward signal that is\nlearned based upon human interaction accelerates the rate of learning of\nreinforcement learning algorithms and that learning from a combination of human\ndemonstrations and interventions is faster and more sample efficient when\ncompared to traditional supervised learning algorithms. Finally,\nCycle-of-Learning develops an effective transition between policies learned\nusing human demonstrations and interventions to reinforcement learning. The\ntheoretical foundation developed by this research opens new research paths to\nhuman-agent teaming scenarios where autonomous agents are able to learn from\nhuman teammates and adapt to mission performance metrics in real-time and in\nreal world scenarios.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Artificial Intelligence (cs.AI)",
+      " Human-Computer Interaction (cs.HC)",
+      " Robotics (cs.RO)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/2008.13221"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.12461",
+    "title": "Title:Counter-Unmanned Aircraft System(s) (C-UAS): State of the Art, Challenges and Future Trends",
+    "date_publ": "28 Aug 2020",
+    "authors": [
+      "Jian Wang",
+      "Yongxin Liu",
+      "Houbing Son"
+    ],
+    "abstract": "Abstract:  Unmanned aircraft systems (UAS), or unmanned aerial vehicles (UAVs), often\nreferred to as drones, have been experiencing healthy growth in the United\nStates and around the world. The positive uses of UAS have the potential to\nsave lives, increase safety and efficiency, and enable more effective science\nand engineering research. However, UAS are subject to threats stemming from\nincreasing reliance on computer and communication technologies, which place\npublic safety, national security, and individual privacy at risk. To promote\nsafe, secure and privacy-respecting UAS operations, there is an urgent need for\ninnovative technologies for detecting, tracking, identifying and mitigating\nUAS. A Counter-UAS (C-UAS) system is defined as a system or device capable of\nlawfully and safely disabling, disrupting, or seizing control of an unmanned\naircraft or unmanned aircraft system. Over the past 5 years, significant\nresearch efforts have been made to detect, and mitigate UAS: detection\ntechnologies are based on acoustic, vision, passive radio frequency, radar, and\ndata fusion; and mitigation technologies include physical capture or jamming.\nIn this paper, we provide a comprehensive survey of existing literature in the\narea of C-UAS, identify the challenges in countering unauthorized or unsafe\nUAS, and evaluate the trends of detection and mitigation for protecting against\nUAS-based threats. The objective of this survey paper is to present a\nsystematic introduction of C-UAS technologies, thus fostering a research\ncommunity committed to the safe integration of UAS into the airspace system.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2008.12461"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.12247",
+    "title": "Title:Bracketing brackets with bras and kets",
+    "date_publ": "31 Jul 2020",
+    "authors": [
+      "Emily Clark",
+      "Angelie Vincent",
+      "J. Nathan Kutz",
+      "Steven L. Brunto"
+    ],
+    "abstract": "Abstract:  Brackets are an essential component in aircraft manufacture and design,\njoining parts together, supporting weight, holding wires, and strengthening\njoints. Hundreds or thousands of unique brackets are used in every aircraft,\nbut manufacturing a large number of distinct brackets is inefficient and\nexpensive. Fortunately, many so-called \"different\" brackets are in fact very\nsimilar or even identical to each other. In this manuscript, we present a\ndata-driven framework for constructing a comparatively small group of\nrepresentative brackets from a large catalog of current brackets, based on\nhierarchical clustering of bracket data. We find that for a modern commercial\naircraft, the full set of brackets can be reduced by 30\\% while still\ndescribing half of the test set sufficiently accurately. This approach is based\non designing an inner product that quantifies a multi-objective similarity\nbetween two brackets, which are the \"bra\" and the \"ket\" of the inner product.\nAlthough we demonstrate this algorithm to reduce the number of brackets in\naerospace manufacturing, it may be generally applied to any large-scale\ncomponent standardization effort.",
+    "categories": [
+      "Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2008.12247"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.11788",
+    "title": "Title:Share Price Prediction of Aerospace Relevant Companies with Recurrent Neural Networks based on PCA",
+    "date_publ": "26 Aug 2020",
+    "authors": [
+      "Linyu Zheng",
+      "Hongmei H"
+    ],
+    "abstract": "Abstract:  The capital market plays a vital role in marketing operations for aerospace\nindustry. However, due to the uncertainty and complexity of the stock market\nand many cyclical factors, the stock prices of listed aerospace companies\nfluctuate significantly. This makes the share price prediction challengeable.\nTo improve the prediction of share price for aerospace industry sector and well\nunderstand the impact of various indicators on stock prices, we provided a\nhybrid prediction model by the combination of Principal Component Analysis\n(PCA) and Recurrent Neural Networks. We investigated two types of aerospace\nindustries (manufacturer and operator). The experimental results show that PCA\ncould improve both accuracy and efficiency of prediction. Various factors could\ninfluence the performance of prediction models, such as finance data, extracted\nfeatures, optimisation algorithms, and parameters of the prediction model. The\nselection of features may depend on the stability of historical data: technical\nfeatures could be the first option when the share price is stable, whereas\nfundamental features could be better when the share price has high fluctuation.\nThe delays of RNN also depend on the stability of historical data for different\ntypes of companies. It would be more accurate through using short-term\nhistorical data for aerospace manufacturers, whereas using long-term historical\ndata for aerospace operating airlines. The developed model could be an\nintelligent agent in an automatic stock prediction system, with which, the\nfinancial industry could make a prompt decision for their economic strategies\nand business activities in terms of predicted future share price, thus\nimproving the return on investment. Currently, COVID-19 severely influences\naerospace industries. The developed approach can be used to predict the share\nprice of aerospace industries at post COVID-19 time.",
+    "categories": [
+      "Statistical Finance (q-fin.ST)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2008.11788"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.10740",
+    "title": "Title:Data-Driven Aerospace Engineering: Reframing the Industry with Machine Learning",
+    "date_publ": "24 Aug 2020",
+    "authors": [
+      "Steven L. Brunton",
+      "J. Nathan Kutz",
+      "Krithika Manohar",
+      "Aleksandr Y. Aravkin",
+      "Kristi Morgansen",
+      "Jennifer Klemisch",
+      "Nicholas Goebel",
+      "James Buttrick",
+      "Jeffrey Poskin",
+      "Agnes Blom-Schieber",
+      "Thomas Hogan",
+      "Darren McDonal"
+    ],
+    "abstract": "Abstract:  Data science, and machine learning in particular, is rapidly transforming the\nscientific and industrial landscapes. The aerospace industry is poised to\ncapitalize on big data and machine learning, which excels at solving the types\nof multi-objective, constrained optimization problems that arise in aircraft\ndesign and manufacturing. Indeed, emerging methods in machine learning may be\nthought of as data-driven optimization techniques that are ideal for\nhigh-dimensional, non-convex, and constrained, multi-objective optimization\nproblems, and that improve with increasing volumes of data. In this review, we\nwill explore the opportunities and challenges of integrating data-driven\nscience and engineering into the aerospace industry. Importantly, we will focus\non the critical need for interpretable, generalizeable, explainable, and\ncertifiable machine learning techniques for safety-critical applications. This\nreview will include a retrospective, an assessment of the current\nstate-of-the-art, and a roadmap looking forward. Recent algorithmic and\ntechnological trends will be explored in the context of critical challenges in\naerospace design, manufacturing, verification, validation, and services. In\naddition, we will explore this landscape through several case studies in the\naerospace industry. This document is the result of close collaboration between\nUW and Boeing to summarize past efforts and outline future opportunities.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Signal Processing (eess.SP)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2008.10740"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.10275",
+    "title": "Title:A Low-rank Method for Parameter-dependent Fluid-structure Interaction Discretizations With Hyperelasticity",
+    "date_publ": "24 Aug 2020",
+    "authors": [
+      "Roman Weinhandl",
+      "Peter Benner",
+      "Thomas Richte"
+    ],
+    "abstract": "Abstract:  In aerospace engineering and boat building, fluid-structure interaction\nmodels are considered to investigate prototypes before they are physically\nassembled. How a material interacts with different fluids at different Reynold\nnumbers has to be studied before it is passed over to the manufacturing\nprocess. In addition, examining the same model not only for different fluids\nbut also for different solids allows to optimize the choice of materials for\nconstruction even better. A possible answer on this demand is\nparameter-dependent discretization. Furthermore, low-rank techniques can reduce\nthe complexity needed to compute approximations to parameter-dependent\nfluid-structure interaction discretizations.\nLow-rank methods have been applied to parameter-dependent linear\nfluid-structure interaction discretizations. The linearity of the operators\ninvolved allows to translate the resulting equations to a single matrix\nequation. The solution is approximated by a low-rank method. In this paper, we\npropose a new method that extends this framework to nonlinear\nparameter-dependent fluid-structure interaction problems by means of the Newton\niteration. The parameter set is split into disjoint subsets. On each subset,\nthe Newton approximation of the problem related to the upper median parameter\nis computed and serves as initial guess for one Newton step on the whole\nsubset. This Newton step yields a matrix equation whose solution can be\napproximated by a low-rank method.\nThe resulting method requires a smaller number of Newton steps if compared\nwith a direct approach that applies the Newton iteration to the separate\nproblems consecutively. In the experiments considered, the proposed method\nallowed to compute a low-rank approximation within a twentieth of the time used\nby the direct approach.",
+    "categories": [
+      "Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/2008.10275"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.08921",
+    "title": "Title:Construction of control barrier function and $C^2$ reference trajectory for constrained attitude maneuvers",
+    "date_publ": "20 Aug 2020",
+    "authors": [
+      "Xiao Tan",
+      "Dimos V. Dimarogona"
+    ],
+    "abstract": "Abstract:  Constrained attitude maneuvers have numerous applications in robotics and\naerospace. In our previous work, a general framework to this problem was\nproposed with resolution completeness guarantee. However, a smooth reference\ntrajectory and a low-level safety-critical controller were lacking. In this\nwork, we propose a novel construction of a $C^2$ continuous reference\ntrajectory based on B\u00e9zier curves on $ SO(3) $ that evolves within\npredetermined cells and eliminates previous stop-and-go behavior. Moreover, we\npropose a novel zeroing control barrier function on $ SO(3) $ that provides a\nsafety certificate over a set of overlapping cells on $ SO(3) $ while avoiding\nnonsmooth analysis. The safety certificate is given as a linear constraint on\nthe control input and implemented in real-time. A remedy is proposed to handle\nthe states where the coefficient of the control input in the linear constraint\nvanishes. Numerical simulations are given to verify the advantages of the\nproposed method.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2008.08921"
+  },
+  {
+    "url": "https://arxiv.org/abs/2008.01723",
+    "title": "Title:Having a Bad Day? Detecting the Impact of Atypical Life Events Using Wearable Sensors",
+    "date_publ": "4 Aug 2020",
+    "authors": [
+      "Keith Burghardt",
+      "Nazgol Tavabi",
+      "Emilio Ferrara",
+      "Shrikanth Narayanan",
+      "Kristina Lerma"
+    ],
+    "abstract": "Abstract:  Life events can dramatically affect our psychological state and work\nperformance. Stress, for example, has been linked to professional\ndissatisfaction, increased anxiety, and workplace burnout. We explore the\nimpact of positive and negative life events on a number of psychological\nconstructs through a multi-month longitudinal study of hospital and aerospace\nworkers. Through causal inference, we demonstrate that positive life events\nincrease positive affect, while negative events increase stress, anxiety and\nnegative affect. While most events have a transient effect on psychological\nstates, major negative events, like illness or attending a funeral, can reduce\npositive affect for multiple days. Next, we assess whether these events can be\ndetected through wearable sensors, which can cheaply and unobtrusively monitor\nhealth-related factors. We show that these sensors paired with embedding-based\nlearning models can be used ``in the wild'' to capture atypical life events in\nhundreds of workers across both datasets. Overall our results suggest that\nautomated interventions based on physiological sensing may be feasible to help\nworkers regulate the negative effects of life events.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)"
+    ],
+    "url_pdf": "/pdf/2008.01723"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.13887",
+    "title": "Title:3DMaterialGAN: Learning 3D Shape Representation from Latent Space for Materials Science Applications",
+    "date_publ": "27 Jul 2020",
+    "authors": [
+      "Devendra K. Jangid",
+      "Neal R. Brodnik",
+      "Amil Khan",
+      "McLean P. Echlin",
+      "Tresa M. Pollock",
+      "Sam Daly",
+      "B. S. Manjunat"
+    ],
+    "abstract": "Abstract:  In the field of computer vision, unsupervised learning for 2D object\ngeneration has advanced rapidly in the past few years. However, 3D object\ngeneration has not garnered the same attention or success as its predecessor.\nTo facilitate novel progress at the intersection of computer vision and\nmaterials science, we propose a 3DMaterialGAN network that is capable of\nrecognizing and synthesizing individual grains whose morphology conforms to a\ngiven 3D polycrystalline material microstructure. This Generative Adversarial\nNetwork (GAN) architecture yields complex 3D objects from probabilistic latent\nspace vectors with no additional information from 2D rendered images. We show\nthat this method performs comparably or better than state-of-the-art on\nbenchmark annotated 3D datasets, while also being able to distinguish and\ngenerate objects that are not easily annotated, such as grain morphologies. The\nvalue of our algorithm is demonstrated with analysis on experimental real-world\ndata, namely generating 3D grain structures found in a commercially relevant\nwrought titanium alloy, which were validated through statistical shape\ncomparison. This framework lays the foundation for the recognition and\nsynthesis of polycrystalline material microstructures, which are used in\nadditive manufacturing, aerospace, and structural design applications.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Machine Learning (cs.LG)",
+      " Image and Video Processing (eess.IV)"
+    ],
+    "url_pdf": "/pdf/2007.13887"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.12902",
+    "title": "Title:Industrial manufacturing and characterization of multiscale CFRP laminates made from prepregs containing graphene-related materials",
+    "date_publ": "25 Jul 2020",
+    "authors": [
+      "Veronica Rodriguez-Garcia",
+      "Julio Gomez",
+      "Francesco Cristiano",
+      "Maria R. Gud"
+    ],
+    "abstract": "Abstract:  The introduction of graphene-related materials (GRMs) in carbon\nfibre-reinforced polymers (CFRP) has been proved to enhance their mechanical\nand electrical properties. However, methodologies to produce the 3-phase\nmaterials (multiscale composites) at an industrial scale and in an efficient\nmanner are still lacking. In this paper, multiscale CFRP composites containing\ndifferent GRMs have been manufactured following standard procedures currently\nused in the aerospace industry with the aim to evaluate its potential\napplication. Graphite nanoplateletelets (GNPs), in situ exfoliated graphene\noxide (GO) and reduced graphene oxide (rGO) have been dispersed into an epoxy\nresin to subsequently impregnate aeronautical grade carbon fibre tape. The\nresulting prepregs have been used for manufacturing laminates by hand lay-up\nand autoclave curing at 180 \u00b0C. Abroad characterization campaign has been\ncarried out to understand the behaviour of the different multiscale laminates\nmanufactured. The degree of cure, glass transition temperature and degradation\ntemperature have been evaluated by thermal evolution techniques. Similarly,\ntheir mechanical properties (tensile, flexural, in-plane shear, interlaminar\nshear and mode I interlaminar fracture toughness) have been analysed together\nwith their electrical conductivity. The manufacturing process resulted\nappropriated for producing three-phase laminates and their quality was as good\nas in conventional CFRPs. The addition ofGOand rGO resulted in an enhancement\nof the in-plane shear properties and delamination resistance while the addition\nofGNPimproved the electrical conductivity.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2007.12902"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.10774",
+    "title": "Title:Cloud technologies as a tool of creating Earth Remote Sensing educational resources",
+    "date_publ": "21 Jul 2020",
+    "authors": [
+      "Ihor Kholoshyn",
+      "Olga Bondarenko",
+      "Olena Hanchuk",
+      "Iryna Varfolomyeyev"
+    ],
+    "abstract": "Abstract:  This article is dedicated to the Earth Remote Sensing (ERS), which the\nauthors believe is a great way to teach geography and allows forming an idea of\nthe actual geographic features and phenomena. One of the major problems that\nnow constrains the active introduction of remote sensing data in the\neducational process is the low availability of training aerospace pictures,\nwhich meet didactic requirements. The article analyzes the main sources of ERS\nas a basis for educational resources formation with aerospace images: paper,\nvarious individual sources (personal stations receiving satellite information,\ndrones, balloons, kites and balls) and Internet sources (mainstream sites,\nsites of scientific-technical organizations and distributors, interactive\nInternet geoservices, cloud platforms of geospatial analysis). The authors\npoint out that their geospatial analysis platforms (Google Earth Engine, Land\nViewer, EOS Platform, etc.), due to their unique features, are the basis for\nthe creation of information thematic databases of ERS. The article presents an\nexample of such a database, covering more than 800 aerospace images and dynamic\nmodels, which are combined according to such didactic principles as high\ninformation load and clarity.",
+    "categories": [
+      "Computers and Society (cs.CY)"
+    ],
+    "url_pdf": "/pdf/2007.10774"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.10543",
+    "title": "Title:INS/Odometer Land Navigation by Accurate Measurement Modeling and Multiple-Model Adaptive Estimation",
+    "date_publ": "21 Jul 2020",
+    "authors": [
+      "Wei Ouyang",
+      "Yuanxin Wu",
+      "Hongyue Che"
+    ],
+    "abstract": "Abstract:  Land vehicle navigation based on inertial navigation system (INS) and\nodometers is a classical autonomous navigation application and has been\nextensively studied over the past several decades. In this work, we seriously\nanalyze the error characteristics of the odometer (OD) pulses and investigate\nthree types of odometer measurement models in the INS/OD integrated system.\nSpecifically, in the pulse velocity model, a preliminary Kalman filter is\ndesigned to obtain accurate vehicle velocity from the accumulated pulses; the\npulse increment model is accordingly obtained by integrating the pulse\nvelocity; a new pulse accumulation model is proposed by augmenting the\ntravelled distance into the system state. The three types of measurements,\nalong with the nonhonolomic constraint (NHC), are implemented in the standard\nextended Kalman filter. In view of the motion-related pulse error\ncharacteristics, the multiple model adaptive estimation (MMAE) approach is\nexploited to further enhance the performance. Simulations and long-distance\nexperiments are conducted to verify the feasibility and effectiveness of the\nproposed methods. It is shown that the standard pulse velocity measurement\nachieves the superior performance, whereas the accumulated pulse measurement is\nmost favorable with the MMAE enhancement.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2007.10543"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.07699",
+    "title": "Title:The Benefits of Very Low Earth Orbit for Earth Observation Missions",
+    "date_publ": "15 Jul 2020 (v1), last revised 16 Jul 2020 (this version, v2)",
+    "authors": [
+      "N. H. Crisp",
+      "P. C. E. Roberts",
+      "S. Livadiotti",
+      "V. T. A. Oiko",
+      "S. Edmondson",
+      "S. J. Haigh",
+      "C. Huyton",
+      "L. Sinpetru",
+      "K. L. Smith",
+      "S. D. Worrall",
+      "J. Becedas",
+      "R. M. Dom\u00ednguez",
+      "D. Gonz\u00e1lez",
+      "V. Hanessian",
+      "A. M\u00f8lgaard",
+      "J. Nielsen",
+      "M. Bisgaard",
+      "Y. -A. Chan",
+      "S. Fasoulas",
+      "G. H. Herdrich",
+      "F. Romano",
+      "C. Traub",
+      "D. Garc\u00eda-Almi\u00f1ana",
+      "S. Rodr\u00edguez-Donaire",
+      "M. Sureda",
+      "D. Kataria",
+      "R. Outlaw",
+      "B. Belkouchi",
+      "A. Conte",
+      "J. S. Perez",
+      "R. Villain",
+      "B. Hei\u00dferer",
+      "A. Schwalbe"
+    ],
+    "abstract": "Abstract:  Very low Earth orbits (VLEO), typically classified as orbits below\napproximately 450 km in altitude, have the potential to provide significant\nbenefits to spacecraft over those that operate in higher altitude orbits. This\npaper provides a comprehensive review and analysis of these benefits to\nspacecraft operations in VLEO, with parametric investigation of those which\napply specifically to Earth observation missions. The most significant benefit\nfor optical imaging systems is that a reduction in orbital altitude improves\nspatial resolution for a similar payload specification. Alternatively mass and\nvolume savings can be made whilst maintaining a given performance. Similarly,\nfor radar and lidar systems, the signal-to-noise ratio can be improved.\nAdditional benefits include improved geospatial position accuracy, improvements\nin communications link-budgets, and greater launch vehicle insertion\ncapability. The collision risk with orbital debris and radiation environment\ncan be shown to be improved in lower altitude orbits, whilst compliance with\nIADC guidelines for spacecraft post-mission lifetime and deorbit is also\nassisted. Finally, VLEO offers opportunities to exploit novel\natmosphere-breathing electric propulsion systems and aerodynamic attitude and\norbit control methods.\nHowever, key challenges associated with our understanding of the lower\nthermosphere, aerodynamic drag, the requirement to provide a meaningful orbital\nlifetime whilst minimising spacecraft mass and complexity, and atomic oxygen\nerosion still require further research. Given the scope for significant\ncommercial, societal, and environmental impact which can be realised with\nhigher performing Earth observation platforms, renewed research efforts to\naddress the challenges associated with VLEO operations are required.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/2007.07699"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.06645",
+    "title": "Title:Approaching the Practical Conductivity Limits of Aerosol Jet Printed Silver",
+    "date_publ": "13 Jul 2020",
+    "authors": [
+      "Eva S. Rosker",
+      "Michael T. Barako",
+      "Evan Nguyen",
+      "Don DiMarzio",
+      "Kim Kisslinger",
+      "Dah-Weih Duan",
+      "Rajinder Sandhu",
+      "Mark S. Goorsky",
+      "Jesse Tic"
+    ],
+    "abstract": "Abstract:  Previous efforts to directly write conductive metals have been narrowly\nfocused on nanoparticle ink suspensions that require aggressive sintering (>200\n\u00b0C) and result in low-density, small-grained agglomerates with electrical\nconductivities <25% of bulk metal. Here, we demonstrate aerosol jet printing of\na reactive ink solution and characterize high-density (93%) printed silver\ntraces having near-bulk conductivity and grain sizes greater than the electron\nmean free path, while only requiring a low-temperature (80 \u00b0C) treatment.\nWe have developed a predictive electronic transport model which correlates the\nmicrostructure to the measured conductivity and identifies a strategy to\napproach the practical conductivity limit for printed metals. Our analysis of\nhow grain boundaries and tortuosity contribute to electrical resistivity\nprovides insight into the basic materials science that governs how an ink\nformulator or process developer might approach improving the conductivity.\nTransmission line measurements validate that electrical properties are\npreserved up to 20 GHz, which demonstrates the utility of this technique for\nprinted RF components. This work reveals a new method of producing robust\nprinted electronics that retain the advantages of rapid prototyping and\nthree-dimensional fabrication while achieving the performance necessary for\nsuccess within the aerospace and communications industries.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2007.06645"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.03675",
+    "title": "Title:Tradespace analysis of GNSS Space Segment Architectures",
+    "date_publ": "6 Jul 2020 (v1), last revised 10 Jul 2020 (this version, v2)",
+    "authors": [
+      "Filipe Pereira",
+      "Daniel Selv"
+    ],
+    "abstract": "Abstract:  Global Navigation Satellite Systems (GNSS) provide ubiquitous, continuous and\nreliable positioning, navigation and timing information around the world.\nHowever, GNSS space segment design decisions have been based on the precursor\nGlobal Positioning System (GPS), which was designed in the 70s. This paper\nrevisits those early design decisions in view of major technological\nadvancements and new GNSS environmental threats. The rich tradespace between\nUser Navigation Error (UNE) performance and constellation deployment costs is\nexplored and conclusions are complemented by sensitivity analysis and\nassociation rule mining. This study finds that constellations at an orbit\naltitude of ~2 Earth radii can outperform existing GNSS in terms of cost,\nrobustness and UNE. These insights should be taken into account when designing\nfuture generations of GNSS.",
+    "categories": [
+      "Signal Processing (eess.SP)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2007.03675"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.01158",
+    "title": "Title:Species Area Relationship (SAR): Pattern Description with Geometrical Approach",
+    "date_publ": "2 Jul 2020 (v1), last revised 3 Jul 2021 (this version, v6)",
+    "authors": [
+      "Saeid Alirezazadeh",
+      "Khadijeh Alibabaei",
+      "Stephen P. Hubbel"
+    ],
+    "abstract": "Abstract:  Several formulations are describing the pattern of species-area relationship,\nlog-log linear, semi-log linear, among others. These patterns mainly explain\nthe species-area relationship for large areas, and for the small area, they\nprovide significant differences from real data. We consider the geometric\nposition of individuals of species, and base on that, we find the probability\nof observing at least one individual of the species. We apply a translation of\nthe well-studied problem of mixed salt-water in a tank to describe the formula\nof SAR. For a rectangular sample area the species-area relationship follows the\npattern, with some simplification, $S=c|A^{\\beta}+a|^z$, where $S$ is the\nnumber of species in the area of size $A$ and $a,c,z$, and $\\beta$ are\nconstants with $z<1$ and $\\beta\\leq1$. We also show how the constant $z$\nrelates to some macroecological patterns, namely spatial aggregation,\npercentage of area coverage, and the core-satellite model. We exemplify our\nmethod using data on tropical tree species from a 50ha plot in Barro Colorado\nIsland (BCI), Panama, using all individuals.",
+    "categories": [
+      "Populations and Evolution (q-bio.PE)"
+    ],
+    "url_pdf": "/pdf/2007.01158"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.00451",
+    "title": "Title:Improvement on Extrapolation of Species Abundance Distribution Across Scales from Moments Across Scales",
+    "date_publ": "1 Jul 2020 (v1), last revised 3 Jul 2021 (this version, v3)",
+    "authors": [
+      "Saeid Alirezazadeh",
+      "Khadijeh Alibabae"
+    ],
+    "abstract": "Abstract:  Raw moments are used as a way to estimate species abundance distribution. The\nalmost linear pattern of the log transformation of raw moments across scales\nallow us to extrapolate species abundance distribution for larger areas.\nHowever, results may produce errors. Some of these errors are due to\ncomputational complexity, fittings of patterns, binning methods, and so on. We\nprovide some methods to reduce some of the errors. The main result is\nintroducing new techniques for evaluating a more accurate species abundance\ndistributions across scales through moments across scales.",
+    "categories": [
+      "Populations and Evolution (q-bio.PE)",
+      " Symbolic Computation (cs.SC)"
+    ],
+    "url_pdf": "/pdf/2007.00451"
+  },
+  {
+    "url": "https://arxiv.org/abs/2007.00245",
+    "title": "Title:Fighting Failures with FIRE: Failure Identification to Reduce Expert Burden in Intervention-Based Learning",
+    "date_publ": "1 Jul 2020 (v1), last revised 10 Aug 2020 (this version, v2)",
+    "authors": [
+      "Trevor Ablett",
+      "Filip Mari\u0107",
+      "Jonathan Kell"
+    ],
+    "abstract": "Abstract:  Supervised imitation learning, also known as behavioral cloning, suffers from\ndistribution drift leading to failures during policy execution. One approach to\nmitigate this issue is to allow an expert to correct the agent's actions during\ntask execution, based on the expert's determination that the agent has reached\na `point of no return.' The agent's policy is then retrained using this new\ncorrective data. This approach alone can enable high-performance agents to be\nlearned, but at a substantial cost: the expert must vigilantly observe\nexecution until the policy reaches a specified level of success, and even at\nthat point, there is no guarantee that the policy will always succeed. To\naddress these limitations, we present FIRE (Failure Identification to Reduce\nExpert Burden in intervention-based learning), a system that can predict when a\nrunning policy will fail, halt its execution, and request a correction from the\nexpert. Unlike existing approaches that learn only from expert data, our\napproach learns from both expert and non-expert data, akin to adversarial\nlearning. We demonstrate experimentally for a series of challenging\nmanipulation tasks that our method is able to recognize state-action pairs that\nlead to failures. This permits seamless integration into an intervention-based\nlearning system, where we show an order-of-magnitude gain in sample efficiency\ncompared with a state-of-the-art inverse reinforcement learning method and\ndramatically improved performance over an equivalent amount of data learned\nwith behavioral cloning.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2007.00245"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.16728",
+    "title": "Title:Overview of Gaussian process based multi-fidelity techniques with variable relationship between fidelities",
+    "date_publ": "30 Jun 2020",
+    "authors": [
+      "Lo\u00efc Brevault",
+      "Mathieu Balesdent",
+      "Ali Hebba"
+    ],
+    "abstract": "Abstract:  The design process of complex systems such as new configurations of aircraft\nor launch vehicles is usually decomposed in different phases which are\ncharacterized for instance by the depth of the analyses in terms of number of\ndesign variables and fidelity of the physical models. At each phase, the\ndesigners have to compose with accurate but computationally intensive models as\nwell as cheap but inaccurate models. Multi-fidelity modeling is a way to merge\ndifferent fidelity models to provide engineers with accurate results with a\nlimited computational cost. Within the context of multi-fidelity modeling,\napproaches relying on Gaussian Processes emerge as popular techniques to fuse\ninformation between the different fidelity models. The relationship between the\nfidelity models is a key aspect in multi-fidelity modeling. This paper provides\nan overview of Gaussian process-based multi-fidelity modeling techniques for\nvariable relationship between the fidelity models (e.g., linearity,\nnon-linearity, variable correlation). Each technique is described within a\nunified framework and the links between the different techniques are\nhighlighted. All the approaches are numerically compared on a series of\nanalytical test cases and four aerospace related engineering problems in order\nto assess their benefits and disadvantages with respect to the problem\ncharacteristics.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/2006.16728"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.10528",
+    "title": "Title:The United Nations Sustainable Development Goals in Systems Engineering: Eliciting sustainability requirements",
+    "date_publ": "12 Jun 2020",
+    "authors": [
+      "Ian Brook"
+    ],
+    "abstract": "Abstract:  This paper discusses a PhD research project testing the hypothesis that using\nthe United Nations Sustainable Development Goals(SDG) as explicit inputs to\ndrive the Software Requirements Engineering process will result in requirements\nwith improved sustainability benefits. The research has adopted the Design\nScience Research Method (DSRM) [21] to test a process named SDG Assessment for\nRequirements Elicitation (SDGARE). Three DSRM cycles are being used to test the\nhypothesis in safety-critical, highprecision, software-intensive systems in\naerospace and healthcare. Initial results from the first two DSRM cycles\nsupport the hypothesis. However, these cycles are in a plan-driven (waterfall)\ndevelopment context and future research agenda would be a similar application\nin an Agile development context.",
+    "categories": [
+      "Computers and Society (cs.CY)"
+    ],
+    "url_pdf": "/pdf/2006.10528"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.09761",
+    "title": "Title:Evaluation of 3D CNN Semantic Mapping for Rover Navigation",
+    "date_publ": "17 Jun 2020",
+    "authors": [
+      "Sebastiano Chiodini",
+      "Luca Torresin",
+      "Marco Pertile",
+      "Stefano Debe"
+    ],
+    "abstract": "Abstract:  Terrain assessment is a key aspect for autonomous exploration rovers,\nsurrounding environment recognition is required for multiple purposes, such as\noptimal trajectory planning and autonomous target identification. In this work\nwe present a technique to generate accurate three-dimensional semantic maps for\nMartian environment. The algorithm uses as input a stereo image acquired by a\ncamera mounted on a rover. Firstly, images are labeled with DeepLabv3+, which\nis an encoder-decoder Convolutional Neural Networl (CNN). Then, the labels\nobtained by the semantic segmentation are combined to stereo depth-maps in a\nVoxel representation. We evaluate our approach on the ESA Katwijk Beach\nPlanetary Rover Dataset.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2006.09761"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.05555",
+    "title": "Title:On the Trade-offs between Coverage Radius, Altitude and Beamwidth for Practical UAV Deployments",
+    "date_publ": "9 Jun 2020",
+    "authors": [
+      "Haneya Naeem Qureshi",
+      "Ali Imra"
+    ],
+    "abstract": "Abstract:  Current studies on Unmanned Aerial Vehicle (UAV) based cellular deployment\nconsider UAVs as aerial base stations for air-to-ground communication. However,\nthey analyze UAV coverage radius and altitude interplay while omitting or\nover-simplifying an important aspect of UAV deployment, i.e., effect of a\nrealistic antenna pattern. This paper addresses the UAV deployment problem\nwhile using a realistic 3D directional antenna model. New trade-offs between\nUAV design space dimensions are revealed and analyzed in different scenarios.\nThe sensitivity of coverage area to both antenna beamwidth and height is\ncompared. The analysis is extended to multiple UAVs and a new packing scheme is\nproposed for multiple UAVs coverage that offers several advantages compared to\nprior approaches.",
+    "categories": [
+      "Signal Processing (eess.SP)"
+    ],
+    "url_pdf": "/pdf/2006.05555"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.04772",
+    "title": "Title:Noisy receivers for quantum illumination",
+    "date_publ": "8 Jun 2020",
+    "authors": [
+      "Athena Karsa",
+      "Stefano Pirandol"
+    ],
+    "abstract": "Abstract:  Quantum illumination (QI) promises unprecedented performances in target\ndetection but there are various problems surrounding its implementation. Where\ntarget ranging is a concern, signal and idler recombination forms a crucial\nbarrier to the protocol's success. This could potentially be mitigated if\nperforming a measurement on the idler mode could still yield a quantum\nadvantage. In this paper we investigate the QI protocol for a generically\ncorrelated Gaussian source and study the phase-conjugating (PC) receiver,\nderiving the associated SNR in terms of the signal and idler energies, and\ntheir cross-correlations, which may be readily adapted to incorporate added\nnoise due to Gaussian measurements. We confirm that a heterodyne measurement\nperformed on the idler mode leads to a performance which asymptotically\napproaches that of a coherent state with homodyne detection. However, if the\nsignal mode is affected by heterodyne but the idler mode is maintained clean,\nthe performance asymptotically approaches that of the PC receiver without any\nadded noise.",
+    "categories": [
+      "Quantum Physics (quant-ph)"
+    ],
+    "url_pdf": "/pdf/2006.04772"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.02139",
+    "title": "Title:Towards an improved Eigensystem Realization Algorithm for low-error guarantees",
+    "date_publ": "27 May 2020",
+    "authors": [
+      "Mohammad N. Murshed",
+      "Moajjem Hossain Chowdhury",
+      "Md. Nazmul Islam Shuzan",
+      "M. Monir Uddi"
+    ],
+    "abstract": "Abstract:  Eigensystem Realization Algorithm (ERA) is a tool that can produce a reduced\norder model (ROM) from just input-output data of a given system. ERA creates\nthe ROM while keeping the number of internal states to a minimum level. This\nwas first implemented by Juang and Pappa (1984) to analyze the vibration of\naerospace structures from impulse response. We reviewed ERA and tested it on\nsingle input single output (SISO) system as well as on multiple input single\noutput (MISO) system. ERA prediction agreed with the actual data. Unlike other\nmodel reduction techniques (Balanced truncation, balanced proper orthogonal\ndecomposition), ERA works just as fine without the need of the adjoint system,\nthat makes ERA a promising, completely data-driven, thrifty model reduction\nmethod. In this work, we propose a modified Eigensystem Realization Algorithm\nthat relies upon an optimally chosen time resolution for the output used and\nalso checks for good performance through frequency analysis. Four examples are\ndiscussed: the first two confirm the model generating ability and the last two\nillustrate its capability to produce a low-dimensional model (for a large scale\nsystem) that is much more accurate than the one produced by the traditional\nERA.",
+    "categories": [
+      "Data Analysis, Statistics and Probability (physics.data-an)"
+    ],
+    "url_pdf": "/pdf/2006.02139"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.01813",
+    "title": "Title:Robust and Precision Satellite Formation Flying Guidance Using Adaptive Optimal Control Techniques",
+    "date_publ": "31 May 2020",
+    "authors": [
+      "Girish Josh"
+    ],
+    "abstract": "Abstract:  The main focus of the work presented in this thesis is to develop an optimal\ncontrol based formation flying control strategy for high precision formation\nflying of small satellites that have restricted computation and storage\ncapacity. Using the recently developed model predictive static programming\n(MPSP), and Generalized MPSP algorithm a suboptimal guidance logic is presented\nfor the formation flying of small satellites. The proposed guidance scheme is\nvalid both for high eccentricity chief satellite orbits as well as the large\nseparation distance between the chief and deputy satellites. Comparative study\nwith standard Linear Quadratic Regulator (LQR) solution (which serves as a\nguess solution for MPSP) and another nonlinear controller, Finite-time\nState-Dependent Ricatti Equation (SDRE) reveals that MPSP guidance achieves the\nobjective with higher accuracy and with a lesser amount of control usage.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2006.01813"
+  },
+  {
+    "url": "https://arxiv.org/abs/2006.01610",
+    "title": "Title:Combining Reinforcement Learning and Constraint Programming for Combinatorial Optimization",
+    "date_publ": "2 Jun 2020",
+    "authors": [
+      "Quentin Cappart",
+      "Thierry Moisan",
+      "Louis-Martin Rousseau",
+      "Isabeau Pr\u00e9mont-Schwarz",
+      "Andre Cir"
+    ],
+    "abstract": "Abstract:  Combinatorial optimization has found applications in numerous fields, from\naerospace to transportation planning and economics. The goal is to find an\noptimal solution among a finite set of possibilities. The well-known challenge\none faces with combinatorial optimization is the state-space explosion problem:\nthe number of possibilities grows exponentially with the problem size, which\nmakes solving intractable for large problems. In the last years, deep\nreinforcement learning (DRL) has shown its promise for designing good\nheuristics dedicated to solve NP-hard combinatorial optimization problems.\nHowever, current approaches have two shortcomings: (1) they mainly focus on the\nstandard travelling salesman problem and they cannot be easily extended to\nother problems, and (2) they only provide an approximate solution with no\nsystematic ways to improve it or to prove optimality. In another context,\nconstraint programming (CP) is a generic tool to solve combinatorial\noptimization problems. Based on a complete search procedure, it will always\nfind the optimal solution if we allow an execution time large enough. A\ncritical design choice, that makes CP non-trivial to use in practice, is the\nbranching decision, directing how the search space is explored. In this work,\nwe propose a general and hybrid approach, based on DRL and CP, for solving\ncombinatorial optimization problems. The core of our approach is based on a\ndynamic programming formulation, that acts as a bridge between both techniques.\nWe experimentally show that our solver is efficient to solve two challenging\nproblems: the traveling salesman problem with time windows, and the 4-moments\nportfolio optimization problem. Results obtained show that the framework\nintroduced outperforms the stand-alone RL and CP solutions, while being\ncompetitive with industrial solvers.",
+    "categories": [
+      "Artificial Intelligence (cs.AI)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2006.01610"
+  }
+]

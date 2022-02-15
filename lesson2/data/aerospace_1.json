@@ -1,0 +1,994 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2109.00958",
+    "title": "Title:A Novel Compaction Approach for SBST Test Programs",
+    "date_publ": "2 Sep 2021 (v1), last revised 8 Sep 2021 (this version, v2)",
+    "authors": [
+      "Juan-David Guerrero-Balaguera",
+      "Josie E. Rodriguez Condia",
+      "Matteo Sonza Reord"
+    ],
+    "abstract": "Abstract:  In-field test of processor-based devices is a must when considering\nsafety-critical systems (e.g., in robotics, aerospace, and automotive\napplications). During in-field testing, different solutions can be adopted,\ndepending on the specific constraints of each scenario. In the last years,\nSelf-Test Libraries (STLs) developed by IP or semiconductor companies became\nwidely adopted. Given the strict constraints of in-field test, the size and\ntime duration of a STL is a crucial parameter. This work introduces a novel\napproach to compress functional test programs belonging to an STL. The proposed\napproach is based on analyzing (via logic simulation) the interaction between\nthe micro-architectural operation performed by each instruction and its\ncapacity to propagate fault effects on any observable output, reducing the\nrequired fault simulations to only one. The proposed compaction strategy was\nvalidated by resorting to a RISC-V processor and several test programs stemming\nfrom diverse generation strategies. Results showed that the proposed compaction\napproach can reduce the length of test programs by up to 93.9% and their\nduration by up to 95%, with minimal effect on fault coverage.",
+    "categories": [
+      "Hardware Architecture (cs.AR)"
+    ],
+    "url_pdf": "/pdf/2109.00958"
+  },
+  {
+    "url": "https://arxiv.org/abs/2109.00235",
+    "title": "Title:Quality assurance test and Failure Analysis of SiPM Arrays of GECAM Satellites",
+    "date_publ": "1 Sep 2021 (v1), last revised 9 Dec 2021 (this version, v2)",
+    "authors": [
+      "D.L. Zhang",
+      "M. Gao",
+      "X.L. Sun",
+      "X.Q. Li",
+      "Z.H. An",
+      "X.Y. Wen",
+      "C. Cai",
+      "Z. Chang",
+      "G. Chen",
+      "C. Chen",
+      "Y.Y. Du",
+      "R. Gao",
+      "K. Gong",
+      "D.Y. Guo",
+      "J.J. He",
+      "D.J. Hou",
+      "Y.G. Li",
+      "C.Y. Li",
+      "G. Li",
+      "L. Li",
+      "X.F. Li",
+      "M.S. Li",
+      "X.H. Liang",
+      "X.J. Liu",
+      "Y.Q. Liu",
+      "F.J. Lu",
+      "H. Lu",
+      "B. Meng",
+      "W.X. Peng",
+      "F. Shi",
+      "H. Wang",
+      "J.Z. Wang",
+      "Y.S. Wang",
+      "H.Z. Wang",
+      "X. Wen",
+      "S. Xiao",
+      "S.L. Xiong",
+      "Y.B. Xu",
+      "Y.P. Xu",
+      "S. Yang",
+      "J.W. Yang",
+      "Fan. Zhang",
+      "S.N. Zhang",
+      "C.Y. Zhang",
+      "C.M. Zhang",
+      "Fei Zhang",
+      "X.Y. Zhao",
+      "X. Zho"
+    ],
+    "abstract": "Abstract:  The Gravitational wave high-energy Electromagnetic Counterpart All-sky\nMonitor (GECAM) satellite consists of two small satellites. Each GECAM payload\ncontains 25 gamma ray detectors (GRD) and 8 charged particle detectors (CPD).\nGRD is the main detector which can detect gamma-rays and particles and localize\nthe Gamma-Ray Bursts (GRB),while CPD is used to help GRD to discriminate\ngamma-ray bursts and charged particle bursts. The GRD makes use of lanthanum\nbromide (LaBr3) crystal readout by SiPM. As the all available SiPM devices\nbelong to commercial grade, quality assurance tests need to be performed in\naccordance with the aerospace specifications. In this paper, we present the\nresults of quality assurance tests, especially a detailed mechanism analysis of\nfailed devices during the development of GECAM. This paper also summarizes the\napplication experience of commercial-grade SiPM devices in aerospace payloads,\nand provides suggestions for forthcoming SiPM space applications.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/2109.00235"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.13526",
+    "title": "Title:Computational Design of Active 3D-Printed Multi-State Structures for Shape Morphing",
+    "date_publ": "30 Aug 2021",
+    "authors": [
+      "Thomas S. Lumpe (1)",
+      "Michael Tao (2)",
+      "Kristina Shea (1)",
+      "David I. W. Levin (2) ((1) ETH Zurich",
+      "Switzerland",
+      "(2) University of Toronto",
+      "Canada"
+    ],
+    "abstract": "Abstract:  Active structures have the ability to change their shape, properties, and\nfunctionality as a response to changing operational conditions, which makes\nthem more versatile than their static counterparts. However, most active\nstructures currently lack the capability to achieve multiple, different target\nstates with a single input actuation or require a tedious material programming\nstep. Furthermore, the systematic design and fabrication of active structures\nis still a challenge as many structures are designed by hand in a trial and\nerror process and thus are limited by engineers' knowledge and experience. In\nthis work, a computational design and fabrication framework is proposed to\ngenerate structures with multiple target states for one input actuation that\ndon't require a separate training step. A material dithering scheme based on\nmulti-material 3D printing is combined with locally applied copper coil heating\nelements and sequential heating patterns to control the thermo-mechanical\nproperties of the structures and switch between the different deformation\nmodes. A novel topology optimization approach based on power diagrams is used\nto encode the different target states in the structure while ensuring the\nfabricability of the structures and the compatibility with the drop-in heating\nelements. The versatility of the proposed framework is demonstrated for four\ndifferent example structures from engineering and computer graphics. The\nnumerical and experimental results show that the optimization framework can\nproduce structures that show the desired motion, but experimental accuracy is\nlimited by current fabrication methods. The generality of the proposed method\nmakes it suitable for the development of structures for applications in many\ndifferent fields from aerospace to robotics to animated fabrication in computer\ngraphics.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)"
+    ],
+    "url_pdf": "/pdf/2108.13526"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.13296",
+    "title": "Title:Multi-Agent Simulation for AI Behaviour Discovery in Operations Research",
+    "date_publ": "30 Aug 2021",
+    "authors": [
+      "Michael Papasimeon",
+      "Lyndon Benk"
+    ],
+    "abstract": "Abstract:  We describe ACE0, a lightweight platform for evaluating the suitability and\nviability of AI methods for behaviour discovery in multiagent simulations.\nSpecifically, ACE0 was designed to explore AI methods for multi-agent\nsimulations used in operations research studies related to new technologies\nsuch as autonomous aircraft. Simulation environments used in production are\noften high-fidelity, complex, require significant domain knowledge and as a\nresult have high R&D costs. Minimal and lightweight simulation environments can\nhelp researchers and engineers evaluate the viability of new AI technologies\nfor behaviour discovery in a more agile and potentially cost effective manner.\nIn this paper we describe the motivation for the development of ACE0.We provide\na technical overview of the system architecture, describe a case study of\nbehaviour discovery in the aerospace domain, and provide a qualitative\nevaluation of the system. The evaluation includes a brief description of\ncollaborative research projects with academic partners, exploring different AI\nbehaviour discovery methods.",
+    "categories": [
+      "Multiagent Systems (cs.MA)",
+      " Artificial Intelligence (cs.AI)"
+    ],
+    "url_pdf": "/pdf/2108.13296"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.11010",
+    "title": "Title:Adversary agent reinforcement learning for pursuit-evasion",
+    "date_publ": "25 Aug 2021",
+    "authors": [
+      "X. Huan"
+    ],
+    "abstract": "Abstract:  A reinforcement learning environment with adversary agents is proposed in\nthis work for pursuit-evasion game in the presence of fog of war, which is of\nboth scientific significance and practical importance in aerospace\napplications. One of the most popular learning environments, StarCraft, is\nadopted here and the associated mini-games are analyzed to identify the current\nlimitation for training adversary agents. The key contribution includes the\nanalysis of the potential performance of an agent by incorporating control and\ndifferential game theory into the specific reinforcement learning environment,\nand the development of an adversary agents challenge (SAAC) environment by\nextending the current StarCraft mini-games. The subsequent study showcases the\nuse of this learning environment and the effectiveness of an adversary agent\nfor evasion units. Overall, the proposed SAAC environment should benefit\npursuit-evasion studies with rapidly-emerging reinforcement learning\ntechnologies. Last but not least, the corresponding tutorial code can be found\nat GitHub.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Artificial Intelligence (cs.AI)"
+    ],
+    "url_pdf": "/pdf/2108.11010"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.06616",
+    "title": "Title:Monocular visual autonomous landing system for quadcopter drones using software in the loop",
+    "date_publ": "14 Aug 2021",
+    "authors": [
+      "Miguel Saavedra-Ruiz",
+      "Ana Mario Pinto-Vargas",
+      "Victor Romero-Can"
+    ],
+    "abstract": "Abstract:  Autonomous landing is a capability that is essential to achieve the full\npotential of multi-rotor drones in many social and industrial applications. The\nimplementation and testing of this capability on physical platforms is risky\nand resource-intensive; hence, in order to ensure both a sound design process\nand a safe deployment, simulations are required before implementing a physical\nprototype. This paper presents the development of a monocular visual system,\nusing a software-in-the-loop methodology, that autonomously and efficiently\nlands a quadcopter drone on a predefined landing pad, thus reducing the risks\nof the physical testing stage. In addition to ensuring that the autonomous\nlanding system as a whole fulfils the design requirements using a Gazebo-based\nsimulation, our approach provides a tool for safe parameter tuning and design\ntesting prior to physical implementation. Finally, the proposed monocular\nvision-only approach to landing pad tracking made it possible to effectively\nimplement the system in an F450 quadcopter drone with the standard\ncomputational capabilities of an Odroid XU4 embedded processor.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Computer Vision and Pattern Recognition (cs.CV)"
+    ],
+    "url_pdf": "/pdf/2108.06616"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.05444",
+    "title": "Title:Assessment of Three Databases for the NASA Seven-Coefficient Polynomial Fits for Calculating Thermodynamic Properties of Individual Species",
+    "date_publ": "10 Aug 2021",
+    "authors": [
+      "Osama A. Marzou"
+    ],
+    "abstract": "Abstract:  This work considers the seven-coefficient polynomials proposed by the\nNational Aeronautics and Space Administration (NASA) to facilitate obtaining a\nnormalized value for three thermodynamic standard-state specific properties of\nideal gases or condenser matters over an interval of temperature. These\nproperties are the heat capacity at constant pressure, the absolute enthalpy\n(sensible enthalpy plus heat contents due to chemical or physical changes), and\nthe entropy. In the open literature, one can find several databases for the\npolynomial coefficients with variation in the number of species included or the\nrange of temperature covered, and this raises a question of whether the choice\nof a database to use has an important impact on these evaluated thermodynamic\nproperties. Addressing this point, we compare and assess three databases for\nthe NASA 7-coefficient polynomials, over a selected range of temperature from\n300 K to 3500 K, and for selected six common gaseous species encountered in\ncombustion or industrial processes, which are molecular oxygen (O2), molecular\nnitrogen (N2), molecular hydrogen (H2), methane (CH4), carbon dioxide (CO2),\nand water vapor (H2O). Our comparisons suggest that despite the difference in\nthe values of coefficients, there is no significant difference in their\npredictions. However, the latest (7th edition) database of Prof. Alexander\nBurcat hosted at E\u00f6tv\u00f6s Lor\u00e1nd University (ELTE) in Budapest, Hungary\nshowed superior features when contrasted to other two databases (one\naccompanying the simulation package OpenFOAM 6, and another provided by the\nnatural-gas reaction mechanism GRI-MECH 3.0).",
+    "categories": [
+      "Chemical Physics (physics.chem-ph)"
+    ],
+    "url_pdf": "/pdf/2108.05444"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.05245",
+    "title": "Title:Stabilization of crossflow instability with plasma actuators: Linearized Navier-Stokes simulations",
+    "date_publ": "11 Aug 2021",
+    "authors": [
+      "Kean Lee Kang (1)",
+      "Richard Ashworth (1)",
+      "Shahid Mughal (2) ((1) Airbus Group Innovations",
+      "Bristol",
+      "United Kingdom",
+      "(2) Imperial College",
+      "London",
+      "United Kingdom"
+    ],
+    "abstract": "Abstract:  This paper describes work carried out within the European Union (EU)-Russia\nButerfli project to look at the control of transition-causing \"target\"\nstationary cross flow vortices, by the use of distributed plasma actuation to\ngenerate sub-dominant \"killer\" modes. The objective is to use the \"killer\"\nmodes to control the \"target\" modes through a non-linear stabilizing mechanism.\nThe numerical modelling and results are compared to experimental studies\nperformed at the TsAGI T124 tunnel for a swept plate subject to a favorable\npressure gradient flow. A mathematical model for the actuator developed at\nTsAGI was implemented in a linearized Navier Stokes (LNS) solver and used to\nmodel and hence predict \"killer\" mode amplitudes at a measurement plane in the\nexperiment. The LNS analysis shows good agreement with experiment, and the\nresults are used as input for non-linear PSE analysis to predict the effect of\nthese modes on crossflow transition. Whilst the numerical model indicates a\ndelay in transition, experimental results indicated an advance in transition\nrather than delay. This was determined to be due to actuator induced\nunsteadiness arising in the experiment, resulting in the generation of\ntravelling crossflow disturbances which tended to obscure and thus dominate the\nplasma stabilized stationary disturbances.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2108.05245"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.04375",
+    "title": "Title:Detecting Carbon Nanotube Orientation with Topological Data Analysis of Scanning Electron Micrographs",
+    "date_publ": "9 Aug 2021",
+    "authors": [
+      "Liyu Dong",
+      "Haibin Hang",
+      "Jin Gyu Park",
+      "Washington Mio",
+      "Richard Lian"
+    ],
+    "abstract": "Abstract:  As the aerospace industry becomes increasingly demanding for stronger\nlightweight materials, the ultra-strong carbon nanotube (CNT) composites with\nhighly aligned CNT network structures could be the answer. In this work, a\nnovel methodology applying topological data analysis (TDA) to the scanning\nelectron microscope (SEM) images was developed to detect CNT orientation. The\nCNT bundle extensions in certain directions were summarized algebraically and\nexpressed as visible barcodes. The barcodes were then calculated and converted\ninto the total spread function $V(X,\\theta)$, from which the alignment fraction\nand the preferred direction could be determined. For validation purposes, the\nrandom CNT sheets were mechanically stretched at various strain ratios ranging\nfrom $0-40\\%$, and quantitative TDA analysis was conducted based on the SEM\nimages taken at random positions. The results showed high consistency\n($R^2=0.975$) compared to the Herman's orientation factors derived from the\npolarized Raman spectroscopy and wide-angle X-ray scattering analysis.\nAdditionally, the TDA method presented great robustness with varying SEM\nacceleration voltages and magnifications, which might alter the scope in\nalignment detection. With potential applications in nanofiber systems, this\nstudy offers a rapid and simple way to quantify CNT alignment, which plays a\ncrucial role in transferring the CNT properties into engineering products.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)",
+      " Algebraic Topology (math.AT)"
+    ],
+    "url_pdf": "/pdf/2108.04375"
+  },
+  {
+    "url": "https://arxiv.org/abs/2108.02098",
+    "title": "Title:On the drag and lift coefficients of ellipsoidal particles under rarefied flow conditions",
+    "date_publ": "4 Aug 2021",
+    "authors": [
+      "Cosimo Livi",
+      "Gianluca Di Staso",
+      "Herman H. J. Clercx",
+      "Federico Tosch"
+    ],
+    "abstract": "Abstract:  The capability to simulate a two-way coupled interaction between a rarefied\ngas and an arbitrary-shaped colloidal particle is important for many practical\napplications, such as aerospace engineering, lung drug deliver and\nsemiconductor manufacturing. By means of numerical simulations based on the\nDirect Simulation Monte Carlo (DSMC) method, we investigate the influence of\nthe orientation of the particle and rarefaction on the drag and lift\ncoefficients, in the case of prolate and oblate ellipsoidal particles immersed\nin a uniform ambient flow. This is done by modelling the solid particles using\na cut-cell algorithm embedded within our DSMC solver. In this approach, the\nsurface of the particle is described by its analytical expression and the\nmicroscopic gas-solid interactions are computed exactly using a ray-tracing\ntechnique. The measured drag and lift coefficients are used to extend the\ncorrelations available in the continuum regime to the rarefied regime, focusing\non the transitional and free-molecular regimes. The functional forms for the\ncorrelations for the ellipsoidal particles are chosen as a generalisation from\nthe spherical case. We show that the fits over the data from numerical\nsimulations can be extended to regimes outside the simulated range of $Kn$ by\ntesting the obtained predictive model on values of $Kn$ that where not included\nin the fitting process, allowing to achieve an higher precision when compared\nwith existing predictive models from literature. Finally, we underline the\nimportance of this work in providing new correlations for non-spherical\nparticles that can be used for point-particle Euler-Lagrangian simulations to\naddress the problem of contamination from finite-size particles in high-tech\nmechanical systems.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)",
+      " Soft Condensed Matter (cond-mat.soft)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2108.02098"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.13840",
+    "title": "Title:Shearing Mechanisms of Co-Precipitates in IN718",
+    "date_publ": "29 Jul 2021",
+    "authors": [
+      "Christopher H. Zenk",
+      "Longsheng Feng",
+      "Donald McAllister",
+      "Yunzhi Wang",
+      "Michael J. Mill"
+    ],
+    "abstract": "Abstract:  The Ni-base superalloy 718 is the most widely used material for\nturbomachinery in the aerospace industry and land-based turbines. Although the\nrelationship between processing and the resulting properties is well known, an\nunderstanding of the specific deformation mechanisms activated across its\napplication temperature range is required to create more mechanistically\naccurate property models. Direct atomic-scale imaging observations with high\nangle annular dark-field scanning transmission electron microscopy,\ncomplemented by phase-field modeling informed by generalized stacking fault\nsurface calculations using density functional theory, were employed to\nunderstand the shear process of ${\\gamma}''$ and ${\\gamma}'/{\\gamma}''$\nco-precipitates after 1 \\% macroscopic strain at lower temperature (ambient and\n$427 \u00b0C$). Experimentally, intrinsic stacking faults were observed in the\n${\\gamma}''$, whereas the ${\\gamma}'$ was found to exhibit anti-phase\nboundaries or superlattice intrinsic stacking faults. Additionally, the\natomically flat ${\\gamma}'/{\\gamma}''$ interfaces in the co-precipitates were\nfound to exhibit offsets after shearing, which can be used as tracers for the\ndeformation events. Phase-field modeling shows that the developing\nfault-structure is dependent on the direction of the Burgers vector of the $a/2\n\\langle110\\rangle$ matrix dislocation (or dislocation group) due to the lower\ncrystal symmetry of the ${\\gamma''}$ phase. The interplay between ${\\gamma}'$\nand ${\\gamma}''$ phases results in unique deformation pathways of the\nco-precipitate and increases the shear resistance. Consistent with the\nexperimental observations, the simulation results indicate that complex\nshearing mechanisms are active in the low-temperature deformation regime and\nthat multiple $a/2 \\langle110\\rangle$ dislocations of non-parallel Burgers\nvectors may be active on the same slip plane.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2107.13840"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.10992",
+    "title": "Title:Design of the Propulsion System of Nano satellite: StudSat2",
+    "date_publ": "23 Jul 2021",
+    "authors": [
+      "Roshan Sah",
+      "Prabin Sherpaili",
+      "Apurva Anand",
+      "Sandesh Hegd"
+    ],
+    "abstract": "Abstract:  The increase in the application of the satellite has skyrocketed the number\nof satellites, especially in the low earth orbit. The major concern today is\nafter the end of life, these satellites become debris which negatively affects\nthe space environment. As per the international guidelines of the European\nSpace Agency, it is mandatory to deorbit the satellite within 25 years of the\nend of life. StudSat1, which was successfully launched on 12th July 2010, is\nthe first Pico satellite developed in India by undergraduate students from\nseven different engineering colleges across South India. Now, the team is\ndeveloping StudSat2, which is India's first twin satellite mission having two\nnanosatellites whose overall mass is less than 10kg. This paper is aimed to\ndesign the propulsion system, cold gas thruster, to deorbit StudSat2 from its\noriginal orbit i.e. 600 km to lower orbit i.e. 400km. The propulsion system\nmainly consists of a storage tank, pipes, Convergent Divergent nozzle, and\nelectronic actuators. The paper also gives information about the components of\ncold gas thruster, which have been designed in the CATIA V5, and the structural\nand flow analysis of the same has been done in ANSYS. The concept of Hohmann\ntransfer has been used to deorbit the satellite and STK has been used to\nsimulate it.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2107.10992"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.08465",
+    "title": "Title:Compressed particle methods for expensive models with application in Astronomy and Remote Sensing",
+    "date_publ": "18 Jul 2021",
+    "authors": [
+      "Luca Martino",
+      "V\u00edctor Elvira",
+      "Javier L\u00f3pez-Santiago",
+      "Gustau Camps-Vall"
+    ],
+    "abstract": "Abstract:  In many inference problems, the evaluation of complex and costly models is\noften required. In this context, Bayesian methods have become very popular in\nseveral fields over the last years, in order to obtain parameter inversion,\nmodel selection or uncertainty quantification. Bayesian inference requires the\napproximation of complicated integrals involving (often costly) posterior\ndistributions. Generally, this approximation is obtained by means of Monte\nCarlo (MC) methods. In order to reduce the computational cost of the\ncorresponding technique, surrogate models (also called emulators) are often\nemployed. Another alternative approach is the so-called Approximate Bayesian\nComputation (ABC) scheme. ABC does not require the evaluation of the costly\nmodel but the ability to simulate artificial data according to that model.\nMoreover, in ABC, the choice of a suitable distance between real and artificial\ndata is also required. In this work, we introduce a novel approach where the\nexpensive model is evaluated only in some well-chosen samples. The selection of\nthese nodes is based on the so-called compressed Monte Carlo (CMC) scheme. We\nprovide theoretical results supporting the novel algorithms and give empirical\nevidence of the performance of the proposed method in several numerical\nexperiments. Two of them are real-world applications in astronomy and satellite\nremote sensing.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Computation (stat.CO)",
+      " Machine Learning (stat.ML)"
+    ],
+    "url_pdf": "/pdf/2107.08465"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.07865",
+    "title": "Title:A DoE-based approach for the implementation of structural surrogate models in the early stage design of box-wing aircraft",
+    "date_publ": "15 Jul 2021 (v1), last revised 20 Jul 2021 (this version, v2)",
+    "authors": [
+      "Vittorio Cipolla",
+      "Vincenzo Binante",
+      "Karim Abu Salem",
+      "Giuseppe Palaia",
+      "Davide Zanett"
+    ],
+    "abstract": "Abstract:  One of the possible ways to face the challenge of reducing the environmental\nimpact of aviation, without limiting the growth of air transport, is the\nintroduction of more efficient, radically different aircraft architectures.\nAmong these, the box-wing one represents a promising solution, at least in the\ncase of its application to short-to-medium haul aircraft, which, according to\nthe achievement of the H2020 project \"PARSIFAL\", would bring to a 20% reduction\nin terms of emitted CO2 per passenger-kilometre. The present paper faces the\nproblem of estimating the structural mass of such a disruptive configuration in\nthe early stages of the design, underlining the limitations in this capability\nof the approaches available by literature and proposing a DoE-based approach to\ndefine surrogate models suitable for such purpose. A test case from the project\n\"PARSIFAL\" is used for the first conception of the approach, starting from the\nFinite Element Model parametrization, then followed by the construction of a\ndatabase of FEM results, hence introducing the regression models and\nimplementing them in an optimization framework. Results achieved are\ninvestigated in order to validate both the wing sizing and the optimization\nprocedure. Finally, an additional test case resulting from the application of\nthe box-wing layout to the regional aircraft category within the Italian\nresearch project \"PROSIB\", is briefly presented to further assess the\ncapabilities of the proposed approach.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/2107.07865"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.07564",
+    "title": "Title:On the Importance of Regularisation & Auxiliary Information in OOD Detection",
+    "date_publ": "15 Jul 2021",
+    "authors": [
+      "John Mitros",
+      "Brian Mac Name"
+    ],
+    "abstract": "Abstract:  Neural networks are often utilised in critical domain applications\n(e.g.~self-driving cars, financial markets, and aerospace engineering), even\nthough they exhibit overconfident predictions for ambiguous inputs. This\ndeficiency demonstrates a fundamental flaw indicating that neural networks\noften overfit on spurious correlations. To address this problem in this work we\npresent two novel objectives that improve the ability of a network to detect\nout-of-distribution samples and therefore avoid overconfident predictions for\nambiguous inputs. We empirically demonstrate that our methods outperform the\nbaseline and perform better than the majority of existing approaches, while\nperforming competitively those that they don't outperform. Additionally, we\nempirically demonstrate the robustness of our approach against common\ncorruptions and demonstrate the importance of regularisation and auxiliary\ninformation in out-of-distribution detection.",
+    "categories": [
+      "Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2107.07564"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.05748",
+    "title": "Title:Evaluation of an Inflated Beam Model Applied to Everted Tubes",
+    "date_publ": "12 Jul 2021",
+    "authors": [
+      "Joel Hwee",
+      "Andrew Lewis",
+      "Allison Raines",
+      "Blake Hannafor"
+    ],
+    "abstract": "Abstract:  Everted tubes have often been modeled as inflated beams to determine\ntransverse and axial buckling conditions. This paper seeks to validate the\nassumption that an everted tube can be modeled in this way. The tip deflections\nof everted and uneverted beams under transverse cantilever loads are compared\nwith a tip deflection model that was first developed for aerospace\napplications. LDPE and silicone coated nylon beams were tested; everted and\nuneverted beams showed similar tip deflection. The literature model best fit\nthe tip deflection of LDPE tubes with an average tip deflection error of 6 mm,\nwhile the nylon tubes had an average tip deflection error of 16.4 mm. Everted\nbeams of both materials buckled at 83% of the theoretical buckling condition\nwhile straight beams collapsed at 109% of the theoretical buckling condition.\nThe curvature of everted beams was estimated from a tip load and a known\ndisplacement showing relative errors of 14.2% and 17.3% for LDPE and nylon\nbeams respectively. This paper shows a numerical method for determining\ninflated beam deflection. It also provides an iterative method for computing\nstatic tip pose and applied wall forces in a known environment.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2107.05748"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.04910",
+    "title": "Title:Cyber-Security Challenges in Aviation Industry: A Review of Current and Future Trends",
+    "date_publ": "10 Jul 2021",
+    "authors": [
+      "Elochukwu Ukwandu",
+      "Mohamed Amine Ben Farah",
+      "Hanan Hindy",
+      "Miroslav Bures",
+      "Robert Atkinson",
+      "Christos Tachtatzis",
+      "Xavier Belleken"
+    ],
+    "abstract": "Abstract:  The integration of Information and Communication Technology (ICT) tools into\nmechanical devices found in aviation industry has raised security concerns. The\nmore integrated the system, the more vulnerable due to the inherent\nvulnerabilities found in ICT tools and software that drives the system. The\nsecurity concerns have become more heightened as the concept of\nelectronic-enabled aircraft and smart airports get refined and implemented\nunderway. In line with the above, this paper undertakes a review of\ncyber-security incidence in the aviation sector over the last 20 years. The\nessence is to understand the common threat actors, their motivations, the type\nof attacks, aviation infrastructure that is commonly attacked and then match\nthese so as to provide insight on the current state of the cyber-security in\nthe aviation sector. The review showed that the industry's threats come mainly\nfrom Advance Persistent Threat (APT) groups that work in collaboration with\nsome state actors to steal intellectual property and intelligence, in order to\nadvance their domestic aerospace capabilities as well as possibly monitor,\ninfiltrate and subvert other nations' capabilities. The segment of the aviation\nindustry commonly attacked is the Information Technology infrastructure, and\nthe prominent type of attacks is malicious hacking activities that aim at\ngaining unauthorised access using known malicious password cracking techniques\nsuch as Brute force attacks, Dictionary attacks and so on. The review further\nanalysed the different attack surfaces that exist in aviation industry, threat\ndynamics, and use these dynamics to predict future trends of cyberattacks in\nthe industry. The aim is to provide information for the cybersecurity\nprofessionals and aviation stakeholders for proactive actions in protecting\nthese critical infrastructures against cyberincidence for an optimal customer\nservice oriented industry.",
+    "categories": [
+      "Cryptography and Security (cs.CR)"
+    ],
+    "url_pdf": "/pdf/2107.04910"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.04722",
+    "title": "Title:Attitude Reconstruction from Inertial Measurement: Mitigating Runge Effect for Dynamic Applications",
+    "date_publ": "10 Jul 2021",
+    "authors": [
+      "Yuanxin Wu",
+      "Maoran Zh"
+    ],
+    "abstract": "Abstract:  Time-equispaced inertial measurements are practically used as inputs for\nmotion determination. Polynomial interpolation is a common technique of\nrecovering the gyroscope signal but is subject to a fundamentally numerical\nstability problem due to the Runge effect on equispaced samples. This paper\nreviews the theoretical results of Runge phenomenon in related areas and\nproposes a straightforward borrowing-and-cutting (BAC) strategy to depress it.\nIt employs the neighboring samples for higher-order polynomial interpolation\nbut only uses the middle polynomial segment in the actual time interval. The\nBAC strategy has been incorporated into attitude computation by functional\niteration, leading to accuracy benefit of several orders of magnitude under the\nclassical coning motion. It would potentially bring significant benefits to the\ninertial navigation computation under sustained dynamic motions.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2107.04722"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.04415",
+    "title": "Title:Equation of state driven radiative models for simulation of lightning strikes",
+    "date_publ": "8 Jul 2021",
+    "authors": [
+      "M. Apsley",
+      "S. T. Millmore",
+      "N. Nikiforaki"
+    ],
+    "abstract": "Abstract:  This work is concerned with the numerical simulation of plasma arc\ninteraction with aerospace substrates under conditions akin to lightning strike\nand in particular with the accurate calculation of radiative heat losses. These\nare important because they have a direct effect on the calculation of thermal\nand pressure loads on the substrates, which can lead to material damage under\ncertain conditions. Direct numerical solution of the radiation transport\nequation (RTE) in mesoscale simulations is not viable due to its computational\ncost, so for practical applications reduced models are usually employed. To\nthis end, four approximations for solving the RTE are considered in this work,\nranging from a simple local thermodynamical behaviour consideration, to a more\ncomplex spectral absorption dependent on the arc geometry. Their performance is\ninitially tested on a one-dimensional cylindrical arc, before implementing them\nin a multi-dimensional magnetohydrodynamics code. Results indicate that\ninclusion of spectral absorption is necessary in order to obtain consistent\nresults. However, the approaches accounting for the arc geometry require\nrepeated solution of the computationally intensive Helmholtz equations, making\nthem prohibitive for multi-dimensional simulations. As an alternative, a method\nusing the net emission coefficient is employed, which provides a balance\nbetween computational efficiency and accuracy, as shown by comparisons against\nexperimental measurements for a plasma arc attaching to an aluminium substrate.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2107.04415"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.04341",
+    "title": "Title:Planning of efficient trajectories in robotized assembly of aerostructures exploiting kinematic redundancy",
+    "date_publ": "9 Jul 2021",
+    "authors": [
+      "Federica Storiale",
+      "Enrico Ferrentino",
+      "Pasquale Chiacchi"
+    ],
+    "abstract": "Abstract:  Aerospace production volumes have increased over time and robotic solutions\nhave been progressively introduced in the aeronautic assembly lines to achieve\nhigh-quality standards, high production rates, flexibility and cost reduction.\nRobotic workcells are sometimes characterized by robots mounted on slides to\nincrease the robot workspace. The slide introduces an additional degree of\nfreedom, making the system kinematically redundant, but this feature is rarely\nused to enhance performances. The paper proposes a new concept in trajectory\nplanning, that exploits the redundancy to satisfy additional requirements. A\ndynamic programming technique is adopted, which computes optimized\ntrajectories, minimizing or maximizing the performance indices of interest. The\nuse case is defined on the LABOR (Lean robotized AssemBly and cOntrol of\ncomposite aeRostructures) project which adopts two cooperating six-axis robots\nmounted on linear axes to perform assembly operations on fuselage panels.\nConsidering the needs of this workcell, unnecessary robot movements are\nminimized to increase safety, the mechanical stiffness is maximized to increase\nstability during the drilling operations, collisions are avoided, while joint\nlimits and the available planning time are respected. Experiments are performed\nin a simulation environment, where the optimal trajectories are executed,\nhighlighting the resulting performances and improvements with respect to\nnon-optimized solutions.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2107.04341"
+  },
+  {
+    "url": "https://arxiv.org/abs/2107.00738",
+    "title": "Title:Design Optimization of Monoblade Autorotating Pods To Exhibit an Unconventional Descent Technique Using Glauert's Modelling",
+    "date_publ": "1 Jul 2021",
+    "authors": [
+      "Kanishk",
+      "Shashwat Patnai"
+    ],
+    "abstract": "Abstract:  Many unconventional descent mechanisms are evolved in nature to maximize the\ndispersion of seeds to increase the population of floral species. The induced\nautorotation produces lift through asymmetrical weight distribution, increasing\nthe fall duration and giving the seed extra time to get drifted away by the\nwind. The proposed bio-inspired concept was used to produce novel modern pods\nfor various aerospace applications that require free-falling or controlled\nvelocity descent in planetary or interplanetary missions without relying on\ntraditional techniques such as propulsion-based descent and the use of\nparachutes. We provide an explanation for the design procedure and the\nfunctioning of a mono blade auto-rotating wing. An element-based computational\nmethod based on Glauert's blade element momentum theory (BEMT) model was\nemployed to estimate the geometry by maximizing the coefficient of power\nthrough MATLAB's optimization toolbox using the Sequential quadratic\nprogramming (SQP) solver. The dynamic model was developed for the single-wing\ndesign through the MATLAB Simulink 6-DOF toolbox to carry out a free-flight\nsimulation of the wing to verify its global stability.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2107.00738"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.15843",
+    "title": "Title:Precision Magnetometers for Aerospace Applications",
+    "date_publ": "30 Jun 2021",
+    "authors": [
+      "James S. Bennett",
+      "Brian E. Vyhnalek",
+      "Hamish Greenall",
+      "Elizabeth M. Bridge",
+      "Fernando Gotardo",
+      "Stefan Forstner",
+      "Glen I. Harris",
+      "F\u00e9lix A. Miranda",
+      "Warwick P. Bowe"
+    ],
+    "abstract": "Abstract:  Aerospace technologies are crucial for modern civilization; space-based\ninfrastructure underpins weather forecasting, communications, terrestrial\nnavigation and logistics, planetary observations, solar monitoring, and other\nindispensable capabilities. Extraplanetary exploration -- including orbital\nsurveys and (more recently) roving, flying, or submersible unmanned vehicles --\nis also a key scientific and technological frontier, believed by many to be\nparamount to the long-term survival and prosperity of humanity. All of these\naerospace applications require reliable control of the craft and the ability to\nrecord high-precision measurements of physical quantities. Magnetometers\ndeliver on both of these aspects, and have been vital to the success of\nnumerous missions. In this review paper, we provide an introduction to the\nrelevant instruments and their applications. We consider past and present\nmagnetometers, their proven aerospace applications, and emerging uses. We then\nlook to the future, reviewing recent progress in magnetometer technology. We\nparticularly focus on magnetometers that use optical readout, including atomic\nmagnetometers, magnetometers based on quantum defects in diamond, and\noptomechanical magnetometers. These optical magnetometers offer a combination\nof field sensitivity, size, weight, and power consumption that allows them to\nreach performance regimes that are inaccessible with existing techniques. This\npromises to enable new applications in areas ranging from unmanned vehicles to\nnavigation and exploration.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2106.15843"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.15281",
+    "title": "Title:On Board Volcanic Eruption Detection through CNNs and Satellite Multispectral Imagery",
+    "date_publ": "29 Jun 2021 (v1), last revised 28 Jul 2021 (this version, v2)",
+    "authors": [
+      "Maria Pia Del Rosso",
+      "Alessandro Sebastianelli",
+      "Dario Spiller",
+      "Pierre Philippe Mathieu",
+      "Silvia Liberata Ull"
+    ],
+    "abstract": "Abstract:  In recent years, the growth of Machine Learning (ML) algorithms has raised\nthe number of studies including their applicability in a variety of different\nscenarios. Among all, one of the hardest ones is the aerospace, due to its\npeculiar physical requirements. In this context, a feasibility study and a\nfirst prototype for an Artificial Intelligence (AI) model to be deployed on\nboard satellites are presented in this work. As a case study, the detection of\nvolcanic eruptions has been investigated as a method to swiftly produce alerts\nand allow immediate interventions. Two Convolutional Neural Networks (CNNs)\nhave been proposed and designed, showing how to efficiently implement them for\nidentifying the eruptions and at the same time adapting their complexity in\norder to fit on board requirements.",
+    "categories": [
+      "Computer Vision and Pattern Recognition (cs.CV)",
+      " Machine Learning (cs.LG)",
+      " Image and Video Processing (eess.IV)"
+    ],
+    "url_pdf": "/pdf/2106.15281"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.14507",
+    "title": "Title:Design of a user-friendly control system for planetary rovers with CPS feature",
+    "date_publ": "28 Jun 2021",
+    "authors": [
+      "Sebastiano Chiodini",
+      "Riccardo Giubilato",
+      "Marco Pertile",
+      "Annarita Tedesco",
+      "Domenico Accardo",
+      "Stefano Debe"
+    ],
+    "abstract": "Abstract:  In this paper, we present a user-friendly planetary rover's control system\nfor low latency surface telerobotic. Thanks to the proposed system, an operator\ncan comfortably give commands through the control base station to a rover using\ncommercially available off-the-shelf (COTS) joysticks or by command sequencing\nwith interactive monitoring on the sensed map of the environment. During\noperations, high situational awareness is made possible thanks to 3D map\nvisualization. The map of the environment is built on the on-board computer by\nprocessing the rover's camera images with a visual Simultaneous Localization\nand Mapping (SLAM) algorithm. It is transmitted via Wi-Fi and displayed on the\ncontrol base station screen in near real-time. The navigation stack takes as\ninput the visual SLAM data to build a cost map to find the minimum cost path.\nBy interacting with the virtual map, the rover exhibits properties of a Cyber\nPhysical System (CPS) for its self-awareness capabilities. The software\narchitecture is based on the Robot Operative System (ROS) middleware. The\nsystem design and the preliminary field test results are shown in the paper.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2106.14507"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.12952",
+    "title": "Title:Space Photometry with BRITE-Constellation",
+    "date_publ": "24 Jun 2021",
+    "authors": [
+      "Weiss W.W",
+      "Zwintz K.",
+      "Kuschnig R.",
+      "Handler G.",
+      "Moffat A.F.J.",
+      "Baade D.",
+      "Bowman D.M.",
+      "Granzer T.",
+      "Kallinger T.",
+      "Koudelka O.F.",
+      "Lovekin C.C.",
+      "Neiner C.",
+      "Pablo H.",
+      "Pigulski A.",
+      "Popowicz A.",
+      "Ramiaramanantsoa T.",
+      "Rucinski S.M.",
+      "Strassmeier K.G.",
+      "Wade G."
+    ],
+    "abstract": "Abstract:  BRITE-Constellation is devoted to high-precision optical photometric\nmonitoring of bright stars, distributed all over the Milky Way, in red and/or\nblue passbands. Photometry from space avoids the turbulent and absorbing\nterrestrial atmosphere and allows for very long and continuous observing runs\nwith high time resolution and thus provides the data necessary for\nunderstanding various processes inside stars (e.g., asteroseismology) and in\ntheir immediate environment. While the first astronomical observations from\nspace focused on the spectral regions not accessible from the ground it soon\nbecame obvious around 1970 that avoiding the turbulent terrestrial atmosphere\nsignificantly improved the accuracy of photometry and satellites explicitly\ndedicated to high-quality photometry were launched. A perfect example is\nBRITE-Constellation, which is the result of a very successful cooperation\nbetween Austria, Canada and Poland. Research highlights for targets distributed\nnearly over the entire HRD are presented, but focus primarily on massive and\nhot stars.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2106.12952"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.11164",
+    "title": "Title:Design criteria of flexible capacitive pressure sensors using DIY-techniques and household materials",
+    "date_publ": "21 Jun 2021",
+    "authors": [
+      "Rishabh Bhooshan Mishr"
+    ],
+    "abstract": "Abstract:  The flexible capacitive pressure sensors are one of the most essential and\nfamous devices with vast applications in automobile, aerospace, marine,\nhealthcare, wearables, consumer, and portable electronics. The fabrication of\npressure sensors in a cleanroom is expensive and time-consuming; however, the\nsensitivity, linearity, and other performance factors of those pressure sensors\nare exceptional. Moreover, sometimes we require sensors that are not expensive\nand can be fabricated rapidly where the other performance factors do not need\nto be highly remarkable. In this modern era, household materials and DIY\n(Do-it-yourself) techniques are quite helpful, highly utilized. They are\nrecommended to fabricate low-cost sensors and healthcare devices for\npersonalized medicine and low-cost consumer electronics. Different flexible\ncapacitive pressure sensors are presented and experimentally characterized for\nacoustic and air-pressure monitoring in this thesis. The design criteria of a\ncantilever-based capacitive pressure sensor are discussed. The three different\ndesigns are analysed with aspect ratios of 1.5, 1.0, and 0.67. The sensor with\nan aspect ratio of 0.67 shows maximum sensitivity (mechanical and electrical),\nbetter response time, and the 1st and 2nd mode of resonant frequencies is\ncomparatively less than the other two. The cantilever designs are susceptible\nto slight pressure; therefore, the diaphragm-based normal mode capacitive\npressure sensor is introduced in the second chapter, which defines the design\ncriteria of diaphragm shapes. The five different diaphragms analysed are\ncircular, elliptical, pentagon, square, and rectangular shapes. The circular\ncapacitive pressure sensor shows maximum sensitivity, however, maximum\nnon-linear response.....",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2106.11164"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.10609",
+    "title": "Title:High-Specific-Power Flexible Transition Metal Dichalcogenide Solar Cells",
+    "date_publ": "20 Jun 2021 (v1), last revised 24 Jun 2021 (this version, v2)",
+    "authors": [
+      "Koosha Nassiri Nazif",
+      "Alwin Daus",
+      "Jiho Hong",
+      "Nayeun Lee",
+      "Sam Vaziri",
+      "Aravindh Kumar",
+      "Frederick Nitta",
+      "Michelle Chen",
+      "Siavash Kananian",
+      "Raisul Islam",
+      "Kwan-Ho Kim",
+      "Jin-Hong Park",
+      "Ada Poon",
+      "Mark L. Brongersma",
+      "Eric Pop",
+      "Krishna C. Saraswa"
+    ],
+    "abstract": "Abstract:  Semiconducting transition metal dichalcogenides (TMDs) are promising for\nflexible high-specific-power photovoltaics due to their ultrahigh optical\nabsorption coefficients, desirable band gaps and self-passivated surfaces.\nHowever, challenges such as Fermi-level pinning at the metal contact-TMD\ninterface and the inapplicability of traditional doping schemes have prevented\nmost TMD solar cells from exceeding 2% power conversion efficiency (PCE). In\naddition, fabrication on flexible substrates tends to contaminate or damage TMD\ninterfaces, further reducing performance. Here, we address these fundamental\nissues by employing: 1) transparent graphene contacts to mitigate Fermi-level\npinning, 2) $\\rm{MoO}_\\it{x}$ capping for doping, passivation and\nanti-reflection, and 3) a clean, non-damaging direct transfer method to realize\ndevices on lightweight flexible polyimide substrates. These lead to record PCE\nof 5.1% and record specific power of $\\rm{4.4\\ W\\,g^{-1}}$ for flexible TMD\n($\\rm{WSe_2}$) solar cells, the latter on par with prevailing thin-film solar\ntechnologies cadmium telluride, copper indium gallium selenide, amorphous\nsilicon and III-Vs. We further project that TMD solar cells could achieve\nspecific power up to $\\rm{46\\ W\\,g^{-1}}$, creating unprecedented opportunities\nin a broad range of industries from aerospace to wearable and implantable\nelectronics.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2106.10609"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.09902",
+    "title": "Title:Complementary junction field-effect transistor logic gate operational at 300$^\\circ$C with 1.4 V supply voltage",
+    "date_publ": "18 Jun 2021",
+    "authors": [
+      "Mitsuaki Kaneko",
+      "Masashi Nakajima",
+      "Qimin Jin",
+      "Tsunenobu Kimot"
+    ],
+    "abstract": "Abstract:  Integrated circuits (ICs) that can operate at high temperature have a wide\nvariety of applications in the fields of automotive, aerospace, space\nexploration, and deep-well drilling. Conventional silicon-based complementary\nmetal-oxide-semiconductor (CMOS) circuits cannot work at higher than 200\n$^\\circ$C, leading to the use of wide bandgap semiconductor, especially silicon\ncarbide (SiC). However, high-density defects at an oxide-SiC interface make it\nimpossible to predict electrical characteristics of SiC CMOS logic gates in a\nwide temperature range and high supply voltage (typically ${\\geqq 15}$ V) is\nrequired to compensate their large logic threshold voltage shift. Here, we show\nthat SiC complementary logic gates composed of p- and n-channel junction\nfield-effect transistors (JFETs) operate at 300 $^\\circ$C with a supply voltage\nas low as 1.4 V. The logic threshold voltage shift of the complementary JFET\n(CJFET) inverter is 0.2 V from room temperature to 300 $^\\circ$C. Furthermore,\ntemperature dependencies of the static and dynamic characteristics of the CJFET\ninverter are well explained by a simple analytical model of SiC JFETs. This\nallows us to perform electronic circuit simulation, leading to superior\ndesignability of complex circuits or memories based on SiC CJFET technology,\nwhich operate within a wide temperature range.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/2106.09902"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.09445",
+    "title": "Title:A structure-preserving surrogate model for the closure of the moment system of the Boltzmann equation using convex deep neural networks",
+    "date_publ": "17 Jun 2021",
+    "authors": [
+      "Steffen Schotth\u00f6fer",
+      "Tianbai Xiao",
+      "Martin Frank",
+      "Cory D. Hauc"
+    ],
+    "abstract": "Abstract:  Direct simulation of physical processes on a kinetic level is prohibitively\nexpensive in aerospace applications due to the extremely high dimension of the\nsolution spaces. In this paper, we consider the moment system of the Boltzmann\nequation, which projects the kinetic physics onto the hydrodynamic scale. The\nunclosed moment system can be solved in conjunction with the entropy closure\nstrategy. Using an entropy closure provides structural benefits to the physical\nsystem of partial differential equations. Usually computing such closure of the\nsystem spends the majority of the total computational cost, since one needs to\nsolve an ill-conditioned constrained optimization problem. Therefore, we build\na neural network surrogate model to close the moment system, which preserves\nthe structural properties of the system by design, but reduces the\ncomputational cost significantly. Numerical experiments are conducted to\nillustrate the performance of the current method in comparison to the\ntraditional closure.",
+    "categories": [
+      "Numerical Analysis (math.NA)",
+      " Mathematical Physics (math-ph)"
+    ],
+    "url_pdf": "/pdf/2106.09445"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.07408",
+    "title": "Title:Using Eye Tracker To Evaluate Cockpit Design -- A Flight Simulation Study",
+    "date_publ": "9 Jun 2021",
+    "authors": [
+      "Archana Hebbar",
+      "Abhay Pashilkar",
+      "Pradipta Biswa"
+    ],
+    "abstract": "Abstract:  This paper investigates applications of eye tracking in transport aircraft\ndesign evaluations. Piloted simulations were conducted for a complete flight\nprofile including take off, cruise and landing flight scenario using the\ntransport aircraft flight simulator at CSIR National Aerospace Laboratories.\nThirty-one simulation experiments were carried out with three pilots and\nengineers while recording the ocular parameters and the flight data.\nSimulations were repeated for high workload conditions like flying with\ndegraded visibility and during stall. Pilots visual scan behaviour and workload\nlevels were analysed using ocular parameters; while comparing with the\nstatistical deviations from the desired flight path. Conditions for fatigue\nwere also recreated through long duration simulations and signatures for the\nsame from the ocular parameters were assessed. Results from the study found\ncorrelation between the statistical inferences obtained from the ocular\nparameters with those obtained from the flight path deviations. The paper also\ndemonstrates an evaluators console that assists the designers or evaluators for\nbetter understanding of pilots attentional resource allocation.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)"
+    ],
+    "url_pdf": "/pdf/2106.07408"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.04607",
+    "title": "Title:Reverse analysis of a spiral injector to find geometrical parameters and flow conditions us-ing a GA-based program",
+    "date_publ": "8 Jun 2021",
+    "authors": [
+      "Maziar Shafaee",
+      "Armin Abdehkakha",
+      "Abbas Elkai"
+    ],
+    "abstract": "Abstract:  In this article, the effect of geometrical parameters and flow conditions on\nthe performance of a swirl atomizer is studied. Dimensional analysis and\nexperimental investigations are utilized to define significant terms. The PDA\nsystem used for the measurements was able to supply information about the size,\nconcentration, and particle velocity at each measurement location. The orifice\ndiameter, the spiral cone angle, and also the flow Reynolds number, which is\ndefined based on the injector orifice diameter, play an important role in spray\nquality, and their significance is summarized in a correlation. In order to\nachieve the appropriate combination of design variables that satisfy the design\nconstraints, a GA-based program was used in a reverse analysis process.\nFinally, the advantages of human inspection were employed to provide true best\nperformers from a small group of final answers.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Data Analysis, Statistics and Probability (physics.data-an)"
+    ],
+    "url_pdf": "/pdf/2106.04607"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.03690",
+    "title": "Title:Accelerated Corrosion of High Entropy Alloys under Tensile Stress",
+    "date_publ": "7 Jun 2021",
+    "authors": [
+      "Aditya Ayyagari",
+      "Riyadh Salloom",
+      "Harpreet Singh Arora",
+      "Sundeep Mukherje"
+    ],
+    "abstract": "Abstract:  High entropy alloys are finding significant scientific interest due to their\nexotic microstructures and exceptional properties resulting thereof. These\nalloys have excellent corrosion resistance and may find broad range of\napplications from bio-implants, aerospace components and nuclear industry. A\ncritical performance metric that determines the application worthiness of the\nalloys is the resilience of stressed structural members in a corrosive\nenvironment. This study reports the results from a novel experimental setup to\nquantify the corrosion rate under uniaxial tensile stress in a single phase fcc\nAl0.1CoCrFeNi high entropy alloy rods. Under a uniform uniaxial applied stress\nof 600 MPa, the corrosion current density was observed to increase by three\norders of magnitude and ~150 mV drop in corrosion potential. The mechanism of\naccelerated corrosion is identified as surface passivation layer breakdown, pit\ninitiation on un-passivated surface and rapid pit-propagation along the loading\ndirection.",
+    "categories": [
+      "Applied Physics (physics.app-ph)",
+      " Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/2106.03690"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.01343",
+    "title": "Title:Reconciling interoperability with efficient Verification and Validation within open source simulation environments",
+    "date_publ": "1 Jun 2021",
+    "authors": [
+      "Stefano Sinisi",
+      "Vadim Alimguzhin",
+      "Toni Mancini",
+      "Enrico Tronc"
+    ],
+    "abstract": "Abstract:  A Cyber-Physical System (CPS) comprises physical as well as software\nsubsystems. Simulation-based approaches are typically used to support design\nand Verification and Validation (V&V) of CPSs in several domains such as:\naerospace, defence, automotive, smart grid and healthcare. Accordingly, many\nsimulation-based tools are available, and this poses huge interoperability\nchallenges. To overcome them, in 2010 the Functional Mock-up Interface (FMI)\nwas proposed as an open standard to support both Model Exchange (ME) and\nCo-Simulation (CS). Models adhering to such a standard are called Functional\nMock-up Units (FMUs). FMUs play an essential role in defining complex CPSs\nthrough, e.g., the SSP standard. Simulation-based V&V of CPSs typically\nrequires exploring different scenarios (i.e., exogenous CPS input sequences),\nmany of them showing a shared prefix. Accordingly, the simulator state at the\nend of a shared prefix is saved and then restored and used as a start state for\nthe simulation of the next scenario. In this context, an important FMI feature\nis the capability to save and restore the internal FMU state on demand.\nUnfortunately, the implementation of this feature is not mandatory and it is\navailable only within some commercial software. This motivates developing such\na feature for open-source CPS simulation environments. In this paper, we focus\non JModelica, an open-source modelling and simulation environment for CPSs\ndefined in the Modelica language. We describe how we have endowed JModelica\nwith our open-source implementation of the FMI 2.0 functions to save and\nrestore internal states of FMUs for ME. Furthermore, we present results\nevaluating, through 934 benchmark models, correctness and efficiency of our\nextended JModelica. Our results show that simulation-based V&V is, on average,\n22 times faster with our get/set functionality than without it.",
+    "categories": [
+      "Software Engineering (cs.SE)",
+      " Systems and Control (eess.SY)",
+      " Quantitative Methods (q-bio.QM)"
+    ],
+    "url_pdf": "/pdf/2106.01343"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.11523",
+    "title": "Title:Online learning of data-driven controllers for unknown switched linear systems",
+    "date_publ": "24 May 2021",
+    "authors": [
+      "Monica Rotulo",
+      "Claudio De Persis",
+      "Pietro Tes"
+    ],
+    "abstract": "Abstract:  Motivated by the goal of learning controllers for complex systems whose\ndynamics change over time, we consider the problem of designing control laws\nfor systems that switch among a finite set of unknown discrete-time linear\nsubsystems under unknown switching signals. To this end, we propose a method\nthat uses data to directly design a control mechanism without any explicit\nidentification step. Our approach is online, meaning that the data are\ncollected over time while the system is evolving in closed-loop, and are\ndirectly used to iteratively update the controller. A major benefit of the\nproposed online implementation is therefore the ability of the controller to\nautomatically adjust to changes in the operating mode of the system. We show\nthat the proposed control mechanism guarantees stability of the closed-loop\nswitched linear system provided that the switching is slow enough.\nEffectiveness of the proposed design technique is illustrated for two aerospace\napplications.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2105.11523"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.08547",
+    "title": "Title:Partitioned Active Learning for Heterogeneous Systems",
+    "date_publ": "14 May 2021 (v1), last revised 26 Oct 2021 (this version, v2)",
+    "authors": [
+      "Cheolhei Lee",
+      "Kaiwen Wang",
+      "Jianguo Wu",
+      "Wenjun Cai",
+      "Xiaowei Yu"
+    ],
+    "abstract": "Abstract:  Active learning is a subfield of machine learning that focuses on improving\nthe data collection efficiency of expensive-to-evaluate systems. Especially,\nactive learning integrated surrogate modeling has shown remarkable performance\nin computationally demanding engineering systems. However, the existence of\nheterogeneity in underlying systems may adversely affect the performance of\nactive learning. In order to improve the learning efficiency under this regime,\nwe propose the partitioned active learning that seeks the most informative\ndesign points for partitioned Gaussian process modeling of heterogeneous\nsystems. The proposed active learning consists of two systematic subsequent\nsteps: the global searching scheme accelerates the exploration of active\nlearning by investigating the most uncertain design space, and the local\nsearching exploits the circumscribed information induced by the local GP. We\nalso propose Cholesky update driven numerical remedies for our active learning\nto address the computational complexity challenge. The proposed method is\napplied to numerical simulations and two real-world case studies about (i) the\ncost-efficient automatic fuselage shape control in aerospace manufacturing; and\n(ii) the optimal design of tribocorrosion-resistant alloys in materials\nscience. The results show that our approach outperforms benchmark methods with\nrespect to prediction accuracy and computational efficiency.",
+    "categories": [
+      "Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2105.08547"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.08329",
+    "title": "Title:Non volatile photo-switch using a diamond pn junction",
+    "date_publ": "18 May 2021",
+    "authors": [
+      "C\u00e9dric Masante",
+      "Martin Kah",
+      "Cl\u00e9ment H\u00e9bert",
+      "Nicolas Rouger",
+      "Julien Perno"
+    ],
+    "abstract": "Abstract:  Ultrawide bandgap semiconductor technologies offer potentially revolutionary\nadvances in the rapidly developing areas of quantum communication, short\nwavelength optics, smart energy conversion and biomedical interfaces. These\nstrongly demanding technologies can be partly constructed using conventional\ndevices but new hybrid architectures are needed to overpass current\nperformances and add functionalities. Here, we propose a new concept based on\nthe specific properties of a diamond pn junction combined with both an electric\nand optical control of the depletion region. Using this junction as a gate in a\njunction field effect transistor, we report a proof of concept of a non\nvolatile diamond photo-switch. A diamond pn junction made with nitrogen deep\ndonors in the n-side is demonstrated to be optically activated thanks to\nvisible light. The n-type diamond gate is almost devoid of free carriers in the\ndark and thus insulating. Illuminating the device renders the standard\nelectrical gate control of the transistor efficient. Without illumination, the\ndevice is frozen, keeping a permanent memory of the current state. This new way\nof operating the device opens numerous possibilities to store and transfer\ninformation or energy with applications in the field of electrical aircraft or\naerospace electronics, power electronics, bio-electronics and quantum\ncommunication.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/2105.08329"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.03767",
+    "title": "Title:Aerospace Sliding Mode Control Toolbox: Relative Degree Approach with Resource Prospector Lander and Launch Vehicle Case Studies",
+    "date_publ": "8 May 2021 (v1), last revised 8 Jun 2021 (this version, v2)",
+    "authors": [
+      "S. Kode",
+      "Y. Shtessel (Senior Member IEEE)",
+      "A. Levant (Senior Member IEEE)",
+      "J. Rakoczy",
+      "M. Hannan",
+      "J. Or"
+    ],
+    "abstract": "Abstract:  Conventional Sliding mode control and observation techniques are widely used\nin aerospace applications, including aircrafts, UAVs, launch vehicles, missile\ninterceptors, and hypersonic missiles. This work is dedicated to creating a\nMATLAB-based sliding mode controller design and simulation software toolbox\nthat aims to support aerospace vehicle applications. An architecture of the\naerospace sliding mode control toolbox (SMC Aero) using the relative degree\napproach is proposed. The SMC Aero libraries include 1st order sliding mode\ncontrol (1-SMC), second order sliding mode control (2-SMC), higher order\nsliding mode (HOSM) control (either fixed gain or adaptive), as well as higher\norder sliding mode differentiators. The efficacy of the SMC Aero toolbox is\nconfirmed in two case studies: controlling and simulating resource prospector\nlander (RPL) soft landing on the Moon and launch vehicle (LV) attitude control\nin ascent mode.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2105.03767"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.02780",
+    "title": "Title:Conceptual Design of Mars Sample Return Mission Using Solar Montgolfieres",
+    "date_publ": "22 Mar 2021",
+    "authors": [
+      "Malaya Kumar Biswal M",
+      "Ramesh Naidu Annavarap"
+    ],
+    "abstract": "Abstract:  Space agencies have been incessantly working to propose a sustainable\narchitecture for human Mars mission. But, before proceeding to a giant leap and\naccomplishing those mission intent, it is significant to know the extent of\npossibility to expand terrestrial species on the vast red planet. Decades of\nscientific exploration and experimentation through planetary landers and rovers\nshowed uncertain and unsatisfactory results to determine the possibility of\nlife on Mars. Consequently, the technological limitation has impeded to perform\nin-situ experimentation and analysis on the surface. Therefore, we require soil\nsamples through Mars sample return vehicles for superior analysis in our\nground-based laboratories or on-orbit analysis aboard International Space\nStation from the aspect of planetary protection policy. Sampling analysis\neither in ground or orbit will report the presence of fundamental constituents\nto harbor life. To effectuate this intent, we have proposed a unique sample\nreturn architecture integrated with large solar Montgolfier. Here, we deploy\nparachute and retro propulsion thrusters to deliver sample return vehicles on\nto the surface and systematic ascend with the aid of solar Montgolfier to\npropel the MSRV out of Mars atmosphere. Subsequently, the MSRV effectuates\norbital rendezvous with orbiter for the refueling process and safe return. The\nproposed concept is cheap, robust and simple as compared to the current state\nof MSR architectures ultimately minimizing the technological necessities. It\nalso detains backup plans that were found to be nowhere presented in any of\nsample return strategies. Further, we have extended our discussion to\ncomprehensively analyze entire MSR architecture with our concept for mission\nfeasibility.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2105.02780"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.02366",
+    "title": "Title:Measurement and Analysis of Thermal Conductivity of Ceramic Particle Beds for Solar Thermal Energy Storage",
+    "date_publ": "5 May 2021",
+    "authors": [
+      "Ka Man Chung",
+      "Jian Zeng",
+      "Sarath Reddy Adapa",
+      "Tianshi Feng",
+      "Malavika V. Bagepalli",
+      "Peter G. Loutzenhiser",
+      "Kevin J. Albrecht",
+      "Clifford K. Ho",
+      "Renkun Che"
+    ],
+    "abstract": "Abstract:  A systematic study was performed to measure the effective thermal\nconductivity of ceramic particle beds, a promising heat transfer and thermal\nenergy storage media for concentrating solar power (CSP). The thermal\nconductivity of the ceramic particle beds was measured using a transient\nhot-wire (THW) method within a temperature range of room temperature to 700 oC,\nthe target operating temperature of the next-generation CSP systems. Two\ndifferent types of ceramic particles were examined: (1) CARBOBEAD HSP 40/70 and\n(2) CARBOBEAD CP 40/100 with the average particle sizes of ~ 400 {\\mu}m and\n~280 {\\mu}m, respectively, and thermal conductivities ranging from ~0.25 W m-1\nK-1 to ~0.50 W m-1 K-1 from 20 oC to 700 oC in both air and N2 gas. The gaseous\npressure dependence of the thermal conductivity of the ceramic particle beds\nwas also studied in the N2 environment to differentiate the contributions from\ngas conduction, solid conduction, and radiation. Calculations using the Zehner,\nBauer, and Schl\u00fcnder (ZBS) model showed good agreements with the\nmeasurements. Based on the model, it is concluded that the effective thermal\nconductivity of the packed particle beds is dominated by the gas conduction\nwhile the solid conduction and radiation contributes to about 20% of the\neffective thermal conductivity at high temperature.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/2105.02366"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.01219",
+    "title": "Title:Design Requirements for the Wide-field Infrared TransientExplorer (WINTER)",
+    "date_publ": "3 May 2021",
+    "authors": [
+      "Danielle Frostig",
+      "John W. Baker",
+      "Joshua Brown",
+      "Richard S. Burruss",
+      "Kristin Clark",
+      "G\u00e1bor F\u0171r\u00e9sz",
+      "Nicolae Ganciu",
+      "Erik Hinrichsen",
+      "Viraj R. Karambelkar",
+      "Mansi M. Kasliwal",
+      "Nathan P. Lourie",
+      "Andrew Malonis",
+      "Robert A. Simcoe",
+      "Jeffry Zolkowe"
+    ],
+    "abstract": "Abstract:  The Wide-field Infrared Transient Explorer (WINTER) is a 1x1 degree infrared\nsurvey telescope under development at MIT and Caltech, and slated for\ncommissioning at Palomar Observatory in 2021. WINTER is a seeing-limited\ninfrared time-domain survey and has two main science goals: (1) the discovery\nof IR kilonovae and r-process materials from binary neutron star mergers and\n(2) the study of general IR transients, including supernovae, tidal disruption\nevents, and transiting exoplanets around low mass stars.\nWe plan to meet these science goals with technologies that are relatively new\nto astrophysical research: hybridized InGaAs sensors as an alternative to\ntraditional, but expensive, HgCdTe arrays and an IR-optimized 1-meter COTS\ntelescope. To mitigate risk, optimize development efforts, and ensure that\nWINTER meets its science objectives, we use model-based systems engineering\n(MBSE) techniques commonly featured in aerospace engineering projects. Even as\nground-based instrumentation projects grow in complexity, they do not often\nhave the budget for a full-time systems engineer. We present one example of\nsystems engineering for the ground-based WINTER project, featuring software\ntools that allow students or staff to learn the fundamentals of MBSE and\ncapture the results in a formalized software interface. We focus on the\ntop-level science requirements with a detailed example of how the goal of\ndetecting kilonovae flows down to WINTER's optical design. In particular, we\ndiscuss new methods for tolerance simulations, eliminating stray light, and\nmaximizing image quality of a fly's-eye design that slices the telescope's\nfocus onto 6 non-buttable, IR detectors. We also include a discussion of safety\nconstraints for a robotic telescope.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/2105.01219"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.00047",
+    "title": "Title:In-situ Thermal Transport Measurement of Flowing Fluid using Modulated Photothermal Radiometry",
+    "date_publ": "30 Apr 2021",
+    "authors": [
+      "Jian Zeng",
+      "Ka Man Chung",
+      "Sarath Reddy Adapa",
+      "Tianshi Feng",
+      "Renkun Che"
+    ],
+    "abstract": "Abstract:  In situ thermal transport measurement of flowing fluid could be useful for\nthe characterization and diagnosis of practical thermal systems such as fluid\nheat exchangers and thermal energy storage systems. Despite abundant reports on\nthe ex-situ thermal conductivity measurement of stagnant fluids, a suitable\ntechnique for the thermal conductivity measurement of flowing fluid has been\nrarely reported. This paper presents the thermal conductivity measurement of\nflowing fluid within a pipe using a non-contact modulated photothermal\nradiometry (MPR) technique, where the surface of the pipe is heated by an\nintensity-modulated laser and the heat diffuses into the fluid with suitable\nmodulation frequency. We design a tube section with small wall thickness\nsuitable for the MPR measurements to maximize the sensitivity of the thermal\nresponse to the fluid properties while minimizing the lateral heat spreading\neffect. Intrinsic thermal conductivity of different fluids was obtained within\na proper range of frequency and flow velocity where the forced convection\neffect is negligible. The forced convection effect became prominent at high\nflowing velocity and at low modulation frequency, leading to overestimated\nthermal conductivity of fluid. It is found that the intrinsic thermal\nconductivity could be obtained when the flow velocity is less than 100 mm/sec\nand ReD1/2Pr1/3 < 100 for DI water and Xceltherm oil under the specified\nexperimental conditions, where Re_D is the Reynolds number and Pr is the\nPrandtl number.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/2105.00047"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.13267",
+    "title": "Title:The SRG X-ray orbital observatory, its telescopes and first scientific results",
+    "date_publ": "27 Apr 2021 (v1), last revised 17 Dec 2021 (this version, v2)",
+    "authors": [
+      "R. Sunyaev",
+      "V. Arefiev",
+      "V. Babyshkin",
+      "A. Bogomolov",
+      "K. Borisov",
+      "M. Buntov",
+      "H. Brunner",
+      "R. Burenin",
+      "E. Churazov",
+      "D. Coutinho",
+      "J. Eder",
+      "N. Eismont",
+      "M. Freyberg",
+      "M. Gilfanov",
+      "P. Gureyev",
+      "G. Hasinger",
+      "I. Khabibullin",
+      "V. Kolmykov",
+      "S. Komovkin",
+      "R. Krivonos",
+      "I. Lapshov",
+      "V. Levin",
+      "I. Lomakin",
+      "A. Lutovinov",
+      "P. Medvedev",
+      "A. Merloni",
+      "T. Mernik",
+      "E. Mikhailov",
+      "V. Molodtsov",
+      "P. Mzhelsky",
+      "S. Mueller",
+      "K. Nandra",
+      "V. Nazarov",
+      "M. Pavlinsky",
+      "A. Poghodin",
+      "P. Predehl",
+      "J. Robrade",
+      "S. Sazonov",
+      "H. Scheuerle",
+      "A. Shirshakov",
+      "A. Tkachenko",
+      "V. Voro"
+    ],
+    "abstract": "Abstract:  The orbital observatory Spectrum-Roentgen-Gamma (SRG), equipped with the\ngrazing-incidence X-ray telescopes Mikhail Pavlinsky ART-XC and eROSITA, was\nlaunched by Roscosmos to the Lagrange L2 point of the Sun-Earth system on July\n13, 2019. The launch was carried out from the Baikonur Cosmodrome by a Proton-M\nrocket with a DM-03 upper stage. The German telescope eROSITA was installed on\nSRG under an agreement between Roskosmos and the DLR, the German Aerospace\nAgency. In December 2019, SRG started to perform its main scientific task:\nscanning the celestial sphere to obtain X-ray maps of the entire sky in several\nenergy ranges (from 0.2 to 8 keV with eROSITA, and from 4 to 30 keV with\nART-XC). By mid-June 2021, the third six-month all-sky survey had been\ncompleted. Over a period of four years, it is planned to obtain eight\nindependent maps of the entire sky in each of the energy ranges. The sum of\nthese maps will provide high sensitivity and reveal more than three million\nquasars and over one hundred thousand massive galaxy clusters and galaxy\ngroups. The availability of eight sky maps will enable monitoring of long-term\nvariability (every six months) of a huge number of extragalactic and Galactic\nX-ray sources, including hundreds of thousands of stars with hot coronae. The\nrotation of the satellite around the axis directed toward the Sun with a period\nof four hours enables tracking the faster variability of bright X-ray sources\nduring one day every half year. The chosen strategy of scanning the sky leads\nto the formation of deep survey zones near both ecliptic poles. The paper\npresents sky maps obtained by the telescopes on board SRG during the first\nsurvey of the entire sky and a number of results of deep observations performed\nduring the flight to the L2 point in the frame of the performance verification\nprogram.(Abriged)",
+    "categories": [
+      "High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/2104.13267"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.11831",
+    "title": "Title:Drone Launched Short Range Rockets",
+    "date_publ": "23 Apr 2021",
+    "authors": [
+      "Mikhail Shubo"
+    ],
+    "abstract": "Abstract:  A concept of drone launched short range rockets (DLSRR) is presented. A drone\nor an aircraft rises DLSRR to a release altitude of up to 20 $km$. At the\nrelease altitude, the drone or an aircraft is moving at a velocity of up to 700\n$m/s$ and a steep angle of up to 68$^o$ to the horizontal. After DLSRRs are\nreleased, their motors start firing. DLSRRs use slow burning motors to gain\naltitude and velocity. At the apogee of their flight DLSRRs release projectiles\nwhich fly to the target and strike it at high impact velocity. The projectiles\nreach a target at ranges of up to 442 $km$ and impact velocities up to 1.88\n$km/s$. We show that a rocket launched at high altitude and high initial\nvelocity does not need expensive thermal protection to survive ascent. Delivery\nof munitions to target by DLSRRs should be much less expensive than delivery by\na conventional rocket. %% Even though delivery of munitions by bomber aircraft\nis even less expensive, a bomber needs to fly close to the target, while a\nDLSRR carrier releases the rockets from a distance of at least 200 $km$ from\nthe target. %% All parameters of DLSRRs, and their trajectories are calculated\nbased on theoretical (mechanical and thermodynamical) analysis and on several\nMatLab programs.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/2104.11831"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.11342",
+    "title": "Title:A Machine Learning Framework for Real-time Inverse Modeling and Multi-objective Process Optimization of Composites for Active Manufacturing Control",
+    "date_publ": "22 Apr 2021",
+    "authors": [
+      "Keith D. Humfeld",
+      "Dawei Gu",
+      "Geoffrey A. Butler",
+      "Karl Nelson",
+      "Navid Zobeir"
+    ],
+    "abstract": "Abstract:  For manufacturing of aerospace composites, several parts may be processed\nsimultaneously using convective heating in an autoclave. Due to uncertainties\nincluding tool placement, convective Boundary Conditions (BCs) vary in each\nrun. As a result, temperature histories in some of the parts may not conform to\nprocess specifications due to under-curing or over-heating. Thermochemical\nanalysis using Finite Element (FE) simulations are typically conducted prior to\nfabrication based on assumed range of BCs. This, however, introduces\nunnecessary constraints on the design. To monitor the process, thermocouples\n(TCs) are placed under tools near critical locations. The TC data may be used\nto back-calculate BCs using trial-and-error FE analysis. However, since the\ninverse heat transfer problem is ill-posed, many solutions are obtained for\ngiven TC data. In this study, a novel machine learning (ML) framework is\npresented capable of optimizing air temperature cycle in real-time based on TC\ndata from multiple parts, for active control of manufacturing. The framework\nconsists of two recurrent Neural Networks (NN) for inverse modeling of the\nill-posed curing problem at the speed of 300 simulations/second, and a\nclassification NN for multi-objective optimization of the air temperature at\nthe speed of 35,000 simulations/second. A virtual demonstration of the\nframework for process optimization of three composite parts with data from\nthree TCs is presented.",
+    "categories": [
+      "Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2104.11342"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.10763",
+    "title": "Title:Development of Aircraft Spoiler Demonstrators for Cost-Efficient Investigations of SHM Technologies under Quasi-Realistic Loading Conditions",
+    "date_publ": "22 Apr 2021 (v1), last revised 31 Oct 2021 (this version, v2)",
+    "authors": [
+      "Markus Winklberger",
+      "Christoph Kralovec",
+      "Martin Schager"
+    ],
+    "abstract": "Abstract:  An idealized 1:2 scale demonstrator and a numerical parameter optimization\nalgorithm are proposed to closely reproduce the deformation shape and, thus,\nspatial strain directions of a real aerodynamically loaded civil aircraft\nspoiler using only four concentrated loads. Cost-efficient experimental studies\non demonstrators of increasing complexity are required to transfer knowledge\nfrom coupons to full-scale structures and to build up confidence in novel\nstructural health monitoring (SHM) technologies. Especially for testing novel\nsensor systems that depend on or are affected by mechanical strains, e.g.,\nstrain-based SHM methods, it is essential that the considered lab-scale\nstructures reflect the strain states of the real structure at operational\nloading conditions. Finite element simulations with detailed models were\nperformed for static strength analysis and for comparison to experimental\nmeasurements. The simulated and measured deformations and spatial strain\ndirections of the idealized demonstrator correlated well with the numerical\nresults of the real aircraft spoiler. Thus, using the developed idealized\ndemonstrator, strain-based SHM systems can be tested under conditions that\nreflect operational aerodynamic pressure loads, while the test effort and costs\nare significantly reduced. Furthermore, the presented loading optimization\nalgorithm can be easily adapted to mimic other pressure loads in plate-like\nstructures to reproduce specific structural conditions.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Robotics (cs.RO)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2104.10763"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.08904",
+    "title": "Title:Autonomous Situational Awareness for UAS Swarms",
+    "date_publ": "18 Apr 2021",
+    "authors": [
+      "Vincent W. Hill",
+      "Ryan W. Thomas",
+      "Jordan D. Larso"
+    ],
+    "abstract": "Abstract:  This paper describes a technique for the autonomous mission planning of\nunmanned aerial system swarms. Given a swarm operating in a known area, a\ncentral command system generates measurements from the swarm. If those\nmeasurements indicate changes to the mission situation such as target movement,\nthe swarm planning is updated to reflect the new situation and guidance updates\nare broadcast to the swarm. The primary algorithms featured in this work are A*\npathfinding and the Generalized Labeled Multi-Bernoulli multi-target tracking\nmethod.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Multiagent Systems (cs.MA)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2104.08904"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.08660",
+    "title": "Title:Hayabusa2 Extended Mission: New Voyage to Rendezvous with a Small Asteroid Rotating with a Short Period",
+    "date_publ": "17 Apr 2021",
+    "authors": [
+      "M. Hirabayashi",
+      "Y. Mimasu",
+      "N. Sakatani",
+      "S. Watanabe",
+      "Y. Tsuda",
+      "T. Saiki",
+      "S. Kikuchi",
+      "T. Kouyama",
+      "M. Yoshikawa",
+      "S. Tanaka",
+      "S. Nakazawa",
+      "Y. Takei",
+      "F. Terui",
+      "H. Takeuchi",
+      "A. Fujii",
+      "T. Iwata",
+      "K. Tsumura",
+      "S. Matsuura",
+      "Y. Shimaki",
+      "S. Urakawa",
+      "Y. Ishibashi",
+      "S. Hasegawa",
+      "M. Ishiguro",
+      "D. Kuroda",
+      "S. Okumura",
+      "S. Sugita",
+      "T. Okada",
+      "S. Kameda",
+      "S. Kamata",
+      "A. Higuchi",
+      "H. Senshu",
+      "H. Noda",
+      "K. Matsumoto",
+      "R. Suetsugu",
+      "T. Hirai",
+      "K. Kitazato",
+      "D. Farnocchia",
+      "S.P. Naidu",
+      "D.J. Tholen",
+      "C.W. Hergenrother",
+      "R.J. Whiteley",
+      "N. A. Moskovitz",
+      "P.A. Abell",
+      "the Hayabusa2 extended mission study grou"
+    ],
+    "abstract": "Abstract:  Hayabusa2 is the Japanese Asteroid Return Mission and targeted the\ncarbonaceous asteroid Ryugu, conducted by the Japan Aerospace Exploration\nAgency (JAXA). The goal of this mission was to conduct proximity operations\nincluding remote sensing observations, material sampling, and a Small Carry-On\nImpact experiment, as well as sample analyses. As of September 2020, the\nspacecraft is on the way back to Earth with samples from Ryugu with no critical\nissues after the successful departure in November 2019. Here, we propose an\nextended mission in which the spacecraft will rendezvous with a small asteroid\nwith ~30 m - ~40 m in diameter that is rotating at a spin period of ~10 min\nafter an additional ~10-year cruise phase. We introduce that two scenarios are\nsuitable for the extended mission. In the first scenario, the spacecraft will\nperform swing-by maneuvers at Venus once and Earth twice to arrive at asteroid\n2001 AV43. In the second scenario, it will perform swing-by maneuvers at Earth\ntwice to reach asteroid 1998 KY26. In both scenarios, the mission will continue\nuntil the early 2030s. JAXA recently released the decision that the spacecraft\nwill rendezvous with 1998 KY26. This paper focuses on our scientific\nassessments of the two scenarios but leaves the decision process to go to 1998\nKY26 for future reports. Rendezvous operations will be planned to detail the\nphysical properties and surrounding environments of the target, one of the\nsmallest elements of small planetary bodies. By achieving the planned\noperations, the mission will provide critical hints on the violent histories of\ncollisions and accumulations of small bodies in the solar system. Furthermore,\nthe established scientific knowledge and techniques will advance key\ntechnologies for planetary defense.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/2104.08660"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.08333",
+    "title": "Title:A survey on Dependable Digital Systems using FPGAs: Current Methods and Challenges",
+    "date_publ": "6 Apr 2021",
+    "authors": [
+      "Farah Natiq Kassab bashi",
+      "Shawkat S Khairulla"
+    ],
+    "abstract": "Abstract:  Fault tolerance is increasingly being use to design Dependable Digital\nSystems (DDS), which refers to the capability of a system to keep performing\nits intended functions in existence of faults. DDS are typically used in\nSafety-critical system (SCS) such as medical (I&C) devices, Nuclear power\nPlants (I&C) devices and Aerospace (I&C) systems, the failure in these systems\ncan cause harm to environment, death, injury to people. Different fault\ntolerance techniques were developed to overcome these issues and that has led\nto increase the reliability and dependability of applications on Field\nProgrammable Gate Arrays (FPGAs). In this paper, multiple related works are\npresent dealing with different types of faults and fault tolerance methods in\nFPGA based systems. Furthermore, a comparison between the evaluation metrics of\nprevious works of Fault Tolerant (FT) techniques like hardware redundancy\noverhead, time delay, reliability, and performance are also present.",
+    "categories": [
+      "Hardware Architecture (cs.AR)"
+    ],
+    "url_pdf": "/pdf/2104.08333"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.07669",
+    "title": "Title:Apollo Video Photogrammetry Estimation of Plume Impingement Effects (conference version)",
+    "date_publ": "16 Apr 2021",
+    "authors": [
+      "Christopher Immer",
+      "John Lane",
+      "Philip Metzger",
+      "Sandra Clement"
+    ],
+    "abstract": "Abstract:  The Constellation Project's planned return to the moon requires numerous\nlandings at the same site. Since the top few centimeters are loosely packed\nregolith, plume impingement from the Lander ejects the granular material at\nhigh velocities. Much work is needed to understand the physics of plume\nimpingement during landing in order to protect hardware surrounding the landing\nsites. While mostly qualitative in nature, the Apollo Lunar Module landing\nvideos can provide a wealth of quantitative information using modern\nphotogrammetry techniques. The authors have used the digitized videos to\nquantify plume impingement effects of the landing exhaust on the lunar surface.\nThe dust ejection angle from the plume is estimated at 1-3 degrees. The lofted\nparticle density is estimated at 10^8 - 10^13 particles/m^3. Additionally,\nevidence for ejection of large 10-15 cm sized objects and a dependence of\nejection angle on thrust are presented. Further work is ongoing to continue\nquantitative analysis of the landing videos.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Detectors (physics.ins-det)"
+    ],
+    "url_pdf": "/pdf/2104.07669"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.06248",
+    "title": "Title:ISRU Implications for Lunar and Martian Plume Effects",
+    "date_publ": "12 Apr 2021",
+    "authors": [
+      "Philip T. Metzger",
+      "Xiaoyi Li",
+      "Christopher D. Immer",
+      "John E. Lan"
+    ],
+    "abstract": "Abstract:  Experiments, analyses, and simulations have shown that the engine exhaust\nplume of a Mars lander large enough for human spaceflight will create a deep\ncrater in the martian soil, blowing ejecta to approximately 1 km distance,\ndamaging the bottom of the lander with high-momentum rock impacts, and possibly\ntilting the lander as the excavated hole collapses to become a broad residual\ncrater upon engine cutoff. Because of this, we deem that we will not have\nadequate safety margins to land humans on Mars unless we robotically stabilize\nthe soil to form in situ landing pads prior to the mission. It will take a\nsignificant amount of time working in a harsh off-planet environment to develop\nand certify the new technologies and procedures for in situ landing pad\nconstruction. The only place to reasonably accomplish this is on the Moon.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2104.06248"
+  }
+]

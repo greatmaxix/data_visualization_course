@@ -1,0 +1,851 @@
+[
+  {
+    "url": "https://arxiv.org/abs/1508.06457",
+    "title": "Title:On geodesic deviation in Schwarzschild spacetime",
+    "date_publ": "26 Aug 2015",
+    "authors": [
+      "Dennis Philipp",
+      "Volker Perlick",
+      "Claus Laemmerzahl",
+      "Kaustubh Deshpand"
+    ],
+    "abstract": "Abstract:  For metrology, geodesy and gravimetry in space, satellite based instruments\nand measurement techniques are used and the orbits of the satellites as well as\npossible deviations between nearby ones are of central interest. The\nmeasurement of this deviation itself gives insight into the underlying\nstructure of the spacetime geometry, which is curved and therefore described by\nthe theory of general relativity (GR). In the context of GR, the deviation of\nnearby geodesics can be described by the Jacobi equation that is a result of\nlinearizing the geodesic equation around a known reference geodesic with\nrespect to the deviation vector and the relative velocity. We review the\nderivation of this Jacobi equation and restrict ourselves to the simple case of\nthe spacetime outside a spherically symmetric mass distribution and circular\nreference geodesics to find solutions by projecting the Jacobi equation on a\nparallel propagated tetrad as done by Fuchs. Using his results, we construct\nsolutions of the Jacobi equation for different physical initial scenarios\ninspired by satellite gravimetry missions and give a set of parameter together\nwith their precise impact on satellite orbit deviation. We further consider the\nNewtonian analog and construct the full solution, that exhibits a similar\nstructure, within this theory.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/1508.06457"
+  },
+  {
+    "url": "https://arxiv.org/abs/1508.05354",
+    "title": "Title:Miniature X-Ray Solar Spectrometer (MinXSS) - A Science-Oriented, University 3U CubeSat",
+    "date_publ": "21 Aug 2015 (v1), last revised 3 Nov 2015 (this version, v2)",
+    "authors": [
+      "James P. Mason",
+      "Thomas N. Woods",
+      "Amir Caspi",
+      "Phillip C. Chamberlin",
+      "Christopher Moore",
+      "Andrew Jones",
+      "Rick Kohnert",
+      "Xinlin Li",
+      "Scott Palo",
+      "Stanley Solomo"
+    ],
+    "abstract": "Abstract:  The Miniature X-ray Solar Spectrometer (MinXSS) is a 3-Unit (3U) CubeSat\ndeveloped at the Laboratory for Atmospheric and Space Physics (LASP) at the\nUniversity of Colorado, Boulder (CU). Over 40 students contributed to the\nproject with professional mentorship and technical contributions from\nprofessors in the Aerospace Engineering Sciences Department at CU and from LASP\nscientists and engineers. The scientific objective of MinXSS is to study\nprocesses in the dynamic Sun, from quiet-Sun to solar flares, and to further\nunderstand how these changes in the Sun influence the Earth's atmosphere by\nproviding unique spectral measurements of solar soft x-rays (SXRs). The\nenabling technology providing the advanced solar SXR spectral measurements is\nthe Amptek X123, a commercial-off-the-shelf (COTS) silicon drift detector\n(SDD). The Amptek X123 has a low mass (~324 g after modification), modest power\nconsumption (~2.50 W), and small volume (6.86 cm x 9.91 cm x 2.54 cm), making\nit ideal for a CubeSat. This paper provides an overview of the MinXSS mission:\nthe science objectives, project history, subsystems, and lessons learned that\ncan be useful for the small-satellite community.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Geophysics (physics.geo-ph)",
+      " Instrumentation and Detectors (physics.ins-det)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1508.05354"
+  },
+  {
+    "url": "https://arxiv.org/abs/1508.04933",
+    "title": "Title:Metallization and APPJ treatment of Bismaleimide",
+    "date_publ": "20 Aug 2015 (v1), last revised 29 Jun 2016 (this version, v3)",
+    "authors": [
+      "A.S. Bhattacharyya",
+      "S. Kumar",
+      "A. Sharma",
+      "D. Kumar",
+      "S. B. Patel",
+      "D. Paul",
+      "P.P. Dutta",
+      "G. Bhattacharje"
+    ],
+    "abstract": "Abstract:  Bismaleimide (BMI) resins are a new breed of thermosetting resins used mainly\nfor high temperature applications and have major usage in aerospace. FTIR\nstudies have shown the signatures of imide, CNC stretching, malemide and N-H\nstretching. These BMI polymer coatings were deposited on aluminum and mild\nsteel substrates by sprinkling powers followed by baking. Thermo gravimetric\nanalysis and Differential scanning calorimetric studies showed the degradation\ntemperature of these polymers around 370oC. Aluminum coatings were deposited on\nBMI previously deposited on Al and mild steel to make a metal-BMI-metal\ntrilayer. These trilayers can solve the problem charging of the aircraft bodies\nat high altitudes. Atomic force microscopy was done to determine the morphology\nof the surface. Roughness and thickness measurements of the BMI coatings were\ncarried out by surface profilometer. Vickers microhardness tests showed an\nincrease in hardness of the metal-BMI-metal trilayer. FTIR spectrum showed\nsignature of imides, CNC stretching, maleimide and N-H stretching in BMI. We\nobserved that peak broadens at which shows the release of the stress during\nthermal treatment of the coating. The coating is subject to variable APPJ\nconditions which improve the properties at high temperature.",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1508.04933"
+  },
+  {
+    "url": "https://arxiv.org/abs/1508.02487",
+    "title": "Title:Robust $H_{\\infty}$ Loop-Shaping Differential Thrust Control Methodology for Lateral/Directional Stability of an Aircraft with a Damaged Vertical Stabilizer",
+    "date_publ": "11 Aug 2015",
+    "authors": [
+      "Long Kim Lu",
+      "Kamran Turkogl"
+    ],
+    "abstract": "Abstract:  The vertical stabilizer is the key aerodynamic surface that provides an\naircraft with its directional stability characteristic while ailerons and\nrudder are the primary control surfaces that give pilots control authority of\nthe yawing and banking maneuvers. Losing the vertical stabilizer will,\ntherefore, result in the consequential loss of lateral/directional stability\nand control, which is likely to cause a fatal crash. In this paper, we\nconstruct a scenario of a damaged aircraft model which has no physical rudder\ncontrol surface, and then a strategy based on differential thrust is proposed\nto be utilized as a control input to act as a \"virtual\" rudder to help maintain\nstability and control of the damaged aircraft. The $H_{\\infty}$ loop-shaping\napproach based robust control system design is implemented to achieve a stable\nand robust flight envelope, which is aimed to provide a safe landing.\nInvestigation results demonstrate successful application of such robust\ndifferential thrust methodology as the damaged aircraft can achieve stability\nwithin feasible control limits. Finally, the robustness analysis results\nconclude that the stability and performance of the damaged aircraft in the\npresence of uncertainty remain within desirable limits, and demonstrate not\nonly a robust, but a safe flight mission through the proposed $H_{\\infty}$\nloop-shaping robust differential thrust control methodology.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1508.02487"
+  },
+  {
+    "url": "https://arxiv.org/abs/1507.06963",
+    "title": "Title:Controllability of Spacecraft Using Only Magnetic Torques",
+    "date_publ": "24 Jul 2015",
+    "authors": [
+      "Yaguang Yan"
+    ],
+    "abstract": "Abstract:  Spacecraft attitude control using only magnetic torques is a time-varying\nsystem. Many designs were proposed using LQR and H-infinity formulations. The\nexistence of the solutions depends on the controllability of the linear\ntime-varying systems which has not been established. In this paper, we will\nderive the conditions of the controllability for this linear time-varying\nsystems.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1507.06963"
+  },
+  {
+    "url": "https://arxiv.org/abs/1507.03699",
+    "title": "Title:A New Method for Triangular Mesh Generation",
+    "date_publ": "14 Jul 2015",
+    "authors": [
+      "Guojun G Liao",
+      "Xi Chen",
+      "Xianxin Cai",
+      "Ben Hildebrand",
+      "Dion Fleita"
+    ],
+    "abstract": "Abstract:  Computational mathematics plays an increasingly important role in\ncomputational fluid dynamics (CFD). The aeronautics and aerospace re- search\ncommunity is working on next generation of CFD capacity that is accurate,\nautomatic, and fast. A key component of the next generation of CFD is a greatly\nenhanced capacity for mesh generation and adaptivity of the mesh according to\nsolution and geometry. In this paper, we propose a new method that generates\ntriangular meshes on domains of curved boundary. The method deforms a Cartesian\nmesh that covers the domain to generate a mesh with prescribed boundary nodes.\nThe deformation fields are generated by a system of divergence and curl\nequations which are solved effectively by the least square finite element\nmethod.",
+    "categories": [
+      "Computational Geometry (cs.CG)"
+    ],
+    "url_pdf": "/pdf/1507.03699"
+  },
+  {
+    "url": "https://arxiv.org/abs/1506.04871",
+    "title": "Title:Formal Design of Asynchronous Fault Detection and Identification Components using Temporal Epistemic Logic",
+    "date_publ": "16 Jun 2015 (v1), last revised 10 Feb 2016 (this version, v3)",
+    "authors": [
+      "Marco Bozzano (Fondazione Bruno Kessler)",
+      "Alessandro Cimatti (Fondazione Bruno Kessler)",
+      "Marco Gario (Fondazione Bruno Kessler)",
+      "Stefano Tonetta (Fondazione Bruno Kessler"
+    ],
+    "abstract": "Abstract:  Autonomous critical systems, such as satellites and space rovers, must be\nable to detect the occurrence of faults in order to ensure correct operation.\nThis task is carried out by Fault Detection and Identification (FDI)\ncomponents, that are embedded in those systems and are in charge of detecting\nfaults in an automated and timely manner by reading data from sensors and\ntriggering predefined alarms. The design of effective FDI components is an\nextremely hard problem, also due to the lack of a complete theoretical\nfoundation, and of precise specification and validation techniques. In this\npaper, we present the first formal approach to the design of FDI components for\ndiscrete event systems, both in a synchronous and asynchronous setting. We\npropose a logical language for the specification of FDI requirements that\naccounts for a wide class of practical cases, and includes novel aspects such\nas maximality and trace-diagnosability. The language is equipped with a clear\nsemantics based on temporal epistemic logic, and is proved to enjoy suitable\nproperties. We discuss how to validate the requirements and how to verify that\na given FDI component satisfies them. We propose an algorithm for the synthesis\nof correct-by-construction FDI components, and report on the applicability of\nthe design approach on an industrial case-study coming from aerospace.",
+    "categories": [
+      "Logic in Computer Science (cs.LO)"
+    ],
+    "url_pdf": "/pdf/1506.04871"
+  },
+  {
+    "url": "https://arxiv.org/abs/1506.02762",
+    "title": "Title:Aircraft navigation based on differentiation-integration observer",
+    "date_publ": "9 Jun 2015 (v1), last revised 4 May 2017 (this version, v3)",
+    "authors": [
+      "Xinhua Wang",
+      "Lilong Ca"
+    ],
+    "abstract": "Abstract:  In this paper, a generalized differentiation-integration observer is\npresented based on sensors selection. The proposed differentiation-integration\nobserver can estimate the multiple integrals and high-order derivatives of a\nsignal, synchronously. The parameters selection rules are presented for the\ndifferentiation-integration observer. The theoretical results are confirmed by\nthe frequency-domain analysis. The effectiveness of the proposed observer are\nverified through the numerical simulations on a quadrotor aircraft: i) through\nthe differentiation-integration observer, the attitude angle and the\nuncertainties in attitude dynamics are estimated synchronously from the\nmeasurements of angular velocity; ii) a control law is designed based on the\nobservers to drive the aircraft to track a reference trajectory.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1506.02762"
+  },
+  {
+    "url": "https://arxiv.org/abs/1506.01790",
+    "title": "Title:Degradation of metallic surfaces under space conditions, with particular emphasis on hydrogen recombination processes",
+    "date_publ": "5 Jun 2015",
+    "authors": [
+      "Maciej Sznajder",
+      "Ulrich Geppert",
+      "Miros\u0142aw Dude"
+    ],
+    "abstract": "Abstract:  The widespread use of metallic structures in space technology brings risk of\ndegradation which occurs under space conditions. New types of materials\ndedicated for space applications, that have been developed in the last decade,\nare in majority not well tested for different space mission scenarios. Very\nlittle is known how material degradation may affect the stability and\nfunctionality of space vehicles and devices during long term space missions.\nOur aim is to predict how the solar wind and electromagnetic radiation degrade\nmetallic structures. Therefore both experimental and theoretical studies of\nmaterial degradation under space conditions have been performed. The studies\nare accomplished at German Aerospace Center (DLR) in Bremen (Germany) and\nUniversity of Zielona G\u00f3ra (Poland). The paper presents the results of the\ntheoretical part of those studies. It is proposed that metal bubbles filled\nwith Hydrogen molecular gas, resulting from recombination of the metal free\nelectrons and the solar protons, are formed on the irradiated surfaces. A\nthermodynamic model of bubble formation has been developed. We study the\ncreation process of $\\rm{H_2}$-bubbles as function of, inter alia, the metal\ntemperature, proton dose and energy. Our model has been verified by irradiation\nexperiments completed at the DLR facility in Bremen. Consequences of the bubble\nformation are changes of the physical and thermo-optical properties of such\ndegraded metals. We show that a high surface density of bubbles (up to $10^8$\n$\\rm{cm^{-2}}$) with a typical bubble diameter of $\\sim 0.4$$\\rm{\\mu}$m will\ncause a significant increase of the metallic surface roughness. This may have\nserious consequences to any space mission. Changes in the thermo-optical\nproperties of metallic foils are especially important for the solar sail\npropulsion technology, ...",
+    "categories": [
+      "Materials Science (cond-mat.mtrl-sci)"
+    ],
+    "url_pdf": "/pdf/1506.01790"
+  },
+  {
+    "url": "https://arxiv.org/abs/1505.06784",
+    "title": "Title:Mathematical modeling and control of a tilt-rotor aircraft",
+    "date_publ": "26 May 2015 (v1), last revised 2 Jun 2015 (this version, v2)",
+    "authors": [
+      "Xinhua Wang",
+      "Lilong Ca"
+    ],
+    "abstract": "Abstract:  This paper presents a novel model of large-size tilt-rotor aircraft, which\ncan operate as a helicopter as well as being capable of transition to\nfixed-wing flight. Aerodynamics of the dynamic large-size tilt-rotors based on\nblade element method is analyzed during mode transition. For the large-size\naircraft with turboshaft engines, the blade pitch angles of the rotors are\nregulated to vary according to the desired level of thrust, and the following\nexpressions are formulated explicitly: rotor thrust and blade pitch angle, drag\ntorque and blade pitch angle. A finite-time convergent observer based on\nLyapunov function is developed to reconstruct the unknown variables and\nuncertainties during mode transitions. The merits of this design include the\nmodeling of dynamic large-size tilt-rotor, ease of the uncertainties estimation\nduring the tilting and the widely applications. Moreover, a switched logic\ncontroller based on the finite-time convergent observer is proposed to drive\nthe aircraft to implement the mode transition with invariant flying height.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1505.06784"
+  },
+  {
+    "url": "https://arxiv.org/abs/1505.00947",
+    "title": "Title:Colocated MIMO Radar Waveform Design for Transmit Beampattern Formation",
+    "date_publ": "5 May 2015",
+    "authors": [
+      "Haisheng Xu",
+      "Rick S. Blum",
+      "Jian Wang",
+      "Jian Yua"
+    ],
+    "abstract": "Abstract:  In this paper, colocated MIMO radar waveform design is considered by\nminimizing the integrated side-lobe level to obtain beam patterns with lower\nside-lobe levels than competing methods. First, a quadratic programming problem\nis formulated to design beam patterns by using the criteria for a minimal\nintegrated side-lobe level. A theorem is derived that provides a closed-form\nanalytical optimal solution that appears to be an extension of the Rayleigh\nquotient minimization for a possibly singular matrix in quadratic form. Such\nsingularities are shown to occur in the problem of interest, but proofs for the\noptimum solution in these singular matrix cases could not be found in the\nliterature. Next, an additional constraint is added to obtain beam patterns\nwith desired 3 dB beamwidths, resulting in a nonconvex quadratically\nconstrained quadratic program which is NP-hard. A semidefinite program and a\nGaussian randomized semidefinite relaxation are used to determine feasible\nsolutions arbitrarily close to the solution to the original problem.\nTheoretical and numerical analyses illustrate the impacts of changing the\nnumber of transmitters and orthogonal waveforms employed in the designs.\nNumerical comparisons are conducted to evaluate the proposed design approaches.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1505.00947"
+  },
+  {
+    "url": "https://arxiv.org/abs/1505.00346",
+    "title": "Title:Power Allocation and Measurement Matrix Design for Block CS-Based Distributed MIMO Radars",
+    "date_publ": "2 May 2015 (v1), last revised 8 Mar 2016 (this version, v3)",
+    "authors": [
+      "Azra Abtahi",
+      "M. Modarres-Hashemi",
+      "Farokh Marvasti",
+      "Foroogh S. Tabatab"
+    ],
+    "abstract": "Abstract:  Multiple-input multiple-output (MIMO) radars offer higher resolution, better\ntarget detection, and more accurate target parameter estimation. Due to the\nsparsity of the targets in space-velocity domain, we can exploit Compressive\nSensing (CS) to improve the performance of MIMO radars when the sampling rate\nis much less than the Nyquist rate. In distributed MIMO radars, block CS\nmethods can be used instead of classical CS ones for more performance\nimprovement, because the received signal in this group of MIMO radars is a\nblock sparse signal in a basis. In this paper, two new methods are proposed to\nimprove the performance of the block CS-based distributed MIMO radars. The\nfirst one is a new method for optimal energy allocation to the transmitters,\nand the other one is a new method for optimal design of the measurement matrix.\nThese methods are based on the minimization of an upper bound of the sensing\nmatrix block-coherence. Simulation results show an increase in the accuracy of\nmultiple targets parameters estimation for both proposed methods.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1505.00346"
+  },
+  {
+    "url": "https://arxiv.org/abs/1504.06342",
+    "title": "Title:Multisensor CPHD filter",
+    "date_publ": "23 Apr 2015 (v1), last revised 4 Mar 2016 (this version, v2)",
+    "authors": [
+      "Santosh Nannuru",
+      "Stephane Blouin",
+      "Mark Coates",
+      "Michael Rabba"
+    ],
+    "abstract": "Abstract:  The single sensor probability hypothesis density (PHD) and cardinalized\nprobability hypothesis density (CPHD) filters have been developed in the\nliterature using the random finite set framework. The existing multisensor\nextensions of these filters have limitations such as sensor order dependence,\nnumerical instability or high computational requirements. In this paper we\nderive update equations for the multisensor CPHD filter. The multisensor PHD\nfilter is derived as a special case. Exact implementation of the multisensor\nCPHD involves sums over all partitions of the measurements from different\nsensors and is thus intractable. We propose a computationally tractable\napproximation which combines a greedy measurement partitioning algorithm with\nthe Gaussian mixture representation of the PHD. Our greedy approximation method\nallows the user to control the tradeoff between computational overhead and\napproximation accuracy.",
+    "categories": [
+      "Methodology (stat.ME)"
+    ],
+    "url_pdf": "/pdf/1504.06342"
+  },
+  {
+    "url": "https://arxiv.org/abs/1503.08866",
+    "title": "Title:Towards Data-Driven Hierarchical Surgical Skill Analysis",
+    "date_publ": "30 Mar 2015",
+    "authors": [
+      "Bin Li",
+      "Berenice Mettler",
+      "Timonthy M. Kowalewsk"
+    ],
+    "abstract": "Abstract:  This paper evaluates methods of hierarchical skill analysis developed in\naerospace to the problem of surgical skill assessment and modeling. The\nanalysis employs tool motion data of Fundamental of Laparoscopic Skills (FLS)\ntasks collected from clinicians of various skill levels at three different\nclinical teaching hospitals in the United States. Outcomes are evaluated based\non their ability to provide relevant information about the underlying processes\nacross the entire system hierarchy including control, guidance and planning.",
+    "categories": [
+      "Human-Computer Interaction (cs.HC)"
+    ],
+    "url_pdf": "/pdf/1503.08866"
+  },
+  {
+    "url": "https://arxiv.org/abs/1503.07828",
+    "title": "Title:A Survey of Manoeuvring Target Tracking Methods",
+    "date_publ": "6 Mar 2015",
+    "authors": [
+      "Graham W. Pulfor"
+    ],
+    "abstract": "Abstract:  A comprehensive review of the literature on manoeuvring target tracking for\nboth uncluttered and cluttered measurements is presented. Various discrete-time\ndynamical models including non-random input, random-input and switching or\nhybrid system manoeuvre models are presented. The problem of manoeuvre\ndetection is covered. Classical and current filtering methods for manoeuvre\ntracking are presented including multi-level process noise, input estimation,\nvariable dimension filtering, two-stage filter, the interacting multiple model\nalgorithm, and generalised pseudo-Bayesian algorithms. Various extensions of\nthese algorithms to the case of cluttered measurements are also described and\nthese include: joint manoeuvre and measurement association, probabilistic data\nassociation and multi-hypothesis tracking. Smoothing schemes, including IMM\nsmoothing and batch expectation-maximisation using the Viterbi algorithm, are\nalso described. The use of amplitude information for target measurement\ndiscrimination is discussed. It is noted that although many manoeuvre tacking\ntechniques exist, the literature contains surprisingly few performance\ncomparisons to guide the design engineer although a performance benchmark has\nrecently been introduced.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1503.07828"
+  },
+  {
+    "url": "https://arxiv.org/abs/1503.07258",
+    "title": "Title:Adaptive Differential Thrust Methodology for Lateral/Directional Stability of an Aircraft with a Completely Damaged Vertical Stabilizer",
+    "date_publ": "25 Mar 2015 (v1), last revised 28 Oct 2015 (this version, v2)",
+    "authors": [
+      "Long K. Lu",
+      "Kamran Turkogl"
+    ],
+    "abstract": "Abstract:  This paper investigates the utilization of differential thrust to help a\ncommercial aircraft with a damaged vertical stabilizer regain its\nlateral/directional stability. In the event of an aircraft losing its vertical\nstabilizer, the consequential loss of the lateral/directional stability and\ncontrol is likely to cause a fatal crash. In this paper, an aircraft with a\ncompletely damaged vertical stabilizer is investigated, and a unique\ndifferential thrust based adaptive control approach is proposed to achieve a\nstable flight envelope. The propulsion dynamics of the aircraft is modeled as a\nsystem of differential equations with engine time constant and time delay terms\nto study the engine response time with respect to a differential thrust input.\nThe proposed differential thrust control module is then presented to map the\nrudder input to differential thrust input. Model reference adaptive control\nbased on the Lyapunov stability approach is implemented to test the ability of\nthe damaged aircraft to track the model aircraft's (reference) response in an\nextreme scenario. Investigation results demonstrate successful application of\nsuch differential thrust approach to regain lateral/directional stability of a\ndamaged aircraft with no vertical stabilizer. Finally, the conducted robustness\nand uncertainty analysis results conclude that the stability and performance of\nthe damaged aircraft remain within desirable limits, and demonstrate a safe\nflight mission through the proposed adaptive control methodology.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1503.07258"
+  },
+  {
+    "url": "https://arxiv.org/abs/1503.06654",
+    "title": "Title:United Nations Basic Space Science Initiative (UNBSSI) 1991-2012 and Beyond",
+    "date_publ": "23 Mar 2015",
+    "authors": [
+      "A. M. Mathai",
+      "H. J. Haubold",
+      "W. R. Balog"
+    ],
+    "abstract": "Abstract:  This paper contains an overview and summary on the achievements of the United\nNations basic space science initiative in terms of donated and provided\nplanetariums, astronomical telescopes, and space weather instruments,\nparticularly operating in developing nations. This scientific equipment has\nbeen made available to respective host countries, particularly developing\nnations, through the series of twenty basic space science workshops, organized\nthrough the United Nations Programme on Space Applications since 1991.\nOrganized by the United Nations, the European Space Agency (ESA), the National\nAeronautics and Space Administration (NASA) of the United States of America,\nand the Japan Aerospace Exploration Agency (JAXA), the basic space science\nworkshops were organized as a series of workshops that focused on basic space\nscience (1991-2004), the International Heliophysical Year 2007 (2005-2009), and\nthe International Space Weather Initiative (2010-2012) proposed by the\nCommittee on the Peaceful Uses of Outer Space on the basis of discussions of\nits Scientific and Technical Subcommittee, as reflected in the reports of the\nSubcommittee.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1503.06654"
+  },
+  {
+    "url": "https://arxiv.org/abs/1502.06298",
+    "title": "Title:Demonstration of whispering-gallery-mode resonant enhancement of optical forces",
+    "date_publ": "23 Feb 2015",
+    "authors": [
+      "Yangcheng Li",
+      "Alexey V. Maslov",
+      "Nicholaos I. Limberopoulos",
+      "Vasily N. Astrato"
+    ],
+    "abstract": "Abstract:  We experimentally studied whispering-gallery modes(WGMs) and demonstrated\nresonance enhancement of optical forces evanescently exerted on dielectric\nmicrospheres. We showed that the resonant light pressure can be used for\noptical sorting of microparticles with extraordinary uniform resonant\nproperties that is unachievable by conventional sorting techniques.",
+    "categories": [
+      "Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1502.06298"
+  },
+  {
+    "url": "https://arxiv.org/abs/1501.07576",
+    "title": "Title:Real-Time Second-Order Optimal Guidance Strategies for Optimizing Aircraft Performance in Stochastic Wind Conditions",
+    "date_publ": "29 Jan 2015",
+    "authors": [
+      "Kamran Turkogl"
+    ],
+    "abstract": "Abstract:  This study presents a real-time guidance strategy for an unmanned aerial\nvehicles (UAVs) that can be used to enhance their flight endurance by utilizing\n{\\sl insitu} measurements of wind speeds and wind gradients. In these\nstrategies, periodic adjustments are made in the airspeed and/or heading angle\ncommand, in level flights, for the UAV to minimize a projected power\nrequirement. In this study, UAV dynamics are described by a three-dimensional\ndynamic point-mass model. A stochastic wind field model has been used to\nanalyze the effect of the wind in the process. Onboard closed-loop trajectory\ntracking logics that follow airspeed vector commands are modeled using the\nmethod of feedback linearization. To evaluate the benefits of these strategies\nin enhancing UAV flight endurance, a reference strategy is introduced in which\nthe UAV would follow the optimal airspeed command in a steady level flight\nunder zero wind conditions. A performance measure is defined as the average\npower consumption with respect to no wind case. Different scenarios have been\nevaluated both over a specified time interval and over different initial\nheading angles of the UAV. A relative benefit criterion is then defined as the\npercentage improvement in the performance measure of a proposed strategy over\nthat of the reference strategy. Extensive numerical simulations are conducted\nto show efficiency and applicability of the proposed algorithms. Results\ndemonstrate possible power savings of the proposed real-time guidance\nstrategies in level flights, by utilization of wind energy.",
+    "categories": [
+      "Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/1501.07576"
+  },
+  {
+    "url": "https://arxiv.org/abs/1501.05736",
+    "title": "Title:Optical technologies for the observation of low Earth orbit objects",
+    "date_publ": "23 Jan 2015",
+    "authors": [
+      "Daniel Hampf",
+      "Paul Wagner",
+      "Wolfgang Ried"
+    ],
+    "abstract": "Abstract:  In order to avoid collisions with space debris, the near Earth orbit must be\ncontinuously scanned by either ground- or spaced-based facilities. For the low\nEarth orbit, radar telescopes are the workhorse for this task, especially due\nto their continuous availability. However, optical observation methods can\ndeliver complementary information, especially towards high accuracy\nmeasurements. Passive-optical observations are inexpensive and can yield very\nprecise information about the apparent position of the object in the sky via\ncomparison with background stars. However, the object's distance from the\nobserver is not readily accessible, which constitutes a major drawback of this\napproach for the precise calculation of the orbital elements. Two experimental\nmethods have been devised to overcome this problem: Using two observatories a\nfew kilometres apart, strictly simultaneous observations of the same object\nyield an accurate, instantaneous 3D position determination through measurement\nof the parallax. If only one observatory is available, a pulsed laser can be\nused in addition to the passive-optical channel to measure the distance to the\nobject, in a similar fashion as used by the satellite laser ranging community.\nHowever, compared to conventional laser ranging, a stronger laser and more\nelaborate tracking algorithms are necessary. The two approaches can also be\ncombined by illuminating the object with a pulsed laser from one observatory\nand measuring the return times at both observatories. These techniques are\nexplored by German Aerospace Center in Stuttgart using its orbital debris\nresearch observatory, in cooperation with the Satellite Laser Ranging station\nin Graz and the Geodetic Observatory in Wettzell. This contribution will\npresent some of the results and plans for further measurement campaigns.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1501.05736"
+  },
+  {
+    "url": "https://arxiv.org/abs/1412.3926",
+    "title": "Title:Wave propagation in pantographic 2D lattices with internal discontinuities",
+    "date_publ": "12 Dec 2014 (v1), last revised 2 Jun 2015 (this version, v3)",
+    "authors": [
+      "Angela Madeo",
+      "Alessandro Della Corte",
+      "Leopoldo Greco",
+      "Patrizio Nef"
+    ],
+    "abstract": "Abstract:  In the present paper we consider a 2D pantographic structure composed by two\northogonal families of Euler beams. Pantographic rectangular 'long' waveguides\nare considered in which imposed boundary displacements can induce the onset of\ntraveling (possibly non-linear) waves. We performed numerical simulations\nconcerning a set of dynamically interesting cases. The system undergoes large\nrotations which may involve geometrical non-linearities, possibly opening the\npath to appealing phenomena such as propagation of solitary waves. Boundary\nconditions dramatically influence the transmission of the considered waves at\ndiscontinuity surfaces. The theoretical study of this kind of objects looks\ncritical, as the concept of pantographic 2D sheets seems to have promising\npossible applications in a number of fields, e.g. acoustic filters, vascular\nprostheses and aeronautic/aerospace panels.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)"
+    ],
+    "url_pdf": "/pdf/1412.3926"
+  },
+  {
+    "url": "https://arxiv.org/abs/1412.2096",
+    "title": "Title:Dark Ages Radio Explorer Mission: Probing the Cosmic Dawn",
+    "date_publ": "5 Dec 2014",
+    "authors": [
+      "Dayton L. Jones",
+      "T. Joseph W. Lazio",
+      "Jack O. Burn"
+    ],
+    "abstract": "Abstract:  The period between the creation of the cosmic microwave background at a\nredshift of ~1000 and the formation of the first stars and black holes that\nre-ionize the intergalactic medium at redshifts of 10-20 is currently\nunobservable. The baryonic component of the universe during this period is\nalmost entirely neutral hydrogen, which falls into local regions of higher dark\nmatter density. This seeds the formation of large-scale structures including\nthe cosmic web that we see today in the filamentary distribution of galaxies\nand clusters of galaxies. The only detectable signal from these dark ages is\nthe 21-cm spectral line of hydrogen, redshifted down to frequencies of\napproximately 10-100 MHz. Space-based observations of this signal will allow us\nto determine the formation epoch and physics of the first sources of ionizing\nradiation, and potentially detect evidence for the decay of dark matter\nparticles. JPL is developing deployable low frequency antenna and receiver\nprototypes to enable both all-sky spectral measurements of neutral hydrogen and\nultimately to map the spatial distribution of the signal as a function of\nredshift. Such observations must be done from space because of Earth's\nionosphere and ubiquitous radio interference. A specific application of these\ntechnologies is the Dark Ages Radio Explorer (DARE) mission. This small\nExplorer class mission is designed to measure the sky-averaged hydrogen signal\nfrom the shielded region above the far side of the Moon. These data will\ncomplement ground-based radio observations of the final stages of intergalactic\nre-ionization at higher frequencies. DARE will also serve as a scientific\npercursor for space-based interferometry missions to image the distribution of\nhydrogen during the cosmic dark ages.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1412.2096"
+  },
+  {
+    "url": "https://arxiv.org/abs/1411.5869",
+    "title": "Title:Optimization-based Alignment for Strapdown Inertial Navigation System Comparison and Extension",
+    "date_publ": "21 Nov 2014 (v1), last revised 23 Nov 2016 (this version, v3)",
+    "authors": [
+      "Lubin Chang",
+      "Jingshu Li",
+      "Kailong L"
+    ],
+    "abstract": "Abstract:  In this paper, the optimization-based alignment (OBA) methods are\ninvestigated with main focus on the vector observations construction procedures\nfor the strapdown inertial navigation system (SINS). The contributions of this\nstudy are twofold. First the OBA method is extended to be able to estimate the\ngyroscopes biases coupled with the attitude based on the construction process\nof the existing OBA methods. This extension transforms the initial alignment\ninto an attitude estimation problem which can be solved using the nonlinear\nfiltering algorithms. The second contribution is the comprehensive evaluation\nof the OBA methods and their extensions with different vector observations\nconstruction procedures in terms of convergent speed and steady-state estimate\nusing field test data collected from different grades of SINS. This study is\nexpected to facilitate the selection of appropriate OBA methods for different\ngrade SINS.",
+    "categories": [
+      "Robotics (cs.RO)"
+    ],
+    "url_pdf": "/pdf/1411.5869"
+  },
+  {
+    "url": "https://arxiv.org/abs/1410.3266",
+    "title": "Title:Prospect for UV observations from the Moon",
+    "date_publ": "13 Oct 2014",
+    "authors": [
+      "Margarita Safonova",
+      "Joice Mathew",
+      "Rekhesh Mohan",
+      "A. G. Sreejith",
+      "Jayant Murthy",
+      "Noah Brosch",
+      "Norbert Kappelmann",
+      "Arpit Sharma",
+      "Rahul Naraya"
+    ],
+    "abstract": "Abstract:  Space astronomy in the last 40 years has largely been done from spacecraft in\nlow Earth orbit (LEO) for which the technology is proven and delivery\nmechanisms are readily available. However, new opportunities are arising with\nthe surge in commercial aerospace missions. We describe here one such\npossibility: deploying a small instrument on the Moon. This can be accomplished\nby flying onboard the Indian entry to the Google Lunar X PRIZE competition,\nTeam Indus mission, which is expected to deliver a nearly 30 kgs of payloads to\nthe Moon, with a rover as its primary payload. We propose to mount a wide-field\nfar-UV (130--180 nm) imaging telescope as a payload on the Team Indus lander.\nOur baseline operation is a fixed zenith pointing but with the option of a\nmechanism to allow observations of different attitudes. Pointing towards\nintermediate ecliptic latitude (50 deg or above) ensures that the Sun is at\nleast 40 deg off the line of sight at all times. In this position, the\ntelescope can cover higher galactic latitudes as well as parts of Galactic\nplane. The scientific objectives of such a prospective are delineated and\ndiscussed.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1410.3266"
+  },
+  {
+    "url": "https://arxiv.org/abs/1410.2496",
+    "title": "Title:A Scenario for a Future European Shipboard Railgun",
+    "date_publ": "9 Oct 2014",
+    "authors": [
+      "Stephan Hundertmark",
+      "Daniel Lancell"
+    ],
+    "abstract": "Abstract:  Railguns can convert large quantities of electrical energy into kinetic\nenergy of the projectile. This was demon- strated by the 33 MJ muzzle energy\nshot performed in 2010 in the framework of the Office of Naval Research (ONR)\nelectromag- netic railgun program. Since then, railguns are a prime candidate\nfor future long range artillery systems. In this scenario, a heavy projectile\n(several kilograms) is accelerated to approx. 2.5 km/s muzzle velocity. While\nthe primary interest for such a hypersonic projectile is the bombardment of\ntargets being hundreds of kilometers away, they can also be used to counter\nairplane attacks or in other direct fire scenarios. In these cases, the large\ninitial velocity significantly reduces the time to impact the target. In this\nstudy we investigate a scenario, where a future shipboard railgun installation\ndelivers the same kinetic energy to a target as the explosive round of a\ncontemporary European ship artillery system. At the same time the railgun\noutperforms the current artillery systems in range. For this scenario a first\ndraft for the parameters of a railgun system were derived. For the flight-path\nof the projectile, trajectories for different launch angles were simulated and\nthe aero-thermodynamic heating was estimated using engineering-tools developed\nwithin the German Aerospace Center (DLR). This enables the assessment of the\nfeasibility of the different strike scenarios, as well as the identification of\nthe limits of the technology. It is envisioned that this baseline design can be\nused as a helpful starting point for discussions of a possible electrical\nweaponization of future European warships.",
+    "categories": [
+      "Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1410.2496"
+  },
+  {
+    "url": "https://arxiv.org/abs/1410.1813",
+    "title": "Title:gLISA: geosynchronous Laser Interferometer Space Antenna concepts with off-the-shelf satellites",
+    "date_publ": "7 Oct 2014",
+    "authors": [
+      "Massimo Tinto",
+      "Daniel DeBra",
+      "Sasha Buchman",
+      "Scott Tille"
+    ],
+    "abstract": "Abstract:  We discuss two geosynchronous gravitational wave mission concepts, which we\ngenerically name gLISA. One relies on the science instrument hosting program\nonboard geostationary commercial satellites, while the other takes advantage of\nrecent developments in the aerospace industry that result in dramatic satellite\nand launching vehicle cost reductions for a dedicated geosynchronous mission.\nTo achieve the required level of disturbance free-fall onboard these large and\nheavy platforms we propose a \"two-stage\" drag-free system, which incorporates\nthe Modular Gravitational Reference Sensor (MGRS) (developed at Stanford\nUniversity) and does not rely on the use of micro-Newton thrusters. Although\nboth mission concepts are characterized by different technical and programmatic\nchallenges, individually they could be flown and operated at a cost\nsignificantly lower than those of previously envisioned gravitational wave\nmissions. We estimate both mission concepts to cost less than 500M US$ each,\nand in the year 2015 we will perform at JPL a detailed selecting mission cost\nanalysis.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1410.1813"
+  },
+  {
+    "url": "https://arxiv.org/abs/1409.3954",
+    "title": "Title:MIMO-MC Radar: A MIMO Radar Approach Based on Matrix Completion",
+    "date_publ": "13 Sep 2014",
+    "authors": [
+      "Shunqiao Sun",
+      "Waheed U. Bajwa",
+      "Athina P. Petropul"
+    ],
+    "abstract": "Abstract:  In a typical MIMO radar scenario, transmit nodes transmit orthogonal\nwaveforms, while each receive node performs matched filtering with the known\nset of transmit waveforms, and forwards the results to the fusion center. Based\non the data it receives from multiple antennas, the fusion center formulates a\nmatrix, which, in conjunction with standard array processing schemes, such as\nMUSIC, leads to target detection and parameter estimation. In MIMO radars with\ncompressive sensing (MIMO-CS), the data matrix is formulated by each receive\nnode forwarding a small number of compressively obtained samples. In this\npaper, it is shown that under certain conditions, in both sampling cases, the\ndata matrix at the fusion center is low-rank, and thus can be recovered based\non knowledge of a small subset of its entries via matrix completion (MC)\ntechniques. Leveraging the low-rank property of that matrix, we propose a new\nMIMO radar approach, termed, MIMO-MC radar, in which each receive node either\nperforms matched filtering with a small number of randomly selected dictionary\nwaveforms or obtains sub-Nyquist samples of the received signal at random\nsampling instants, and forwards the results to a fusion center. Based on the\nreceived samples, and with knowledge of the sampling scheme, the fusion center\npartially fills the data matrix and subsequently applies MC techniques to\nestimate the full matrix. MIMO-MC radars share the advantages of the recently\nproposed MIMO-CS radars, i.e., high resolution with reduced amounts of data,\nbut unlike MIMO-CS radars do not require grid discretization. The MIMO-MC radar\nconcept is illustrated through a linear uniform array configuration, and its\ntarget estimation performance is demonstrated via simulations.",
+    "categories": [
+      "Information Theory (cs.IT)",
+      " Applications (stat.AP)"
+    ],
+    "url_pdf": "/pdf/1409.3954"
+  },
+  {
+    "url": "https://arxiv.org/abs/1409.2332",
+    "title": "Title:Partially Independent Control Scheme for Spacecraft Rendezvous in Near-Circular Orbits",
+    "date_publ": "8 Sep 2014 (v1), last revised 4 Jan 2016 (this version, v4)",
+    "authors": [
+      "Neng Wan",
+      "Weiran Ya"
+    ],
+    "abstract": "Abstract:  Due to the complexity and inconstancy of the space environment, accurate\nmathematical models for spacecraft rendezvous are difficult to obtain, which\nconsequently complicates the control tasks. In this paper, a linearized\ntime-variant plant model with external perturbations is adopted to approximate\nthe real circumstance. To realize the robust stability with optimal performance\ncost, a partially independent control scheme is proposed, which consists of a\nrobust anti-windup controller for the in-plane motion and a ${{H}_{\\infty}}$\ncontroller for the out-of-plane motion. Finally, a rendezvous simulation is\ngiven to corroborate the practicality and advantages of the partially\nindependent control scheme over a coupled control scheme.",
+    "categories": [
+      "Systems and Control (eess.SY)",
+      " Dynamical Systems (math.DS)",
+      " Optimization and Control (math.OC)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1409.2332"
+  },
+  {
+    "url": "https://arxiv.org/abs/1407.8351",
+    "title": "Title:Noise Estimate of Pendular Fabry-Perot through Reflectivity Change",
+    "date_publ": "31 Jul 2014",
+    "authors": [
+      "Paolo Addesso",
+      "Vincenzo Pierro",
+      "Giovanni Filatrell"
+    ],
+    "abstract": "Abstract:  A key issue in developing pendular Fabry-Perot interferometers as very\naccurate displacement measurement devices, is the noise level. The Fabry-Perot\npendulums are the most promising device to detect gravitational waves, and\ntherefore the background and the internal noise should be accurately measured\nand reduced. In fact terminal masses generates additional internal noise mainly\ndue to thermal fluctuations and vibrations. We propose to exploit the\nreflectivity change, that occurs in some special points, to monitor the\npendulums free oscillations and possibly estimate the noise level. We find that\nin spite of long transients, it is an effective method for noise estimate. We\nalso prove that to only retain the sequence of escapes, rather than the whole\ntime dependent dynamics, entails the main characteristics of the phenomenon.\nEscape times could also be relevant for future gravitational wave detector\ndevelopments.",
+    "categories": [
+      "Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1407.8351"
+  },
+  {
+    "url": "https://arxiv.org/abs/1407.4431",
+    "title": "Title:Electromagnetic Wave Propagation In The Plasma Layer of A Reentry Vehicle",
+    "date_publ": "16 Jul 2014",
+    "authors": [
+      "Madhusudhan Kundrapu",
+      "John Loverich",
+      "Kris Beckwith",
+      "Peter Stoltz",
+      "Alexey Shashurin",
+      "Michael Keida"
+    ],
+    "abstract": "Abstract:  The ability to simulate a reentry vehicle plasma layer and the radio wave\ninteraction with that layer, is crucial to the design of aerospace vehicles\nwhen the analysis of radio communication blackout is required. Results of\naerothermal heating, plasma generation and electromagnetic wave propagation\nover a reentry vehicle are presented in this paper. Simulation of a magnetic\nwindow radio communication blackout mitigation method is successfully\ndemonstrated.",
+    "categories": [
+      "Computational Physics (physics.comp-ph)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/1407.4431"
+  },
+  {
+    "url": "https://arxiv.org/abs/1407.1952",
+    "title": "Title:Proceedings 2nd French Singaporean Workshop on Formal Methods and Applications",
+    "date_publ": "8 Jul 2014",
+    "authors": [
+      "Shang-Wei Lin",
+      "Laure Petrucci (Universit\u00e9 Paris 13",
+      "Sorbonne Paris Cit\u00e9",
+      "LIPN",
+      "CNRS",
+      "UMR 7030",
+      "F-93430",
+      "Villetaneuse",
+      "France"
+    ],
+    "abstract": "Abstract:  This volume contains the proceedings of the 2nd French Singaporean Workshop\non Formal Methods and Applications (FSFMA'14). The workshop was held in\nSingapore on May 13th, 2014, as a satellite event of the 19th International\nSymposium on Formal Methods (FM'14).\nFSFMA aims at sharing research interests and launching collaborations in the\narea of formal methods and their applications. The scientific subject of the\nworkshop covers (but is not limited to) areas such as formal specification,\nmodel checking, verification, program analysis/transformation, software\nengineering, and applications in major areas of computer science, including\naeronautics and aerospace. The workshop brings together researchers and\nindustry R&D experts from France, Singapore and other countries together to\nexchange their knowledge, discuss their research findings, and explore\npotential collaborations.\nThis volume contains eight contributions: four invited talks and four regular\npapers.",
+    "categories": [
+      "Logic in Computer Science (cs.LO)",
+      " Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "#other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1407.0591",
+    "title": "Title:James Webb Space Telescope Optical Simulation Testbed I: Overview and First Results",
+    "date_publ": "2 Jul 2014",
+    "authors": [
+      "Marshall D. Perrin",
+      "R\u00e9mi Soummer",
+      "\u00c9lodie Choquet",
+      "Mamadou N'Diaye",
+      "Olivier Levecq",
+      "Charles-Phillipe Lajoie",
+      "Marie Ygouf",
+      "Lucie Leboulleux",
+      "Sylvain Egron",
+      "Rachel Anderson",
+      "Chris Long",
+      "Erin Elliott",
+      "George Hartig",
+      "Laurent Pueyo",
+      "Roeland van der Marel",
+      "Matt Mountai"
+    ],
+    "abstract": "Abstract:  The James Webb Space Telescope (JWST) Optical Simulation Testbed (JOST) is a\ntabletop workbench to study aspects of wavefront sensing and control for a\nsegmented space telescope, including both commissioning and maintenance\nactivities. JOST is complementary to existing optomechanical testbeds for JWST\n(e.g. the Ball Aerospace Testbed Telescope, TBT) given its compact scale and\nflexibility, ease of use, and colocation at the JWST Science & Operations\nCenter. We have developed an optical design that reproduces the physics of\nJWST's three-mirror anastigmat using three aspheric lenses; it provides similar\nimage quality as JWST (80% Strehl ratio) over a field equivalent to a NIRCam\nmodule, but at HeNe wavelength. A segmented deformable mirror stands in for the\nsegmented primary mirror and allows control of the 18 segments in piston, tip,\nand tilt, while the secondary can be controlled in tip, tilt and x, y, z\nposition. This will be sufficient to model many commissioning activities, to\ninvestigate field dependence and multiple field point sensing & control, to\nevaluate alternate sensing algorithms, and develop contingency plans. Testbed\ndata will also be usable for cross-checking of the WFS&C Software Subsystem,\nand for staff training and development during JWST's five- to ten-year mission.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1407.0591"
+  },
+  {
+    "url": "https://arxiv.org/abs/1406.3237",
+    "title": "Title:Minimum Noise Optical Coatings for Interferometric Detectors of Gravitational Waves",
+    "date_publ": "12 Jun 2014",
+    "authors": [
+      "Maria Princip"
+    ],
+    "abstract": "Abstract:  Coating Brownian noise is the dominant noise term, in a frequency band from a\nfew tens to a few hundreds Hz, for all Earth-bound detectors of gravitational\nwaves. Minimizing such noise is mandatory to increase the visibility distance\nof these instruments, and eventually reach their quantum limit. Several\nstrategies are possible to achieve this goal. Layer thickness optimization is\nthe simplest option, yielding a sensible noise reduction with limited\ntechnological challenges. Experimental results confirm the accuracy of the\nunderlying theory, and the robustness of the design.",
+    "categories": [
+      "General Relativity and Quantum Cosmology (gr-qc)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Optics (physics.optics)"
+    ],
+    "url_pdf": "/pdf/1406.3237"
+  },
+  {
+    "url": "https://arxiv.org/abs/1406.3160",
+    "title": "Title:Design of a silica-aerogel-based cosmic dust collector for the Tanpopo mission aboard the International Space Station",
+    "date_publ": "12 Jun 2014",
+    "authors": [
+      "Makoto Tabata",
+      "Eiichi Imai",
+      "Hajime Yano",
+      "Hirofumi Hashimoto",
+      "Hideyuki Kawai",
+      "Yuko Kawaguchi",
+      "Kensei Kobayashi",
+      "Hajime Mita",
+      "Kyoko Okudaira",
+      "Satoshi Sasaki",
+      "Hikaru Yabuta",
+      "Shin-ichi Yokobori",
+      "Akihiko Yamagish"
+    ],
+    "abstract": "Abstract:  We are developing a silica-aerogel-based cosmic dust collector for use in the\nTanpopo experiment to be conducted on the International Space Station. The mass\nproduction of simple two-layer hydrophobic aerogels was undertaken in a\ncontamination-controlled environment, yielding more than 100 undamaged\nproducts. The collector, comprising an aerogel tile and holder panel, was\ndesigned to resist launch vibration and to conform to an exposure attachment.\nTo this end, a box-framing aerogel with inner and outer densities of 0.01 and\n0.03 g/cm$^3$, respectively, was fabricated. The aerogel mounted in the panel\npassed random vibration tests at the levels of the acceptance and qualification\ntests for launch. It also withstood the pressure changes expected in the\nairlock on the International Space Station.",
+    "categories": [
+      "Instrumentation and Detectors (physics.ins-det)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/1406.3160"
+  },
+  {
+    "url": "https://arxiv.org/abs/1406.0173",
+    "title": "Title:On the ISAR Image Analysis and Recovery with Unavailable or Heavily Corrupted Data",
+    "date_publ": "1 Jun 2014",
+    "authors": [
+      "Ljubisa Stankovi"
+    ],
+    "abstract": "Abstract:  Common ISAR radar images and signals can be reconstructed from much fewer\nsamples than the sampling theorem requires since they are usually sparse.\nUnavailable randomly positioned samples can result from heavily corrupted parts\nof the signal. Since these samples can be omitted and declared as unavailable,\nthe application of the compressive sensing methods in the recovery of heavily\ncorrupted signal and radar images is possible. A\\ simple direct method for the\nrecovery of unavailable signal samples and the calculation of the restored ISAR\nimage is reviewed. An analysis of the noise influence is performed. For fast\nmaneuvering ISAR targets the sparsity property is lost since the ISAR image is\nblurred. A nonparametric quadratic time-frequency representations based method\nis used to restore the ISAR image sparsity. However, the linear relation\nbetween the signal and the sparsity domain transformation is lost. A recently\nproposed gradient recovery algorithm is adapted for this kind of analysis. It\ndoes not require the linear relation of the signal and its sparsity domain\ntransformation in the process of unavailable data recovery. The presented\nmethods and results are tested on several numerical examples proving the\nexpected accuracy and improvements.",
+    "categories": [
+      "Information Theory (cs.IT)"
+    ],
+    "url_pdf": "/pdf/1406.0173"
+  },
+  {
+    "url": "https://arxiv.org/abs/1405.7186",
+    "title": "Title:Molecular Hydrogen bubbles formation on thin vacuum deposited Aluminum layers after proton irradiation",
+    "date_publ": "28 May 2014 (v1), last revised 29 May 2014 (this version, v2)",
+    "authors": [
+      "Maciej Sznajder",
+      "Ulrich Gepper"
+    ],
+    "abstract": "Abstract:  Metals are the most common materials used in space technology. Metal\nstructures, while used in space, are subjected to the full spectrum of the\nelectromagnetic radiation together with particle irradiation. Hence, they\nundergo degradation. Future space missions are planned to proceed in the\ninterplanetary space, where the protons of the solar wind play a very\ndestructive role on metallic surfaces. Unfortunately, their real degradation\nbehavior is to a great extent unknown.\nOur aim is to predict materials' behavior in such a destructive environment.\nTherefore both, theoretical and experimental studies are performed at the\nGerman Aerospace Center (DLR) in Bremen, Germany.\nHere, we report the theoretical results of those studies. We examine the\nprocess of H2-bubble formation on metallic surfaces. H2-bubbles are metal caps\nfilled with Hydrogen molecular gas resulting from recombination processes of\nthe metal free electrons and the solar protons. A thermodynamic model of the\nbubble growth is presented. Our model predicts e.g. the velocity of that growth\nand the reflectivity of foils populated by bubbles.\nFormation of bubbles irreversibly changes the surface quality of irradiated\nmetals. Thin metallic films are especially sensitive for such degradation\nprocesses. They are used e.g. in the solar sail propulsion technology. The\nefficiency of that technology depends on the thermo-optical properties of the\nsail materials. Therefore, bubble formation processes have to be taken into\naccount for the planning of long-term solar sail missions.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/1405.7186"
+  },
+  {
+    "url": "https://arxiv.org/abs/1405.3941",
+    "title": "Title:Aerial-Terrestrial Communications: Terrestrial Cooperation and Energy-Efficient Transmissions to Aerial-Base Stations",
+    "date_publ": "15 May 2014",
+    "authors": [
+      "Sithamparanathan Kandeepan",
+      "Karina Gomez",
+      "Laurent Reynaud",
+      "Tinku Rashee"
+    ],
+    "abstract": "Abstract:  Hybrid aerial-terrestrial communication networks based on Low Altitude\nPlatforms (LAPs) are expected to optimally meet the urgent communication needs\nof emergency relief and recovery operations for tackling large scale natural\ndisasters. The energy-efficient operation of such networks is important given\nthe fact that the entire network infrastructure, including the battery operated\nground terminals, exhibits requirements to operate under power-constrained\nsituations. In this paper, we discuss the design and evaluation of an adaptive\ncooperative scheme intended to extend the survivability of the battery operated\naerial-terrestrial communication links. We propose and evaluate a real-time\nadaptive cooperative transmission strategy for dynamic selection between direct\nand cooperative links based on the channel conditions for improved energy\nefficiency. We show that the cooperation between mobile terrestrial terminals\non the ground could improve the energy efficiency in the uplink depending on\nthe temporal behavior of the terrestrial and the aerial uplink channels. The\ncorresponding delay in having cooperative (relay-based) communications with\nrelay selection is also addressed. The simulation analysis corroborates that\nthe adaptive transmission technique improves the overall energy efficiency of\nthe network whilst maintaining low latency enabling real time applications.",
+    "categories": [
+      "Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1405.3941"
+  },
+  {
+    "url": "https://arxiv.org/abs/1405.1823",
+    "title": "Title:Up and Away: A Cheap UAV Cyber-Physical Testbed (Work in Progress)",
+    "date_publ": "8 May 2014",
+    "authors": [
+      "Ahmed Saeed",
+      "Azin Neishaboori",
+      "Amr Mohamed",
+      "Khaled Harra"
+    ],
+    "abstract": "Abstract:  Cyber-Physical Systems (CPS) have the promise of presenting the next\nevolution in computing with potential applications that include aerospace,\ntransportation, robotics, and various automation systems. These applications\nmotivate advances in the different sub-fields of CPS (e.g. mobile computing and\ncommunication, control, and vision). However, deploying and testing complete\nCPSs is known to be a complex and expensive task. In this paper, we present the\ndesign, implementation, and evaluation of Up and Away (UnA): a testbed for\nCyber-Physical Systems that use UAVs as their physical component. UnA aims at\nabstracting the control of physical components of the system to reduce the\ncomplexity of UAV oriented Cyber-Physical Systems experiments. In addition, UnA\nprovides an API to allow for converting CPS simulations into physical\nexperiments using a few simple steps. We present a case study bringing a\nmobile-camera-based surveillance system simulation to life using UnA.",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/1405.1823"
+  },
+  {
+    "url": "https://arxiv.org/abs/1404.2347",
+    "title": "Title:Automation Security",
+    "date_publ": "9 Apr 2014",
+    "authors": [
+      "Dr. Timur Mirzoe"
+    ],
+    "abstract": "Abstract:  Web-based Automated Process Control systems are a new type of applications\nthat use the Internet to control industrial processes with the access to the\nreal-time data. Supervisory control and data acquisition (SCADA) networks\ncontain computers and applications that perform key functions in providing\nessential services and commodities (e.g., electricity, natural gas, gasoline,\nwater, waste treatment, transportation) to all Americans. As such, they are\npart of the nation s critical infrastructure and require protection from a\nvariety of threats that exist in cyber space today.",
+    "categories": [
+      "Other Computer Science (cs.OH)"
+    ],
+    "url_pdf": "/pdf/1404.2347"
+  },
+  {
+    "url": "https://arxiv.org/abs/1404.2344",
+    "title": "Title:Analysis of Computer Hardware Affecting Video Transmission via IEEE 1394a connection",
+    "date_publ": "9 Apr 2014",
+    "authors": [
+      "Dr. Timur Mirzoe"
+    ],
+    "abstract": "Abstract:  When 60 de-interlaced fields per second digital uncompressed video is\nstreamed to a computer, some video fields are lost and not able to be stored on\na computer s hard drive successfully. Additionally, this problem amplifies once\nmultiple video sources are deployed. If it is possible to stream digital\nuncompressed video without dropped video fields, then a sophisticated computer\nanalysis of the transmitted via IEEE 1394a connection video is possible. Such\nprocess is used in biomechanics when it is important to analyze athletes\nperformance via streaming digital uncompressed video to a computer and then\nanalyzing it. If a loss of video fields occurs, then a quality analysis of\nvideo is not possible.",
+    "categories": [
+      "Multimedia (cs.MM)"
+    ],
+    "url_pdf": "/pdf/1404.2344"
+  },
+  {
+    "url": "https://arxiv.org/abs/1404.2343",
+    "title": "Title:Wireless Transmission of Video for Biomechanical Analysis",
+    "date_publ": "9 Apr 2014",
+    "authors": [
+      "Dr. Timur Mirzoe"
+    ],
+    "abstract": "Abstract:  When there is a possibility to wirelessly stream video over a network, a\nsophisticated computer analysis of the transmitted video is possible. Such\nprocess is used in biomechanics when it is important to analyze athletes\nperformance via streaming digital uncompressed video to a computer and then\nanalyzing it using specific software such as Arial Performance Analysis Systems\nor Dartfish. This manuscript presents some approaches and challenges in\nstreaming video as well as some applications of Information Technology in\nbiomechanics. An example of how scientists from Indiana State University\napproached the wireless transmission of video is also introduced.",
+    "categories": [
+      "Computational Engineering, Finance, and Science (cs.CE)",
+      " Multimedia (cs.MM)",
+      " Networking and Internet Architecture (cs.NI)"
+    ],
+    "url_pdf": "/pdf/1404.2343"
+  },
+  {
+    "url": "https://arxiv.org/abs/1404.0855",
+    "title": "Title:Transformation of UML Behavioral Diagrams to Support Software Model Checking",
+    "date_publ": "3 Apr 2014",
+    "authors": [
+      "Luciana Brasil Rebelo dos Santos (Instituto Nacional de Pesquisas Espaciais - INPE)",
+      "Valdivino Alexandre de Santiago J\u00fanior (Instituto Nacional de Pesquisas Espaciais - INPE)",
+      "Nandamudi Lankalapalli Vijaykumar (Instituto Nacional de Pesquisas Espaciais - INPE"
+    ],
+    "abstract": "Abstract:  Unified Modeling Language (UML) is currently accepted as the standard for\nmodeling (object-oriented) software, and its use is increasing in the aerospace\nindustry. Verification and Validation of complex software developed according\nto UML is not trivial due to complexity of the software itself, and the several\ndifferent UML models/diagrams that can be used to model behavior and structure\nof the software. This paper presents an approach to transform up to three\ndifferent UML behavioral diagrams (sequence, behavioral state machines, and\nactivity) into a single Transition System to support Model Checking of software\ndeveloped in accordance with UML. In our approach, properties are formalized\nbased on use case descriptions. The transformation is done for the NuSMV model\nchecker, but we see the possibility in using other model checkers, such as\nSPIN. The main contribution of our work is the transformation of a non-formal\nlanguage (UML) to a formal language (language of the NuSMV model checker)\ntowards a greater adoption in practice of formal methods in software\ndevelopment.",
+    "categories": [
+      "Software Engineering (cs.SE)"
+    ],
+    "url_pdf": "/pdf/1404.0855"
+  },
+  {
+    "url": "https://arxiv.org/abs/1404.0481",
+    "title": "Title:Turbulent mixing of a slightly supercritical Van der Waals fluid at Low-Mach number",
+    "date_publ": "2 Apr 2014 (v1), last revised 20 May 2014 (this version, v2)",
+    "authors": [
+      "Francesco Battista",
+      "Francesco Picano",
+      "Carlo Massimo Casciol"
+    ],
+    "abstract": "Abstract:  Supercritical fluids near the critical point are characterized by liquid-like\ndensities and gas-like transport properties. These features are purposely\nexploited in different contexts ranging from natural products\nextraction/fractionation to aerospace propulsion. Large part of studies\nconcerns this last context, focusing on the dynamics of supercritical fluids at\nhigh Mach number where compressibility and thermodynamics strictly interact.\nDespite the widespread use also at low Mach number, the turbulent mixing\nproperties of slightly supercritical fluids have still not investigated in\ndetail in this regime. This topic is addressed here by dealing with Direct\nNumerical Simulations (DNS) of a coaxial jet of a slightly supercritical Van\nder Waals fluid. Since acoustic effects are irrelevant in the Low Mach number\nconditions found in many industrial applications, the numerical model is based\non a suitable low-Mach number expansion of the governing equation. According to\nexperimental observations, the weakly supercritical regime is characterized by\nthe formation of finger-like structures-- the so-called ligaments --in the\nshear layers separating the two streams. The mechanism of ligament formation at\nvanishing Mach number is extracted from the simulations and a detailed\nstatistical characterization is provided. Ligaments always form whenever a high\ndensity contrast occurs, independently of real or perfect gas behaviors. The\ndifference between real and perfect gas conditions is found in the ligament\nsmall-scale structure. More intense density gradients and thinner interfaces\ncharacterize the near critical fluid in comparison with the smoother behavior\nof the perfect gas. A phenomenological interpretation is here provided on the\nbasis of the real gas thermodynamics properties.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1404.0481"
+  },
+  {
+    "url": "https://arxiv.org/abs/1403.2221",
+    "title": "Title:Orbit Maneuver of Spinning Tether via Tidal Force",
+    "date_publ": "10 Mar 2014",
+    "authors": [
+      "Hexi Baoyin",
+      "Yang Yu",
+      "Junfeng L"
+    ],
+    "abstract": "Abstract:  Recently, the spinning tethered system is regarded as a typical and\nfundamental space structure attracting great interest of the aerospace\nengineers, and has been discussed primarily for specific space missions in past\ndecades, including on-orbit capture and propellantless orbit transfer etc. The\npresent work studies the dynamical behaviours of a fast spinning tethered\nbinary system under central gravitational field, and derives principles of the\nbasic laws of orbital maneuver. Considering the characteristics of coupled\nlibrational and orbital motions, an averaging method is introduced to deal with\nthe slow-fast system equation, thus a definite equivalent model is derived. The\ngeneral orbit motion is completely determined analytically, including the orbit\ngeometry, periodicity, conversations and moving region etc. Since the\npossibility of orbit control using tether reaction has been proved by previous\nstudies, special attention is paid to the transportation mode of angular\nmomentum and mechanical energy between the orbit and libration. The effect of\ntether length change on the orbit shape is verified both in the averaged model\nand original model. The results show the orbit angular momentum and mechanical\nenergy can be controlled independently, and the operating principles of tether\nreactions are derived for special modification of orbit shape.",
+    "categories": [
+      "Classical Physics (physics.class-ph)"
+    ],
+    "url_pdf": "/pdf/1403.2221"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.6759",
+    "title": "Title:Finite Element Flow Simulations of the EUROLIFT DLR-F11 High Lift Configuration",
+    "date_publ": "27 Feb 2014",
+    "authors": [
+      "Kedar C. Chitale",
+      "Michel Rasquin",
+      "Jeff Martin",
+      "Kenneth E. Janse"
+    ],
+    "abstract": "Abstract:  This paper presents flow simulation results of the EUROLIFT DLR-F11\nmulti-element wing configuration, obtained with a highly scalable finite\nelement solver, PHASTA. This work was accomplished as a part of the 2nd high\nlift prediction workshop. In-house meshes were constructed with increasing mesh\ndensity for analysis. A solution adaptive approach was used as an alternative\nand its effectiveness was studied by comparing its results with the ones\nobtained with other meshes. Comparisons between the numerical solution obtained\nwith unsteady RANS turbulence model and available experimental results are\nprovided for verification and discussion. Based on the observations, future\ndirection for adaptive research and simulations with higher fidelity turbulence\nmodels is outlined.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1402.6759"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.6753",
+    "title": "Title:Anisotropic Boundary Layer Adaptivity of Multi-Element Wings",
+    "date_publ": "27 Feb 2014",
+    "authors": [
+      "Kedar C. Chitale",
+      "Michel Rasquin",
+      "Onkar Sahni",
+      "Mark S. Shephard",
+      "Kenneth E. Janse"
+    ],
+    "abstract": "Abstract:  Multi-element wings are popular in the aerospace community due to their high\nlift performance. Turbulent flow simulations of these configurations require\nvery fine mesh spacings especially near the walls, thereby making use of a\nboundary layer mesh necessary. However, it is difficult to accurately determine\nthe required mesh resolution a priori to the simulations. In this paper we use\nan anisotropic adaptive meshing approach including adaptive control of elements\nin the boundary layers and study its effectiveness for two multi-element wing\nconfigurations. The results are compared with experimental data as well as\nnested refinements to show the efficiency of adaptivity driven by error\nindicators, where superior resolution in wakes and near the tip region through\nadaptivity are highlighted.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)",
+      " Numerical Analysis (math.NA)"
+    ],
+    "url_pdf": "/pdf/1402.6753"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.6706",
+    "title": "Title:Airships: A New Horizon for Science",
+    "date_publ": "26 Feb 2014",
+    "authors": [
+      "Sarah H. Miller (UCI)",
+      "Robert Fesen (Dartmouth)",
+      "Lynne Hillenbrand (Caltech)",
+      "Jason Rhodes (NASA JPL)",
+      "Gil Baird (ILC Dover)",
+      "Geoffrey Blake (Caltech)",
+      "Jeff Booth (JPL)",
+      "David E. Carlile (Lockheed Martin ADP)",
+      "Riley Duren (JPL)",
+      "Frederick G. Edworthy (Aeros)",
+      "Brent Freeze (Sorlox Corporation)",
+      "Randall R. Friedl (JPL)",
+      "Paul F. Goldsmith (JPL)",
+      "Jeffery L. Hall (JPL)",
+      "Scott E. Hoffman (Northrop Grumman)",
+      "Scott E. Hovarter (Lockheed Martin Space Systems)",
+      "Rebecca M. Jensen-Clem (Caltech)",
+      "Ross M. Jones (JPL)",
+      "Jens Kauffmann (Caltech)",
+      "Alina Kiessling (JPL)",
+      "Oliver G. King (Caltech)",
+      "Nick Konidaris (Caltech)",
+      "Timothy L. Lachenmeier (Near Space Corporation)",
+      "Steven D. Lord (Caltech/IPAC)",
+      "Jessica Neu (JPL)",
+      "Gregory R. Quetin (University of Washington)",
+      "Alan Ram (Northrop Grumman)",
+      "Stanley Sander (JPL)",
+      "Marc Simard (JPL)",
+      "Mike Smith (Raven Aerostar)",
+      "Steve Smith (Southwest Research Institute)",
+      "Sara Smoot (Stanford)",
+      "Sara Susca (JPL)",
+      "Abigail Swann (University of Washington)",
+      "Eliot F. Young (Southwest Research Institute)",
+      "Thomas Zambrano (AeroVironment",
+      "Inc."
+    ],
+    "abstract": "Abstract:  The \"Airships: A New Horizon for Science\" study at the Keck Institute for\nSpace Studies investigated the potential of a variety of airships currently\noperable or under development to serve as observatories and science\ninstrumentation platforms for a range of space, atmospheric, and Earth science.\nThe participants represent a diverse cross-section of the aerospace sector,\nNASA, and academia. Over the last two decades, there has been wide interest in\ndeveloping a high altitude, stratospheric lighter-than-air (LTA) airship that\ncould maneuver and remain in a desired geographic position (i.e.,\n\"station-keeping\") for weeks, months or even years. Our study found\nconsiderable scientific value in both low altitude (< 40 kft) and high altitude\n(> 60 kft) airships across a wide spectrum of space, atmospheric, and Earth\nscience programs. Over the course of the study period, we identified\nstratospheric tethered aerostats as a viable alternative to airships where\nstation-keeping was valued over maneuverability. By opening up the sky and\nEarth's stratospheric horizon in affordable ways with long-term flexibility,\nairships allow us to push technology and science forward in a project-rich\nenvironment that complements existing space observatories as well as aircraft\nand high-altitude balloon missions.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Cosmology and Nongalactic Astrophysics (astro-ph.CO)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Astrophysics of Galaxies (astro-ph.GA)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/1402.6706"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.6193",
+    "title": "Title:DNS Study on Physics of Late Boundary Layer Transition",
+    "date_publ": "25 Feb 2014",
+    "authors": [
+      "Chaoqun Liu",
+      "Ping L"
+    ],
+    "abstract": "Abstract:  This paper serves as a review of our recent new DNS study on physics of late\nboundary layer transition. This includes mechanism of the large coherent vortex\nstructure formation, small length scale generation and flow randomization. The\nwidely spread concept vortex breakdown to turbulence,which was considered as\nthe last stage of flow transition, is not observed and is found theoretically\nincorrect. The classical theory on boundary layer transition is challenged and\nwe proposed a new theory with five steps, i.e. receptivity, linear instability,\nlarge vortex formation, small length scale generation, loss of symmetry and\nrandomization to turbulence. We have also proposed a new theory about\nturbulence generation. The new theory shows that all small length scales\n(turbulence) are generated by shear layer instability which is produced by\nlarge vortex structure with multiple level vortex rings, multiple level sweeps\nand ejections, and multiple level negative and positive spikes near the laminar\nsub-layers.Therefore, turbulence is not generated by vortex breakdown but\nrather positive and negative spikes and consequent high shear layers. Shear\nlayer instability is considered as the mother of turbulence. This new theory\nmay give a universal mechanism for turbulence generation and sustenance which\nshows that the energy is brought by large vortex structure through multiple\nlevel sweeps.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1402.6193"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.6188",
+    "title": "Title:DNS Study for the origin of the flow Randomization in Late Boundary Layer Transition",
+    "date_publ": "25 Feb 2014",
+    "authors": [
+      "Manoj Thapa",
+      "Ping Lu",
+      "Chaoqun Li"
+    ],
+    "abstract": "Abstract:  This paper is devoted to the investigation of the origin and mechanism of\nrandomization in late boundary layer transition over a flat plate without\npressure gradient. The flow randomization is a crucial phase before flow\ntransition to the turbulent state. According to existing literatures, the\nrandomization was caused by the big background noises and non-periodic spanwise\nboundary conditions. It was assumed that the large ring structure is affected\nby background noises first, and then the change of large ring structure affects\nthe small length scales quickly, which directly leads to randomization and\nformation of turbulence. However, by careful analysis of our high order DNS\nresults, we believe that the internal instability of multiple ring cycles\nstructure is the main reason. What we observed is that randomization begins\nwhen the third cycle overlaps the first and second cycles. A significant\nasymmetric phenomenon is originated from the second cycle in the middle of both\nstreamwise and spanwise directions. More technically, a visible asymmetric\nphenomenon in the middle vortex ring cycle starts at time step t=16.25T and\nx=838.9{\\delta}in where the top and bottom level rings are still completely\nsymmetric. The non-symmetric structure of middle level ring affects the small\nlength scale in boundary layer bottom quickly. The randomization phenomenon\nspreads to top level through ejections. Finally, the whole flow domain becomes\nrandomized. A hypothesis of C- and K-types shift is given as a possible\nmechanism of flow randomization.",
+    "categories": [
+      "Chaotic Dynamics (nlin.CD)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1402.6188"
+  },
+  {
+    "url": "https://arxiv.org/abs/1402.5896",
+    "title": "Title:Numerical Study on Mechanism of Small Vortex Generation in Boundary Layer Transition",
+    "date_publ": "24 Feb 2014",
+    "authors": [
+      "Ping Lu",
+      "Chaoqun Li"
+    ],
+    "abstract": "Abstract:  The small vortex generation is a key issue of the mechanism for late flow\ntransition and turbulence generation. It was widely accepted that small length\nvortices were generated by large vortex breakdown. According to our recent DNS,\nwe find that the hairpin vortex structure is very stable and never breaks down\nto small pieces. On the other hand, we recognize that there are strong positive\nspikes besides the ring neck in the spanwise direction. The strongly positive\nspikes are caused by second sweeps which are generated by perfectly circular\nand perpendicularly standing vortex rings. The second sweep brings energy from\nthe invisid region downdraft to the bottom of the boundary layers, which\ngenerates high shear layers around the positive spikes.Since the high shear\nlayer is not stable, all small length scales (turbulence) are generated around\nhigh shear layers especially near the wall surface (bottom of boundary layers).\nThis happens near the ring neck in the streamwise direction and besides the\noriginal vortex legs in the spanwise direction.The small length scales then\nrise up from the wall surface and travel to the upper boundary layer.",
+    "categories": [
+      "Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/1402.5896"
+  }
+]

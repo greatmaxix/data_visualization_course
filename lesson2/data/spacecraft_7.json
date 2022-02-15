@@ -1,0 +1,1071 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2104.02722",
+    "title": "Title:Multi-spacecraft observations of coronal loops to verify a force-free field reconstruction and infer loop cross sections",
+    "date_publ": "6 Apr 2021",
+    "authors": [
+      "Marika I. McCarthy",
+      "Dana W. Longcope",
+      "Anna Malanushenk"
+    ],
+    "abstract": "Abstract:  Active region EUV loops are believed to trace a subset of magnetic field\nlines through the corona. Malanushenko et al. (2009) proposed a method, using\nloop images and line-of-sight photospheric magnetograms, to infer the\nthree-dimensional shape and field strength along each loop. McCarthy et al.\n(2019) used this novel method to compute the total magnetic flux\ninterconnecting a pair of active regions observed by SDO/AIA. They adopted the\ncommon assumption that each loop had a circular cross section. The accuracy of\ninferred shape and circularity of cross sections can both be tested using\nobservations of the same loops from additional vantage points as provided by\nSTEREO/EUVI. Here, we use multiple viewing angles to confirm the\nthree-dimensional structure of loops. Of 151 viable cases, 105 (69.5%) matched\nsome form of visible coronal structure when viewed approximately in quadrature.\nA loop with a circular cross-section should appear of a similar width in\ndifferent perspectives. In contradiction to this, we find a puzzling lack of\ncorrelation between loop diameters seen from different perspectives, even an\nanti-correlation in some cases. Features identified as monolithic loops in AIA\nmay, in fact, be more complex density enhancements. The 30.5% of\nreconstructions from AIA which did not match any feature in EUVI might be such\nenhancements. Others may be genuine loop structures, but with elliptical cross\nsections. We observe an anti-correlation between diameter and brightness,\nlending support to the latter hypothesis. Of 13 suitable for width analysis,\nfour loops are consistent with non-circular cross sections, where we find\nanti-correlation in both comparisons.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2104.02722"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.02435",
+    "title": "Title:Bennu's global surface and two candidate sample sites characterized by spectral clustering of OSIRIS-REx multispectral images",
+    "date_publ": "6 Apr 2021",
+    "authors": [
+      "J. L. Rizos",
+      "J. de Leon",
+      "J. Licandro",
+      "D. R. Golish",
+      "H. Campins",
+      "E. Tatsumi",
+      "M. Popescu",
+      "D. N. DellaGiustina",
+      "M. Pajola",
+      "J.-Y. Li",
+      "K. J. Becker",
+      "D. S. Laurett"
+    ],
+    "abstract": "Abstract:  The OSIRIS-REx spacecraft encountered the asteroid (101955) Bennu on December\n3, 2018, and has since acquired extensive data from the payload of scientific\ninstruments on board. In 2019, the OSIRIS-REx team selected primary and backup\nsample collection sites, called Nightingale and Osprey, respectively. On\nOctober 20, 2020, OSIRIS-REx successfully collected material from Nightingale.\nIn this work, we apply an unsupervised machine learning classification through\nthe K-Means algorithm to spectrophotometrically characterize the surface of\nBennu, and in particular Nightingale and Osprey. We first analyze a global\nmosaic of Bennu, from which we find four clusters scattered across the surface,\nreduced to three when we normalize the images at 550 nm. The three spectral\nclusters are associated with boulders and show significant differences in\nspectral slope and UV value. We do not see evidence of latitudinal\nnon-uniformity, which suggests that Bennu's surface is well-mixed. In our\nhigher-resolution analysis of the primary and backup sample sites, we find\nthree representative normalized clusters, confirming an inverse correlation\nbetween reflectance and spectral slope (the darkest areas being the reddest\nones) and between b' normalized reflectance and slope. Nightingale and Osprey\nare redder than the global surface of Bennu by more than $1\\sigma$ from\naverage, consistent with previous findings, with Nightingale being the reddest\n($S' = (- 0.3 \\pm 1.0) \\times 10^{- 3}$ percent per thousand angstroms). We see\nhints of a weak absorption band at 550 nm at the candidate sample sites and\nglobally, which lends support to the proposed presence of magnetite on Bennu.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/2104.02435"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.02202",
+    "title": "Title:Melnikov method for non-conservative perturbations of the three-body problem",
+    "date_publ": "6 Apr 2021",
+    "authors": [
+      "Marian Gidea",
+      "Rafael de la Llave",
+      "Maxwell Musse"
+    ],
+    "abstract": "Abstract:  We consider the planar circular restricted three-body problem (PCRTBP), as a\nmodel for the motion of a spacecraft relative to the Earth-Moon system. We\nfocus on the Lagrange equilibrium points $L_1$ and $L_2$. There are families of\nLyapunov periodic orbits around either $L_1$ or $L_2$, forming Lyapunov\nmanifolds. There also exist homoclinic orbits to the Lyapunov manifolds around\neither $L_1$ or $L_2$, as well as heteroclinic orbits between the Lyapunov\nmanifold around $L_1$ and the one around $L_2$. The motion along the\nhomoclinic/heteroclinic orbits can be described via the scattering map, which\ngives the future asymptotic of a homoclinic orbit as a function of the past\nasymptotic. In contrast with the more customary Melnikov theory, we do not need\nto assume that the asymptotic orbits have a special nature (periodic,\nquasi-periodic, etc.).\nWe add a non-conservative, time-dependent perturbation, as a model for a\nthrust applied to the spacecraft for some duration of time, or for some other\neffect, such as solar radiation pressure. We compute the first order\napproximation of the perturbed scattering map, in terms of fast convergent\nintegrals of the perturbation along homoclinic/heteroclinic orbits of the\nunperturbed system. As a possible application, this result can be used to\ndetermine the trajectory of the spacecraft upon using the thrust.",
+    "categories": [
+      "Dynamical Systems (math.DS)"
+    ],
+    "url_pdf": "/pdf/2104.02202"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.01705",
+    "title": "Title:Kinetic Electrostatic Waves and their Association with Current Structures in the Solar Wind",
+    "date_publ": "4 Apr 2021",
+    "authors": [
+      "D. B. Graham",
+      "Yu. V. Khotyaintsev",
+      "A. Vaivads",
+      "N. J. T. Edberg",
+      "A. I. Eriksson",
+      "E. Johansson",
+      "L. Sorriso-Valvo",
+      "M. Maksimovic",
+      "J. Sou\u010dek",
+      "D. P\u00ed\u0161a",
+      "S. D. Bale",
+      "T. Chust",
+      "M. Kretzschmar",
+      "V. Krasnoselskikh",
+      "E. Lorf\u00e8vre",
+      "D. Plettemeier",
+      "M. Steller",
+      "\u0160. \u0160tver\u00e1k",
+      "P. Tr\u00e1vn\u00ed\u010dek",
+      "A. Vecchio",
+      "T. S. Horbury",
+      "H. O'Brien",
+      "V. Evans",
+      "V. Angelin"
+    ],
+    "abstract": "Abstract:  A variety of kinetic waves develop in the solar wind. The relationship\nbetween these waves and larger-scale structures, such as current sheets and\nongoing turbulence remain a topic of investigation. Similarly, the\ninstabilities producing ion-acoustic waves in the solar wind remains an open\nquestion. The goals of this paper are to investigate kinetic electrostatic\nLangmuir and ion-acoustic waves in the solar wind at 0.5 AU and determine\nwhether current sheets and associated streaming instabilities can produce the\nobserved waves. The relationship between these waves and currents is\ninvestigated statistically. Solar Orbiter's Radio and Plasma Waves instrument\nsuite provides high-resolution snapshots of the fluctuating electric field. The\nLow Frequency Receiver resolves the waveforms of ion-acoustic waves and the\nTime Domain Sampler resolves the waveforms of both ion-acoustic and Langmuir\nwaves. Using these waveform data we determine when these waves are observed in\nrelation to current structures in the solar wind, estimated from the background\nmagnetic field. Langmuir and ion-acoustic waves are frequently observed in the\nsolar wind. Ion-acoustic waves are observed about 1% of the time at 0.5 AU. The\nwaves are more likely to be observed in regions of enhanced currents. However,\nthe waves typically do not occur at current structures themselves. The observed\ncurrents in the solar wind are too small to drive instability by the relative\ndrift between single ion and electron populations. When multi-component ion\nand/or electron distributions are present the observed currents may be\nsufficient for instability. Ion beams are the most plausible source of\nion-acoustic waves. The spacecraft potential is confirmed to be a reliable\nprobe of the background electron density by comparing the peak frequencies of\nLangmuir waves with the plasma frequency calculated from the spacecraft\npotential.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2104.01705"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.01704",
+    "title": "Title:Safe Control Synthesis via Input Constrained Control Barrier Functions",
+    "date_publ": "4 Apr 2021",
+    "authors": [
+      "Devansh Agrawal",
+      "Dimitra Panago"
+    ],
+    "abstract": "Abstract:  This paper introduces the notion of an Input Constrained Control Barrier\nFunction (ICCBF), as a method to synthesize safety-critical controllers for\nnon-linear control affine systems with input constraints. The method identifies\na subset of the safe set of states, and constructs a controller to render the\nsubset forward invariant. The feedback controller is represented as the\nsolution to a quadratic program, which can be solved efficiently for real-time\nimplementation. Furthermore, we show that ICCBFs are a generalization of Higher\nOrder Control Barrier Functions, and thus are applicable to systems of\nnon-uniform relative degree. Simulation results are presented for the adaptive\ncruise control problem, and a spacecraft rendezvous problem.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2104.01704"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.01123",
+    "title": "Title:Direct Multipoint Observations Capturing the Reformation of a Supercritical Fast Magnetosonic Shock",
+    "date_publ": "2 Apr 2021",
+    "authors": [
+      "D. L. Turner",
+      "L. B. Wilson III",
+      "K. A. Goodrich",
+      "H. Madanian",
+      "S. J. Schwartz",
+      "T. Z. Liu",
+      "A. Johlander",
+      "D. Caprioli",
+      "I. J. Cohen",
+      "D. Gershman",
+      "H. Hietala",
+      "J. H. Westlake",
+      "B. Lavraud",
+      "O. Le Contel",
+      "J. L. Burc"
+    ],
+    "abstract": "Abstract:  Using multipoint Magnetospheric Multiscale (MMS) observations in an unusual\nstring-of-pearls configuration, we examine in detail observations of the\nreformation of a fast magnetosonic shock observed on the upstream edge of a\nforeshock transient structure upstream of Earth's bow shock. The four MMS\nspacecraft were separated by several hundred km, comparable to suprathermal ion\ngyro-radius scales or several ion inertial lengths. At least half of the shock\nreformation cycle was observed, with a new shock ramp rising up out of the\n\"foot\" region of the original shock ramp. Using the multipoint observations, we\nconvert the observed time-series data into distance along the shock normal in\nthe shock's rest frame. That conversion allows for a unique study of the\nrelative spatial scales of the shock's various features, including the shock's\ngrowth rate, and how they evolve during the reformation cycle. Analysis\nindicates that: the growth rate increases during reformation, electron-scale\nphysics play an important role in the shock reformation, and energy conversion\nprocesses also undergo the same cyclical periodicity as reformation. Strong,\nthin electron-kinetic-scale current sheets and large-amplitude electrostatic\nand electromagnetic waves are reported. Results highlight the critical\ncross-scale coupling between electron-kinetic- and ion-kinetic-scale processes\nand details of the nature of nonstationarity, shock-front reformation at\ncollisionless, fast magnetosonic shocks.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2104.01123"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.00496",
+    "title": "Title:Machine Learning Applications to Kronian Magnetospheric Reconnection Classification",
+    "date_publ": "1 Apr 2021",
+    "authors": [
+      "Tadhg M. Garton",
+      "Caitriona M. Jackman",
+      "Andy W. Smith",
+      "Kiley L. Yeakel",
+      "Shane A. Maloney",
+      "Jon Vandegrif"
+    ],
+    "abstract": "Abstract:  The products of magnetic reconnection in Saturn's magnetotail are identified\nin magnetometer observations primarily through characteristic deviations in the\nnorth-south component of the magnetic field. These magnetic deflections are\ncaused by travelling plasma structures created during reconnection rapidly\npassing over the observing spacecraft. Identification of these signatures have\nlong been performed by eye, and more recently through semi-automated methods,\nhowever these methods are often limited through a required human verification\nstep. Here, we present a fully automated, supervised learning, feed forward\nneural network model to identify evidence of reconnection in the Kronian\nmagnetosphere with the three magnetic field components observed by the Cassini\nspacecraft in Kronocentric radial-theta-phi (KRTP) coordinates as input. This\nmodel is constructed from a catalogue of reconnection events which covers three\nyears of observations with a total of 2093 classified events, categorized into\nplasmoids, travelling compression regions and dipolarizations. This neural\nnetwork model is capable of rapidly identifying reconnection events in large\ntime-span Cassini datasets, tested against the full year 2010 with a high level\nof accuracy (87%), true skill score (0.76), and Heidke skill score (0.73). From\nthis model, a full cataloguing and examination of magnetic reconnection events\nin the Kronian magnetosphere across Cassini's near Saturn lifetime is now\npossible.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Machine Learning (cs.LG)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2104.00496"
+  },
+  {
+    "url": "https://arxiv.org/abs/2104.00112",
+    "title": "Title:A Study on Mars Probe Failures",
+    "date_publ": "20 Mar 2021",
+    "authors": [
+      "Malaya Kumar Biswal M",
+      "Ramesh Naidu Annavarap"
+    ],
+    "abstract": "Abstract:  The long term dreams to approach Mars requires numerous spacecraft attempts\nfor exploration as well as to understand the perception of the red planet.\nBefore launching a mission, the space probe undergoes critical ground testing\nand effective preparation. Though probes were carefully tested and validated,\nmany experiences temporary or permanent setbacks prior to their final state of\nmission accomplishment, resulting in the failure of the mission. In order to\nfigure out the problems concerning probe malfunction or failure, we conducted a\nstudy on failed Mars probes that are launched between 1960 to 2020. The probes\nwere characterized to determine various modes of failure and their impact on\nthe missions. The results of our study from past probes showed effective\nintegration and testing, sterling fabrication and validation of space probes,\nadequate software design, feasible recovery options, and novel guidance to\nprobe computers and communication systems.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2104.00112"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.17225",
+    "title": "Title:Solar origins of a strong stealth CME detected by Solar Orbiter",
+    "date_publ": "31 Mar 2021",
+    "authors": [
+      "Jennifer O'Kane",
+      "Lucie M. Green",
+      "Emma E. Davies",
+      "Christian M\u00f6stl",
+      "J\u00fcrgen Hinterreiter",
+      "Johan L. Freiherr von Forstner",
+      "Andreas J. Weiss",
+      "David M. Long",
+      "Tanja Amerstorfe"
+    ],
+    "abstract": "Abstract:  Aims.We aim to locate the origin of a stealth coronal mass ejection (CME)\ndetected in situ by the MAG instrument on board Solar Orbiter, and make\nconnections between the CME observed at the Sun, and the interplanetary CME\n(ICME) measured in situ. Methods. Remote sensing data are analysed using\nadvanced image processing techniques to identify the source region of the\nstealth CME, and the global magnetic field at the time of the eruption is\nexamined using Potential Field Source Surface (PFSS) models. The observations\nof the stealth CME at the Sun are compared with the magnetic field measured by\nthe Solar Orbiter spacecraft, and plasma properties measured by the Wind\nspacecraft. Results. The source of the CME is found to be a quiet Sun cavity in\nthe northern hemisphere. We find that the stealth CME has a strong magnetic\nfield in situ, despite originating from a quiet Sun region with an extremely\nweak magnetic field. Conclusions. The interaction of the ICME with its\nsurrounding environment is the likely cause of a higher magnetic field strength\nmeasured in situ. Stealth CMEs require multi-wavelength and multi-viewpoint\nobservations in order to confidently locate the source region, however their\nelusive signatures still pose many problems for space weather forecasting. The\nfindings have implications for Solar Orbiter observing sequences with\ninstruments such as EUI that are designed to capture stealth CMEs",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.17225"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.17208",
+    "title": "Title:Density Fluctuations Associated with Turbulence and Waves: First Observations by Solar Orbiter",
+    "date_publ": "31 Mar 2021 (v1), last revised 16 Jun 2021 (this version, v2)",
+    "authors": [
+      "Yu. V. Khotyaintsev",
+      "D. B. Graham",
+      "A. Vaivads",
+      "K. Steinvall",
+      "N. J. T. Edberg",
+      "A. I. Eriksson",
+      "E.P.G. Johansson",
+      "L. Sorriso-Valvo",
+      "M. Maksimovic",
+      "S.D. Bale",
+      "T. Chust",
+      "V. Krasnoselskikh",
+      "M. Kretzschmar",
+      "E. Lorf\u00e8vre",
+      "D. Plettemeier",
+      "J. Sou\u010dek",
+      "M. Steller",
+      "\u0160. \u0160tver\u00e1k",
+      "P. Tr\u00e1vn\u00ed\u010dek",
+      "A. Vecchio",
+      "T. S. Horbury",
+      "H. O'Brien",
+      "V. Evans",
+      "V. Angelin"
+    ],
+    "abstract": "Abstract:  We use the plasma density based on measurements of the probe-to-spacecraft\npotential in combination with magnetic field measurements by MAG to study\nfields and density fluctuations in the solar wind observed by Solar Orbiter\nduring the first perihelion encounter ($\\sim$0.5~AU away from the Sun). In\nparticular we use the polarization of the wave magnetic field, the phase\nbetween the compressible magnetic field and density fluctuations and the\ncompressibility ratio (the ratio of the normalized density fluctuations to the\nnormalized compressible fluctuations of B) to characterize the observed waves\nand turbulence. We find that the density fluctuations are out-of-phase with the\ncompressible component of magnetic fluctuations for intervals of turbulence,\nwhile they are in phase for the circular-polarized waves around the proton\ncyclotron frequency. We analyze in detail two specific events with simultaneous\npresence of left- and right-handed waves at different frequencies. We compare\nobserved wave properties to a prediction of the three-fluid (electrons, protons\nand alphas) model. We find a limit on the observed wavenumbers, $10^{-6} < k <\n7 \\times 10^{-6}$~m$^{-1}$, which corresponds to wavelength $7 \\times 10^6\n>\\lambda > 10^6$~m. We conclude that most likely both the left- and\nright-handed waves correspond to the low-wavenumber part (close to the cut-off\nat $\\Omega_{c\\mathrm{He}++}$) proton-band electromagnetic ion cyclotron\n(left-handed wave in the plasma frame confined to the frequency range\n$\\Omega_{c\\mathrm{He}++} < \\omega < \\Omega_{c\\mathrm{H}+}$) waves propagating\nin the outwards and inwards directions respectively. The fact that both wave\npolarizations are observed at the same time and the identified wave mode has a\nlow group velocity suggests that the double-banded events occur in the source\nregions of the waves.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2103.17208"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.16778",
+    "title": "Title:Review of Mercury's Dynamic Magnetosphere: Post-MESSENGER Era and Comparative Magnetospheres",
+    "date_publ": "31 Mar 2021 (v1), last revised 6 Dec 2021 (this version, v4)",
+    "authors": [
+      "Weijie Sun",
+      "Ryan M. Dewey",
+      "Sae Aizawa",
+      "Jia Huang",
+      "James A. Slavin",
+      "Suiyan Fu",
+      "Yong Wei",
+      "Charles F. Bower"
+    ],
+    "abstract": "Abstract:  This review summarizes the research of Mercury's magnetosphere in the\nPost-MESSENGER era and compares its dynamics to those in other planetary\nmagnetospheres, especially to those in Earth's magnetosphere. This review\nstarts by introducing the planet Mercury, including its interplanetary\nenvironment, magnetosphere, exosphere, and conducting core. The frequent and\nintense magnetic reconnection on the dayside magnetopause, which is represented\nby the flux transfer event \"shower\", is reviewed on how they depend on\nmagnetosheath plasma beta and magnetic shear angle across the magnetopause,\nfollowing by how they contribute to the flux circulation and\nmagnetosphere-surface-exosphere coupling. In the next, the progress of\nMercury's magnetosphere under extreme solar events, including the core\ninduction and the reconnection erosion on the dayside magnetosphere, the\nresponses of the nightside magnetosphere, are reviewed. Then, the dawn-dusk\nproperties of the plasma sheet, including the features of the ions, the\nstructure of the current sheet, and the dynamics of magnetic reconnection, are\nsummarized. The last topic reviews the particle energization in Mercury's\nmagnetosphere, which includes the energization of the Kelvin-Helmholtz waves on\nthe magnetopause boundaries, reconnection-generated magnetic structures, and\nthe cross-tail electric field. In each chapter, the last section discusses the\nopen questions related with each topic, which can be considered by the\nsimulations and the future spacecraft mission. We close by summarizing the\nfuture BepiColombo opportunities, which is a joint mission between ESA and\nJAXA, and is en route to Mercury.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2103.16778"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.16187",
+    "title": "Title:Multi point analysis of coronal mass ejection flux ropes using combined data from Solar Orbiter, BepiColombo and Wind",
+    "date_publ": "30 Mar 2021 (v1), last revised 17 May 2021 (this version, v2)",
+    "authors": [
+      "A. J. Weiss",
+      "C. Moestl",
+      "E. E. Davies",
+      "T. Amerstorfer",
+      "M. Bauer",
+      "J. Hinterreiter",
+      "M. Reiss",
+      "R. L. Bailey",
+      "T. S. Horbury",
+      "H. O'Brien",
+      "V. Evans",
+      "V. Angelini",
+      "D. Heiner",
+      "I. Richter",
+      "H-U. Auster",
+      "W. Magnes",
+      "D. Fischer",
+      "W. Baumjohan"
+    ],
+    "abstract": "Abstract:  The recent launch of Solar Orbiter and BepiColombo opened a brief window in\nwhich these two spacecraft were positioned in a constellation that allows for\nthe detailed sampling of any Earth-directed CMEs. Fortunately, two such events\noccurred with in situ detections of an ICME by Solar Orbiter on the 19th of\nApril and the 28th of May 2020. These two events were subsequently also\nobserved in situ by BepiColombo and Wind around a day later. We attempt to\nreconstruct the observed in situ magnetic field measurements for all three\nspacecraft simultaneously using an empirical magnetic flux rope model. This\nallows us to test the validity of our flux rope model on a larger and more\nglobal scale and allows for cross-validation of the analysis with different\nspacecraft combinations. Finally, we can also compare the results from the in\nsitu modeling to remote observations obtained from the STEREO-A heliospheric\nimagers. We make use of the 3D coronal rope ejection model in order to simulate\nthe ICME evolution. We adapt a previously developed ABC-SMC fitting algorithm\nfor the application to multi point scenarios. We show that we are able to\ngenerally reconstruct the flux ropes signatures at three different spacecraft\npositions simultaneously using our model in combination with the flux rope\nfitting algorithm. For the well-behaved 19th of April ICME our approach works\nvery well. The 28th of May ICME, on the other hand, shows the limitations of\nour approach. Unfortunately, the usage of multi-point observations for these\nevents does not appear to solve inherent issues, such as the estimation of the\nmagnetic field twist or flux rope aspect-ratios due to the specific\nconstellation of the spacecraft positions. As our general approach can be used\nfor any fast forward simulation-based model we give a blueprint for future\nstudies using more advanced ICME models.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.16187"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.16112",
+    "title": "Title:Modelling cometary meteoroid stream traverses of the Martian Moons eXploration (MMX) spacecraft en route to Phobos",
+    "date_publ": "30 Mar 2021",
+    "authors": [
+      "Harald Kr\u00fcger",
+      "Masanori Kobayashi",
+      "Peter Strub",
+      "Georg-Moragas-Klostermeyer",
+      "Maximilian Sommer",
+      "Hiroshi Kimura",
+      "Eberhard Gr\u00fcn",
+      "Ralf Sram"
+    ],
+    "abstract": "Abstract:  The Martian Moons Exploration (MMX) spacecraft is a JAXA mission to Mars and\nits moons Phobos and Deimos. MMX will carry the Circum-Martian Dust Monitor\n(CMDM) which is a newly developed light-weight ($\\mathrm{650\\,g}$) large area\n($\\mathrm{1\\,m^2}$) dust impact detector. Cometary meteoroid streams (also\nreferred to as trails) exist along the orbits of comets, forming fine\nstructures of the interplanetary dust cloud. The streams consist predominantly\nof the largest cometary particles (with sizes of approximately\n$\\mathrm{100\\,\\mu m}$ to 1~cm) which are ejected at low speeds and remain very\nclose to the comet orbit for several revolutions around the Sun. The\nInterplanetary Meteoroid Environment for eXploration (IMEX) dust streams in\nspace model is a new and recently published universal model for cometary\nmeteoroid streams in the inner Solar System. We use IMEX to study the detection\nconditions of cometary dust stream particles with CMDM during the MMX mission\nin the time period 2024 to 2028. The model predicts traverses of 12 cometary\nmeteoroid streams with fluxes of $\\mathrm{100\\,\\mu m}$ and bigger particles of\nat least $\\mathrm{10^{-3}\\,m^{-2}\\,day^{-1}}$ during a total time period of\napproximately 90~days. The highest flux of $\\mathrm{0.15\\,m^{-2}\\,day^{-1}}$ is\npredicted for comet 114P/Wiseman-Skiff in October 2026. With its large\ndetection area and high sensitivity CMDM will be able to detect cometary\nmeteoroid streams en route to Phobos. Our simulation results for the Mars\norbital phase of MMX also predict the occurrence of meteor showers in the\nMartian atmosphere which may be observable from the Martian surface with\ncameras on board landers or rovers. Finally, the IMEX model can be used to\nstudy the impact hazards imposed by meteoroid impacts on to large-area\nspacecraft structures that will be particularly necessary for crewed deep space\nmissions.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/2103.16112"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.13232",
+    "title": "Title:Three-dimensional magnetic reconnection in particle-in-cell simulations of anisotropic plasma turbulence",
+    "date_publ": "24 Mar 2021",
+    "authors": [
+      "Jeffersson A. Agudelo Rueda",
+      "Daniel Verscharen",
+      "Robert T. Wicks",
+      "Christopher J. Owen",
+      "Georgios Nicolaou",
+      "Andrew P. Walsh",
+      "Ioannis Zouganelis",
+      "Kai Germaschewski",
+      "Santiago Vargas Dom\u00edngue"
+    ],
+    "abstract": "Abstract:  We use 3D fully kinetic particle-in-cell simulations to study the occurrence\nof magnetic reconnection in a simulation of decaying turbulence created by\nanisotropic counter-propagating low-frequency Alfv\u00e9n waves consistent with\ncritical-balance theory. We observe the formation of small-scale\ncurrent-density structures such as current filaments and current sheets as well\nas the formation of magnetic flux ropes as part of the turbulent cascade. The\nlarge magnetic structures present in the simulation domain retain the initial\nanisotropy while the small-scale structures produced by the turbulent cascade\nare less anisotropic. To quantify the occurrence of reconnection in our\nsimulation domain, we develop a new set of indicators based on intensity\nthresholds to identify reconnection events in which both ions and electrons are\nheated and accelerated in 3D particle-in-cell simulations. According to the\napplication of these indicators, we identify the occurrence of reconnection\nevents in the simulation domain and analyse one of these events in detail. The\nevent is related to the reconnection of two flux ropes, and the associated ion\nand electron exhausts exhibit a complex three-dimensional structure. We study\nthe profiles of plasma and magnetic-field fluctuations recorded along\nartificial-spacecraft trajectories passing near and through the reconnection\nregion. Our results suggest the presence of particle heating and acceleration\nrelated to small-scale reconnection events within magnetic flux ropes produced\nby the anisotropic Alfv\u00e9nic turbulent cascade in the solar wind. These events\nare related to current structures of order a few ion inertial lengths in size.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " High Energy Astrophysical Phenomena (astro-ph.HE)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2103.13232"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12536",
+    "title": "Title:Adaptive and Efficient Model Predictive Control for Booster Reentry",
+    "date_publ": "22 Mar 2021",
+    "authors": [
+      "Joseph Chai",
+      "Eran Medagoda",
+      "Erkan Kayaca"
+    ],
+    "abstract": "Abstract:  Model predictive control (MPC) is an optimal control strategy where control\ninput calculation is based on minimizing the predicted tracking error over a\nfinite horizon that moves with time. This strategy has an advantage over\nconventional state feedback and output feedback controllers because it predicts\nthe response of the system, rather than simply reacting to it. Therefore, MPC\ncan offer improved performance in the presence of input and output constraints.\nMany implementations of MPC on aerospace vehicles appear in literature [1].\nSome of these include spacecraft and satellite attitude control [2-4],\nspacecraft rendezvous and docking [5], helicopters [6], and atmospheric\nre-entry [7, 8].",
+    "categories": [
+      "Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.12536"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12039",
+    "title": "Title:Inward Propagating Plasma Parcels in the Solar Corona: Models with Aerodynamic Drag, Ablation, and Snowplow Accretion",
+    "date_publ": "22 Mar 2021",
+    "authors": [
+      "Steven R. Cranmer (CU Boulder)",
+      "Craig E. DeForest (SwRI)",
+      "Sarah E. Gibson (HAO/NCAR"
+    ],
+    "abstract": "Abstract:  Although the solar wind flows primarily outward from the Sun to\ninterplanetary space, there are times when small-scale plasma inflows are\nobserved. Inward-propagating density fluctuations in polar coronal holes were\ndetected by the COR2 coronagraph on board the STEREO-A spacecraft at\nheliocentric distances of 7 to 12 solar radii, and these fluctuations appear to\nundergo substantial deceleration as they move closer to the Sun. Models of\nlinear magnetohydrodynamic waves have not been able to explain these\ndeceleration patterns, so they have been interpreted more recently as jets from\ncoronal sites of magnetic reconnection. In this paper, we develop a range of\ndynamical models of discrete plasma parcels with the goal of better\nunderstanding the observed deceleration trend. We found that parcels with a\nconstant mass do not behave like the observed flows, and neither do parcels\nundergoing ablative mass loss. However, parcels that accrete mass in a\nsnowplow-like fashion can become decelerated as observed. We also extrapolated\nOMNI in situ data down to the so-called Alfven surface and found that the\ninitial launch-point for the observed parcels may often be above this critical\nradius. In other words, in order for the parcels to flow back down to the Sun,\ntheir initial speeds are probably somewhat nonlinear (i.e., supra-Alfvenic) and\nthus the parcels may be associated with structures such as shocks, jets, or\nshear instabilities.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.12039"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.12022",
+    "title": "Title:Applicability of Taylor's Hypothesis during Parker Solar Probe perihelia",
+    "date_publ": "22 Mar 2021",
+    "authors": [
+      "Jean C. Perez",
+      "Sofiane Bourouaine",
+      "Christopher H. K. Chen",
+      "Nour E. Raouaf"
+    ],
+    "abstract": "Abstract:  We investigate the validity of Taylor's Hypothesis (TH) in the analysis of\nAlfv\u00e9nic fluctuations of velocity and magnetic fields in solar wind streams\nmeasured by Parker Solar Probe (PSP)~during the first four encounters. We use\nPSP velocity and magnetic field measurements from 24 h intervals selected from\neach of the first four encounters. The applicability of TH is investigated by\nmeasuring the parameter $\\epsilon=\\delta u_0/\\sqrt{2}V_\\perp$, which quantifies\nthe ratio between the typical speed of large-scale fluctuations, $\\delta u_0$,\nand the local perpendicular PSP speed in the solar wind frame, $V_\\perp$. TH is\nexpected to be applicable for $\\epsilon\\lesssim0.5$ when PSP is moving nearly\nperpendicular to the local magnetic field in the plasma frame, irrespective of\nthe Alfv\u00e9n Mach number $M_{\\rm A}=V_{\\rm SW}/V_{\\rm A}$, where $V_{\\rm SW}$\nand $V_{\\rm A}$ are the local solar wind and Alfv\u00e9n speed, respectively. For\nthe four selected solar wind intervals we find that between 10% to 60% of the\ntime the parameter $\\epsilon$ is below 0.2 when the sampling angle (between the\nspacecraft velocity in the plasma frame and the local magnetic field) is\ngreater than $30^\\circ$. For angles above $30^\\circ$, the sampling direction is\nsufficiently oblique to allow one to reconstruct the reduced energy spectrum\n$E(k_\\perp)$ of magnetic fluctuations from its measured frequency spectra. The\nspectral indices determined from power-law fits of the measured frequency\nspectrum accurately represent the spectral indices associated with the\nunderlying spatial spectrum of turbulent fluctuations in the plasma frame.\nAside from a frequency broadening due to large-scale sweeping that requires\ncareful consideration, the spatial spectrum can be recovered to obtain the\ndistribution of fluctuation's energy among scales in the plasma frame.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Plasma Physics (physics.plasm-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2103.12022"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.11843",
+    "title": "Title:Implementation of Artificial Neural Networks for the Nepta-Uranian Interplanetary (NUIP) Mission",
+    "date_publ": "19 Mar 2021 (v1), last revised 28 May 2021 (this version, v3)",
+    "authors": [
+      "Saurabh Gore",
+      "Manuel Ntumb"
+    ],
+    "abstract": "Abstract:  A celestial alignment between Neptune, Uranus, and Jupiter will occur in the\nearly 2030s, allowing a slingshot around Jupiter to gain enough momentum to\nachieve planetary flyover capability around the two ice giants. The launch of\nthe uranian probe for the departure windows of the NUIP mission is between\nJanuary 2030 and January 2035, and the duration of the mission is between six\nand ten years, and the launch of the Nepta probe for the departure windows of\nthe NUIP mission is between February 2031 and April 2032 and the duration of\nthe mission is between seven and ten years. To get the most out of alignment,\ndeep learning methods are expected to play a critical role in autonomous and\nintelligent spatial guidance problems. This would reduce travel time, hence\nmission time, and allow the spacecraft to perform well for the life of its\nsophisticated instruments and power systems up to fifteen years. This article\nproposes a design of deep neural networks, namely convolutional neural networks\nand recurrent neural networks, capable of predicting optimal control actions\nand image classification during the mission. Nepta-Uranian interplanetary\nmission, using only raw images taken by optimal onboard cameras. It also\ndescribes the unique requirements and constraints of the NUIP mission, which\nled to the design of the communications system for the Nepta-Uranian\nspacecraft. The proposed mission is expected to collect telemetry data on\nUranus and Neptune while performing the flyovers and transmit the obtained data\nto Earth for further analysis. The advanced range of spectrometers and particle\ndetectors available would allow better quantification of the ice giant's\nproperties.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2103.11843"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.10389",
+    "title": "Title:Lost in space? Relativistic interstellar navigation using an astrometric star catalogue",
+    "date_publ": "18 Mar 2021 (v1), last revised 2 Jun 2021 (this version, v2)",
+    "authors": [
+      "Coryn A.L. Bailer-Jones (Max Planck Institute for Astronomy",
+      "Heidelberg"
+    ],
+    "abstract": "Abstract:  The exploration of interstellar space will require autonomous navigation\nsystems that do not rely on tracking from the Earth. Here I develop a method to\ndetermine the 3D position and 3D velocity of a spacecraft in deep space using a\nstar catalogue. As a spacecraft moves away from the Sun, the observed positions\nand velocities of the stars will change relative to those in a Earth-based\ncatalogue due to parallax and aberration. By measuring just the angular\ndistances between pairs of stars, and comparing these to the catalogue, we can\ninfer the coordinates of the spacecraft via an iterative forward-modelling\nprocess. I perform simulations with existing star catalogues to demonstrate the\nmethod and to compute its performance. Using the 20 nearest stars and a modest\nangular distance measurement accuracy of 1\", the position and velocity of a\nspacecraft light years from the Sun moving at relativistic speeds can be\ndetermined to within 3 au and 2 km/s respectively. These accuracies improve\nlinearly with the measurement accuracy, e.g. with angles measured to 1 mas the\nnavigation accuracy is 1000 times better. Performance can also be improved\nusing more stars, or by including onboard measurements of the stars' radial\nvelocities, as these too are affected by the spacecraft's position and motion.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2103.10389"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.09651",
+    "title": "Title:Machine learning initialization to accelerate Stokes profile inversions",
+    "date_publ": "16 Mar 2021",
+    "authors": [
+      "R. Gafeira",
+      "D. Orozco Su\u00e1rez",
+      "I. Milic",
+      "C. Quintero Noda",
+      "B. Ruiz Cobo",
+      "H. Uitenbroe"
+    ],
+    "abstract": "Abstract:  In this work, we discuss the application of convolutional neural networks\n(CNNs) as a tool to advantageously initialize Stokes profile inversions. To\ndemonstrate the usefulness of CNNs, we concentrate in this paper on the\ninversion of LTE Stokes profiles. We use observations taken with the\nspectropolarimeter onboard the Hinode spacecraft as a test benchmark. First, we\ncarefully analyze the data with the SIR inversion code using a given initial\natmospheric model. The code provides a set of atmospheric models that reproduce\nthe observations. These models are then used to train a CNN. Afterwards, the\nsame data are again inverted with SIR but using the trained CNN to provide the\ninitial guess atmospheric models for SIR. The CNNs allow us to significantly\nreduce the number of inversion cycles when used to compute initial guess model\natmospheres, decreasing the computational time for LTE inversions by a factor\nof two to four. CNN's alone are much faster than assisted inversions, but the\nlatter are more robust and accurate. The advantages and limitations of machine\nlearning techniques for estimating optimum initial atmospheric models for\nspectral line inversions are discussed. Finally, we describe a python wrapper\nfor the SIR and DeSIRe codes that allows for the easy setup of parallel\ninversions. The assisted inversions can speed up the inversion process, but the\nefficiency and accuracy of the inversion results depend strongly on the solar\nscene and the data used for the CNN training. This method (assisted inversions)\nwill not obviate the need for analyzing individual events with the utmost care\nbut will provide solar scientists with a much better opportunity to sample\nlarge amounts of inverted data, which will undoubtedly broaden the physical\ndiscovery space.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2103.09651"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.09077",
+    "title": "Title:Matching temporal signatures of solar features to their corresponding solar wind outflows",
+    "date_publ": "16 Mar 2021",
+    "authors": [
+      "Diego de Pablos",
+      "David M. Long",
+      "Christopher J. Owen",
+      "Gherardo Valori",
+      "Georgios Nicolaou",
+      "Louise K. Harr"
+    ],
+    "abstract": "Abstract:  The role of small-scale coronal eruptive phenomena in the generation and\nheating of the solar wind remains an open question. Here, we investigate the\nrole played by coronal jets in forming the solar wind by testing whether\ntemporal variations associated with jetting in EUV intensity can be identified\nin the outflowing solar wind plasma. This type of comparison is challenging due\nto inherent differences between remote-sensing observations of the source and\nin situ observations of the outflowing plasma, as well as travel time and\nevolution of the solar wind throughout the heliosphere. To overcome these, we\npropose a novel algorithm combining signal filtering, two-step solar wind\nballistic backmapping, window shifting, and Empirical Mode Decomposition. We\nfirst validate the method using synthetic data, before applying it to\nmeasurements from the Solar Dynamics Observatory, and Wind spacecraft. The\nalgorithm enables the direct comparison of remote sensing observations of\neruptive phenomena in the corona to in situ measurements of solar wind\nparameters, among other potential uses. After application to these datasets, we\nfind several time windows where signatures of dynamics found in the corona are\nembedded in the solar wind stream, at a time significantly earlier than\nexpected from simple ballistic backmapping, with the best performing in situ\nparameter being the solar wind mass flux.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.09077"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.08981",
+    "title": "Title:Hierarchical Reinforcement Learning Framework for Stochastic Spaceflight Campaign Design",
+    "date_publ": "16 Mar 2021",
+    "authors": [
+      "Yuji Takubo",
+      "Hao Chen",
+      "Koki H"
+    ],
+    "abstract": "Abstract:  This paper develops a hierarchical reinforcement learning architecture for\nmulti-mission spaceflight campaign design under uncertainty, including vehicle\ndesign, infrastructure deployment planning, and space transportation\nscheduling. This problem involves a high-dimensional design space and is\nchallenging especially with uncertainty present. To tackle this challenge, the\ndeveloped framework has a hierarchical structure with reinforcement learning\n(RL) and network-based mixed-integer linear programming (MILP), where the\nformer optimizes campaign-level decisions (e.g., design of the vehicle used\nthroughout the campaign, destination demand assigned to each mission in the\ncampaign), whereas the latter optimizes the detailed mission-level decisions\n(e.g., when to launch what from where to where). The framework is applied to a\nset of human lunar exploration campaign scenarios with uncertain in-situ\nresource utilization (ISRU) performance as a case study. The main value of this\nwork is its integration of the rapidly growing RL research and the existing\nMILP-based space logistics methods through a hierarchical framework to handle\nthe otherwise intractable complexity of space mission design under uncertainty.\nWe expect this unique framework to be a critical steppingstone for the emerging\nresearch direction of artificial intelligence for space mission design.",
+    "categories": [
+      "Machine Learning (cs.LG)",
+      " Systems and Control (eess.SY)",
+      " Optimization and Control (math.OC)"
+    ],
+    "url_pdf": "/pdf/2103.08981"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.08970",
+    "title": "Title:Space Exploration Architecture and Design Framework for Commercialization",
+    "date_publ": "16 Mar 2021",
+    "authors": [
+      "Hao Chen",
+      "Melkior Ornik",
+      "Koki H"
+    ],
+    "abstract": "Abstract:  The trend of space commercialization is changing the decision-making process\nfor future space exploration architectures, and there is a growing need for a\nnew decision-making framework that explicitly considers the interactions\nbetween the mission coordinator (i.e., government) and the commercial players.\nIn response to this challenge, this paper develops a framework for space\nexploration and logistics decision making that considers the incentive\nmechanism to stimulate commercial participation in future space infrastructure\ndevelopment and deployment. By extending the state-of-the-art space logistics\ndesign formulations from the game-theoretic perspective, we first analyze the\nrelationship between the mission coordinator and commercial players and then\nderive the formulation for the optimal architecture design and incentive\nmechanism in three different scenarios. To demonstrate and evaluate the\neffectiveness of the proposed framework, we conduct a case study on lunar\nhabitat infrastructure design and deployment. Results show how total mission\ndemands and in-situ resource utilization (ISRU) system performances after\ndeployment may impact the cooperation among stakeholders. As an outcome of this\nstudy, we derive an incentive-based decision-making framework that can benefit\nboth the mission coordinator and the commercial players from commercialization,\nleading to a mutually beneficial space exploration between the government and\nthe industry.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.08970"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.08967",
+    "title": "Title:Flexibility Management for Space Logistics via Decision Rules",
+    "date_publ": "16 Mar 2021 (v1), last revised 28 Mar 2021 (this version, v2)",
+    "authors": [
+      "Hao Chen",
+      "Brian Gardner",
+      "Paul Grogan",
+      "Koki H"
+    ],
+    "abstract": "Abstract:  This paper develops a flexibility management framework for space logistics\nmission planning under uncertainty through decision rules and multi-stage\nstochastic programming. It aims to add built-in flexibility to space\narchitectures in the phase of early-stage mission planning. The proposed\nframework integrates the decision rule formulation into a network-based space\nlogistics optimization formulation model. It can output a series of decision\nrules and generate a Pareto front between the expected mission cost (i.e.,\ninitial mass in low-Earth orbit) and the expected mission performance (i.e.,\neffective crew operating time) considering the uncertainty in the environment\nand mission demands. The generated decision rules and the Pareto front plot can\nhelp decision-makers create implementable policies immediately when uncertainty\nevents occur during space missions. An example mission case study about space\nstation resupply under rocket launch delay uncertainty is established to\ndemonstrate the value of the proposed framework.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.08967"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.08963",
+    "title": "Title:On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff",
+    "date_publ": "16 Mar 2021",
+    "authors": [
+      "Tristan Sarton du Jonchay",
+      "Hao Chen",
+      "Masafumi Isaji",
+      "Yuri Shimane",
+      "Koki H"
+    ],
+    "abstract": "Abstract:  This paper proposes an on-orbit servicing logistics optimization framework\nthat is capable of performing the short-term operational scheduling and\nlong-term strategic planning of sustainable servicing infrastructures that\ninvolve high-thrust, low-thrust, and/or multimodal servicers supported by\norbital depots. The proposed framework generalizes the state-of-the-art\non-orbit servicing logistics optimization method by incorporating user-defined\ntrajectory models and optimizing the logistics operations with the propulsion\ntechnology and trajectory tradeoff in consideration. Mixed-Integer Linear\nProgramming is leveraged to find the optimal operations of the servicers over a\ngiven period, while the Rolling Horizon approach is used to consider a long\ntime horizon accounting for the uncertainties in service demand. Several\nanalyses are carried out to demonstrate the value of the proposed framework in\nautomatically trading off the high- and low-thrust propulsion systems for both\nshort-term operational scheduling and long-term strategic planning of on-orbit\nservicing infrastructures.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.08963"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.08962",
+    "title": "Title:Framework for Modeling and Optimization of On-Orbit Servicing Operations under Demand Uncertainties",
+    "date_publ": "16 Mar 2021 (v1), last revised 12 May 2021 (this version, v2)",
+    "authors": [
+      "Tristan Sarton du Jonchay",
+      "Hao Chen",
+      "Onalli Gunasekara",
+      "Koki H"
+    ],
+    "abstract": "Abstract:  This paper develops a framework that models and optimizes the operations of\ncomplex on-orbit servicing infrastructures involving one or more servicers and\norbital depots to provide multiple types of services to a fleet of\ngeostationary satellites. The proposed method extends the state-of-the-art\nspace logistics technique by addressing the unique challenges in on-orbit\nservicing applications, and integrate it with the Rolling Horizon decision\nmaking approach. The space logistics technique enables modeling of the on-orbit\nservicing logistical operations as a Mixed-Integer Linear Program whose optimal\nsolutions can efficiently be found. The Rolling Horizon approach enables the\nassessment of the long-term value of an on-orbit servicing infrastructure by\naccounting for the uncertain service needs that arise over time among the\ngeostationary satellites. Two case studies successfully demonstrate the\neffectiveness of the framework for (1) short-term operational scheduling and\n(2) long-term strategic decision making for on-orbit servicing architectures\nunder diverse market conditions.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.08962"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.08813",
+    "title": "Title:Multi-objective minimum time optimal control for low-thrust trajectory design",
+    "date_publ": "16 Mar 2021",
+    "authors": [
+      "Nikolaus Vertovec",
+      "Sina Ober-Bl\u00f6baum",
+      "Kostas Margello"
+    ],
+    "abstract": "Abstract:  We propose a reachability approach for infinite and finite horizon\nmulti-objective optimization problems for low-thrust spacecraft trajectory\ndesign. The main advantage of the proposed method is that the Pareto front can\nbe efficiently constructed from the zero level set of the solution to a\nHamilton-Jacobi-Bellman equation. We demonstrate the proposed method by\napplying it to a low-thrust spacecraft trajectory design problem. By deriving\nthe analytic expression for the Hamiltonian and the optimal control policy, we\nare able to efficiently compute the backward reachable set and reconstruct the\noptimal trajectories. Furthermore, we show that any reconstructed trajectory\nwill be guaranteed to be weakly Pareto optimal. The proposed method can be used\nas a benchmark for future research of applying reachability analysis to\nlow-thrust spacecraft trajectory design.",
+    "categories": [
+      "Optimization and Control (math.OC)",
+      " Systems and Control (eess.SY)"
+    ],
+    "url_pdf": "/pdf/2103.08813"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.08326",
+    "title": "Title:Effects of the space plasma density oscillation on the inter-spacecraft laser ranging for TianQin gravitational wave observatory",
+    "date_publ": "23 Feb 2021",
+    "authors": [
+      "Ling-Feng Lu",
+      "Wei Su",
+      "Xuefeng Zhang",
+      "Zhao-Guo He",
+      "Hui-Zong Duan",
+      "Yuan-Ze Jiang",
+      "Hsien-Chi Ye"
+    ],
+    "abstract": "Abstract:  The TianQin space Gravitational Waves (GW) observatory will contain 3\ngeocentric and circularly orbiting spacecraft with an orbital radius of 10^5\nkm, to detect the GW in the milli-hertz frequency band. Each spacecraft pair\nwill establish a 1.7*10^5 km-long laser interferometer immersed in the solar\nwind and the magnetospheric plasmas to measure the phase deviations induced by\nthe GW. GW detection requires a high-precision measurement of the laser phase.\nThe cumulative effects of the long distance and the periodic oscillations of\nthe plasma density may induce an additional phase noise. This paper aims to\nmodel the plasma induced phase deviation of the inter-spacecraft laser signals,\nusing a realistic orbit simulator and the Space Weather Modeling Framework\n(SWMF) model. Preliminary results show that the plasma density oscillation can\ninduce the phase deviations close to 2*10^-6 rad/Hz^1/2 or 0.3pm/Hz^1/2 in the\nmilli-hertz frequency band and it is within the error budget assigned to the\ndisplacement noise of the interferometry. The amplitude spectrum density of\nphases along three arms become more separated when the orbital plane is\nparallel to the Sun-Earth line or during a magnetic storm. Finally, the\ndependence of the phase deviations on the orbital radius is examined.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " General Relativity and Quantum Cosmology (gr-qc)"
+    ],
+    "url_pdf": "/pdf/2103.08326"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.07604",
+    "title": "Title:Radiation Data Portal: Integration of Radiation Measurements at the Aviation Altitudes and Solar-Terrestrial Environment Observations",
+    "date_publ": "13 Mar 2021",
+    "authors": [
+      "Viacheslav M Sadykov",
+      "Irina N Kitiashvili",
+      "W Kent Tobiska",
+      "Madhulika Guhathakurt"
+    ],
+    "abstract": "Abstract:  The impact of radiation dramatically increases at high altitudes in the\nEarth's atmosphere and in space. Therefore, monitoring and access to radiation\nenvironment measurements are critical for estimating the radiation exposure\nrisks of aircraft and spacecraft crews and the impact of space weather\ndisturbances on electronics. Addressing these needs requires convenient access\nto multi-source radiation environment data and enhancement of visualization and\nsearch capabilities. The Radiation Data Portal represents an interactive\nweb-based application for search and visualization of in-flight radiation\nmeasurements. The Portal enhances the exploration capabilities of various\nproperties of the radiation environment and provides measurements of dose rates\nalong with information on space weather-related conditions. The Radiation Data\nPortal back-end is a MySQL relational database that contains the radiation\nmeasurements obtained from the Automated Radiation Measurements for Aerospace\nSafety (ARMAS) device and the soft X-ray and proton flux measurements from the\nGeostationary Operational Environmental Satellite (GOES). The implemented\nApplication Programming Interface (API) and Python routines allow a user to\nretrieve the database records without interaction with the web interface. As a\nuse case of the Radiation Data Portal, we examine ARMAS measurements during an\nenhancement of the Solar Proton (SP) fluxes, known as Solar Proton Events\n(SPEs), and compare them to measurements during SP-quiet periods.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.07604"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.07517",
+    "title": "Title:Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation",
+    "date_publ": "12 Mar 2021",
+    "authors": [
+      "Jon Drobny",
+      "Alexander N. Cohen",
+      "Davide Curreli",
+      "Philip Lubin",
+      "Maria G. Pelizzo",
+      "Maxim Umansk"
+    ],
+    "abstract": "Abstract:  As part of the NASA Starlight collaboration, we look at the implications of\nradiation effects from impacts with the interstellar medium (ISM) on a directed\nenergy driven relativistic spacecraft. The spacecraft experiences a stream of\nMeV/nucleon impacts along the forward edge primarily from hydrogen and helium\nnuclei. The accumulation of implanted slowly diffusing gas atoms in solids\ndrives damage through the meso-scale processes of bubble formation, blistering,\nand exfoliation. This results in macroscopic changes to material properties\nand, in the cases of blistering and exfoliation, material erosion via blister\nrupture and delamination. Relativistic hydrogen and helium at constant velocity\nwill stop in the material at a similar depth, as predicted by Bethe-Bloch\nstopping and subsequent simulations of the implantation distribution, leading\nto a mixed hydrogen and helium system similar to that observed in fusion\nplasma-facing components (PFC's). However, the difference in location of\nnear-surface gas atoms with respect to the direction of exposure means that\npreviously developed empirical models of blistering cannot be used to predict\nbubble formation or blistering onset. In this work, we present a model of the\nlocal gas concentration threshold for material blistering from exposure to the\nISM at relativistic speeds. Expected effects on the spacecraft and mitigation\nstrategies are also discussed. The same considerations apply to the\nBreakthrough Starshot mission.",
+    "categories": [
+      "Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2103.07517"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.06251",
+    "title": "Title:Dynamical properties of the Molniya satellite constellation: long-term evolution of the semi-major axis",
+    "date_publ": "10 Mar 2021 (v1), last revised 24 May 2021 (this version, v2)",
+    "authors": [
+      "Jerome Daquin",
+      "Elisa Maria Alessi",
+      "Joseph O'Leary",
+      "Anne Lemaitre",
+      "Alberto Buzzon"
+    ],
+    "abstract": "Abstract:  We describe the phase space structures related to the semi-major axis of\nMolniya-like satellites subject to tesseral and lunisolar resonances. In\nparticular, the questions answered in this contribution are: (i) we study the\nindirect interplay of the critical inclination resonance on the\nsemi-geosynchronous resonance using a hierarchy of more realistic dynamical\nsystems, thus discussing the dynamics beyond the integrable approximation. By\nintroducing ad hoc tractable models averaged over fast angles, (ii) we\nnumerically demarcate the hyperbolic structures organising the long-term\ndynamics via Fast Lyapunov Indicators cartography. Based on the publicly\navailable two-line elements space orbital data, (iii) we identify two\nsatellites, namely Molniya 1-69 and Molniya 1-87, displaying fingerprints\nconsistent with the dynamics associated to the hyperbolic set. Finally, (iv)\nthe computations of their associated dynamical maps highlight that the\nspacecraft are trapped within the hyperbolic tangle. This research therefore\nreports evidence of actual artificial satellites in the near-Earth environment\nwhose dynamics are ruled by manifolds and resonant mechanisms. The tools,\nformalism and methodologies we present are exportable to other region of space\nsubject to similar commensurabilities as the geosynchronous region.",
+    "categories": [
+      "Chaotic Dynamics (nlin.CD)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/2103.06251"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.06186",
+    "title": "Title:Jupiter's Dynamical Love Number",
+    "date_publ": "10 Mar 2021 (v1), last revised 14 Mar 2021 (this version, v2)",
+    "authors": [
+      "Dong La"
+    ],
+    "abstract": "Abstract:  Recent observations by the {\\it Juno} spacecraft have revealed that the tidal\nLove number $k_2$ of Jupiter is $4\\%$ lower than the hydrostatic value. We\npresent a simple calculation of the dynamical Love number of Jupiter that\nexplains the observed \"anomaly\". The Love number is usually dominated by the\nresponse of the (rotation-modified) f-modes of the planet. Our method also\nallows for efficient computation of high-order dynamical Love numbers. While\nthe inertial-mode contributions to the Love numbers are negligible, a\nsufficiently strong stratification in a large region of the planet's interior\nwould induce significant g-mode responses and influence the measured Love\nnumbers.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)"
+    ],
+    "url_pdf": "/pdf/2103.06186"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.06041",
+    "title": "Title:Particle-In-Cell Simulations of the Cassini Spacecraft's Interaction with Saturn's Ionosphere during the Grand Finale",
+    "date_publ": "10 Mar 2021",
+    "authors": [
+      "Zeqi Zhang",
+      "Ravindra T. Desai",
+      "Yohei Miyake",
+      "Hideyuki Usui",
+      "Oleg Shebanit"
+    ],
+    "abstract": "Abstract:  A surprising and unexpected phenomenon observed during Cassini's Grand Finale\nwas the spacecraft charging to positive potentials in Saturn's ionosphere.\nHere, the ionospheric plasma was depleted of free electrons with negatively\ncharged ions and dust accumulating up to over 95 % of the negative charge\ndensity. To further understand the spacecraft-plasma interaction, we perform a\nthree dimensional Particle-In-Cell study of a model Cassini spacecraft immersed\nin plasma representative of Saturn's ionosphere. The simulations reveal complex\ninteraction features such as electron wings and a highly structured wake\ncontaining spacecraft-scale vortices. The results show how a large negative ion\nconcentration combined with a large negative to positive ion mass ratio is able\nto drive the spacecraft to the observed positive potentials. Despite the high\nelectron depletions, the electron properties are found as a significant\ncontrolling factor for the spacecraft potential together with the magnetic\nfield orientation which induces a potential gradient directed across Cassini's\nasymmetric body. This study reveals the global spacecraft interaction\nexperienced by Cassini during the Grand Finale and how this is influenced by\nthe unexpected negative ion and dust populations.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2103.06041"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.05240",
+    "title": "Title:Electrostatic solitary waves in the Earth's bow shock: nature, properties, lifetimes and origin",
+    "date_publ": "9 Mar 2021",
+    "authors": [
+      "R. Wang",
+      "I. Y. Vasko",
+      "F. S. Mozer",
+      "S. D. Bale",
+      "I. V. Kuzichev",
+      "A. V. Artemyev",
+      "MMS Tea"
+    ],
+    "abstract": "Abstract:  We present a statistical analysis of more than two thousand bipolar\nelectrostatic solitary waves (ESW) collected from ten quasi-perpendicular\nEarth's bow shock crossings by Magnetospheric Multiscale spacecraft. We\ndeveloped and implemented a correction procedure for reconstruction of actual\nelectric fields, velocities, and other properties of ESW from measurements,\nwhose spatial scales are typically comparable with or smaller than spatial\ndistance between voltage-sensitive probes. We determined the optimal ratio\nbetween frequency response factors of axial and spin plane antennas to be\naround 1.65/1.8. We found that more than 95\\% of the ESW in the Earth's bow\nshock are of negative polarity and present an in depth analysis of properties\nof these ESW. They have spatial scales of about 10--100 m that is within a\nrange of $\\lambda_{D}$ to $10\\lambda_{D}$, amplitudes typically below a few\nVolts that is below 0.1 of local electron temperature, and velocities below a\nfew hundreds km/s in spacecraft and plasma rest frames that is on the order of\nlocal ion-acoustic speed. The spatial scales of ESW are distinctly correlated\nwith local Debye length $\\lambda_{D}$. ESW with amplitudes of 5--30 V or\n0.1--0.3 Te have the occurrence rate of a few percent. The ESW have electric\nfields generally oblique to local magnetic field and propagate highly oblique\nto shock normal ${\\bf N}$; more than 80\\% of ESW propagate within 30$^{\\circ}$\nof the shock plane. In the shock plane, ESW typically propagate within a few\ntens of degrees of local magnetic field projection ${\\bf B}_{\\rm LM}$ onto the\nshock plane and preferentially opposite to ${\\bf N}\\times {\\bf B}_{\\rm LM}$. We\nargue that the ESW of negative polarity are ion phase space holes produced in a\nnonlinear stage of ion-ion ion-streaming instabilities. We estimated lifetimes\nof the ion holes to be 10--100 ms, or 1--10 km in terms of spatial distance.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2103.05240"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.04713",
+    "title": "Title:Amplitude and frequency modulation of super-Nyquist frequency from Kepler photometric sampling",
+    "date_publ": "8 Mar 2021",
+    "authors": [
+      "Weikai Zong",
+      "St\u00e9phane Charpine"
+    ],
+    "abstract": "Abstract:  We present a simulation showing that super-Nyquist frequencies may have\nperiodic amplitude and frequency modulations, even if actually stable, in time\nseries sampled like the Kepler data. These modulations are caused by the\nbarycentric time correction, which destroys the evenly spaced time\nmeasurements, making the Nyquist frequency variable over the spacecraft orbit\naround the Sun. These modulations can easily be identified in pulsating stars\nfrom Kepler's photometric data.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/2103.04713"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.04525",
+    "title": "Title:Near-field radiation assisted smart skin for spacecraft thermal control",
+    "date_publ": "8 Mar 2021",
+    "authors": [
+      "Deyu Xu",
+      "Junming Zhao",
+      "Linhua Li"
+    ],
+    "abstract": "Abstract:  Thermal control is of critical importance for normal operation of spacecraft.\nGiven thermal radiation is the only means of heat dissipation in space, an\nefficient thermal control approach for spacecraft is to coat the radiator with\na tunable-emittance \"skin\" that can tune its heat dissipation according to\nvarious thermal conditions. The existing schemes solely relying on far-field\nthermal radiation, which are based on mechanical, electrochromic or\nthermochromic working principles, are difficult to combine the advantages of\nall-solid-state structure, actively and accurate tuning, and large tuning range\nof heat flux. In this work, we propose a near-field radiation assisted (NFRA)\nsmart skin for thermal control which can tune the heat rejection accurately and\nin a large range. It contains a metal-insulator-semiconductor (MIS) structure,\nwhere the carrier distribution in the semiconductor layer can be electrically\naltered. In this way, the near-field heat flux, and ultimately the skin\nemission power expressed using effective emittance, can be controlled as a\nfunction of the applied voltage. The variation range of the effective emittance\ncan exceed 0.7 when adjusting the applied voltage from -10 V to 100 V with our\npreliminary design. This work opens a new way of smart skin design for active\nspacecraft thermal control.",
+    "categories": [
+      "Applied Physics (physics.app-ph)"
+    ],
+    "url_pdf": "/pdf/2103.04525"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.03077",
+    "title": "Title:Photospheric downflows observed with SDO/HMI, HINODE, and an MHD simulation",
+    "date_publ": "4 Mar 2021",
+    "authors": [
+      "T. Roudier",
+      "M. \u0160vanda",
+      "J. M. Malherbe",
+      "J. Ballot",
+      "D. Korda",
+      "Z. Fran"
+    ],
+    "abstract": "Abstract:  Downflows on the solar surface are suspected to play a major role in the\ndynamics of the convection zone. We investigate the existence of the\nlong-lasting downflows whose effects influence the interior of the Sun and the\nouter layers.\nWe study the sets of Dopplergrams and magnetograms observed with SDO and\nHinode spacecrafts and a MHD simulation. All of the aligned sequences, which\nwere corrected from the satellite motions and tracked with the differential\nrotation, were used to detect the long-lasting downflows in the quiet-Sun at\nthe disc centre. To learn about the structure of the flows below the solar\nsurface, the time-distance local helioseismology was used.\nThe inspection of the 3D data cube (x, y, t) of the 24-hour Doppler sequence\nallowed us to detect 13 persistent downflows. Their lifetimes lie in the range\nbetween 3.5 and 20 hours with sizes between 2\" and 3\" and speeds between -0.25\nand -0.72 km/s. These persistent downflows are always filled with the magnetic\nfield with an amplitude of up to 600 G. The helioseismic inversion allows us to\ndescribe the persistent downflows and compare them to the other\n(non-persistent) downflows in the field of view. The persistent downflows seem\nto penetrate much deeper and, in the case of a well-formed vortex, the\nvorticity keeps its integrity to the depth of about 5 Mm. In the MHD\nsimulation, only sub-arcsecond downflows are detected with no evidence of a\nvortex comparable in size to observations at the surface of the Sun.\nThe long temporal sequences from the space-borne allow us to show the\nexistence of long-persistent downflows together with the magnetic field. They\npenetrate inside the Sun but are also connected with the anchoring of coronal\nloops in the photosphere, indicating a link between downflows and the coronal\nactivity. A link suggests that EUV cyclones over the quiet Sun could be an\neffective way to heat the corona.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.03077"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.01930",
+    "title": "Title:Solar wind-driven day-to-day effects on the Martian thermosphere/exosphere composition",
+    "date_publ": "2 Mar 2021",
+    "authors": [
+      "Kamsali Nagaraja",
+      "Praveen Kumar Basuvaraj",
+      "S. C. Chakravarty",
+      "K. Praveen Kuma"
+    ],
+    "abstract": "Abstract:  Since the first \\emph{in-situ} measurements of the altitude profile of upper\natmospheric density and composition carried out by the Viking lander missions\nduring 1976, similar data were continuously gathered by MAVEN and MOM\nspacecraft orbiting Mars since September 2014 with a mass spectrometer and\nother related payloads. Using near-simultaneous observations by the two\norbiters, we show that both data sets confirm significant day-to-day variations\nof Argon ($Ar$) density profiles in the Martian thermosphere/exosphere during\n1-15 June 2018 when the solar EUV radiation did not show any appreciable\nchange. We extend this study to include the parent atmospheric constituents\n($CO_{2}$, $Ar$, $He$, $N_{2}$) and the photochemical products ($O$, $CO$) to\nexamine the effect of solar wind plasma ($e/H^{+}$) velocities and fluxes\nduring the above time interval. Density profiles of these constituents show\nsignificant effects due to the additional electron impact dissociation and\nionisation during the first week of June 2018, which subside in the next week\nreturning to normal conditions. These first-time results are interpreted based\non a number of relevant neutral and ion chemical reactions. This result\nprovides a vital input to future modelling efforts of Martian\nthermosphere/exosphere composition studies and the solar EUV related variations\ndue to the Schwabe cycle.",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2103.01930"
+  },
+  {
+    "url": "https://arxiv.org/abs/2103.00230",
+    "title": "Title:Multi-spacecraft Study of the Solar Wind at Solar Minimum: Dependence on Latitude and Transient Outflows",
+    "date_publ": "27 Feb 2021 (v1), last revised 22 Jun 2021 (this version, v2)",
+    "authors": [
+      "R. Laker",
+      "T. S. Horbury",
+      "S. D. Bale",
+      "L. Matteini",
+      "T. Woolley",
+      "L. D. Woodham",
+      "J. E. Stawarz",
+      "E. E. Davies",
+      "J. P. Eastwood",
+      "M. J. Owens",
+      "H. O'Brien",
+      "V. Evans",
+      "V. Angelini",
+      "I. Richter",
+      "D. Heyner",
+      "C. J. Owen",
+      "P. Louarn",
+      "A. Federo"
+    ],
+    "abstract": "Abstract:  The recent launches of Parker Solar Probe (PSP), Solar Orbiter (SO) and\nBepiColombo, along with several older spacecraft, have provided the opportunity\nto study the solar wind at multiple latitudes and distances from the Sun\nsimultaneously. We take advantage of this unique spacecraft constellation,\nalong with low solar activity across two solar rotations between May and July\n2020, to investigate how the solar wind structure, including the Heliospheric\nCurrent Sheet (HCS), varies with latitude. We visualise the sector structure of\nthe inner heliosphere by ballistically mapping the polarity and solar wind\nspeed from several spacecraft onto the Sun's source surface. We then assess the\nHCS morphology and orientation with the in situ data and compare with a\npredicted HCS shape. We resolve ripples in the HCS on scales of a few degrees\nin longitude and latitude, finding that the local orientation of sector\nboundaries were broadly consistent with the shape of the HCS but were steepened\nwith respect to a modelled HCS at the Sun. We investigate how several CIRs\nvaried with latitude, finding evidence for the compression region affecting\nslow solar wind outside the latitude extent of the faster stream. We also\nidentified several transient structures associated with HCS crossings, and\nspeculate that one such transient may have disrupted the local HCS orientation\nup to five days after its passage. We have shown that the solar wind structure\nvaries significantly with latitude, with this constellation providing context\nfor solar wind measurements that would not be possible with a single\nspacecraft. These measurements provide an accurate representation of the solar\nwind within $\\pm 10^{\\circ}$ latitude, which could be used as a more rigorous\nconstraint on solar wind models and space weather predictions. In the future,\nthis range of latitudes will increase as SO's orbit becomes more inclined.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2103.00230"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.12640",
+    "title": "Title:Relationship between solar energetic particle intensities and coronal mass ejection kinematics using STEREO/SECCHI field of view",
+    "date_publ": "25 Feb 2021",
+    "authors": [
+      "Anitha Ravishankar",
+      "Grzegorz Michale"
+    ],
+    "abstract": "Abstract:  Solar energetic particles (SEPs) accelerated from shocks driven by coronal\nmass ejections (CMEs) are one of the major causes of geomagnetic storms on\nEarth. Therefore, it is necessary to predict the occurrence and intensity of\nsuch disturbances. For this purpose we analyzed in detail 38 non-interacting\nhalo and partial halo CMEs, as seen by the Solar and Heliospheric Observatory\n/Large Angle and Spectrometric Coronagraph (SOHO/LASCO), generating SEPs (in\n>10 MeV, >50 MeV, and >100 MeV energy channels) during the quadrature\nconfiguration of the Solar TErrestrial RElations Observatory (STEREO) twin\nspacecrafts with respect to the Earth, which marks the ascending phase of solar\ncycle 24 (i.e., 2009-2013). The main criteria for this selection period is to\nobtain height-time measurements of the CMEs without significant projection\neffects and in a very large field of view. Using the data from STEREO/Sun Earth\nConnection Coronal and Heliospheric Investigation (STEREO / SECCHI) images we\ndetermined several kinematic parameters and instantaneous speeds of the CMEs.\nFirst, we compare instantaneous CME speed and Mach number versus SEP fluxes for\nevents originating at the western and eastern limb we observe high correlation\nfor the western events and anticorrelation for the eastern events. Next we\ninvestigated instantaneous CME kinematic parameters such as maximum speed,\nmaximum Mach number, and the CME speed and Mach number at SEP peak flux versus\nSEP peak fluxes. Highly positive correlation is observed for Mach number at SEP\npeak flux for all events. The obtained instantaneous Furthermore, we conducted\nestimates of delay in time and distance between CME, SEP, and shock parameters.\nComparative studies of the considered energy channels of the SEPs also throw\nlight on the reacceleration of suprathermal seed ions by CME-driven shocks that\nare pre-accelerated in the magnetic reconnection.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2102.12640"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.12185",
+    "title": "Title:Radial Evolution of the April 2020 Stealth Coronal Mass Ejection between 0.8 and 1 AU -- A Comparison of Forbush Decreases at Solar Orbiter and Earth",
+    "date_publ": "24 Feb 2021",
+    "authors": [
+      "Johan L. Freiherr von Forstner",
+      "Mateja Dumbovi\u0107",
+      "Christian M\u00f6stl",
+      "Jingnan Guo",
+      "Athanasios Papaioannou",
+      "Robert Elftmann",
+      "Zigong Xu",
+      "Jan Christoph Terasa",
+      "Alexander Kollhoff",
+      "Robert F. Wimmer-Schweingruber",
+      "Javier Rodr\u00edguez-Pacheco",
+      "Andreas J. Weiss",
+      "J\u00fcrgen Hinterreiter",
+      "Tanja Amerstorfer",
+      "Maike Bauer",
+      "Anatoly V. Belov",
+      "Maria A. Abunina",
+      "Timothy Horbury",
+      "Emma E. Davies",
+      "Helen O'Brien",
+      "Robert C. Allen",
+      "G. Bruce Andrews",
+      "Lars Berger",
+      "Sebastian Boden",
+      "Ignacio Cernuda Cangas",
+      "Sandra Eldrum",
+      "Francisco Espinosa Lara",
+      "Ra\u00fal G\u00f3mez Herrero",
+      "John R. Hayes",
+      "George C. Ho",
+      "Shrinivasrao R. Kulkarni",
+      "W. Jeffrey Lees",
+      "C\u00e9sar Mart\u00edn",
+      "Glenn M. Mason",
+      "Daniel Pacheco",
+      "Manuel Prieto Mateo",
+      "Ali Ravanbakhsh",
+      "Oscar Rodr\u00edguez Polo",
+      "Sebasti\u00e1n S\u00e1nchez Prieto",
+      "Charles E. Schlemm",
+      "Helmut Seifert",
+      "Kush Tyagi",
+      "Mahesh Yedl"
+    ],
+    "abstract": "Abstract:  Aims. We present observations of the first coronal mass ejection (CME)\nobserved at the Solar Orbiter spacecraft on April 19, 2020, and the associated\nForbush decrease (FD) measured by its High Energy Telescope (HET). This CME is\na multispacecraft event also seen near Earth the next day. Methods. We\nhighlight the capabilities of HET for observing small short-term variations of\nthe galactic cosmic ray count rate using its single detector counters. The\nanalytical ForbMod model is applied to the FD measurements to reproduce the\nForbush decrease at both locations. Input parameters for the model are derived\nfrom both in situ and remote-sensing observations of the CME. Results. The very\nslow (~350 km/s) stealth CME caused a FD with an amplitude of 3 % in the\nlow-energy cosmic ray measurements at HET and 2 % in a comparable channel of\nthe Cosmic Ray Telescope for the Effects of Radiation (CRaTER) on the Lunar\nReconnaissance Orbiter, as well as a 1 % decrease in neutron monitor\nmeasurements. Significant differences are observed in the expansion behavior of\nthe CME at different locations, which may be related to influence of the\nfollowing high speed solar wind stream. Under certain assumptions, ForbMod is\nable to reproduce the observed FDs in low-energy cosmic ray measurements from\nHET as well as CRaTER, but with the same input parameters, the results do not\nagree with the FD amplitudes at higher energies measured by neutron monitors on\nEarth. We study these discrepancies and provide possible explanations.\nConclusions. This study highlights that the novel measurements of the Solar\nOrbiter can be coordinated with other spacecraft to improve our understanding\nof space weather in the inner heliosphere. Multi-spacecraft observations\ncombined with data-based modeling are also essential to understand the\npropagation and evolution of CMEs as well as their space weather impacts.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2102.12185"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.11781",
+    "title": "Title:The evolution of compressible solar wind turbulence in the inner heliosphere: PSP, THEMIS and MAVEN observations",
+    "date_publ": "23 Feb 2021",
+    "authors": [
+      "N. Andr\u00e9s",
+      "F. Sahraoui",
+      "L. Z. Hadid",
+      "S. Y. Huang",
+      "N. Romanelli",
+      "S. Galtier",
+      "G. DiBraccio",
+      "J. Haleka"
+    ],
+    "abstract": "Abstract:  The first computation of the compressible energy transfer rate from $\\sim$\n0.2 AU up to $\\sim$ 1.7 AU is obtained using PSP, THEMIS and MAVEN\nobservations. The compressible energy cascade rate $\\varepsilon_C$ is computed\nfor hundred of events at different heliocentric distances, for time intervals\nwhen the spacecraft were in the pristine solar wind. The observational results\nshow moderate increases of $\\varepsilon_C$ with respect to the incompressible\ncascade rate $\\varepsilon_I$. Depending on the level of compressibility in the\nplasma, which reach up to 25 $\\%$ in the PSP perihelion, the different terms in\nthe compressible exact relation are shown to have different impact in the total\ncascade rate $\\varepsilon_C$. Finally, the observational results are connected\nwith the local ion temperature and the solar wind heating problem.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Plasma Physics (physics.plasm-ph)"
+    ],
+    "url_pdf": "/pdf/2102.11781"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.10950",
+    "title": "Title:A Self-consistent Simulation of Proton Acceleration and Transport Near a High-speed Solar Wind Stream",
+    "date_publ": "22 Feb 2021",
+    "authors": [
+      "Nicolas Wijsen",
+      "Evangelia Samara",
+      "\u00c0ngels Aran",
+      "David Lario",
+      "Jens Pomoell",
+      "Stefaan Poedt"
+    ],
+    "abstract": "Abstract:  Solar wind stream interaction regions (SIRs) are often characterized by\nenergetic ion enhancements. The mechanisms accelerating these particles, as\nwell as the locations where the acceleration occurs, remain debated. Here, we\nreport the findings of a simulation of a SIR event observed by Parker Solar\nProbe at ~0.56 au and the Solar Terrestrial Relations Observatory-Ahead at\n~0.95 au in 2019 September when both spacecraft were approximately radially\naligned with the Sun. The simulation reproduces the solar wind configuration\nand the energetic particle enhancements observed by both spacecraft. Our\nresults show that the energetic particles are produced at the compression waves\nassociated with the SIR and that the suprathermal tail of the solar wind is a\ngood candidate to provide the seed population for particle acceleration. The\nsimulation confirms that the acceleration process does not require shock waves\nand can already commence within Earth's orbit, with an energy dependence on the\nprecise location where particles are accelerated. The three-dimensional\nconfiguration of the solar wind streams strongly modulates the energetic\nparticle distributions, illustrating the necessity of advanced models to\nunderstand these particle events.",
+    "categories": [
+      "Space Physics (physics.space-ph)",
+      " Solar and Stellar Astrophysics (astro-ph.SR)"
+    ],
+    "url_pdf": "/pdf/2102.10950"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.10545",
+    "title": "Title:Uncertainty-Aware Deep Learning for Autonomous Safe Landing Site Selection",
+    "date_publ": "21 Feb 2021",
+    "authors": [
+      "Kento Tomita",
+      "Katherine A. Skinner",
+      "Koki H"
+    ],
+    "abstract": "Abstract:  Hazard detection is critical for enabling autonomous landing on planetary\nsurfaces. Current state-of-the-art methods leverage traditional computer vision\napproaches to automate identification of safe terrain from input digital\nelevation models (DEMs). However, performance for these methods can degrade for\ninput DEMs with increased sensor noise. At the same time, deep learning\ntechniques have been developed for various applications. Nevertheless, their\napplicability to safety-critical space missions has been often limited due to\nconcerns regarding their outputs' reliability. In response to this background,\nthis paper proposes an uncertainty-aware learning-based method for hazard\ndetection and landing site selection. The developed approach enables reliable\nsafe landing site selection by: (i) generating a safety prediction map and its\nuncertainty map together via Bayesian deep learning and semantic segmentation;\nand (ii) using the generated uncertainty map to filter out the uncertain pixels\nin the prediction map so that the safe landing site selection is performed only\nbased on the certain pixels (i.e., pixels for which the model is certain about\nits safety prediction). Experiments are presented with simulated data based on\na Mars HiRISE digital terrain model and varying noise levels to demonstrate the\nperformance of the proposed approach.",
+    "categories": [
+      "Robotics (cs.RO)",
+      " Artificial Intelligence (cs.AI)",
+      " Machine Learning (cs.LG)"
+    ],
+    "url_pdf": "/pdf/2102.10545"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.10386",
+    "title": "Title:Accurate predictions of chaotic motion of a free fall disk",
+    "date_publ": "20 Feb 2021",
+    "authors": [
+      "Tianzhuang Xu",
+      "Jing Li",
+      "Zhihui Li",
+      "Shijun Lia"
+    ],
+    "abstract": "Abstract:  It is important to know the accurate trajectory of a free fall object in\nfluid (such as a spacecraft), whose motion might be chaotic in many cases.\nHowever, it is impossible to accurately predict its chaotic trajectory in a\nlong enough duration by traditional numerical algorithms in double precision.\nIn this paper, we give the accurate predictions of the same problem by a new\nstrategy, namely the Clean Numerical Simulation (CNS). Without loss of\ngenerality, a free fall disk in water is considered, whose motion is governed\nby the Andersen-Pesavento-Wang model. We illustrate that convergent and\nreliable trajectories of a chaotic free fall disk in a long enough interval of\ntime can be obtained by means of the CNS, but different traditional algorithms\nin double precision give disparate trajectories. Besides, unlike the\ntraditional algorithms in double precision, the CNS can predict the accurate\nposture of the free fall disk near the vicinity of the bifurcation point of\nsome physical parameters in a long duration. Therefore, the CNS can provide\nreliable prediction of chaotic systems in a long enough interval of time.",
+    "categories": [
+      "Chaotic Dynamics (nlin.CD)",
+      " Fluid Dynamics (physics.flu-dyn)"
+    ],
+    "url_pdf": "/pdf/2102.10386"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.09654",
+    "title": "Title:On stochastic heating and its phase-space signatures in low-$\u03b2$ kinetic turbulence",
+    "date_publ": "18 Feb 2021 (v1), last revised 26 Apr 2021 (this version, v2)",
+    "authors": [
+      "Silvio Sergio Cerri",
+      "Lev Arzamasskiy",
+      "Matthew W. Kun"
+    ],
+    "abstract": "Abstract:  We revisit the theory of stochastic heating of ions and investigate its\nphase-space signatures in kinetic turbulence of relevance to low-$\\beta$\nportions of the solar wind. We retain a full scale-dependent approach in our\ntreatment, and consider the case in which electric-field fluctuations can be\ndescribed by a generalized Ohm's law that includes Hall and thermo-electric\neffects. These two electric-field terms provide the dominant contributions to\nstochastic ion heating when the ion-Larmor scale is much smaller than the ion\nskin depth, $\\rho_{\\mathrm{i}}\\ll d_{\\mathrm{i}}$, which is the case at\n$\\beta{\\ll}1$. Employing well-known spectral scaling laws for Alfv\u00e9n-wave and\nkinetic-Alfv\u00e9n-wave turbulent fluctuations, we obtain scaling relations\ncharacterizing the field-perpendicular particle-energization rate and energy\ndiffusion coefficient associated with stochastic heating in these two regimes.\nPhase-space signatures of ion heating are then investigated using 3D\nhybrid-kinetic simulations of continuously driven Alfv\u00e9nic turbulence at low\n$\\beta$. In these simulations, energization of ions parallel to the magnetic\nfield is sub-dominant compared to its perpendicular counterpart\n($Q_{\\parallel,\\mathrm{i}}\\ll Q_{\\perp,\\mathrm{i}}$), and the fraction of\nturbulent energy that goes into ion heating is ${\\approx}75$\\% at\n$\\beta_{\\mathrm{i}}=0.3$ and ${\\approx}40$\\% at\n$\\beta_{\\mathrm{i}}{\\simeq}0.1$. The phase-space signatures of ion energization\nare consistent with Landau-resonant collisionless damping and a\n($\\beta$-dependent) combination of ion-cyclotron and stochastic heating. We\ndemonstrate good agreement between our theory and various signatures associated\nwith the stochastic portion of the heating. We discuss the effect of\nintermittency on stochastic heating and the implications of our work for the\ninterpretation of stochastic heating in solar-wind spacecraft data.",
+    "categories": [
+      "Solar and Stellar Astrophysics (astro-ph.SR)",
+      " Plasma Physics (physics.plasm-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2102.09654"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.09639",
+    "title": "Title:Non-Maxwellianity of electron distributions near Earth's magnetopause",
+    "date_publ": "18 Feb 2021",
+    "authors": [
+      "D. B. Graham",
+      "Yu. V. Khotyaintsev",
+      "M. Andr\u00e9",
+      "A. Vaivads",
+      "A. Chasapis",
+      "W. H. Matthaeus",
+      "A. Retino",
+      "F. Valentini",
+      "D. J. Gershma"
+    ],
+    "abstract": "Abstract:  Plasmas in Earth's outer magnetosphere, magnetosheath, and solar wind are\nessentially collisionless. This means particle distributions are not typically\nin thermodynamic equilibrium and deviate significantly from Maxwellian\ndistributions. The deviations of these distributions can be further enhanced by\nplasma processes, such as shocks, turbulence, and magnetic reconnection. Such\ndistributions can be unstable to a wide variety of kinetic plasma\ninstabilities, which in turn modify the electron distributions. In this paper\nthe deviations of the observed electron distributions from a bi-Maxwellian\ndistribution function is calculated and quantified using data from the\nMagnetospheric Multiscale (MMS) spacecraft. A statistical study from tens of\nmillions of electron distributions shows that the primary source of the\nobserved non-Maxwellianity are electron distributions consisting of distinct\nhot and cold components in Earth's low-density magnetosphere. This results in\nlarge non-Maxwellianities in at low densities. However, after performing a\nstastical study we find regions where large non-Maxwellianities are observed\nfor a given density. Highly non-Maxwellian distributions are routinely found\nare Earth's bowshock, in Earth's outer magnetosphere, and in the electron\ndiffusion regions of magnetic reconnection. Enhanced non-Maxwellianities are\nobserved in the turbulent magnetosheath, but are intermittent and are not\ncorrelated with local processes. The causes of enhanced non-Maxwellianities are\ninvestigated.",
+    "categories": [
+      "Plasma Physics (physics.plasm-ph)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2102.09639"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.08702",
+    "title": "Title:The THESEUS space mission: updated design, profile and expected performances",
+    "date_publ": "17 Feb 2021",
+    "authors": [
+      "Lorenzo Amati",
+      "Paul T. O'Brien",
+      "Diego G\u00f6tz",
+      "Enrico Bozzo",
+      "Andrea Santangelo (on behalf of the THESEUS Consortium"
+    ],
+    "abstract": "Abstract:  THESEUS is a space mission concept, currently under Phase A study by ESA as\ncandidate M5 mission, aiming at exploiting Gamma-Ray Bursts for investigating\nthe early Universe and at providing a substantial advancement of\nmulti-messenger and time-domain astrophysics. In addition to fully exploiting\nhigh-redshift GRBs for cosmology (pop-III stars, cosmic re-ionization, SFR and\nmetallicity evolution up to the \"cosmic dawn\"), THESEUS will allow the\nidentification and study of the electromagnetic counterparts to sources of\ngravitational waves which will be routinely detected in the late '20s / early\n'30s by next generation facilities like aLIGO/aVirgo, LISA, KAGRA, and Einstein\nTelescope (ET), as well as of most classes of X/gamma-ray transient sources,\nthus providing an ideal synergy with the large e.m. facilities of the near\nfuture like, e.g., LSST, ELT, TMT, SKA, CTA, ATHENA. These breakthrough\nscientific objectives will be achieved by an unprecedented combination of\nX/gamma-ray monitors, providing the capabilities of detecting and accurately\nlocalize and kind of GRBs and may classes of transient in an energy band as\nlarge as 0.1 keV - 10 MeV, with an on-board NIR telescope providing detection,\nlocalization (arcsec) and redshift measurement of the NIR counterpart. A Guest\nObserver programme, further improving the scientific return and community\ninvolvement is also envisaged. We summarize the main scientific requirements of\nthe mission and provide an overview of the updated concept, design (instruments\nand spacecraft) and mission profile.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/2102.08702"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.08701",
+    "title": "Title:The X/Gamma-ray Imaging Spectrometer (XGIS) on-board THESEUS: design, main characteristics, and concept of operation",
+    "date_publ": "17 Feb 2021",
+    "authors": [
+      "Claudio Labanti",
+      "Lorenzo Amati",
+      "Filippo Frontera",
+      "Sandro Mereghetti",
+      "Jos\u00e9 Luis Gasent-Blesa",
+      "Christoph Tenzer",
+      "Piotr Orleanski",
+      "Irfan Kuvvetli",
+      "Riccardo Campana",
+      "Fabio Fuschino",
+      "Luca Terenzi",
+      "Enrico Virgilli",
+      "Gianluca Morgante",
+      "Mauro Orlandini",
+      "Reginald C. Butler",
+      "John B. Stephen",
+      "Natalia Auricchio",
+      "Adriano De Rosa",
+      "Vanni Da Ronco",
+      "Federico Evangelisti",
+      "Michele Melchiorri",
+      "Stefano Squerzanti",
+      "Mauro Fiorini",
+      "Giuseppe Bertuccio",
+      "Filippo Mele",
+      "Massimo Gandola",
+      "Piero Malcovati",
+      "Marco Grassi",
+      "Pierluigi Bellutti",
+      "Giacomo Borghi",
+      "Francesco Ficorella",
+      "Antonino Picciotto",
+      "Vittorio Zanini",
+      "Nicola Zorzi",
+      "Evgeny Demenev",
+      "Irina Rashevskaya",
+      "Alexander Rachevski",
+      "Gianluigi Zampa",
+      "Andrea Vacchi",
+      "Nicola Zampa",
+      "Giuseppe Baldazzi",
+      "Giovanni La Rosa",
+      "Giuseppe Sottile",
+      "Angela Volpe",
+      "Marek Winkler",
+      "Victor Reglero",
+      "Paul H. Connell",
+      "Benjamin Pinazo-Herrero",
+      "Javier Navarro-Gonz\u00e1lez",
+      "Pedro Rodr\u00edguez-Mart\u00ednez",
+      "Alberto J. Castro-Tirado",
+      "Andrea Santangelo",
+      "Paul Hedderman",
+      "Paolo Lorenzi",
+      "Paolo Sarra",
+      "S\u00f8ren M. Pedersen",
+      "Denis Tcherniak",
+      "Cristiano Guidorzi",
+      "Piero Rosati",
+      "Alessio Trois",
+      "Raffaele Piazzoll"
+    ],
+    "abstract": "Abstract:  THESEUS is one of the three missions selected by ESA as fifth medium class\nmission (M5) candidates in its Cosmic Vision science program, currently under\nassessment in a phase A study with a planned launch date in 2032. THESEUS is\ndesigned to carry on-board two wide and deep sky monitoring instruments for\nX/gamma-ray transients detection: a wide-field soft X-ray monitor with imaging\ncapability (Soft X-ray Imager, SXI, 0.3 - 5 keV), a hard X-ray,\npartially-imaging spectroscopic instrument (X and Gamma Imaging Spectrometer,\nXGIS, 2 keV - 10 MeV), and an optical/near-IR telescope with both imaging and\nspectroscopic capability (InfraRed Telescope, IRT, 0.7 - 1.8 $\\mu$m). The\nspacecraft will be capable of performing fast repointing of the IRT to the\nerror region provided by the monitors, thus allowing it to detect and localize\nthe transient sources down to a few arcsec accuracy, for immediate\nidentification and redshift determination. The prime goal of the XGIS will be\nto detect transient sources, with monitoring timescales down to milliseconds,\nboth independently of, or following, up SXI detections, and identify the\nsources performing localisation at < 15 arcmin and characterize them over a\nbroad energy band, thus providing also unique clues to their emission physics.\nThe XGIS system consists of two independent but identical coded mask cameras,\narranged to cover 2 steradians . The XGIS will exploit an innovative technology\ncoupling Silicon Drift Detectors (SDD) with crystal scintillator bars and a\nvery low-noise distributed front-end electronics (ORION ASICs), which will\nproduce a position sensitive detection plane, with a large effective area over\na huge energy band (from soft X-rays to soft gamma-rays) with timing resolution\ndown to a few $\\mu$s.Here is presented an overview of the XGIS instrument\ndesign, its configuration, and capabilities.",
+    "categories": [
+      "Instrumentation and Methods for Astrophysics (astro-ph.IM)"
+    ],
+    "url_pdf": "/pdf/2102.08701"
+  },
+  {
+    "url": "https://arxiv.org/abs/2102.08300",
+    "title": "Title:Analysis of NASA's DSN Venus Express radio occultation data for year 2014",
+    "date_publ": "16 Feb 2021 (v1), last revised 17 Feb 2021 (this version, v2)",
+    "authors": [
+      "Edoardo Gramigna",
+      "Marzia Parisi",
+      "Dustin Buccino",
+      "Luis Gomez Casajus",
+      "Marco Zannoni",
+      "Paolo Tortora",
+      "Kamal Oudrhir"
+    ],
+    "abstract": "Abstract:  The Venus Express Radio Science Experiment was part of the scientific payload\nof the Venus Express spacecraft and was targeted at the investigation of Venus'\natmosphere, surface, and gravity field as well as the interplanetary medium.\nThis paper describes the methods and the required calibrations applied to\nVEX-VeRa raw radio occultation selected data used to retrieve vertical profiles\nof Venus' ionosphere and neutral atmosphere. In this work we perform an\nindependent analysis of a set of 25 VEX, single-frequency (X-band),\noccultations carried out in 2014, recorded in open-loop at the NASA Deep Space\nNetwork. The calibrations are performed to correct the observed frequency for\nthe major noise sources and errors, since any uncalibrated effects will bias\nthe retrieval of atmospheric properties. We present a study on the influence of\nthe relativistic effects on radio occultation of Venus. The temperature\ndifferences between the relativistic and non-relativistic Doppler shift\nsolutions are lower than 0.5 K at 50 km altitude, and our error analysis shows\nthat, within this investigation, the relativity effects can safely be\nneglected. Our temperature, pressure and electron density vertical profiles are\nin agreement with previous studies available in the literature. Furthermore,\nour analysis shows that Venus' ionosphere is more influenced by the day/night\ncondition than the latitude variations, while the neutral atmosphere\nexperiences the opposite. Our scientific interpretation of these results is\nbased on two major responsible effects: Venus' high thermal inertia and the\nzonal winds. Their presence within Venus' neutral atmosphere determine why in\nthese regions a latitude dependence is predominant on the day/night condition.\nOn the contrary, at higher altitudes the two aforementioned effects are less\nimportant or null [...]",
+    "categories": [
+      "Earth and Planetary Astrophysics (astro-ph.EP)",
+      " Instrumentation and Methods for Astrophysics (astro-ph.IM)",
+      " Space Physics (physics.space-ph)"
+    ],
+    "url_pdf": "/pdf/2102.08300"
+  }
+]
