@@ -3,6 +3,7 @@ let meanLineMin, confidenceIntervalLineMin = null
 let yScale, xScale = null
 let yScaleDomain = null
 let yMaxMean, yMinMean, xMean = null
+let data
 
 const dateParser = d3.timeParse('%Y-%m-%d')
 
@@ -12,7 +13,6 @@ const yMaxTempAccessor = (d) => {
 }
 const xAccessor = (d) => dateParser(d.date)
 const yMinTempAccessor = (d) => { 
-    // console.log(d)
     return toCelcius(d.temperatureMin) 
 }
 const toCelcius = (f) => (f - 32) * 5 / 9
@@ -29,7 +29,7 @@ let dimensions = {
 }
 // draw line chart
 async function drawLineChart () {
-    let data = await d3.json('./my_weather_data.json')
+    data = await d3.json('./my_weather_data.json')
 
     dimensions.boundedWidth = dimensions.width - dimensions.margin.left - dimensions.margin.right
     dimensions.boundedHeight = dimensions.height - dimensions.margin.top - dimensions.margin.bottom
@@ -44,9 +44,9 @@ async function drawLineChart () {
         `translate(${dimensions.margin.left}px, ${dimensions.margin.top}px)`
     )
 
-    yMaxMean = d3.mean(data, yMaxTempAccessor)
-    yMinMean = d3.mean(data, yMinTempAccessor)
-    xMean = d3.mean(data, xAccessor)
+    yMaxMean = d3.median(data, yMaxTempAccessor)
+    yMinMean = d3.median(data, yMinTempAccessor)
+    xMean = d3.median(data, xAccessor)
 
     yScaleDomain = [
         d3.extent(data, yMinTempAccessor)[0],
@@ -63,6 +63,8 @@ async function drawLineChart () {
     drawConfidenceInterval(data, bounds)
 
     drawLines(data, bounds)
+
+    dispersion()
 }
 
 function drawLines (data, bounds) {
@@ -159,7 +161,7 @@ function drawConfidenceInterval (data, bounds) {
     )
 }
 
-function showMeans() {
+function showMedians() {
     // get visibility of mean lines
     if (meanLineMax.style('visibility') === 'visible') {
         meanLineMax.attr('visibility', 'hidden')
@@ -193,6 +195,98 @@ function showStd(type) {
             break;
 
     }
+}
+
+function dispersion () {
+    const wrapper = d3.select('#dispersion-wrapper')
+    const svg = wrapper.append('svg')
+    var x = d3.scaleLinear()
+      .domain([-10,15])
+      .range([0, dimensions.width]);
+    let margin = {top: 30, right: 30, bottom: 30, left: 50},
+        width = 460 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom
+
+        svg.attr('width', dimensions.width)
+        svg.attr('height', dimensions.height)
+    
+        const bounds = svg.append('g').style(
+            'transform',
+            `translate(${dimensions.margin.left}px, ${dimensions.margin.top}px)`
+        )
+
+    let fuckMe = data.map(e => e.temperatureMax)
+
+    var kde = kernelDensityEstimator(kernelEpanechnikov(7), x.ticks(40))
+  
+    // add the y Axis
+    var y = d3.scaleLinear()
+              .range([height, 0])
+              .domain([0, 0.12]);
+    svg.append("g")
+        .call(d3.axisLeft(y));
+
+    svg.append("path")
+        .attr("class", "mypath")
+        .datum(kde(fuckMe))
+        .attr("fill", "#69b3a2")
+        .attr("opacity", ".6")
+        .attr("stroke", "#000")
+        .attr("stroke-width", 1)
+        .attr("stroke-linejoin", "round")
+        .attr("d",  d3.line()
+          .curve(d3.curveBasis)
+          .x((d) => xScale(d[0]) )
+          .y((d) => yScale(d[1]) )
+            // .x(function(d) { return xScale(xAccessor(d)) })
+            // .y(function(d) { return yScale(yMaxTempAccessor(d)) })
+        );
+  
+    // Plot the area
+    svg.append("path")
+        .attr("class", "mypath")
+        .datum(data)
+        .attr("fill", "#404080")
+        .attr("opacity", ".6")
+        .attr("stroke", "#000")
+        .attr("stroke-width", 1)
+        .attr("stroke-linejoin", "round")
+        .attr("d",  d3.line()
+          .curve(d3.curveBasis)
+            .x(function(d) {
+                return xScale(xAccessor(d))
+            })
+            .y(function(d) {
+                return yScale(yMinTempAccessor(d))
+            })
+        );
+
+
+    const yAxisGenerator = d3.axisLeft()
+        .scale(yScale)
+    
+    const yAxis = svg.append('g')
+        .call(yAxisGenerator)
+    
+    const xAxisGenerator = d3.axisBottom()
+        .scale(xScale)
+    
+    const xAxis = svg.append('g')
+        .call(xAxisGenerator)
+        .style('transform', `translateY(${dimensions.boundedHeight}px)`)
+}
+
+function kernelDensityEstimator(kernel, X) {
+    return function(V) {
+        return X.map(function(x) {
+            return [x, d3.mean(V, function(v) { return kernel(x - v); })]
+        });
+    };
+}
+function kernelEpanechnikov(k) {
+    return function(v) {
+        return Math.abs(v /= k) <= 1 ? 0.75 * (1 - v * v) / k : 0;
+    };
 }
 
 drawLineChart()
