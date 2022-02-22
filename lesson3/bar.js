@@ -69,6 +69,15 @@ async function drawBar() {
         .attr('width', d => d3.max([0, xScaler(d.x1) - xScaler(d.x0) - barPadding]))
         .attr('height', d => dimensions.boundedHeight - yScaler(yAccessor(d)))
         .attr('fill', '#AA1111')
+
+    const xAxis = wrapper.append('g')
+        .call(d3.axisBottom(xScaler))
+        .attr('transform', `translate(${dimensions.margin.left}, ${dimensions.margin.top + dimensions.boundedHeight})`)
+    
+    const yAxis = wrapper.append('g')
+        .call(d3.axisLeft(yScaler))
+        .attr('transform', `translate(${dimensions.margin.left}, ${dimensions.margin.top})`)
+
 }
 
 drawBar()
