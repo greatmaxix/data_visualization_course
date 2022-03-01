@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first animation</title>
+    </head>
+    <body>
+        <div id="wrapper">
+            <svg width="120" height="120">
+                <rect id="rect" x="10" y="10" width="100" height="100" fill="blue">
+                    <animate
+                        attributeName="x"
+                        values="0;20;0"
+                        dur="2s"
+                        repeatCount="indefinite"
+                    >
+                    </animate>
+                    <animate
+                        attributeName="fill"
+                        values="blue;red;yellow;green;blue"
+                        dur="6s"
+                        repeatCount="indefinite"
+                    >
+                    </animate>
+                </rect>
+            </svg>
+        </div>
+        <script src="./d3.v6.js"></script>
+        <script src="./animation.js"></script>
+    </body>
+</html>
