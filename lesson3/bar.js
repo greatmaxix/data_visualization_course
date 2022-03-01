@@ -78,6 +78,34 @@ async function drawBar() {
         .call(d3.axisLeft(yScaler))
         .attr('transform', `translate(${dimensions.margin.left}, ${dimensions.margin.top})`)
 
+    const mean = d3.mean(dataset, Accessor)
+    const meanLine = bounds.append('line')
+        .attr('x1', xScaler(mean))
+        .attr('y1', -20)
+        .attr('x2', xScaler(mean))
+        .attr('y2', dimensions.boundedHeight)
+        .attr('stroke', 'black')
+        .attr('stroke-width', 3)
+        .attr('stroke-dasharray', '6px 2px')
+
+    const meanLabel = bounds.append('text')
+        .attr('x', xScaler(mean))
+        .attr('y', -20)
+        .attr('fill', 'black')
+        .text(`Mean: ${mean}`)
+        .attr('font-size', '12px')
+        .attr('text-anchor', 'middle')
+
+    const barText = binGroups.filter(yAccessor)
+        .append('text')
+        .attr('x', d => xScaler(d.x0) + (xScaler(d.x1) - xScaler(d.x0)) / 2)
+        .attr('y', d => yScaler(yAccessor(d)) - 5)
+        .attr('fill', 'black')
+        .text(yAccessor)
+        .attr('font-size', '12px')
+        .attr('text-anchor', 'middle')
+
+
 }
 
 drawBar()
