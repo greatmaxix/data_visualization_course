@@ -1,7 +1,6 @@
-// 
-
 async function drawCarEmissionChart() {
-    let data = await d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson")
+    let data = await d3.json("kaz.geo.json")
+    let carsData = await loadCarsData()
 
     let dimensions = {
         width: window.innerWidth * 0.9,
@@ -39,24 +38,12 @@ async function drawCarEmissionChart() {
         .scale(700) // This is like the zoom
         .translate([ width/2, height/2 ])
     
-    
-    // Create data for circles:
-    let markers = [
-      {lat: 43.2220, long: 76.8512, group: "A", size: 20}, // Almaty
-      {lat: 51.1605, long: 71.4704, group: "A", size: 15}, // Astana
-      {lat: 52.2873, long: 76.9674, group: "B", size: 4}, // Pavlodar
-    ];
-        
-    console.log(data.features.filter( function(d){return d.properties.name=="Kazakhstan"} ))
-    console.log(data.features.filter( function(d){return d.properties.name=="France"} ))
-    // data.features = data.features.filter( function(d){return d.properties.name=="Kazakhstan"} )
-    data.features = data.features.filter( function(d){return d.properties.name=="Kazakhstan"} )
-    
 
     // Create a color scale
     var color = d3.scaleOrdinal()
-      .domain(["A", "B", "C" ])
-      .range([ "#402D54", "#D18975", "#8FD175"])
+        .domain(data.features)
+        .range(d3.schemeCategory10);
+        
 
     // Add a scale for bubble size
     var size = d3.scaleLinear()
@@ -69,7 +56,7 @@ async function drawCarEmissionChart() {
         .data(data.features)
         .enter()
         .append("path")
-          .attr("fill", "#b8b8b8")
+          .attr("fill", "none")
           .attr("d", d3.geoPath()
               .projection(projection)
           )
@@ -79,23 +66,25 @@ async function drawCarEmissionChart() {
     // // Add circles:
     svg
       .selectAll("myCircles")
-      .data(markers)
+      .data(data.features)
       .enter()
       .append("circle")
-        .attr("cx", function(d){ return projection([d.long, d.lat])[0] })
-        .attr("cy", function(d){ return projection([d.long, d.lat])[1] })
-        .attr("r", function(d){ return size(d.size) })
-        .style("fill", function(d){ return color(d.group) })
-        .attr("stroke", function(d){ return color(d.group) })
+        .attr("cx", function(d){ return projection([d.properties.center.long, d.properties.center.lat])[0] })
+        .attr("cy", function(d){ return projection([d.properties.center.long, d.properties.center.lat])[1] })
+        .attr("r", function(d){ return size(10) })
+        .style("fill", function(d){ return color(d.properties.name) })
+        .attr("stroke", function(d){ return color(d.properties.name) })
         .attr("stroke-width", 3)
         .attr("fill-opacity", .4)
-
-
-    console.log(data)
 
 }
 
 drawCarEmissionChart();
+
+
+async function loadCarsData () {
+    let carsData = await d3.csv("kolesa_cars_202203301958.csv")
+}
 
 // Оценка уровня загрязнения воздуха на основе экологичности автомобилей страны
 
