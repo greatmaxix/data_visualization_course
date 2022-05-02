@@ -1,7 +1,162 @@
+
+
+function drawStackedBar(data) {
+  let dimensions = {
+    width: window.innerWidth * 0.9,
+    height: 400,
+    margin: {
+      top: 15,
+      right: 15,
+      bottom: 40,
+      left: 60
+    }
+  }
+
+  let width = dimensions.width
+  let height = dimensions.height
+
+  let svgStackedBar = d3.select("#comparison")
+    .append("svg")
+    .attr("width", width + dimensions.margin.left + dimensions.margin.right)
+    .attr("height", height + dimensions.margin.top + dimensions.margin.bottom)
+    .append("g")
+    .attr("transform",
+      "translate(" + dimensions.margin.left + "," + dimensions.margin.top + ")");
+
+  data = data.features.map(d => {
+    return {
+      emissionMean: d3.mean(d.properties.carsInfo, el => el.avgEmission),
+      engVolMean: d3.mean(d.properties.carsInfo, el => el.eng_vol),
+      milleageMean: d3.mean(d.properties.carsInfo, el => el.milleage) / 1000,
+      priceMean: d3.mean(d.properties.carsInfo, el => el.price) / 1000000,
+      yearMean: d3.mean(d.properties.carsInfo, el => el.year) / 100,
+      group: d.properties.NAME_1 + " " + (d.properties.TYPE_1 ? d.properties.TYPE_1[0] : '')
+    }
+  }).sort((a, b) => b.emissionMean - a.emissionMean)
+  
+  let subgroups = [
+    'emissionMean',
+    'engVolMean',
+    'milleageMean',
+    'priceMean',
+    'yearMean',
+  ]
+
+  // List of groups = species here = value of the first column called group -> I show them on the X axis
+  let groups = d3.map(data, function (d) { return (d.group) })
+  // Add X axis
+  let x = d3.scaleBand()
+    .domain(groups)
+    .range([0, width])
+    .padding([0.2])
+
+  svgStackedBar.append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x).tickSizeOuter(0));
+
+  // Add Y axis
+  let y = d3.scaleLinear()
+    .domain([0, 220])
+    .range([height, 0]);
+
+  svgStackedBar.append("g")
+    .call(d3.axisLeft(y));
+
+  // color palette = one color per subgroup
+  let color = d3.scaleOrdinal()
+    .domain(subgroups)
+    .range(['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00'])
+
+  //stack the data? --> stack per subgroup
+  let stackedData = d3.stack()
+    .keys(subgroups)
+    (data)
+
+  const tooltip = d3.select("#tooltip-comp")
+  svgStackedBar.append("g")
+    .selectAll("g")
+    .data(stackedData)
+    .enter().append("g")
+    .attr("fill", function (d) { return color(d.key); })
+    .selectAll("rect")
+    .data(function (d) { return d; })
+    .enter().append("rect")
+    .attr("x", function (d) { return x(d.data.group); })
+    .attr("y", function (d) { return y(d[1]); })
+    .attr("height", function (d) { return y(d[0]) - y(d[1]); })
+    .attr("width", x.bandwidth())
+    .style("font", "7px sans-serif")
+    .on("mouseover", function (e, d) {
+      tooltip.transition()
+        .duration(200)
+        .style("opacity", .9);
+      tooltip.html(
+        `${d.data.group}
+        <br/>
+        Загрязнение: ${d.data.emissionMean.toFixed(2)}
+        <br/>
+        Обьем двигателя: ${d.data.engVolMean.toFixed(2)}
+        <br/>
+        Киллометраж: ${Math.round(d.data.milleageMean) * 1000}
+        <br/>
+        Цена: ${Math.round(d.data.priceMean) * 1000000}
+        <br/>
+        Год выпуска: ${Math.round(d.data.yearMean * 100)}
+        `)
+        .style("left", (e.pageX - 100) + "px")
+        .style("top", (e.pageY - 100) + "px");
+    })
+    .on("mouseout", function (d) {
+      tooltip.transition()
+        .duration(500)
+        .style("opacity", 0);
+    });
+
+
+  // add legend on bottom of the chart
+  let legend = d3.select("#comparison")
+    .append("svg")
+    .attr("width", width + dimensions.margin.left + dimensions.margin.right)
+    .attr("height", 100)
+    .append("g")
+    .attr("transform",
+      "translate(" + dimensions.margin.left + "," + (0) + ")")
+    .selectAll("g")
+    .data(subgroups)
+    .enter()
+    .append('g')
+    .attr("transform", function (d, i) {
+      return "translate(" + i * 150 + ",0)"
+    }
+    )
+    .style("font-size", "12px")
+    .style("font-family", "sans-serif")
+    .style("font-weight", "bold")
+    .style("fill", function (d) { return color(d); })
+    .append("text")
+    .text(function (d) {
+      switch (d) {
+        case 'emissionMean':
+          return "Загрязнение"
+        case 'engVolMean':
+          return "Объем двигателя"
+        case 'milleageMean':
+          return "Средний пробег"
+        case 'priceMean':
+          return "Средняя цена"
+        case 'yearMean':
+          return "Год выпуска"
+      }
+    })
+    .attr("x", 20)
+    .attr("y", 20)
+}
+
 async function drawCarEmissionChart() {
   let data = await d3.json("kaz.geo.json")
   let carsData = await loadCarsData()
   data = connectData(data, carsData)
+  drawStackedBar(data)
 
   let dimensions = {
     width: window.innerWidth * 0.5,
@@ -42,9 +197,9 @@ async function drawCarEmissionChart() {
     return Math.round(d3.mean(d.properties.carsInfo, el => el.avgEmission))
   })
   // Create a color scale
-  var color = d3.scaleSequential()
+  let color = d3.scaleSequential()
     .domain(d3.extent(means.sort()))
-    .range(['green', 'red'])
+    .range(['green', 'orange'])
 
   const legendGroup = svg.append('g')
 
@@ -66,7 +221,6 @@ async function drawCarEmissionChart() {
     .attr("fill", `url(#${legendGradientId})`)
 
   function onRegionClick(e, data) {
-    console.log(data)
     document.getElementById("card").style = {
       "display": "block"
     }
@@ -400,5 +554,3 @@ function drawBar(data) {
 
 }
 //#endregion Bar chart
-
-// Оценка уровня загрязнения воздуха на основе экологичности автомобилей страны
