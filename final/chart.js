@@ -1,6 +1,4 @@
-
-
-function drawStackedBar(data) {
+function drawStackedBar(dataOrig) {
   let dimensions = {
     width: window.innerWidth * 0.9,
     height: 400,
@@ -14,7 +12,6 @@ function drawStackedBar(data) {
 
   let width = dimensions.width
   let height = dimensions.height
-
   let svgStackedBar = d3.select("#comparison")
     .append("svg")
     .attr("width", width + dimensions.margin.left + dimensions.margin.right)
@@ -22,18 +19,8 @@ function drawStackedBar(data) {
     .append("g")
     .attr("transform",
       "translate(" + dimensions.margin.left + "," + dimensions.margin.top + ")");
+  const tooltip = d3.select("#tooltip-comp")
 
-  data = data.features.map(d => {
-    return {
-      emissionMean: d3.mean(d.properties.carsInfo, el => el.avgEmission),
-      engVolMean: d3.mean(d.properties.carsInfo, el => el.eng_vol),
-      milleageMean: d3.mean(d.properties.carsInfo, el => el.milleage) / 1000,
-      priceMean: d3.mean(d.properties.carsInfo, el => el.price) / 1000000,
-      yearMean: d3.mean(d.properties.carsInfo, el => el.year) / 100,
-      group: d.properties.NAME_1 + " " + (d.properties.TYPE_1 ? d.properties.TYPE_1[0] : '')
-    }
-  }).sort((a, b) => b.emissionMean - a.emissionMean)
-  
   let subgroups = [
     'emissionMean',
     'engVolMean',
@@ -42,56 +29,77 @@ function drawStackedBar(data) {
     'yearMean',
   ]
 
-  // List of groups = species here = value of the first column called group -> I show them on the X axis
-  let groups = d3.map(data, function (d) { return (d.group) })
-  // Add X axis
-  let x = d3.scaleBand()
-    .domain(groups)
-    .range([0, width])
-    .padding([0.2])
-
-  svgStackedBar.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x).tickSizeOuter(0));
-
-  // Add Y axis
-  let y = d3.scaleLinear()
-    .domain([0, 220])
-    .range([height, 0]);
-
-  svgStackedBar.append("g")
-    .call(d3.axisLeft(y));
 
   // color palette = one color per subgroup
-  let color = d3.scaleOrdinal()
+  var color = d3.scaleOrdinal()
     .domain(subgroups)
     .range(['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00'])
 
-  //stack the data? --> stack per subgroup
-  let stackedData = d3.stack()
-    .keys(subgroups)
-    (data)
+  let update = (sortBy = "emissionMean") => {
+    let data = dataOrig.features.map(d => {
+      return {
+        emissionMean: d3.mean(d.properties.carsInfo, el => el.avgEmission),
+        engVolMean: d3.mean(d.properties.carsInfo, el => el.eng_vol),
+        milleageMean: d3.mean(d.properties.carsInfo, el => el.milleage) / 1000,
+        priceMean: d3.mean(d.properties.carsInfo, el => el.price) / 1000000,
+        yearMean: d3.mean(d.properties.carsInfo, el => el.year) / 100,
+        group: d.properties.NAME_1 + " " + (d.properties.TYPE_1 ? d.properties.TYPE_1[0] : '')
+      }
+    }).sort((a, b) => b[sortBy] - a[sortBy])
 
-  const tooltip = d3.select("#tooltip-comp")
-  svgStackedBar.append("g")
-    .selectAll("g")
-    .data(stackedData)
-    .enter().append("g")
-    .attr("fill", function (d) { return color(d.key); })
-    .selectAll("rect")
-    .data(function (d) { return d; })
-    .enter().append("rect")
-    .attr("x", function (d) { return x(d.data.group); })
-    .attr("y", function (d) { return y(d[1]); })
-    .attr("height", function (d) { return y(d[0]) - y(d[1]); })
-    .attr("width", x.bandwidth())
-    .style("font", "7px sans-serif")
-    .on("mouseover", function (e, d) {
-      tooltip.transition()
-        .duration(200)
-        .style("opacity", .9);
-      tooltip.html(
-        `${d.data.group}
+    // List of groups = species here = value of the first column called group -> I show them on the X axis
+    let groups = d3.map(data, function (d) { return (d.group) })
+    // Add X axis
+    let x = d3.scaleBand()
+      .domain(groups)
+      .range([0, width])
+      .padding([0.2])
+
+    
+    //remove all rects class
+    svgStackedBar.selectAll(".rects").remove()
+    svgStackedBar.selectAll(".y-axis").remove()
+    svgStackedBar.selectAll(".x-axis").remove()
+      
+    svgStackedBar.append("g")
+      .attr("class", "x-axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x).tickSizeOuter(0));
+
+    // Add Y axis
+    let y = d3.scaleLinear()
+      .domain([0, 220])
+      .range([height, 0]);
+
+    svgStackedBar.append("g")
+      .attr("class", "y-axis")
+      .call(d3.axisLeft(y));
+
+    //stack the data? --> stack per subgroup
+    let stackedData = d3.stack()
+      .keys(subgroups)
+      (data)
+
+    svgStackedBar.append("g")
+      .attr("class", "rects")
+      .selectAll("g")
+      .data(stackedData)
+      .enter().append("g")
+      .attr("fill", function (d) { return color(d.key); })
+      .selectAll("rect")
+      .data(function (d) { return d; })
+      .enter().append("rect")
+      .attr("x", function (d) { return x(d.data.group); })
+      .attr("y", function (d) { return y(d[1]); })
+      .attr("height", function (d) { return y(d[0]) - y(d[1]); })
+      .attr("width", x.bandwidth())
+      .style("font", "7px sans-serif")
+      .on("mouseover", function (e, d) {
+        tooltip.transition()
+          .duration(200)
+          .style("opacity", .9);
+        tooltip.html(
+          `${d.data.group}
         <br/>
         Загрязнение: ${d.data.emissionMean.toFixed(2)}
         <br/>
@@ -99,18 +107,21 @@ function drawStackedBar(data) {
         <br/>
         Киллометраж: ${Math.round(d.data.milleageMean) * 1000}
         <br/>
-        Цена: ${Math.round(d.data.priceMean) * 1000000}
+        Цена: ${d.data.priceMean.toFixed(2) * 1000000}
         <br/>
         Год выпуска: ${Math.round(d.data.yearMean * 100)}
         `)
-        .style("left", (e.pageX - 100) + "px")
-        .style("top", (e.pageY - 100) + "px");
-    })
-    .on("mouseout", function (d) {
-      tooltip.transition()
-        .duration(500)
-        .style("opacity", 0);
-    });
+          .style("left", (e.pageX - 100) + "px")
+          .style("top", (e.pageY - 100) + "px");
+      })
+      .on("mouseout", function (d) {
+        tooltip.transition()
+          .duration(500)
+          .style("opacity", 0);
+      });
+  }
+
+  update()
 
 
   // add legend on bottom of the chart
@@ -150,6 +161,10 @@ function drawStackedBar(data) {
     })
     .attr("x", 20)
     .attr("y", 20)
+    // on click 
+    .on("click", function (e, d) {
+      update(d)
+    })
 }
 
 async function drawCarEmissionChart() {
@@ -311,9 +326,9 @@ function getEmissionForCar(carInfo) {
 function getEmissionForCarType(engType, yearOfProduction) {
   let euroStandart = euroStandartData.find(el => el.from <= yearOfProduction && el.to >= yearOfProduction)
   if (engType === 'дизель') {
-    return euroStandart.diesel_co
+    return parseFloat(euroStandart.diesel_co) + parseFloat(euroStandart.diesel_hc_no) + parseFloat(euroStandart.diesel_pm)
   }
-  return euroStandart.petrol_co
+  return parseFloat(euroStandart.petrol_co) + parseFloat(euroStandart.petrol_hc_no) + parseFloat(euroStandart.petrol_pm)
 }
 
 function connectData(mapData, carsData) {
@@ -333,42 +348,66 @@ const euroStandartData = [
     "from": "1900",
     "to": "1995",
     "diesel_co": "2.72",
-    "petrol_co": "2.72"
+    "diesel_hc_no": "0.97",
+    "diesel_pm": "0.14",
+    "petrol_co": "2.72",
+    "petrol_hc_no": "0.97",
+    "petrol_pm": "0.3",
   },
   {
     "name": "Euro2",
     "from": "1996",
     "to": "1999",
-    "diesel_co": "1.0",
-    "petrol_co": "2.2"
+    "diesel_co": 1.0,
+    "diesel_hc_no": 0.7,
+    "diesel_pm": 0.08,
+    "petrol_co": 2.2,
+    "petrol_hc_no": 0.5,
+    "petrol_pm": 0.3,
   },
   {
     "name": "Euro3",
     "from": "2000",
     "to": "2004",
-    "diesel_co": "0.64",
-    "petrol_co": "2.3"
+    "diesel_co": 0.64,
+    "diesel_hc_no": 0.56,
+    "diesel_pm": 0.05,
+    "petrol_co": 2.3,
+    "petrol_hc_no": 0.35,
+    "petrol_pm": 0.3,
   },
   {
     "name": "Euro4",
     "from": "2005",
     "to": "2008",
-    "diesel_co": "0.5",
-    "petrol_co": "1.0"
+    "diesel_co": 0.5,
+    "diesel_hc_no": 0.3,
+    "diesel_pm": 0.025,
+    "petrol_co": 1.0,
+    "petrol_hc_no": 0.18,
+    "petrol_pm": 0.3,
   },
   {
     "name": "Euro5",
     "from": "2009",
     "to": "2013",
     "diesel_co": "0.5",
-    "petrol_co": "1.0"
+    "diesel_hc_no": 0.23,
+    "diesel_pm": 0.005,
+    "petrol_co": 1.0,
+    "petrol_hc_no": 0.16,
+    "petrol_pm": 0.005,
   },
   {
     "name": "Euro6",
     "from": "2014",
     "to": "2022",
     "diesel_co": "0.5",
-    "petrol_co": "1.0"
+    "diesel_hc_no": 0.17,
+    "diesel_pm": 0.005,
+    "petrol_co": 1.0,
+    "petrol_hc_no": 0.16,
+    "petrol_pm": 0.005,
   },
 ]
 
@@ -466,7 +505,9 @@ function drawBar(data) {
     const barRect = binGroups.select("rect")
       .transition(updateTransition)
       .attr("x", d => xScaler(d.x0) + barPadding / 2)
-      .attr("y", d => yScaler(yAccessor(d)))
+      .attr("y", d => {
+        return yScaler(yAccessor(d))
+      })
       .attr("width", d => d3.max([0, xScaler(d.x1) - xScaler(d.x0) - barPadding]))
       .attr("height", d => dimensions.boundedHeight - yScaler(yAccessor(d)))
       .transition()
@@ -480,7 +521,6 @@ function drawBar(data) {
       .text(d => yAccessor(d) || "")
       .attr("text-anchor", "middle")
       .style("font-size", "10px")
-
 
 
     const mean = d3.mean(dataset, metricAccessor);
