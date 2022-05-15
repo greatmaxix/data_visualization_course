@@ -2,9 +2,9 @@ async function drawMap() {
     const countryShapes = await d3.json('world-geojson.json')
     const dataset = await d3.csv('data_bank_data.csv')
 
-    const countryNameAccessor = d => d.properties['SOV_A3']
+    const countryNameAccessor = d => d.properties['ISO_A2']
     const countryIdAccessor = d => d.properties['Country Code']
-    const metric = "Population growth (annual %)"
+    const metric = "metric"
     
     let metricDataByCountry = {}
 
@@ -15,7 +15,7 @@ async function drawMap() {
             metricDataByCountry[d["Country Code"]] = +d["2017 [YR2017]"] || 0
         }
     })
-    
+    console.log(metricDataByCountry)
     let dimensions = {
         width: window.innerWidth * 0.9,
         margin: {
@@ -53,9 +53,9 @@ async function drawMap() {
     const metricValues = Object.values(metricDataByCountry)
     const metricValueExtent = d3.extent(metricValues)
     const maxChange = d3.max([-metricValueExtent[0], metricValueExtent[1]])
-    const colorScale = d3.scaleLinear()
-        .domain([-maxChange, 0, maxChange])
-        .range(['indigo', 'white', 'darkgreen'])
+    const colorScale = d3.scaleSequential()
+        .domain(metricValueExtent)
+        .interpolator(d3.interpolatePuRd);
 
     const earth = bounds.append('path')
         .attr("class", "earth")
@@ -82,15 +82,15 @@ async function drawMap() {
     const legendGroup = wrapper.append('g')
         .attr('transform', `translate(${130}, ${dimensions.width < 800 ? dimensions.boundedHeight - 50 : dimensions.boundedHeight * 0.5})`)
 
-    const legendTitle = legendGroup.append('text')
-        .attr('class', 'legend-title')
-        .attr('y', -23)
-        .text('Population growth')
+    // const legendTitle = legendGroup.append('text')
+    //     .attr('class', 'legend-title')
+    //     .attr('y', -23)
+    //     .text('Population growth')
 
-    const legendByLine = legendGroup.append('text')
-        .attr('class', 'legend-byline')
-        .attr("y", -9)
-        .text("Percent change in 2017")
+    // const legendByLine = legendGroup.append('text')
+    //     .attr('class', 'legend-byline')
+    //     .attr("y", -9)
+    //     .text("Percent change in 2017")
 
     const defs = wrapper.append("defs")
     const legendGradientId = "legend-gradient"
@@ -115,14 +115,14 @@ async function drawMap() {
         .attr("class", "legend-value")
         .attr("x", (legendtWidth / 2) + 40)
         .attr("y", legendHeight / 2)
-        .text(`${d3.format(".1f")(-maxChange)}%`)
+        .text(metricValueExtent[1])
         .style('text-anchor', 'end')
 
     const legendValueLeft = legendGroup.append("text")
         .attr("class", "legend-value")
         .attr("x", (legendtWidth / 2) - 125)
         .attr("y", legendHeight / 2)
-        .text(`${d3.format(".1f")(-maxChange)}%`)
+        .text(metricValueExtent[0])
         .style('text-anchor', 'end')
 
     // display browsers location on map

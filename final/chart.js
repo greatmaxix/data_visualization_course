@@ -1,170 +1,209 @@
 function drawStackedBar(dataOrig) {
-  let dimensions = {
-    width: window.innerWidth * 0.9,
-    height: 400,
-    margin: {
-      top: 15,
-      right: 15,
-      bottom: 40,
-      left: 60
+  let dataReady = dataOrig.features.map(el => {
+    return {
+      regionName: el.properties.NAME_1 + " " + (el.properties.TYPE_1 ? `${el.properties.TYPE_1[0]}.` : ""),
+      data: el.properties.carsInfo
     }
-  }
+  })
 
-  let width = dimensions.width
-  let height = dimensions.height
-  let svgStackedBar = d3.select("#comparison")
-    .append("svg")
-    .attr("width", width + dimensions.margin.left + dimensions.margin.right)
-    .attr("height", height + dimensions.margin.top + dimensions.margin.bottom)
-    .append("g")
-    .attr("transform",
-      "translate(" + dimensions.margin.left + "," + dimensions.margin.top + ")");
-  const tooltip = d3.select("#tooltip-comp")
+  let tooltip = d3.select("#tooltip-comp")
 
-  let subgroups = [
-    'emissionMean',
-    'engVolMean',
-    'milleageMean',
-    'priceMean',
-    'yearMean',
-  ]
-
-
-  // color palette = one color per subgroup
-  var color = d3.scaleOrdinal()
-    .domain(subgroups)
-    .range(['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00'])
-
-  let update = (sortBy = "emissionMean") => {
-    let data = dataOrig.features.map(d => {
-      return {
-        emissionMean: d3.mean(d.properties.carsInfo, el => el.avgEmission),
-        engVolMean: d3.mean(d.properties.carsInfo, el => el.eng_vol),
-        milleageMean: d3.mean(d.properties.carsInfo, el => el.milleage) / 1000,
-        priceMean: d3.mean(d.properties.carsInfo, el => el.price) / 1000000,
-        yearMean: d3.mean(d.properties.carsInfo, el => el.year) / 100,
-        group: d.properties.NAME_1 + " " + (d.properties.TYPE_1 ? d.properties.TYPE_1[0] : '')
-      }
-    }).sort((a, b) => b[sortBy] - a[sortBy])
-
-    // List of groups = species here = value of the first column called group -> I show them on the X axis
-    let groups = d3.map(data, function (d) { return (d.group) })
-    // Add X axis
-    let x = d3.scaleBand()
-      .domain(groups)
-      .range([0, width])
-      .padding([0.2])
-
-    
-    //remove all rects class
-    svgStackedBar.selectAll(".rects").remove()
-    svgStackedBar.selectAll(".y-axis").remove()
-    svgStackedBar.selectAll(".x-axis").remove()
-      
-    svgStackedBar.append("g")
-      .attr("class", "x-axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x).tickSizeOuter(0));
-
-    // Add Y axis
-    let y = d3.scaleLinear()
-      .domain([0, 220])
-      .range([height, 0]);
-
-    svgStackedBar.append("g")
-      .attr("class", "y-axis")
-      .call(d3.axisLeft(y));
-
-    //stack the data? --> stack per subgroup
-    let stackedData = d3.stack()
-      .keys(subgroups)
-      (data)
-
-    svgStackedBar.append("g")
-      .attr("class", "rects")
-      .selectAll("g")
-      .data(stackedData)
-      .enter().append("g")
-      .attr("fill", function (d) { return color(d.key); })
-      .selectAll("rect")
-      .data(function (d) { return d; })
-      .enter().append("rect")
-      .attr("x", function (d) { return x(d.data.group); })
-      .attr("y", function (d) { return y(d[1]); })
-      .attr("height", function (d) { return y(d[0]) - y(d[1]); })
-      .attr("width", x.bandwidth())
-      .style("font", "7px sans-serif")
-      .on("mouseover", function (e, d) {
-        tooltip.transition()
-          .duration(200)
-          .style("opacity", .9);
-        tooltip.html(
-          `${d.data.group}
-        <br/>
-        Загрязнение: ${d.data.emissionMean.toFixed(2)}
-        <br/>
-        Обьем двигателя: ${d.data.engVolMean.toFixed(2)}
-        <br/>
-        Киллометраж: ${Math.round(d.data.milleageMean) * 1000}
-        <br/>
-        Цена: ${d.data.priceMean.toFixed(2) * 1000000}
-        <br/>
-        Год выпуска: ${Math.round(d.data.yearMean * 100)}
-        `)
-          .style("left", (e.pageX - 100) + "px")
-          .style("top", (e.pageY - 100) + "px");
-      })
-      .on("mouseout", function (d) {
-        tooltip.transition()
-          .duration(500)
-          .style("opacity", 0);
-      });
-  }
-
-  update()
-
-
-  // add legend on bottom of the chart
-  let legend = d3.select("#comparison")
-    .append("svg")
-    .attr("width", width + dimensions.margin.left + dimensions.margin.right)
-    .attr("height", 100)
-    .append("g")
-    .attr("transform",
-      "translate(" + dimensions.margin.left + "," + (0) + ")")
-    .selectAll("g")
-    .data(subgroups)
-    .enter()
-    .append('g')
-    .attr("transform", function (d, i) {
-      return "translate(" + i * 150 + ",0)"
+  let euroStandartByRegionDataCount = []
+  dataReady.forEach(el => {
+    let euroStandartByRegionData = el.data.map(el => {
+      return el.euroStandart
     }
     )
-    .style("font-size", "12px")
-    .style("font-family", "sans-serif")
-    .style("font-weight", "bold")
-    .style("fill", function (d) { return color(d); })
-    .append("text")
-    .text(function (d) {
-      switch (d) {
-        case 'emissionMean':
-          return "Загрязнение"
-        case 'engVolMean':
-          return "Объем двигателя"
-        case 'milleageMean':
-          return "Средний пробег"
-        case 'priceMean':
-          return "Средняя цена"
-        case 'yearMean':
-          return "Год выпуска"
+    let elo = {}
+    euroStandartByRegionData.forEach(el => {
+      if (elo[el]) {
+        elo[el]++
+      } else {
+        elo[el] = 1
       }
+    }
+    )
+    //convert counts to percentages
+    let sum = Object.values(elo).reduce((a, b) => a + b, 0)
+    let newElo = {}
+    for (let key in elo) {
+      newElo[key] = elo[key] / sum
+    }
+    euroStandartByRegionDataCount.push({
+      regionName: el.regionName,
+      data: newElo
     })
-    .attr("x", 20)
-    .attr("y", 20)
-    // on click 
-    .on("click", function (e, d) {
-      update(d)
-    })
+  })
+  console.log(euroStandartByRegionDataCount)
+
+
+  let container = d3.select('#comparison'),
+    width = window.innerWidth,
+    height = window.innerWidth * 0.4,
+    margin = { top: 30, right: 20, bottom: 30, left: 50 },
+    barPadding = .2,
+    axisTicks = { qty: 12, outerSize: 0, dateFormat: '%m-%d' };
+
+  let svg = container
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+  let update = () => {
+    let models = []
+    let maxValue = euroStandartByRegionDataCount.reduce((acc, el) => {
+      let max = Object.values(el.data).reduce((acc, el) => {
+        return Math.max(acc, el)
+      }
+        , 0)
+      return Math.max(acc, max)
+    }
+      , 0)
+    console.log(maxValue)
+
+    euroStandartByRegionDataCount.forEach((element) => {
+      let foundData = dataReady.find(el => el.regionName === element.regionName)
+      models.push({
+        "region_name": element.regionName,
+        "Euro1": element.data.Euro1,
+        "Euro2": element.data.Euro2,
+        "Euro3": element.data.Euro3,
+        "Euro4": element.data.Euro4,
+        "Euro5": element.data.Euro5,
+        "Euro6": element.data.Euro6,
+        "metaInfo": {
+          "totalCount": foundData.data.length,
+        }
+      })
+    });
+
+    models = models.map(i => {
+      i.region_name = i.region_name;
+      return i;
+    });
+
+    let xScale0 = d3.scaleBand().range(
+      [0, width - margin.left - margin.right]
+    ).padding(barPadding);
+    let xScale1 = d3.scaleBand()
+    let yScale = d3.scaleLinear().range([height - margin.top - margin.bottom, 0]);
+
+    let xAxis = d3.axisBottom(xScale0).tickSizeOuter(axisTicks.outerSize);
+    let yAxis = d3.axisLeft(yScale).ticks(axisTicks.qty).tickSizeOuter(axisTicks.outerSize);
+
+    xScale0.domain(models.map(d => d.region_name));
+    xScale1.domain([
+      "Euro1",
+      "Euro2",
+      "Euro3",
+      "Euro4",
+      "Euro5",
+      "Euro6",
+    ]).range([0, xScale0.bandwidth()]);
+    yScale.domain([0, maxValue]);
+
+    let colorScale = d3.scaleOrdinal(d3.schemeSet2)
+      .domain(["Euro1", "Euro2", "Euro3", "Euro4", "Euro5", "Euro6"]);
+    ;
+
+    svg.selectAll('.model_name').remove();
+    let region_name = svg.selectAll(".region_name")
+      .data(models)
+      .enter().append("g")
+      .attr("class", "region_name")
+      .attr("transform", d => `translate(${xScale0(d.region_name)},0)`);
+
+    /* Add field1 bars */
+    for (let i = 0; i < 6; i++) {
+      svg.selectAll(`.bar.field${i}`).remove();
+      region_name.selectAll(`.bar.field${i}`)
+        .data(d => [d])
+        .enter()
+        .append("rect")
+        .attr("class", `bar field${i}`)
+        .style("fill", colorScale(`Euro${i + 1}`))
+        .attr("x", d => xScale1(`Euro${i + 1}`))
+        .attr("y", d => {
+          console.log(d[`Euro${i + 1}`])
+          console.log(yScale(d[`Euro${i + 1}`]))
+          return yScale(d[`Euro${i + 1}`])
+        })
+        .attr("width", xScale1.bandwidth())
+        .attr("height", d => {
+          return height - margin.top - margin.bottom - yScale(d[`Euro${i + 1}`])
+        })
+        .on("mouseenter", function (e, datum) {
+          console.log(e, datum)
+          tooltip.select("#count")
+            .text(datum.metaInfo.totalCount)
+
+          tooltip.select("#region")
+            .text(
+              `${datum.region_name}`
+            )
+
+          for (let i = 0; i < 6; i++) {
+            tooltip.select(`#euro${i + 1}`)
+              .text(
+                Math.round(datum[`Euro${i + 1}`] * 100) + "%"
+              )
+          }
+
+          let x = e.clientX;
+          let y = e.clientY;
+
+          tooltip.style("transform", `translate(`
+            + `calc( -50% + ${x}px),`
+            + `calc( 100% + ${y}px)`
+            + `)`)
+
+          tooltip.style("opacity", 1)
+        })
+        .on("mouseleave", function (d) {
+          tooltip.style("opacity", 0)
+        })
+    }
+
+    // Add the X Axis
+    svg.selectAll('.x-axis').remove();
+    svg.append("g")
+      .attr("class", "x-axis")
+      .attr("transform", `translate(0,${height - margin.top - margin.bottom})`)
+      .call(xAxis);
+
+    // Add the Y Axis
+    svg.selectAll('.y-axis').remove();
+    svg.append("g")
+      .attr("class", "y-axis")
+      .call(yAxis);
+
+    // add color legend
+    svg.selectAll('.legend').remove();
+    svg.selectAll('.legend')
+      .data(["Euro1", "Euro2", "Euro3", "Euro4", "Euro5", "Euro6"])
+      .enter()
+      .append("g")
+      .attr("class", "legend")
+      .attr("transform", (d, i) => `translate(200,${i * 20})`)
+      .append("rect")
+      .attr("width", 20)
+      .attr("height", 20)
+      .style("fill", d => colorScale(d))
+
+    svg.selectAll('.legend-text').remove();
+    svg.selectAll('.legend-text')
+      .data(["Euro1", "Euro2", "Euro3", "Euro4", "Euro5", "Euro6"])
+      .enter()
+      .append("g")
+      .attr("class", "legend-text")
+      .attr("transform", (d, i) => `translate(225,${(i * 20) + 15})`)
+      .append("text")
+      .text(d => d);
+  }
+  update()
+
 }
 
 async function drawCarEmissionChart() {
@@ -310,6 +349,7 @@ function getCarInfo(carInfo) {
     eng_vol: eng_vol || 2.0
   }
   newObj.avgEmission = getEmissionForCar(newObj)
+  newObj.euroStandart = getEuroStandart(newObj)
   return newObj
 }
 
@@ -321,6 +361,10 @@ function getEmissionForCar(carInfo) {
   let engType = carInfo.eng_type || 'бензин'
   let eng_vol = carInfo.eng_vol || 2.0
   return (milleagePerYear * eng_vol * getEmissionForCarType(engType, yearOfProduction)) / 1000
+}
+
+function getEuroStandart(carInfo) {
+  return euroStandartData.find(el => el.from <= carInfo.year && el.to >= carInfo.year)?.name
 }
 
 function getEmissionForCarType(engType, yearOfProduction) {
